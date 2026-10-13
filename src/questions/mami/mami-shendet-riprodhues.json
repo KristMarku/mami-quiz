@@ -1,0 +1,734 @@
+[
+  {
+    "id": "mami-shendet-riprodhues-001",
+    "question": "Norplanti dhe implanon bejne pjese te metodat:",
+    "answers": [
+      "injektable",
+      "orale",
+      "barriere",
+      "subdermale"
+    ],
+    "correct": 3,
+    "explanation": "Norplant/Implanon janë implante subdermale."
+  },
+  {
+    "id": "mami-shendet-riprodhues-002",
+    "question": "Veteinspektimi e vetekzaminimi behet ne:",
+    "answers": [
+      "Kancerin e qafes se mitres",
+      "Menopauze",
+      "Ne rastin e nje IST je",
+      "Kancerin e gjirit"
+    ],
+    "correct": 3,
+    "explanation": "Vetekzaminimi rekomandohet për depistimin e kancerit të gjirit."
+  },
+  {
+    "id": "mami-shendet-riprodhues-003",
+    "question": "Parandalimi paresor ul:",
+    "answers": [
+      "Prevalencen e nje semundjeje",
+      "Incidencen e nje semundjeje",
+      "Prevalencen e nje handikapi",
+      "Incidencen e nje handikapi"
+    ],
+    "correct": 1,
+    "explanation": "Parandalimi parësor ul incidencën e sëmundjes."
+  },
+  {
+    "id": "mami-shendet-riprodhues-004",
+    "question": "Per te evituar nje shtatezani abstinohet:",
+    "answers": [
+      "Nga dita 8 deri ne diten e 14",
+      "Nga dita 6 deri ne diten e 14",
+      "Nga dita 8 deri ne diten e 18",
+      "Nga dita 6 deri ne diten e 12"
+    ],
+    "correct": 0,
+    "explanation": "Për metodën kalendarike, abstinimi rekomandohet nga dita 8 deri në ditën 14 të ciklit."
+  },
+  {
+    "id": "mami-shendet-riprodhues-005",
+    "question": "Pilula contraceptive e urgjences miret ne:",
+    "answers": [
+      "Mes te ciklit",
+      "Fillim te ciklit",
+      "Fund te ciklit",
+      "Nuk ka rendesi ne cfare momenti te ciklit"
+    ],
+    "correct": 3,
+    "explanation": "Kontracepsioni i urgjencës mund të merret pavarësisht momentit të ciklit, sa më shpejt pas marrëdhënies."
+  },
+  {
+    "id": "mami-shendet-riprodhues-006",
+    "question": "Hormoni luteinizues prodhohet:",
+    "answers": [
+      "Ne hypofize",
+      "Ne ovare",
+      "Ne testikuj",
+      "Ne uterus"
+    ],
+    "correct": 0,
+    "explanation": "Hormoni luteinizues (LH) prodhohet në hipofizë."
+  },
+  {
+    "id": "mami-shendet-riprodhues-007",
+    "question": "Cilat metoda kontraceptive mund te mbrojne nga IST?",
+    "answers": [
+      "Metoda e diteve kalendarike",
+      "Metodat barriere",
+      "Injektablet",
+      "Metodat orale"
+    ],
+    "correct": 1,
+    "explanation": "Metodat barriere (kondomi) mbrojnë nga IST-të."
+  },
+  {
+    "id": "mami-shendet-riprodhues-008",
+    "question": "Nauzea, spotting, shtimi ne peshe, dhimbje koke kane lidhje me:",
+    "answers": [
+      "Pranueshmerine e metodes",
+      "Efikasitetin e metodes",
+      "Sigurine e metodes",
+      "Tolerancen e metodes"
+    ],
+    "correct": 3,
+    "explanation": "Këto efekte anësore lidhen me tolerancën ndaj metodës kontraceptive."
+  },
+  {
+    "id": "mami-shendet-riprodhues-009",
+    "question": "Testosteroni është:",
+    "answers": [
+      "Qeliza seksuale mashkullore",
+      "Hormoni seksual femeror",
+      "Hormoni seksual mashkullor",
+      "Qeliza seksuale femerore"
+    ],
+    "correct": 2,
+    "explanation": "Testosteroni është hormoni kryesor seksual mashkullor."
+  },
+  {
+    "id": "mami-shendet-riprodhues-010",
+    "question": "E vetmja metode kontraceptive qe mbron nga HIV/AIDS është:",
+    "answers": [
+      "Metoda kirurgjikale",
+      "Spermicidet",
+      "Kondomi",
+      "Metodat hormonale"
+    ],
+    "correct": 2,
+    "explanation": "Kondomi është i vetmi mjet kontraceptiv që mbron nga HIV/AIDS."
+  },
+  {
+    "id": "mami-shendet-riprodhues-011",
+    "question": "Hormoni folikulo stimulus prodhohet nga:",
+    "answers": [
+      "Hypofiza dhe hypotalamusi",
+      "Ovaret",
+      "Uterusi",
+      "Testikujt"
+    ],
+    "correct": 0,
+    "explanation": "FSH prodhohet nga aksi hipotalamo-hipofizar."
+  },
+  {
+    "id": "mami-shendet-riprodhues-012",
+    "question": "Depoproverat bejne pjese ne metodat:",
+    "answers": [
+      "Orale",
+      "Kirurgjikale",
+      "Subdermale",
+      "Injektable"
+    ],
+    "correct": 3,
+    "explanation": "Depo-Provera është metodë kontraceptive injektabile."
+  },
+  {
+    "id": "mami-shendet-riprodhues-013",
+    "question": "Amniotomya është:",
+    "answers": [
+      "Marrja e likidit amniotik për vlersim",
+      "Ruptuimi artificial i membranave",
+      "Rupturimi spontan i membranave",
+      "Studimi citologjik i likidit amniotik"
+    ],
+    "correct": 1,
+    "explanation": "Amniotomia është plasja artificiale (kirurgjikale) e membranave amniotike."
+  },
+  {
+    "id": "mami-shendet-riprodhues-014",
+    "question": "Duke zbatuar metodën kalendarike, cikli më i shkurtër është 21 ditë dhe cikli më i gjatë është 28 ditë. Duke zbatuar formulën gjeni ditët kur çifti duhet të shmangë periudhën e fertilitetit.",
+    "answers": [
+      "nga dita 3 - 17",
+      "nga dita 9 - 12",
+      "nga dita 15 - 30",
+      "nga dita 20 - 25"
+    ],
+    "correct": 0,
+    "explanation": "Sipas formulës (cikli më i shkurtër -18, cikli më i gjatë -11): 21-18=3 deri 28-11=17, pra ditët 3-17."
+  },
+  {
+    "id": "mami-shendet-riprodhues-015",
+    "question": "Zonja X ka zgjedhur metodën kalendarike për të kontrolluar kontracepsionin. Gjatë proeesit të vlersimit, më e rëndësishme për infermieren është:",
+    "answers": [
+      "Ekzaminimi i pigmentacionit të lëkurës dhe cilesise së flokëve për ndryshime hormonale",
+      "Marrja e anamnezës menstruale për 6-12 muajt e fundit",
+      "Njohja e experiencës së mëparshme të gruas për të kontrolluar lindjen",
+      "Përcaktimi i shtimit dhe humbjes në peshë"
+    ],
+    "correct": 1,
+    "explanation": "Anamneza menstruale e detajuar është esenciale për metodën kalendarike."
+  },
+  {
+    "id": "mami-shendet-riprodhues-016",
+    "question": "Zonja X është duke përdoruar temperaturën bazale trupore si metodë kontraceptive. Ajo shkon për kontroll në klinikë dhe i tregon infermieres \"periodat e mia janë paksuar dhe temperatura nuk është rritur\" përgjigja më e përshtatshme e mamisë duhet të jetë:",
+    "answers": [
+      "Ju keni qënë e sëmurë këtë muaj",
+      "Ju ndoshta nuk patët ovulacion këtë muaj",
+      "Kjo ndoshta nënkupton që ju jeni shtatzanë",
+      "Mos u mërzitni ndoshta kjo nuk është asgjë"
+    ],
+    "correct": 1,
+    "explanation": "Mungesa e rritjes së temperaturës bazale sugjeron që ovulacioni nuk ka ndodhur."
+  },
+  {
+    "id": "mami-shendet-riprodhues-017",
+    "question": "Sifilia shkaktohet nga:",
+    "answers": [
+      "Clamidia trakomatis",
+      "Herpesi simpleks",
+      "Neiseria gonorrhea",
+      "Treponema pallidium"
+    ],
+    "correct": 3,
+    "explanation": "Sifilia shkaktohet nga bakteri Treponema pallidum."
+  },
+  {
+    "id": "mami-shendet-riprodhues-018",
+    "question": "Substancat spermicidale veprojnë me anë të:",
+    "answers": [
+      "Barrierave mekanike",
+      "Duke frenuar ovulacionin",
+      "Duke shtuar rritjen e epitelit vaginal.",
+      "Shkatërrimit të spermës"
+    ],
+    "correct": 3,
+    "explanation": "Spermicidet veprojnë duke shkatërruar/imobilizuar spermën."
+  },
+  {
+    "id": "mami-shendet-riprodhues-019",
+    "question": "Në barierat mekanike hyjnë:",
+    "answers": [
+      "Implanti kontraceptiv subdermal",
+      "Sfungjerët",
+      "Shkumrat",
+      "Xhelet"
+    ],
+    "correct": 1,
+    "explanation": "Sfungjerët bëjnë pjesë në barrierat mekanike kontraceptive."
+  },
+  {
+    "id": "mami-shendet-riprodhues-020",
+    "question": "Në barrierat kimike futen:",
+    "answers": [
+      "Depo- proveara",
+      "DIU",
+      "Norplanti",
+      "Spermitostatikët"
+    ],
+    "correct": 3,
+    "explanation": "Spermicidet (spermitostatikët) bëjnë pjesë në barrierat kimike kontraceptive."
+  },
+  {
+    "id": "mami-shendet-riprodhues-021",
+    "question": "Zonja X 30 vjeçe në anamnezë e saj kemi shtatzani 0 dhe para ( lindje) 0. Ajo ankon për prurit vaginal dhe për shtim të rrjedhjeve vaginale. Ajo dhe i shoqi nuk kanë marrdhënie jashtmartesore. Për 7 vite si metodë kontraceptive ato kanë përdorur kondomin. Në anamnezën e saj medikale kemi dieabet mellitus, si dhe në historinë familjare kemi diabet gestacional. Faktorët predispozues për të zhvilluar infeksionin nga kandida janë:",
+    "answers": [
+      "Diabeti melitus",
+      "Nuligraviteti",
+      "Nuliparitety",
+      "Përdorimi i kondomit"
+    ],
+    "correct": 0,
+    "explanation": "Diabeti mellitus është faktor predispozues i njohur për infeksionin nga Candida."
+  },
+  {
+    "id": "mami-shendet-riprodhues-022",
+    "question": "Condomët duhet të përdoren në barrë:",
+    "answers": [
+      "Asnjëherë",
+      "Nga gratë me rrezik për candida",
+      "Nga gratë me rrezik të lartë për sst",
+      "Nga të gjitha gratë shtatzana"
+    ],
+    "correct": 2,
+    "explanation": "Kondomët rekomandohen gjatë shtatzanisë veçanërisht për gratë me rrezik të lartë për SST."
+  },
+  {
+    "id": "mami-shendet-riprodhues-023",
+    "question": "Një grua e re vjen në klinikë dhe ju spjegon ju, që një natë më parë gjatë marrdhënies seksuale kondomi u ça. Në konsultë me këtë kliente ju e këshilloni atë që kontracepsioni post koital ul rrezikun e një shtatzanie dhe është shumë efektive kur:",
+    "answers": [
+      "Ajo merret në edo kohë përpara ciklit",
+      "Doza e parë merret sa më shpejt që të jetë e mundur",
+      "Doza e parë mund të merret pas 72 orëve",
+      "Mund të merret dhe pas tre ditësh"
+    ],
+    "correct": 1,
+    "explanation": "Kontracepsioni i urgjencës është më efektiv sa më shpejt të merret pas marrëdhënies."
+  },
+  {
+    "id": "mami-shendet-riprodhues-024",
+    "question": "D.I.U.është një mjet kontraceptiv i cili:",
+    "answers": [
+      "Është i përbërë nga një shtresë e hollë gome",
+      "Jep një mbrojtje më të mirë se sa pilula",
+      "Mbron nga infeksionet seksualisht të transmetueshme",
+      "Nuk është i përshtatshm për gratë e palindura"
+    ],
+    "correct": 3,
+    "explanation": "DIU-ja zakonisht nuk rekomandohet si zgjedhje e parë për gratë nulipare."
+  },
+  {
+    "id": "mami-shendet-riprodhues-025",
+    "question": "Zoti dhe Zonja X po kalojnë momente të vështira për pamundësinë e tyre për të krijuar shtatzanësi. Ata duan të dinë se efarë mund të bëjnë për të ruajtur ekuilibrin e tyre emocional. Përgjigja më e përshtatëshme nga ana e mamisë është:",
+    "answers": [
+      "T'i tregojnë gjithë shokëve të tyre dhe familjeve",
+      "Të bisedojnë me homologët e tyre infertil",
+      "Të kërkojnë mbështetje nga grupet e specializuara për këtë problem",
+      "Të fillojnë procedurat e menjëherëshme për adoptim"
+    ],
+    "correct": 2,
+    "explanation": "Grupet e specializuara ofrojnë mbështetje të përshtatshme emocionale për çiftet infertile."
+  },
+  {
+    "id": "mami-shendet-riprodhues-026",
+    "question": "Një grua është duke përdorur diafragmën inkorrekte nëse ajo:",
+    "answers": [
+      "Aplikon spermicid brënda kupës dhe rreth buzëve të diafragmës",
+      "E lan atë me sapun të butë dhe ujë pas përdorimit dhe më pas e pudros atë me niseshte",
+      "Lëviz atë brenda 2 h pas aktit të fundit të coitusit",
+      "Vendos diafragmën 6 h para marrdhënies"
+    ],
+    "correct": 2,
+    "explanation": "Diafragma duhet të qëndrojë vendosur të paktën 6 orë pas marrëdhënies; heqja pas vetëm 2 orësh është përdorim jo korrekt."
+  },
+  {
+    "id": "mami-shendet-riprodhues-027",
+    "question": "Znj. X sapo ka patur abort në tremestrin e I-rë dhe është dërguar në shtëpi duke i dhënë kontraceptivë oral për tu mbrojtur nga një barrë, ajo është këshilluar të:",
+    "answers": [
+      "Të fillojë marrëdhëniet seksuale, pasi të ketë mbaruar hemorragjia vaginale.",
+      "Të mënjanojë kontaktin seksual të paktën 10 ditë",
+      "Të përdorë kondom dhe shkumë për javën e parë",
+      "Të përdorë një metodë tjetër kontraceptive për një cikël të plotë"
+    ],
+    "correct": 3,
+    "explanation": "Pas abortit të trimestrit të parë gruaja përdor një metodë tjetër kontraceptive për një cikël të plotë, derisa pilulat të veprojnë plotësisht."
+  },
+  {
+    "id": "mami-shendet-riprodhues-028",
+    "question": "Procedura e sterilizimit në meshkuj është:",
+    "answers": [
+      "Lidhja e tubave",
+      "Spermicitet",
+      "Spermitostatikë",
+      "Vasektomia bilaterale"
+    ],
+    "correct": 3,
+    "explanation": "Vasektomia bilaterale është procedura kirurgjikale e sterilizimit mashkullor."
+  },
+  {
+    "id": "mami-shendet-riprodhues-029",
+    "question": "Zoti dhe Zonja X e kanë plotësuar numrin e fëmijëve të dëshiruar dhe diskutojnë me infermiere maminë në lidhje me sterilizimin femëror dhe mashkullor. Cila prej thënieve të mëposhtëme është më e përshtatshme të thuhet nga mamia?",
+    "answers": [
+      "Komplikacionet madhore pas sterilizimit janë të rralla",
+      "Mbyllja tubare është e përkohëshme dhe shpesh e rikthyeshme",
+      "Sterilizimi i burrit dhe i gruas është 100% efektiv",
+      "Vazektomia, zakonisht ka një ndikim në marrëdhëniet seksuale"
+    ],
+    "correct": 0,
+    "explanation": "Komplikacionet madhore të sterilizimit kirurgjikal janë të rralla — pohim korrekt dhe i sigurt."
+  },
+  {
+    "id": "mami-shendet-riprodhues-030",
+    "question": "Metoda më frekuente për kontrollin e lindjeve e përdorur nga femrat 15-19 vjeçare është:",
+    "answers": [
+      "Depo-Provera",
+      "DIU-ja",
+      "Kontraceptivët oral",
+      "Norplanti"
+    ],
+    "correct": 2,
+    "explanation": "Kontraceptivët oral janë metoda më e përdorur nga vajzat/femrat 15-19 vjeç."
+  },
+  {
+    "id": "mami-shendet-riprodhues-031",
+    "question": "Zonja X kohët e fundit ka përdorur diafragmë dhe spermicid si kontracepsion. Ajo i kërkon infermieres, se cilat janë ndryshimet madhore ndërmjet kapës cervikale dhe diafragmës. Përgjigja më e përshtatëshme nga infermierja do të ishte:",
+    "answers": [
+      "Diafragma mund të lihet për një kohë më të gjatë, pas marrëdhënieve seksuale",
+      "Kapa mund të vendoset në mënyrë të sigurtë, disa orë para marrëdhënieve, pa patur nevojë për për të shtuar spermicidin më vonë",
+      "Marrëdhëniet e përsëritura me diafragmë, janë më të përshtatshme",
+      "Me kapën nuk përdoret spermicid, kështu që ai është më i thjeshtë"
+    ],
+    "correct": 1,
+    "explanation": "Kapa cervikale mund të vendoset disa orë para marrëdhënieve pa nevojë për spermicid shtesë më vonë, ndryshe nga diafragma."
+  },
+  {
+    "id": "mami-shendet-riprodhues-032",
+    "question": "Zonja X është diagnostikuar dhe trajtuar për sindromin e shokut toksik. Ajo në ndonjë rast të marrdhënieve seksuale ka përdorur kontraceptivë të marrë vetë në farmaci. Bazuar në anamnezën e saj, çfarë kontracptivësh, nuk duhet të përdorë ajo dhe partneri:",
+    "answers": [
+      "Diafragmat",
+      "Kondom vaginal.",
+      "Kondomi",
+      "Sfungjerët"
+    ],
+    "correct": 0,
+    "explanation": "Pas sindromit të shokut toksik kundërindikohen diafragmat, sepse qëndrojnë gjatë në vaginë dhe favorizojnë rritjen e S. aureus."
+  },
+  {
+    "id": "mami-shendet-riprodhues-033",
+    "question": "SST që transmetohen më shpesh janë:",
+    "answers": [
+      "C. Trachomatis",
+      "N. Gonorrhea",
+      "Sifilizi",
+      "Vulvovaginal candidosis"
+    ],
+    "correct": 0,
+    "explanation": "Chlamydia trachomatis është IST-ja e transmetuar më shpesh."
+  },
+  {
+    "id": "mami-shendet-riprodhues-034",
+    "question": "Zonja X është beqare dhe përshkruan jetën e saj seksuale, si aktive dhe me shumë partnerë. Ajo dëshiron një metodë kontraceptive, e cila është e sigurtë dhe që nuk ndikon në aktivitetin e saj seksual. Ajo kërkon D.I.U. Përgjigja më e përshtatëshme e mamisë do të ishte:",
+    "answers": [
+      "D.I.U. do t'ju mbrojë ju nga SST",
+      "D.I.U. nuk ndikon në aktivitetin seksual",
+      "Përqindja e barrrave është më e lartë me D.I.U.",
+      "Rreziku i SIP është më i madh për ju"
+    ],
+    "correct": 3,
+    "explanation": "Me shumë partnerë seksualë, rreziku i Sëmundjes Inflamatore Pelvike me DIU rritet."
+  },
+  {
+    "id": "mami-shendet-riprodhues-035",
+    "question": "Në efektet anësore të steriles përfshihen:",
+    "answers": [
+      "Depresioni",
+      "Gjendja e ankthit",
+      "Nauzeja dhimbja e kokës",
+      "Rrjedhjet vaginale, hemoragjia"
+    ],
+    "correct": 3,
+    "explanation": "Rrjedhjet vaginale dhe hemoragjia janë efekte anësore klasike të DIU-së (spirales)."
+  },
+  {
+    "id": "mami-shendet-riprodhues-036",
+    "question": "Cilat nga pikat e mëposhtme sugjeron infermieren që gruaja mund të ketë vaginitis monialis?",
+    "answers": [
+      "Ankesë për kruarje vulvare irrituese",
+      "Dhimbje mesi të padurueshme",
+      "Sekrecine të ujshme në ngjyrë të verdhë",
+      "Temperaturë"
+    ],
+    "correct": 0,
+    "explanation": "Kruarja vulvare irrituese është shenjë tipike e vaginitisit monialis (kandidoza)."
+  },
+  {
+    "id": "mami-shendet-riprodhues-037",
+    "question": "Shendeti riprodhues i perket:",
+    "answers": [
+      "Vetem femrave",
+      "Vetem adoleshenteve",
+      "Meshkujve",
+      "Te gjitheve"
+    ],
+    "correct": 3,
+    "explanation": "Shëndeti riprodhues i përket të gjithëve, pavarësisht gjinisë apo moshës."
+  },
+  {
+    "id": "mami-shendet-riprodhues-038",
+    "question": "Implantet jane metoda kontracepsinhormonale:",
+    "answers": [
+      "Hormonale",
+      "Jo hormonale",
+      "Kimikate",
+      "Asnjera nga keto"
+    ],
+    "correct": 0,
+    "explanation": "Implantet janë metodë kontraceptive hormonale."
+  },
+  {
+    "id": "mami-shendet-riprodhues-039",
+    "question": "Pilulat progestative kunderindikohen ne:",
+    "answers": [
+      "Gjashte mujorin e pare te ushqyerjes me gji",
+      "Gjashte javet e para te ushqyerjes me gji",
+      "Tre muajt e pare te ushqyerjes me gji.",
+      "Asnjera nga keto"
+    ],
+    "correct": 3,
+    "explanation": "Pilulat progestinike nuk kanë kundërindikim për periudhën e ushqyerjes me gji; mund të përdoren edhe gjatë saj."
+  },
+  {
+    "id": "mami-shendet-riprodhues-040",
+    "question": "DIU vendoset kur femra eshte:",
+    "answers": [
+      "Shtatzane",
+      "Ka nje infeksion puerperal",
+      "Ka nje semundje inflamatore pelvike.",
+      "Asnje nga opsionet"
+    ],
+    "correct": 3,
+    "explanation": "DIU-ja nuk vendoset në asnjë prej këtyre gjendjeve (janë kundërindikacione)."
+  },
+  {
+    "id": "mami-shendet-riprodhues-041",
+    "question": "Progesteroni prodhohet nga:",
+    "answers": [
+      "Trupi i verdhe",
+      "Uterusi",
+      "Hypofiza",
+      "Asnje nga opsionet"
+    ],
+    "correct": 0,
+    "explanation": "Progesteroni prodhohet kryesisht nga trupi i verdhë."
+  },
+  {
+    "id": "mami-shendet-riprodhues-042",
+    "question": "Estradioli prodhohet nga:",
+    "answers": [
+      "Hypofiza",
+      "Ovaret",
+      "Uterusi",
+      "Asnje nga opsionet"
+    ],
+    "correct": 1,
+    "explanation": "Estradioli prodhohet nga ovaret."
+  },
+  {
+    "id": "mami-shendet-riprodhues-043",
+    "question": "Kush e percakton tipin e pilulave te kombinuara:",
+    "answers": [
+      "Doza e etinil estradiolit",
+      "Doza e progesteronit",
+      "Doza e te dyve",
+      "Asnje nga keta"
+    ],
+    "correct": 2,
+    "explanation": "Lloji i pilulave të kombinuara përcaktohet nga doza e të dy përbërësve, estrogjenit dhe progestinës."
+  },
+  {
+    "id": "mami-shendet-riprodhues-044",
+    "question": "Kontraceptivet oral jane metoda:",
+    "answers": [
+      "Hormonale",
+      "Jo hormonale",
+      "Kimikate",
+      "Asnje nga opsionet"
+    ],
+    "correct": 0,
+    "explanation": "Kontraceptivët oralë janë metodë hormonale."
+  },
+  {
+    "id": "mami-shendet-riprodhues-045",
+    "question": "Hormoni folikulo stimulus prodhohet nga:",
+    "answers": [
+      "Hypofiza dhe hypotalamusi",
+      "Ovaret",
+      "Uterusi",
+      "Testikujt"
+    ],
+    "correct": 0,
+    "explanation": "FSH prodhohet nga aksi hipotalamo-hipofizar."
+  },
+  {
+    "id": "mami-shendet-riprodhues-046",
+    "question": "Menopauza natyrale eshte si rezultat i:",
+    "answers": [
+      "Ndalimit te aktivitetit folikular ovarian",
+      "Ablacionit kirurgjikal te ovareve",
+      "Frenimit jatrogjen te funksionit te ovareve",
+      "Te treja se bashku"
+    ],
+    "correct": 0,
+    "explanation": "Menopauza natyrale vjen nga ndalimi i aktivitetit folikular ovarian."
+  },
+  {
+    "id": "mami-shendet-riprodhues-047",
+    "question": "PAP testi behet per te diagnostikuar:",
+    "answers": [
+      "Kancerin e qafes se mitres",
+      "Kancerin e gjirit",
+      "HIV/AIDS",
+      "Asnje nga opsionet"
+    ],
+    "correct": 0,
+    "explanation": "Testi PAP përdoret për depistimin e kancerit të qafës së mitrës."
+  },
+  {
+    "id": "mami-shendet-riprodhues-048",
+    "question": "Nje mesazh duhet te jete:",
+    "answers": [
+      "I gjate",
+      "I shkurter",
+      "Te mos perseritet",
+      "Asnje nga opsionet"
+    ],
+    "correct": 1,
+    "explanation": "Një mesazh efektiv duhet të jetë i shkurtër dhe i qartë."
+  },
+  {
+    "id": "mami-shendet-riprodhues-049",
+    "question": "Ne rastin e metodes kirurgjikale te meshkujt:",
+    "answers": [
+      "Metoda eshte efikase menjehere",
+      "Metoda eshte efikase pas nje viti",
+      "Metoda eshte efikase pas 6 muajsh",
+      "Metoda eshte efikase pas 9 muajsh"
+    ],
+    "correct": 2,
+    "explanation": "Vazektomia bëhet plotësisht efikase rreth 6 muaj pas ndërhyrjes (pas eliminimit të spermës rezidual)."
+  },
+  {
+    "id": "mami-shendet-riprodhues-050",
+    "question": "Cfare eshte ovulacioni:",
+    "answers": [
+      "Pjekja e vezes",
+      "Dalja e vezes nga folikuli",
+      "Pjekja dhe dalja e vezes nga folikuli",
+      "Asnje nga opsionet"
+    ],
+    "correct": 1,
+    "explanation": "Ovulacioni është dalja e vezës nga folikuli i pjekur; pjekja ndodh më parë, në fazën folikulare."
+  },
+  {
+    "id": "mami-shendet-riprodhues-051",
+    "question": "Endometri bëhet sekretiv, pra receptiv, nën efektin e:",
+    "answers": [
+      "LH & FSH",
+      "FSH & Progesteron",
+      "Progesteron & LH",
+      "Estrogjen & Progesteron"
+    ],
+    "correct": 3,
+    "explanation": "Transformimi sekretiv i endometrit ndodh nën efektin e kombinuar të estrogjenit dhe progesteronit."
+  },
+  {
+    "id": "mami-shendet-riprodhues-052",
+    "question": "Virusi i HIV-it transmetohet me anë të:",
+    "answers": [
+      "Prekjes & ushqimit",
+      "Gjakut e produkteve të tij & raporteve seksuale",
+      "Ushqimit & gjakut e produkteve të tij",
+      "Raporteve seksuale & ushqimit"
+    ],
+    "correct": 1,
+    "explanation": "HIV transmetohet nëpërmjet gjakut/produkteve të tij dhe raporteve seksuale."
+  },
+  {
+    "id": "mami-shendet-riprodhues-053",
+    "question": "Vdekshmëria amtare dhe foshnjore janë më të larta:",
+    "answers": [
+      "Kur nëna është 16-20 vjec",
+      "Kur nëna është 20 - 25 vjec",
+      "Kur nëna është 25 - 29 vjec",
+      "Kur nëna është më pak se 20 vjec apo më shumë se 30 vjec"
+    ],
+    "correct": 3,
+    "explanation": "Vdekshmëria amtare/foshnjore rritet në moshat ekstreme — nën 20 vjeç ose mbi 30 vjeç."
+  },
+  {
+    "id": "mami-shendet-riprodhues-054",
+    "question": "Cili nga faktorët e mëposhtëm, përbën faktor rreziku për kancerin e qafës së mitrës:",
+    "answers": [
+      "Shtatzania e parë mbi 30 vjec",
+      "Raporte seksuale të hershme & nulipariteti",
+      "Shtatzania e parë < 30 vjec",
+      "Mëmësia e parakohshme"
+    ],
+    "correct": 1,
+    "explanation": "Raportet seksuale të hershme përbëjnë faktor risku të njohur për kancerin e qafës së mitrës."
+  },
+  {
+    "id": "mami-shendet-riprodhues-055",
+    "question": "Hormonet seksuale femërore janë:",
+    "answers": [
+      "FSH & prolaktina",
+      "Estrogjeni & progesteroni",
+      "Prolaktina & estrogjeni",
+      "Progesteroni & FSH"
+    ],
+    "correct": 1,
+    "explanation": "Hormonet seksuale femërore kryesore janë estrogjeni dhe progesteroni."
+  },
+  {
+    "id": "mami-shendet-riprodhues-056",
+    "question": "Pilulat duhet të merren:",
+    "answers": [
+      "Ditën e parë të ciklit, por jo më vonë se dita e pestë e tij",
+      "Nga dita e pestë në ditën e dhjetë të ciklit",
+      "Ne dhjetëditeshin e dytë të ciklit",
+      "Në dhjetëditeshin e tretë"
+    ],
+    "correct": 0,
+    "explanation": "Pilulat kontraceptive fillohen ditën e parë të ciklit, jo më vonë se dita e pestë."
+  },
+  {
+    "id": "mami-shendet-riprodhues-057",
+    "question": "Kur kemi vendosur DIU, shenjat e alarmit janë:",
+    "answers": [
+      "Nauzeja & cefaleja",
+      "Temperatura & sekrecionet e shtuara",
+      "Dhimbja e gjoksit takikardia",
+      "Nauzeja dhe të vjellat"
+    ],
+    "correct": 1,
+    "explanation": "Temperatura dhe sekrecionet e shtuara janë shenja alarmi për infeksion pas vendosjes së DIU-së."
+  },
+  {
+    "id": "mami-shendet-riprodhues-058",
+    "question": "Crregullimet minore të menopausës janë:",
+    "answers": [
+      "Osteoporoza",
+      "Afshet & crregullimet psikologjike",
+      "Ateroskleroza",
+      "Crregullimet kardiovaskulare"
+    ],
+    "correct": 1,
+    "explanation": "Afshet e nxehta dhe çrregullimet psikologjike konsiderohen çrregullime minore të menopauzës, ndryshe nga pasojat afatgjata madhore (osteoporoza, sëmundjet kardiovaskulare)."
+  },
+  {
+    "id": "mami-shendet-riprodhues-059",
+    "question": "Në cregullimet seksuale te femrat hyjnë:",
+    "answers": [
+      "Ejakulacioni prekoks",
+      "Sekrecionet vaginale të shtuara",
+      "Dispareunia & anorgazmia",
+      "Sekrecionet vaginale të pakësuara"
+    ],
+    "correct": 2,
+    "explanation": "Dispareunia dhe anorgazmia janë çrregullime seksuale klasike te femrat."
+  },
+  {
+    "id": "mami-shendet-riprodhues-060",
+    "question": "Pengesat e aksesit për adoleshentët në shërbimet e SHR janë:",
+    "answers": [
+      "Mungesa e edukates seksuale & mentaliteti",
+      "Familja",
+      "Mosha",
+      "Grupi shoqëror të cilit i përket"
+    ],
+    "correct": 0,
+    "explanation": "Mungesa e edukimit seksual dhe mentaliteti janë pengesat kryesore të aksesit të adoleshentëve."
+  },
+  {
+    "id": "mami-shendet-riprodhues-061",
+    "question": "Trupi i verdhe sekreton:",
+    "answers": [
+      "Estradiol & progesteron",
+      "Progesteron dhe prolaktinë",
+      "Prolaktinë dhe estradiol",
+      "Vetëm progesteron"
+    ],
+    "correct": 0,
+    "explanation": "Trupi i verdhë sekreton kryesisht estradiol dhe progesteron."
+  }
+]

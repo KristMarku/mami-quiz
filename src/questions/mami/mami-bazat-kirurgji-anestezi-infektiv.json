@@ -1,0 +1,3806 @@
+[
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-001",
+    "question": "Ajo degë e filozofisë që merret me standatet e sjellje dhe të gjykimit moral quhet:",
+    "answers": [
+      "Deontologji",
+      "Vlerë",
+      "Detyrë",
+      "Etikë"
+    ],
+    "correct": 3,
+    "explanation": "Etika është dega e filozofisë që studion standardet e sjelljes dhe gjykimin moral; deontologjia është vetëm një teori brenda etikës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-002",
+    "question": "Nëse një infermiere perdor uniformen e saj jashte mjediseve spitalore quhet fajtore pasi ka thyer:",
+    "answers": [
+      "Të drejtat e pacientit",
+      "Kodin etik",
+      "Ligjin",
+      "Parimet"
+    ],
+    "correct": 1,
+    "explanation": "Përdorimi i uniformës jashtë spitalit është shkelje e rregullave profesionale, pra e kodit etik të profesionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-003",
+    "question": "Cili nga këta elementë bën pjesë në konceptet e teorisë infermierore?",
+    "answers": [
+      "Besnikëria",
+      "Bamirësia",
+      "Autonomia",
+      "Infermieristika"
+    ],
+    "correct": 3,
+    "explanation": "Katër konceptet themelore të çdo teorie infermierore janë: personi, mjedisi, shëndeti dhe infermieristika."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-004",
+    "question": "Cili nga këta elementë bën pjesë në specialitetet infermierore?",
+    "answers": [
+      "Infermieri anestezist",
+      "Infermieri si avokat",
+      "Infermieri si vendimarrës",
+      "Infermieri si edukues"
+    ],
+    "correct": 0,
+    "explanation": "Infermieri anestezist përfaqëson një rol të zgjeruar/të avancuar të praktikës infermierore, shembull i shtrirjes së roleve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-005",
+    "question": "Homeostaza psikologjike nënkupton një ekulibër të sistemit:",
+    "answers": [
+      "Respirator",
+      "Urinar",
+      "Gastro-intestinal",
+      "Mendor"
+    ],
+    "correct": 3,
+    "explanation": "Homeostaza psikologjike ka të bëjë me ekuilibrin mendor/emocional të individit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-006",
+    "question": "Në nevojat fiziologjike të pacientit bën pjesë ajo për:",
+    "answers": [
+      "siguri",
+      "dashuri",
+      "ujë",
+      "mbrojtje"
+    ],
+    "correct": 2,
+    "explanation": "Uji është nevojë fiziologjike bazë (Maslow); siguria, dashuria dhe mbrojtja janë nevoja të niveleve më të larta."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-007",
+    "question": "Një person mund të qëndroj pa oksigjen jo më shumë se:",
+    "answers": [
+      "1-2 min",
+      "2-3 min",
+      "3-4 min",
+      "4-5 min"
+    ],
+    "correct": 3,
+    "explanation": "Truri fillon të dëmtohet përtej rreth 4-5 minutash mungesë oksigjeni."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-008",
+    "question": "Cila nga këto nevoja fiziologjike është më e rëndesishme ndër të tjerat?",
+    "answers": [
+      "Nevoja për oksigjen",
+      "Nevoja për ujë",
+      "Nevoja për ushqim",
+      "Nevoja për gjumë"
+    ],
+    "correct": 0,
+    "explanation": "Oksigjeni është nevoja fiziologjike më vitale, mungesa e tij shkakton vdekje brenda minutash."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-009",
+    "question": "Aftësia për të influencuar tek të tjerët, për tu perpjekur për një vision, qëllim ose për të ndryshuar quhet:",
+    "answers": [
+      "Menaxhim",
+      "Organizim",
+      "Planifikim",
+      "Lidership"
+    ],
+    "correct": 3,
+    "explanation": "Lidershipi përkufizohet si aftësia për të influencuar të tjerët drejt një vizioni apo qëllimi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-010",
+    "question": "Lidershipi drejtues është:",
+    "answers": [
+      "Demokratik",
+      "Autoritar",
+      "Planifikues",
+      "Organizues"
+    ],
+    "correct": 1,
+    "explanation": "Lidershipi drejtues (direktiv) është i tipit autoritar."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-011",
+    "question": "Sa kohë harxhojnë menaxherët duke komunikuar me persona të ndryshëm, gjate procesit te menaxhimit:",
+    "answers": [
+      "30-40% të kohës",
+      "40-50% të kohës",
+      "50-70% të kohës",
+      "75-90% te kohës"
+    ],
+    "correct": 2,
+    "explanation": "Menaxherët harxhojnë rreth 50-70% të kohës së tyre në komunikim."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-012",
+    "question": "Cili nga këto element bën pjesë në parimet e ruajtjes së shëndetit?",
+    "answers": [
+      "Gjëndja emocionale",
+      "Parandalimi i drogës & duhanit",
+      "Biografia kulturore",
+      "Faktorët social"
+    ],
+    "correct": 1,
+    "explanation": "Parandalimi i drogës dhe duhanit është parim konkret i ruajtjes së shëndetit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-013",
+    "question": "Cfarë perjeton pacienti në stadin e 5 të sëmundjes?",
+    "answers": [
+      "Përjeton simptomat",
+      "Pranon rolin si i sëmurë",
+      "Kontakton me kujdesin shëndetësor",
+      "Perjeton shërimin dhe rehabilitimin"
+    ],
+    "correct": 3,
+    "explanation": "Stadi i 5-të (final) i sëmundjes përfshin shërimin dhe rehabilitimin."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-014",
+    "question": "Në një poliklinikë nuk bën pjesë një nga këto specialitete të mëposhtme:",
+    "answers": [
+      "Mikrosalla",
+      "Laboratori",
+      "Konsultat e fëmijeve",
+      "Salla operacionit"
+    ],
+    "correct": 3,
+    "explanation": "Salla e operacionit nuk bën pjesë në shërbimet e një poliklinike ambulatore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-015",
+    "question": "Kur një pacient ndodhet në ambulancën e pranimit mund të drejtohet ne nje prej strukturave te meposhteme për trajtimin e tij. Cila prej tyre nuk është struktura e saktë?",
+    "answers": [
+      "Në terapinë intensive",
+      "Në sallën e operacionit",
+      "Në pavion",
+      "Në dhomën e injeksioneve"
+    ],
+    "correct": 3,
+    "explanation": "Dhoma e injeksioneve nuk përbën destinacion drejtimi nga urgjenca, ndryshe nga ICU/sallë operacioni/pavion."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-016",
+    "question": "Një pacient pasi del nga salla e operacionit transportohet në:",
+    "answers": [
+      "Dhomë injeksionesh",
+      "Në terapinë intensive",
+      "Laborator",
+      "Mikrokirurgji"
+    ],
+    "correct": 1,
+    "explanation": "Pas operacionit pacienti transportohet zakonisht në terapinë intensive/dhomën e zgjimit për monitorim."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-017",
+    "question": "Sëmundjet kronike jane sëmundje të cilat kanë një kohëzgjatje:",
+    "answers": [
+      "1 muaj",
+      "2 muaj",
+      "3 muaj",
+      "Mbi 3 muaj"
+    ],
+    "correct": 3,
+    "explanation": "Sëmundja kronike përkufizohet si gjendje me kohëzgjatje mbi 3 muaj."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-018",
+    "question": "Sa nivele të kujdesit parandalues ndaj sëmundjes kemi?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Kemi tre nivele parandalimi: parësor, dytësor dhe tretësor."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-019",
+    "question": "Cila nga këto kujdesje bën pjesë në parandalimin tretësor?",
+    "answers": [
+      "Edukimi shëndetësor",
+      "Diagnostimi i sëmundjes",
+      "Trajtimi i sëmundjes",
+      "Parandalimi i komplikacioneve"
+    ],
+    "correct": 3,
+    "explanation": "Parandalimi tretësor synon parandalimin e komplikacioneve dhe rehabilitimin."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-020",
+    "question": "Temperatura e dhomës në mjediset spitalore tek fëmijet dhe tek të moshuarit duhet të mbahet:",
+    "answers": [
+      "26-27°C",
+      "24-26°C",
+      "22-24°C",
+      "20-22°C"
+    ],
+    "correct": 2,
+    "explanation": "Temperatura rekomanduar për fëmijë/të moshuar është 22-24°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-021",
+    "question": "Cila është ngjyra qe perdoret per te lyer muret në sallat e operacionit?",
+    "answers": [
+      "E bardhë",
+      "E kuqe",
+      "E verdhë",
+      "Jeshile"
+    ],
+    "correct": 3,
+    "explanation": "Muret e sallave operatore lyhen jeshile pasi ul lodhjen e syve dhe kontrastin me ngjyrën e kuqe të gjakut."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-022",
+    "question": "Lagështia e pranueshme e ajrit në mjediset spitalore duhet të jetë:",
+    "answers": [
+      "60-65%",
+      "50-60%",
+      "30-50%",
+      "20-30%"
+    ],
+    "correct": 2,
+    "explanation": "Lagështia relative e pranueshme në mjedise spitalore është rreth 30-50%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-023",
+    "question": "Sa etapa ka procesi i kujdesit infermieror?",
+    "answers": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "Procesi infermieror ka 5 etapa (vlerësim, diagnozë, planifikim, zbatim, vlerësim përfundimtar)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-024",
+    "question": "Mledhja e të dhënave nga komunikimi me familjarët dhe klientin është etapa:",
+    "answers": [
+      "E parë e kujdesit infermieror",
+      "E dytë e kujdesit infermieror",
+      "E tretë e kujdesit infermieror",
+      "E katërt e kujdesit infermieror"
+    ],
+    "correct": 0,
+    "explanation": "Mbledhja e të dhënave (vlerësimi) është etapa e parë e procesit infermieror."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-025",
+    "question": "Në mbledhjen e të dhënave për përcaktimin e diagnozës infermierore nuk bën pjesë një nga elementët e mëposhtëm:",
+    "answers": [
+      "Observimi",
+      "Kartela e mjekut",
+      "Biseda me klientin",
+      "Planifikimi"
+    ],
+    "correct": 3,
+    "explanation": "Planifikimi është një etapë tjetër e procesit infermieror, jo pjesë e mbledhjes së të dhënave."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-026",
+    "question": "Hemoragjia nga hundet quhet:",
+    "answers": [
+      "Epistaksis",
+      "Petekje",
+      "Eritema",
+      "Hipoksi"
+    ],
+    "correct": 0,
+    "explanation": "Epistaksis është termi mjekësor për gjakderdhjen nga hunda."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-027",
+    "question": "Ekzaminimi i një regjoni me anë të goditjes quhet:",
+    "answers": [
+      "Palpacion",
+      "Perkusion",
+      "Askultacion",
+      "Vibracion"
+    ],
+    "correct": 1,
+    "explanation": "Perkusioni është ekzaminim me anë të goditjes së lehtë të një regjioni trupor."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-028",
+    "question": "Të dhënat subjektive janë të dhëna që sigurohen nga:",
+    "answers": [
+      "Testet diagnostikuese",
+      "Testet laboratorike",
+      "Pacienti dhe familjarët",
+      "Observimi"
+    ],
+    "correct": 2,
+    "explanation": "Të dhënat subjektive vijnë nga ajo çka raporton vetë pacienti/familjarët (ndjesi, simptoma)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-029",
+    "question": "Komunikimi intrapersonal është komunikimi që ndodh brënda:",
+    "answers": [
+      "Një individi",
+      "Dy individëve",
+      "Një grup individësh",
+      "Publik"
+    ],
+    "correct": 0,
+    "explanation": "Komunikimi intrapersonal ndodh brenda vetë individit (të menduarit me vete)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-030",
+    "question": "Në procesin e komunikimit dërguesi është personi i cili:",
+    "answers": [
+      "Motivon një person për të komunikuar",
+      "Mjedisi ku realizohet komunikimi",
+      "Merr mesazhin",
+      "Inicion komunikimin"
+    ],
+    "correct": 3,
+    "explanation": "Dërguesi është personi që inicion (fillon) procesin e komunikimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-031",
+    "question": "Cila nga këto përgjigje nuk është e saktë. Mesazhet dërgohen me anë të një kanali komunikimi që janë të tipit:",
+    "answers": [
+      "Auditiv",
+      "Viziv",
+      "Perceptues",
+      "Prekës"
+    ],
+    "correct": 2,
+    "explanation": "'Perceptues' nuk është kanal komunikimi standard; kanalet janë auditiv, viziv, prekës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-032",
+    "question": "Termometri per matjen e temperatures trupore, mat tempreturen ne intervalet:",
+    "answers": [
+      "37-45 °C",
+      "34-42.2 °C",
+      "30-41.2 °C",
+      "26-40 °C"
+    ],
+    "correct": 1,
+    "explanation": "Termometrat klinikë matin tipikisht në intervalin 34-42.2°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-033",
+    "question": "Rritja e temperaturës trupore mbi normalen quhet:",
+    "answers": [
+      "Hipotension",
+      "Hypertension",
+      "Hipotermi",
+      "Hipertermi"
+    ],
+    "correct": 3,
+    "explanation": "Hipertermia është rritje e temperaturës trupore mbi vlerat normale."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-034",
+    "question": "Gjatë një hipotermie ndodh:",
+    "answers": [
+      "Shtim i frekuences urinare",
+      "Shtim i frekuences respiratore",
+      "Ulje e frekuences respiratore",
+      "Konvulsione"
+    ],
+    "correct": 2,
+    "explanation": "Hipotermia shoqërohet me ulje të frekuencës respiratore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-035",
+    "question": "Matja e pulsit apikalo-radial realizohet nga:",
+    "answers": [
+      "1 infermiere",
+      "2 infermiere",
+      "3 infermiere",
+      "Vet pacienti"
+    ],
+    "correct": 1,
+    "explanation": "Pulsi apikalo-radial matet njëkohësisht nga dy infermierë, njëri te maja e zemrës, tjetri te arteria radiale."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-036",
+    "question": "Administrimi topik i medikamenteve realizohet në rrugë:",
+    "answers": [
+      "Orale",
+      "Parenterale",
+      "Nëpërmjet traktit respirator",
+      "Nëpërmjet lëkurës dhe mukozave"
+    ],
+    "correct": 3,
+    "explanation": "Administrimi topik bëhet nëpërmjet lëkurës dhe mukozave."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-037",
+    "question": "Cila nga mënyrat e mëposhtëme të administrimit të medikamenteve nuk bën pjesë në administrimin parenteral?",
+    "answers": [
+      "Intra/muskular",
+      "Intra/venoz",
+      "Sub/kutan",
+      "Transdermal"
+    ],
+    "correct": 3,
+    "explanation": "Rruga transdermale nuk konsiderohet parenterale, pasi nuk shpon lëkurën me gjilpërë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-038",
+    "question": "Gjatë periudhës së ovulacionit femrat kanë një temperaturë më të lartë se normalja. Gjeni cila është përgjigja e saktë:",
+    "answers": [
+      "2 °C",
+      "1.5 °C",
+      "1 °C",
+      "0.6 °C"
+    ],
+    "correct": 3,
+    "explanation": "Rritja e temperaturës bazale gjatë ovulacionit është rreth 0.6°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-039",
+    "question": "Kur një medikament duhet të qëndroj në stomak për efekt lokal pacienti pozicionohet?",
+    "answers": [
+      "75 gradë",
+      "65 gradë",
+      "55 gradë",
+      "45 gradë"
+    ],
+    "correct": 3,
+    "explanation": "Pacienti pozicionohet në Semi-Fowler rreth 45°, që medikamenti të mbetet në stomak për efekt lokal dhe të shmanget kalimi i shpejtë në zorrë ose aspirimi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-041",
+    "question": "Injeksionet intra/muskulare nuk realizohen në muskulin:",
+    "answers": [
+      "Gluteal",
+      "Femoral",
+      "Vastus-lateral",
+      "Facial"
+    ],
+    "correct": 3,
+    "explanation": "Muskujt e fytyrës nuk përdoren kurrë për injeksione intramuskulare."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-042",
+    "question": "Teknika zikzak e injektimit të medikamenteve realizohet në injeksionet:",
+    "answers": [
+      "Intra/venoze",
+      "Intra/muskulare",
+      "Intra/dermale",
+      "Sub/kutane"
+    ],
+    "correct": 1,
+    "explanation": "Teknika Z-track (zigzag) përdoret në injeksionet intramuskulare për të parandaluar rrjedhjen e medikamentit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-043",
+    "question": "Metoda e administrimit të oksigjeno terapisë realizohet me anë të:",
+    "answers": [
+      "Sondës nazo-gastrike",
+      "Kateterit urinar",
+      "Vigonit",
+      "Kateterit nazal"
+    ],
+    "correct": 3,
+    "explanation": "Oksigjenoterapia administrohet zakonisht me anë të kateterit/kanjulës nazale."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-044",
+    "question": "Niveli i lartë i lengjëve në organizëm quhet:",
+    "answers": [
+      "Hiperkalemi",
+      "Hipokalemi",
+      "Hipovolemi",
+      "Hipervolemi"
+    ],
+    "correct": 3,
+    "explanation": "Hipervolemia është rritje e vëllimit të gjakut qarkullues."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-045",
+    "question": "Sa përqind të peshës së përgjithshme trupore zë sasia totale e ujit në organizëm?",
+    "answers": [
+      "55-85%",
+      "45-75%",
+      "35-65%",
+      "25-55%"
+    ],
+    "correct": 1,
+    "explanation": "Uji total i trupit zë rreth 45-75% të peshës trupore, në varësi të moshës dhe gjinisë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-046",
+    "question": "Cili nga këta element kimik ka një rol të rëndësishëm në formimin e skeletit të trupit?",
+    "answers": [
+      "Na",
+      "K",
+      "Ca",
+      "Mg"
+    ],
+    "correct": 2,
+    "explanation": "Kalciumi ka rol themelor në formimin e skeletit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-047",
+    "question": "Cili nga këta element kimik ka një rol të rëndësishëm në acidozën dhe alkalozën metabolike?",
+    "answers": [
+      "HPO4",
+      "Cl",
+      "Mg",
+      "HCO3"
+    ],
+    "correct": 3,
+    "explanation": "Bikarbonati (HCO3-) është buferi kryesor në rregullimin acido-bazik metabolik."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-048",
+    "question": "Cili nga këto element nuk bën pjesë në makroelementët ushqimor?",
+    "answers": [
+      "Uji",
+      "Karboidratet",
+      "Vitaminat",
+      "Yndyrnat"
+    ],
+    "correct": 2,
+    "explanation": "Vitaminat janë mikronutrientë, ndërsa uji, karboidratet dhe yndyrnat janë makronutrientë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-049",
+    "question": "Ulja e oreksit ose e dëshirës për të ngrënë quhet:",
+    "answers": [
+      "Nauze",
+      "Anoreksi",
+      "Vomitus",
+      "Flatulencë"
+    ],
+    "correct": 1,
+    "explanation": "Anoreksia është ulja/humbja e oreksit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-050",
+    "question": "Gjatë periudhës së dimrit proçeset metabolike:",
+    "answers": [
+      "Ulen",
+      "Rriten",
+      "Ndikohen nga gjinia",
+      "Nuk ndryshojnë"
+    ],
+    "correct": 1,
+    "explanation": "Në dimër organizmi rrit metabolizmin për të prodhuar më shumë nxehtësi trupore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-051",
+    "question": "Hapja kirurgjikale që bëhet në stomak nëpërmjet murit abdominal dhe shërben për ushqyerjen e pacienti quhet:",
+    "answers": [
+      "Tonsilectomi",
+      "Laringostomi",
+      "Gastrostomi",
+      "Faringostomi"
+    ],
+    "correct": 2,
+    "explanation": "Gastrostomia është hapje kirurgjikale në stomak për ushqyerjen e pacientit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-052",
+    "question": "Cila nga rrugët e mëposhtëme nuk është një rrugë ushqyerje për pacientin?",
+    "answers": [
+      "Parenterale",
+      "Kateteri nazal",
+      "Sonda nazo-gastrike",
+      "Orale"
+    ],
+    "correct": 1,
+    "explanation": "Kanjula nazale përdoret për oksigjenoterapi, jo për ushqyerje."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-053",
+    "question": "Procesi i zbrazjes së vezikës urinare quhet:",
+    "answers": [
+      "Meatus",
+      "Uretër",
+      "Miksion",
+      "Sfinkter"
+    ],
+    "correct": 2,
+    "explanation": "Miksioni është termi për procesin e urinimit (zbrazjen e vezikës urinare)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-054",
+    "question": "Zbrazja e vezikës urinare tek adultët ndodh kur në veshkë janë grumbulluar:",
+    "answers": [
+      "50-150 ml/urinë",
+      "100-200 ml/urinë",
+      "150-250 ml/urinë",
+      "200-300 ml/urinë"
+    ],
+    "correct": 3,
+    "explanation": "Nxitja për urinim shfaqet kur në fshikëz janë mbledhur rreth 200–300 ml urinë; kapaciteti maksimal i fshikëzës është shumë më i madh."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-055",
+    "question": "Sasia e urinës që mbetet në vezikë pas urinimit quhet:",
+    "answers": [
+      "Poliuri",
+      "Anuri",
+      "Oliguri",
+      "Urinë reziduale"
+    ],
+    "correct": 3,
+    "explanation": "Urina reziduale është sasia që mbetet në vezikë pas urinimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-056",
+    "question": "Prania e pusit në urinë quhet:",
+    "answers": [
+      "Glukozuri",
+      "Piuri",
+      "Hematuri",
+      "Dizuri"
+    ],
+    "correct": 1,
+    "explanation": "Piuria është prania e qelbit (leukociteve) në urinë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-057",
+    "question": "Urinimi i shpeshtë gjatë natës, vecanërisht kur nuk jane marre sasi të mëdha lëngjesh quhet:",
+    "answers": [
+      "Inkontinencë urinare",
+      "Polakiuri",
+      "Nikturi",
+      "Piuri"
+    ],
+    "correct": 2,
+    "explanation": "Nikturia është urinim i shpeshtë gjatë natës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-058",
+    "question": "Sa është sasia e solucionit që shërben për të fryrë balonin e kateterit foley gjatë proçesit të kateterizimit urinar?",
+    "answers": [
+      "5 ml",
+      "10 ml",
+      "15 ml",
+      "20 ml"
+    ],
+    "correct": 0,
+    "explanation": "Balona e kateterit Foley fryhet me 5 ml ujë steril, vëllimi që e mban kateterin në vend pa e irrituar fshikëzën."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-059",
+    "question": "Cili nga medikamentet e mëposhtëm nuk është një anticoagulant?",
+    "answers": [
+      "Heparina",
+      "Acenocumaroli",
+      "Varfarina",
+      "Ampicilina"
+    ],
+    "correct": 3,
+    "explanation": "Ampicilina është antibiotik, jo antikoagulant."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-060",
+    "question": "Hemokultura është një analizë gjaku:",
+    "answers": [
+      "Biokimike",
+      "Klinike",
+      "Bakterologjike",
+      "Parazitologjike"
+    ],
+    "correct": 2,
+    "explanation": "Hemokultura është ekzaminim bakteriologjik për të zbuluar praninë e baktereve në gjak."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-061",
+    "question": "Prova që shërben për të matur sasinë e urinës gjatë 24 orëve quhet:",
+    "answers": [
+      "Adissi",
+      "Ziminski",
+      "Urokulturë",
+      "Glukozuri"
+    ],
+    "correct": 1,
+    "explanation": "Prova Zimnitsky vlerëson vëllimin/densitetin e urinës gjatë 24 orëve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-062",
+    "question": "Ekzaminimi bakterologjik i feçeve quhet:",
+    "answers": [
+      "Hemokulturë",
+      "Koprokulturë",
+      "Urokulturë",
+      "Parazitologjike"
+    ],
+    "correct": 1,
+    "explanation": "Koprokultura është ekzaminimi bakteriologjik i feçeve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-063",
+    "question": "Në qëndrimin shtrirë në planin horizontal të pacientit, nuk bën pjesë:",
+    "answers": [
+      "Dekubitus dorsal",
+      "Dekubitus ventral",
+      "Dekubitus lateral",
+      "Pozicioni ortopne"
+    ],
+    "correct": 3,
+    "explanation": "Pozicioni ortopne është ulur/gjysmë-ulur, jo horizontal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-064",
+    "question": "Gjatë vendosjes së pacientit në pozicion semi-fowler shpina formon me shtratin një kënd:",
+    "answers": [
+      "90 gradë",
+      "60 gradë",
+      "45 gradë",
+      "25 gradë"
+    ],
+    "correct": 2,
+    "explanation": "Pozicioni semi-Fowler formon një kënd prej rreth 45 gradësh mes shpinës dhe shtratit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-065",
+    "question": "Plagët që krijohen nga qëndrimi në shtrat për një kohë të gjatë ose nga presioni quhen:",
+    "answers": [
+      "Ulçera sipërfaqësore",
+      "Ulçera të thella",
+      "Dekubitus",
+      "Imobilitet"
+    ],
+    "correct": 2,
+    "explanation": "Plagët nga presioni i zgjatur në shtrat quhen ulçera dekubitale (dekubitus)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-066",
+    "question": "Cili ndër këta faktor ka më tepër ndikim në formimin e dekubitusëve?",
+    "answers": [
+      "Anemia",
+      "Lageshtia",
+      "Vit. C",
+      "Temperatura"
+    ],
+    "correct": 1,
+    "explanation": "Lagështia (nga djersa/urina) rrit ndjeshëm riskun për zhvillimin e ulçerave të presionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-067",
+    "question": "Sa stade ka gjumi me lëvizje të shpeshta të syve GJ.L.SH.S?",
+    "answers": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "Gjumi REM (me lëvizje të shpejta të syve) nuk ka nënstade, ndryshe nga gjumi NREM."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-068",
+    "question": "Sa stade ka gjumi me lëvizje të ngadalta të syve GJ.L.N.S?",
+    "answers": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Gjumi NREM (me lëvizje të ngadalta të syve) ka 4 stade."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-069",
+    "question": "Paftësia për të bërë një gjumë cilësor quhet:",
+    "answers": [
+      "Narkolepsi",
+      "Insomnia",
+      "Apnea e gjumit",
+      "Somnabulizëm"
+    ],
+    "correct": 1,
+    "explanation": "Insomnia është paaftësia për të fjetur në mënyrë cilësore/mjaftueshme."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-070",
+    "question": "Një valë e papritur mbingarkese gjumi që ndodh gjatë ditës quhet:",
+    "answers": [
+      "Hipersomni",
+      "Eneurezis",
+      "Narkolepsi",
+      "Somnabulizem"
+    ],
+    "correct": 2,
+    "explanation": "Narkolepsia shfaqet me valë të papritura gjumi gjatë ditës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-071",
+    "question": "Paftësia e zotërimit të defekimit të feçeve dhe gazrave nga anusi quhet:",
+    "answers": [
+      "Diarre",
+      "Koprolite",
+      "Konstipacion",
+      "Inkontinencë fekale"
+    ],
+    "correct": 3,
+    "explanation": "Inkontinenca fekale është humbja e kontrollit mbi defekimin."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-072",
+    "question": "Egzaminimi i një organi ose i një regjoni me anë të prekjes quhet:",
+    "answers": [
+      "Askultacion",
+      "Perkusion",
+      "Palpacion",
+      "Vibracion"
+    ],
+    "correct": 2,
+    "explanation": "Palpacioni është ekzaminim me anë të prekjes."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-073",
+    "question": "Të dhënat objektive janë të dhëna që infermieri i merr nga:",
+    "answers": [
+      "Pacienti",
+      "Observimi",
+      "Ekzaminimet diagnostikuese",
+      "Testet laboratorike"
+    ],
+    "correct": 1,
+    "explanation": "Të dhënat objektive vijnë kryesisht nga observimi/ekzaminimi i drejtpërdrejtë i infermierit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-074",
+    "question": "Komunikimi intrapersonal ndodh:",
+    "answers": [
+      "Brënda një individi",
+      "Metakomunikimit",
+      "Midis 2 individëve",
+      "Publik"
+    ],
+    "correct": 0,
+    "explanation": "Komunikimi intrapersonal ndodh brenda vetë individit (të menduarit me vete)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-075",
+    "question": "Në elementët e komunikimit verbal bën pjesë:",
+    "answers": [
+      "Xhestet",
+      "Zhurmat",
+      "Humori",
+      "Ecja"
+    ],
+    "correct": 2,
+    "explanation": "Humori (toni komik/i lehtë) bën pjesë në komunikimin verbal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-076",
+    "question": "Matja e temperaturës orale nuk është e sigurtë:",
+    "answers": [
+      "Te pacientët me diarre",
+      "Te pacientët e djersitur",
+      "Te pacientët me atake epileptike",
+      "Te pacientët me konstipacion"
+    ],
+    "correct": 0,
+    "explanation": "Te pacientët me episode konvulsive/krizash ekziston rrezik dëmtimi nga kafshimi i termometrit oral."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-077",
+    "question": "Rritja e shpejtësise së pulsit mbi 100 rrah/min quhet:",
+    "answers": [
+      "Takipne",
+      "Takikardi",
+      "Bradipne",
+      "Bradikardi"
+    ],
+    "correct": 1,
+    "explanation": "Takikardia është rritje e frekuencës së pulsit mbi 100/min."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-078",
+    "question": "\"Na\" është një anion i cili merr pjesë në:",
+    "answers": [
+      "Tkurrjen muskulare",
+      "Metabolizmin e karboidrateve",
+      "Ruajtjen e ekulibrit acido-bazik",
+      "Balancën hidrike"
+    ],
+    "correct": 3,
+    "explanation": "Natriumi është elektroliti kryesor që rregullon balancën e lëngjeve (osmolaritetin) në organizëm."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-079",
+    "question": "Në parimet e kujdesit shëndetësor bën pjesë:",
+    "answers": [
+      "Autonomia",
+      "Vërtetësia",
+      "Besnikëria",
+      "Besueshmëria"
+    ],
+    "correct": 0,
+    "explanation": "Autonomia është një nga katër parimet themelore të etikës (autonomi, bamirësi, jokeqdashje, drejtësi); të tjerat janë 'rregulla' dytësore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-080",
+    "question": "Sa përqind të peshës së përgjithshme trupore zë lengu brëndaqelizor?",
+    "answers": [
+      "5%",
+      "30%",
+      "50%",
+      "60%"
+    ],
+    "correct": 0,
+    "explanation": "Lëngu intersticial zë rreth 15% të peshës trupore (pjesë e lëngut ekstraqelizor)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-081",
+    "question": "Cila është sasia e oksigjenit që jepet me anë të kanjulës nazale?",
+    "answers": [
+      "1l/min",
+      "2-4l/min",
+      "5-7 l/min",
+      "6-8 l/min"
+    ],
+    "correct": 1,
+    "explanation": "Kanjula nazale zakonisht jep oksigjen me fluks 2-4 l/min (deri në 6 l/min në raste të tjera)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-082",
+    "question": "Nga mëngjesi në darkë temperatura e trupit luan me?",
+    "answers": [
+      "0.1 °C",
+      "0.2 °C",
+      "0.3 °C",
+      "0.4 °C"
+    ],
+    "correct": 3,
+    "explanation": "Ndryshimi ditor (mëngjes-darkë) i temperaturës trupore është rreth 0.4°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-083",
+    "question": "Ulja e shpejtësisë së pulsit nën 60 rrah/min quhet:",
+    "answers": [
+      "Takipne",
+      "Takikardi",
+      "Bradipne",
+      "Bradikardi"
+    ],
+    "correct": 3,
+    "explanation": "Bradikardia është ulje e frekuencës së pulsit nën 60 rrahje/min."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-084",
+    "question": "Cili nga këta muskuj është më i përdorshmi për bërjen e injeksioneve i/m?",
+    "answers": [
+      "Ventro gluteal",
+      "Vastus lateral",
+      "Deltoid",
+      "Femoral"
+    ],
+    "correct": 0,
+    "explanation": "Muskuli gluteal është vendi më i përdorur për injeksione intramuskulare tek të rriturit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-085",
+    "question": "Në rregullat e kujdesit shëndetësor bën pjesë:",
+    "answers": [
+      "Drejtësia",
+      "Vërtetësia",
+      "Jokeqdashje",
+      "Bamirësia"
+    ],
+    "correct": 1,
+    "explanation": "Vërtetësia (thënia e së vërtetës) është një 'rregull' etike derivuese, ndryshe nga katër parimet themelore (drejtësi, jokeqdashje, bamirësi, autonomi)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-086",
+    "question": "Lidershipi drejtues:",
+    "answers": [
+      "Nuk përfshin ndjeksit e tij në zgjidhjen e problemeve",
+      "Është lider demokratik",
+      "Përfshin ndjekësit e tij në dhënien e ideve",
+      "Jep ide të reja"
+    ],
+    "correct": 0,
+    "explanation": "Lidershipi drejtues (autoritar) nuk i përfshin ndjekësit në zgjidhjen e problemeve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-087",
+    "question": "Në faktorët e brëndshëm që ndikojë në sëmundje bën pjesë:",
+    "answers": [
+      "Shtrirja e simptomave",
+      "Shoqëria",
+      "Faktorët. ekonomik",
+      "Niveli kulturor"
+    ],
+    "correct": 0,
+    "explanation": "Shtrirja/natyra e simptomave është faktor i brendshëm i sëmundjes."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-088",
+    "question": "Parandalimi dytësor konsiston:",
+    "answers": [
+      "Programet e edukimit shëndetësor",
+      "Imunizimin e efekteve të sëmundjes",
+      "Trajtimin dhe izolimin e sëmundjes",
+      "Diagnostikimin e sëmundjes"
+    ],
+    "correct": 3,
+    "explanation": "Parandalimi dytësor bazohet në diagnostikimin (zbulimin) e hershëm të sëmundjes."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-089",
+    "question": "Cila është temperatura që duhet të ruhet në ambientet spitalore?",
+    "answers": [
+      "21-26 gradë celcius",
+      "22-27 gradë celcius",
+      "26-28 gradë celcius",
+      "20-22 gradë celcius"
+    ],
+    "correct": 3,
+    "explanation": "Temperatura e rekomanduar në ambientet spitalore është 20-22°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-090",
+    "question": "Diagnoza mjeksore është:",
+    "answers": [
+      "E drejtuar nga patologjia dhe zgjat aq kohë sa zgjat semundja.",
+      "Përshkruan përgjigjen e personave për sëmundjen.",
+      "Trajton të sëmurin",
+      "Identifikon një simptom të caktuar."
+    ],
+    "correct": 0,
+    "explanation": "Diagnoza mjekësore fokusohet te patologjia dhe qëndron për sa kohë vazhdon sëmundja."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-091",
+    "question": "Në elementët e komunikimit joverbal bën pjesë:",
+    "answers": [
+      "Shprehjet e fytyres",
+      "Ritmi",
+      "Fjalori",
+      "Humori"
+    ],
+    "correct": 0,
+    "explanation": "Shprehjet e fytyrës janë element klasik i komunikimit joverbal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-092",
+    "question": "Zona personale eshte:",
+    "answers": [
+      "4 inc-18fit",
+      "4 inç-12fit",
+      "12 inç-4fit",
+      "18 inc-4fit"
+    ],
+    "correct": 3,
+    "explanation": "Zona personale (sipas Hall) është rreth 18 inç deri në 4 fit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-093",
+    "question": "Matja e temperaturës rektale nuk është e sigurtë te:",
+    "answers": [
+      "Pacientët me episode krizash.",
+      "Pacientët që kanë bërë ndërhyrje në zonën rektale.",
+      "Pacientët me të vjella.",
+      "Pacientët me konstipacion"
+    ],
+    "correct": 1,
+    "explanation": "Matja rektale kundërindikohet te pacientët me ndërhyrje/kirurgji rektale të fundit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-094",
+    "question": "Sa përqind të peshës së përgjithshme trupore zë lengu intersticial?",
+    "answers": [
+      "5 %",
+      "10 %",
+      "15 %",
+      "20 %"
+    ],
+    "correct": 2,
+    "explanation": "Lëngu intersticial zë rreth 15% të peshës trupore (pjesë e lëngut ekstraqelizor)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-095",
+    "question": "Sa përqind të oksigjenit në gjak transporton Hg?",
+    "answers": [
+      "90 %",
+      "93 %",
+      "97 %",
+      "99 %"
+    ],
+    "correct": 2,
+    "explanation": "Hemoglobina transporton rreth 97% të oksigjenit në gjak."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-096",
+    "question": "Ne qofte se një infermiere përvetëson sendet personale të një pacienti ajo ka thyer:",
+    "answers": [
+      "Kodin etik",
+      "Ligjin",
+      "Deontologjinë",
+      "Vlerat"
+    ],
+    "correct": 1,
+    "explanation": "Përvetësimi i sendeve të pacientit është vjedhje, pra shkelje e ligjit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-097",
+    "question": "Njollat e kuqe, të mëdha të ngritura mbi nivelin e lëkures që shpesh janë të dhimbshme quhen:",
+    "answers": [
+      "Petekje",
+      "Eritema",
+      "Epistaksis",
+      "Egzentema"
+    ],
+    "correct": 1,
+    "explanation": "Eritema përshkruan njolla të kuqe të ngritura, ndonjëherë të dhimbshme, të lëkurës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-098",
+    "question": "Diagnoza infermierore eshte:",
+    "answers": [
+      "E njëjtë nga një person tek një tjetër.",
+      "Ndryshon nga një person tek një tjetër",
+      "Drejtohet nga patologjia",
+      "Zgjat aq kohë sa zgjat sëmundja."
+    ],
+    "correct": 1,
+    "explanation": "Diagnoza infermierore është individuale dhe ndryshon nga një person te tjetri."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-099",
+    "question": "Distanca që aplikohet në zonën sociale është:",
+    "answers": [
+      "1-12 fit",
+      "2-12 fit",
+      "3-12 fit",
+      "4-12 fit"
+    ],
+    "correct": 3,
+    "explanation": "Zona sociale sipas Hall shtrihet rreth 4-12 fit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-100",
+    "question": "Pasi jepen medikamentet me anë të tubit nazogastrik pacienti vendoset në pozicion:",
+    "answers": [
+      "Shtrirë nga e majta",
+      "Shtrirë nga e djathta",
+      "Semi-fowler",
+      "Fowler"
+    ],
+    "correct": 1,
+    "explanation": "Pas barnave me tub nazogastrik pacienti shtrihet nga e djathta, që stomaku të zbrazet drejt duodenit dhe bari të kalojë më shpejt."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-101",
+    "question": "Ca ështe një kation i cili merr pjesë në këte funksion:",
+    "answers": [
+      "Transmetimin e impulseve nervore",
+      "Transmetimin e impulseve elektrike",
+      "Nxit aktivitetin e enzimave",
+      "Nxit aktivitetin e karbohidrateve"
+    ],
+    "correct": 0,
+    "explanation": "Kalciumi nxit çlirimin e neurotransmetuesve në sinaps, duke mundësuar transmetimin e impulsit nervor."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-102",
+    "question": "Procesi i hapjes se uretres quhet:",
+    "answers": [
+      "Meatus",
+      "Miksion",
+      "Polakiuri",
+      "Poliuri"
+    ],
+    "correct": 0,
+    "explanation": "Meatus është hapja e jashtme e uretrës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-103",
+    "question": "Paaftësia për të kontrolluar shkarkimin e urinës nga vezika urinare quhet:",
+    "answers": [
+      "Oliguri",
+      "Retesion urinar",
+      "Inkontinencë urinare",
+      "Anuri"
+    ],
+    "correct": 2,
+    "explanation": "Inkontinenca urinare është humbja e kontrollit të urinimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-104",
+    "question": "Pamundësia për të qëndruar në gjumë për shkak të zgjimeve të shpeshta quhet insomni:",
+    "answers": [
+      "fillestare",
+      "Sekondare",
+      "Terminale",
+      "Intermitente"
+    ],
+    "correct": 3,
+    "explanation": "Insomnia intermitente karakterizohet nga zgjime të shpeshta gjatë natës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-105",
+    "question": "Neonati(i porsalinduri 0-3muaj) fle:",
+    "answers": [
+      "10-12orë në ditë",
+      "12-14orë në ditë",
+      "14-16orë në ditë",
+      "16-20orë në ditë"
+    ],
+    "correct": 3,
+    "explanation": "Neonatët flenë tipikisht 16-20 orë në ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-106",
+    "question": "Infeksionet që ndodhin nga kateterizimi i vezikës mund të shkaktohen nga faktorët:",
+    "answers": [
+      "Mosdezifektimi i mirë i zonës përreth uretrës.",
+      "Mos futja siç duhet e kateterit",
+      "Mos larja e duarve të pacientit",
+      "Mos funksionimi siç duhet i uretrës"
+    ],
+    "correct": 0,
+    "explanation": "Mosdezinfektimi i zonës periuretrale është faktor kryesor rreziku për infeksion nga kateterizimi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-107",
+    "question": "Rritja e hematokritit tregon:",
+    "answers": [
+      "Anemi",
+      "Infeksion",
+      "Trashje të gjakut",
+      "Hollim të gjakut"
+    ],
+    "correct": 2,
+    "explanation": "Hematokriti i rritur tregon trashje (hemokoncentrim) të gjakut."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-108",
+    "question": "Cili nga tre qëllimet kryesore të elementëve ushqimor është i gabuar?",
+    "answers": [
+      "Formojnë strukturën trupore (kockë, gjak)",
+      "Sigurojnë energji e cila matet me kilokalori",
+      "Formojnë pjesën muskulare të një organi.",
+      "Ndihmojnë rregullimin e reaksioneve kimike"
+    ],
+    "correct": 2,
+    "explanation": "Formimi i 'pjesës muskulare të një organi' është përshkrim tepër i ngushtë/i pasaktë krahasuar me funksionet e përgjithshme strukturore, energjetike dhe rregullatore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-109",
+    "question": "Gjatë stadit të IV të gjumit me lëvizje jo të shpejta të syve shpejtësia e rrahjeve të zemrës dhe të respiracioneve ulet:",
+    "answers": [
+      "10-19 %",
+      "20-30 %",
+      "31-40 %",
+      "41-50 %"
+    ],
+    "correct": 1,
+    "explanation": "Gjatë stadit IV NREM, rrahjet e zemrës dhe respiracioni ulen rreth 20-30%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-110",
+    "question": "Ecja në gjumë quhet:",
+    "answers": [
+      "Insomni",
+      "Hipersomni",
+      "Parasomni",
+      "Somnabulizëm"
+    ],
+    "correct": 3,
+    "explanation": "Somnabulizmi (ecja gjatë gjumit) është një çrregullim specifik i gjumit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-111",
+    "question": "Cili eshtë raporti antikoagulant /gjak qe duhet për marjen e një analize?",
+    "answers": [
+      "0.3ml/5ml",
+      "0.5ml/3ml",
+      "0.5-0.3ml",
+      "0.5ml/5ml"
+    ],
+    "correct": 3,
+    "explanation": "Raporti standard i antikoagulantit ndaj gjakut për analizat e koagulimit është rreth 0.5ml/5ml."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-112",
+    "question": "Metodat për kontrollimin e tubit nazogastrik:",
+    "answers": [
+      "Tubi futet me ane te gastrostomise",
+      "Tubi futet me anë të një incizioni",
+      "Fut me anë të shiringës pak ajër në fund të tubit",
+      "Fut me anë të shiringës pak gjak në fund të tubit"
+    ],
+    "correct": 2,
+    "explanation": "Vendosja e sondës nazogastrike verifikohet duke fut pak ajër me shiringë dhe duke dëgjuar me stetoskop mbi stomak."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-113",
+    "question": "Rritja e nivelit te troponines eshte tregues i:",
+    "answers": [
+      "Infarktit të miokardit",
+      "Hepatitit",
+      "Nefropatise",
+      "Otitit"
+    ],
+    "correct": 0,
+    "explanation": "Troponina e rritur është tregues specifik i infarktit të miokardit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-114",
+    "question": "Cila nga këto prova shërben për të matur dendësinë e urinës?",
+    "answers": [
+      "CPK",
+      "Adissi",
+      "Ziminski",
+      "CPR"
+    ],
+    "correct": 2,
+    "explanation": "Prova Zimnitsky mat densitetin/dendësinë e urinës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-115",
+    "question": "Gastrostomia konsiston në:",
+    "answers": [
+      "Observimin e organeve të sipërme digjestive",
+      "Futjen e një tubi në stomak me anë të një ndërhyrje kirugjikale",
+      "Futjen e një kateteri nga hunda deri në stomak",
+      "Futjen e një kateteri nga goja deri në stomak me anë të një ndërhyrje kirugjikale"
+    ],
+    "correct": 1,
+    "explanation": "Gastrostomia është futja kirurgjikale e një tubi drejtpërdrejt në stomak."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-116",
+    "question": "Gjate gjumit metabolizmi zvogelohet me:",
+    "answers": [
+      "4-9 %",
+      "10-15 %",
+      "16-20 %",
+      "21-25 %"
+    ],
+    "correct": 1,
+    "explanation": "Gjatë gjumit, metabolizmi bazal zvogëlohet rreth 10-15%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-117",
+    "question": "Ulçerat që fillojnë në shtresat subkutane mbi një dalje kockore dhe më pas zgjerohen dhe në sipërfaqe quhen:",
+    "answers": [
+      "Ulçera sipërfaqsore",
+      "Ulçera të thella",
+      "Nekrozë sipërfaqësore",
+      "Nekrozë që depërton në thellësi"
+    ],
+    "correct": 1,
+    "explanation": "Ulçerat e thella fillojnë nën lëkurë (mbi daljen kockore) dhe përhapen drejt sipërfaqes."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-118",
+    "question": "Cili nga keto pozicione përdoret më pak gjate vendosjes së pacientit në planin horizontal?",
+    "answers": [
+      "Dekubitus lateral",
+      "Dekubitus lateralo-dorsal",
+      "Dekubitus lateralo-ventral",
+      "Foëler"
+    ],
+    "correct": 3,
+    "explanation": "Pozicioni Fowler është gjysmë-ulur, jo horizontal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-119",
+    "question": "Dendësia e urinës < 1010-1030 haset në semundje të:",
+    "answers": [
+      "Heparit",
+      "Miokardit",
+      "Veshkave",
+      "Stomakut"
+    ],
+    "correct": 2,
+    "explanation": "Ulja e densitetit specifik të urinës tregon aftësi të reduktuar të veshkave për ta koncentruar atë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-120",
+    "question": "Sa është niveli i protrombinës në gjak?",
+    "answers": [
+      "70-100%",
+      "70-110%",
+      "70-120%",
+      "70-130%"
+    ],
+    "correct": 2,
+    "explanation": "Niveli normal i protrombinës konsiderohet rreth 70-120%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-121",
+    "question": "Gjak vidal është një analizë që bëhet në:",
+    "answers": [
+      "Sëm. infektive",
+      "Tifo abdominale",
+      "Sëm.pulmonare",
+      "Cerozë hepatike"
+    ],
+    "correct": 1,
+    "explanation": "Testi Widal përdoret specifikisht për diagnozën e tifos abdominale."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-122",
+    "question": "\"Ca\" është një kation i cili merr pjesë në këto funksione:",
+    "answers": [
+      "Transmetimin e impulseve nervore",
+      "Transmetimin e impulseve elektrike",
+      "Krijimin e impulseve nervore",
+      "Krijimin e impulseve elektrike"
+    ],
+    "correct": 0,
+    "explanation": "Kalciumi ndihmon në çlirimin e neurotransmetuesve, pra në transmetimin e impulsit nervor mes neuroneve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-123",
+    "question": "Hipertensioni ështe presioni i gjakut jonormal i cili ndhodh kur presioni arterial është:",
+    "answers": [
+      "Nën 140 me 90 mmHg",
+      "140 me 90 mmHg",
+      "Mbi 140 me 90 mmHg",
+      "Nën 140 nën 90 mmHg"
+    ],
+    "correct": 2,
+    "explanation": "Hipertensioni klasifikohet si presion arterial mbi vlerat 140/90 mmHg."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-124",
+    "question": "Cili nga vëndet e matjes së temperaturës është më pak i sakti?",
+    "answers": [
+      "Rektale",
+      "Orale",
+      "Aksilare",
+      "Temporale"
+    ],
+    "correct": 2,
+    "explanation": "Matja aksilare është metoda më pak e saktë e matjes së temperaturës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-125",
+    "question": "Përmirësimi i tolerancës ndaj aktiviteteve përfshin një nga elementët e mëposhtëm:",
+    "answers": [
+      "Ushtrimet e frymemearrjes",
+      "Drenimi i mushkrive",
+      "Riaktivizimi i aparatit kardiopulmonar",
+      "Nebulizmi"
+    ],
+    "correct": 2,
+    "explanation": "Riaktivizimi gradual i aparatit kardiopulmonar përmirëson tolerancën ndaj aktiviteteve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-126",
+    "question": "Në administrimin e injeksioneve s/c bëhet:",
+    "answers": [
+      "Tërheqje e lëkurës",
+      "Mbledhje e lëkurës",
+      "Shtypje e lëkurës",
+      "Tendosje e lëkurës"
+    ],
+    "correct": 1,
+    "explanation": "Për injeksionet subkutane lëkura mblidhet (bëhet një palë) para shpimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-127",
+    "question": "Fazat e një lidhje ndihmuese të komunikimit janë:",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 1,
+    "explanation": "Modeli i lidhjes ndihmuese përfshin 11 faza sipas kurrikulës referuese."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-128",
+    "question": "Faza e takimit të parë infermier-pacient është:",
+    "answers": [
+      "Faza parandërvepruese",
+      "Testimi",
+      "Besimi",
+      "Orjentimi"
+    ],
+    "correct": 3,
+    "explanation": "Faza e parë e takimit infermier-pacient është faza e orientimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-129",
+    "question": "Për të shtuar lagështirën e mjedisit në dhomën e pacientit përdoret:",
+    "answers": [
+      "Ventilator",
+      "Vaporizator",
+      "Kondicioner",
+      "Oksigjen i lagështuar"
+    ],
+    "correct": 1,
+    "explanation": "Vaporizatori përdoret për të rritur lagështinë e ambientit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-130",
+    "question": "Manaxhimi është:",
+    "answers": [
+      "Aftësia për të influencuar tek të tjerët",
+      "Procesi sistematik i njëjtë me proçesin infermieror",
+      "Proces mësimi",
+      "Proces vlerësimi"
+    ],
+    "correct": 1,
+    "explanation": "Menaxhimi krahasohet shpesh si proces sistematik i ngjashëm me procesin infermieror."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-131",
+    "question": "Sa stade ka sëmundja:",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "Sëmundja (sipas modelit të roleve të sëmurit) ka 5 stade."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-132",
+    "question": "Idetë për të cilat individi ndjehet i sigurtë quhen:",
+    "answers": [
+      "Vlerë",
+      "Etikë",
+      "Deontologji",
+      "Parandjenjë"
+    ],
+    "correct": 0,
+    "explanation": "Idetë për të cilat individi ndjehet i sigurt quhen vlera."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-133",
+    "question": "Sa drejtime merr i sëmuri nga ambulancat e pranimit?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "Nga ambulanca e pranimit i sëmuri mund të drejtohet në 4 struktura të mundshme."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-134",
+    "question": "Injeksionet jepen në rrugë:",
+    "answers": [
+      "Orale",
+      "Paranterale",
+      "Endogjene",
+      "Egzogjene"
+    ],
+    "correct": 1,
+    "explanation": "Injeksionet administrohen nëpërmjet rrugës parenterale."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-135",
+    "question": "Deontologjia është:",
+    "answers": [
+      "Një sistem i parimeve fiziologjike",
+      "Teoria e obligimit moral",
+      "Kodi udhëheqës",
+      "Vlerë individuale"
+    ],
+    "correct": 1,
+    "explanation": "Deontologjia është teoria e detyrimit/obligimit moral."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-136",
+    "question": "Metakomunikimi është:",
+    "answers": [
+      "Shkëmbimi i mesazhit pa përdorur fjalët",
+      "Mesazhet që kërkojnë përdorimin e teknikave efektive të komunikimit",
+      "Mesazhi që transpoton qëndrimin e dërguesit ndaj vetes dhe mesazhit",
+      "Proçes mësimi dhe interpretimi"
+    ],
+    "correct": 2,
+    "explanation": "Metakomunikimi transmeton qëndrimin e dërguesit ndaj vetvetes dhe ndaj mesazhit që përcjell."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-137",
+    "question": "Cila nga sistemet e mëposhtme nuk ndikon në ekuilibrin homoeostatik?",
+    "answers": [
+      "Hipofizia",
+      "Sistemi kardiovaskular",
+      "Organet gjenitale",
+      "Paratiroide"
+    ],
+    "correct": 2,
+    "explanation": "Organet gjenitale nuk kanë rol të drejtpërdrejtë në ruajtjen e ekuilibrit homeostatik, ndryshe nga hipofiza, sistemi kardiovaskular apo paratiroidet."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-138",
+    "question": "Stadi i tretë i sëmundjes është:",
+    "answers": [
+      "Roli i varur i pacientit.",
+      "Pranimi i rolit të sëmurë",
+      "Kontakti me personelin shëndetësor.",
+      "Shërimi dhe reabilitimi"
+    ],
+    "correct": 2,
+    "explanation": "Stadi i tretë i sëmundjes është kontakti me personelin/kujdesin shëndetësor."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-139",
+    "question": "Sistola është periudha kur ventrikujt e zemrës janë:",
+    "answers": [
+      "Të relaksuar",
+      "Të konraktuar",
+      "Gjysëm të kontraktuar",
+      "Gjysëm të relaksuar"
+    ],
+    "correct": 1,
+    "explanation": "Sistola është faza e kontraktimit të ventrikujve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-140",
+    "question": "Kur krahu ndodhet mbi nivelin e zemrës TA rezulton:",
+    "answers": [
+      "Gabimisht i lartë",
+      "Gabimisht i ulët",
+      "Nuk ndryshon",
+      "Pak më I lartë"
+    ],
+    "correct": 1,
+    "explanation": "Kur krahu është mbi nivelin e zemrës, TA e matur rezulton gabimisht i ulët."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-141",
+    "question": "Hipotensioni kemi në ato raste kur:",
+    "answers": [
+      "Presioni diastolik 140mmHg dhe sistolik 90mmHg",
+      "Presioni sistolik 130 dhe diastolik 80mmHg",
+      "Presioni sistolik 90mmHg dhe diastolik 60mmHg",
+      "Presioni diastolic 100 dhe sistolik 50"
+    ],
+    "correct": 2,
+    "explanation": "Hipotensioni karakterizohet nga presion sistolik rreth/ nën 90 mmHg dhe diastolik rreth 60mmHg."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-142",
+    "question": "Sasia e ujit në organizëm varet:",
+    "answers": [
+      "Nga madhësia e indit lidhor.",
+      "Nga madhësia e indit epithelial.",
+      "Nga madhësia e indit adipos.",
+      "Nga madhësia e indit sub kutan"
+    ],
+    "correct": 2,
+    "explanation": "Sasia relative e ujit trupor varet nga masa e indit dhjamor (adipoz), pasi yndyra përmban pak ujë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-143",
+    "question": "Frymëmarrja e shpejtë shoqërohet me temperaturë:",
+    "answers": [
+      "Më të lartë se normale",
+      "Më të ulët se normale",
+      "Të pandryshueshme",
+      "Relativisht e barabarte"
+    ],
+    "correct": 0,
+    "explanation": "Ethja (temperaturë e lartë) shoqërohet zakonisht me rritje të frekuencës respiratore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-144",
+    "question": "Bradipnea quhet:",
+    "answers": [
+      "Nën 18 frymëmarrje /min",
+      "Mbi 20 frymëmarrje /min",
+      "Mbi 30 frymëmarrje /min",
+      "Nën 12 frymëmarrje /min"
+    ],
+    "correct": 3,
+    "explanation": "Bradipnea përkufizohet si frekuencë respiratore nën 12 herë/minutë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-145",
+    "question": "Rezervat ushqimore që përdor organizmi të parat nëse burimet nuk janë të mjaftueshme janë:",
+    "answers": [
+      "Proteinat",
+      "Karbohidratet",
+      "Vitaminat",
+      "Yndyrnat"
+    ],
+    "correct": 1,
+    "explanation": "Karbohidratet (glikogjeni) përdoren si rezerva e parë energjetike."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-146",
+    "question": "\"Çfarë mjekimi keni marrë?\" bën pjesë tek pyetjet e:",
+    "answers": [
+      "Hapura",
+      "Ngushta",
+      "Primare",
+      "Sekondare"
+    ],
+    "correct": 1,
+    "explanation": "Kjo është pyetje e ngushtë/specifike, jo e hapur."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-147",
+    "question": "Nëse kemi bllokim të trakesë, oksigjenimi:",
+    "answers": [
+      "Mungon",
+      "Është i pakët",
+      "Nuk ndryshon",
+      "Është i mjaftueshëm"
+    ],
+    "correct": 0,
+    "explanation": "Bllokimi i plotë i trakesë ndalon plotësisht oksigjenimin."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-148",
+    "question": "Përshkrimi i volumit të pulsit është nga:",
+    "answers": [
+      "0 në 3+",
+      "1 në 4+",
+      "-1 në 3",
+      "-1 në 4"
+    ],
+    "correct": 0,
+    "explanation": "Volumi (amplituda) i pulsit vlerësohet zakonisht në një shkallë prej 0 deri 3+/4+."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-149",
+    "question": "Kur indi eshte i madh injeksionet subkutane bëhen me kënd:",
+    "answers": [
+      "60 gradë",
+      "70 gradë",
+      "80 gradë",
+      "90 gradë"
+    ],
+    "correct": 3,
+    "explanation": "Për ind subkutan të trashë injeksioni s/c bëhet me kënd 90 gradë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-150",
+    "question": "Sasia maksimale në mililitra,e injeksioneve intra-muskulare është:",
+    "answers": [
+      "1 ml",
+      "3 ml",
+      "5 ml",
+      "7 ml"
+    ],
+    "correct": 2,
+    "explanation": "Sasia maksimale e zakonshme për injeksion IM tek adulti është 5 ml."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-151",
+    "question": "Sëmundja Adison karakterizohet nga funksionimi jo i plotë i gjëndrrës:",
+    "answers": [
+      "Adrenale",
+      "Hipofizës",
+      "Tiroides",
+      "Paratiroide"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja Addison shkaktohet nga pamjaftueshmëria e gjëndrës adrenale (mbiveshkore)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-152",
+    "question": "Tek të porsalindurit pulsi është:",
+    "answers": [
+      "60-80",
+      "80-110",
+      "120-160",
+      "170-190"
+    ],
+    "correct": 2,
+    "explanation": "Pulsi normal i të porsalindurit është 120-160/min."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-153",
+    "question": "Metodat për kontrollin e tubit nazo-gastrik janë:",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Ekzistojnë 3 metoda kryesore për verifikimin e pozicionit të tubit nazogastrik (auskultim, aspirim/pH, radiografi)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-154",
+    "question": "Thithja e drejtpërdrejtë e medikamenteve bëhet në rrugë:",
+    "answers": [
+      "Orale",
+      "Venoze",
+      "Subkutane",
+      "Intradermale"
+    ],
+    "correct": 1,
+    "explanation": "Rruga venoze siguron veprimin/përthithjen më të shpejtë të medikamentit, direkt në qarkullim."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-155",
+    "question": "Në ekuilibrin homeostatik janë më të aktivizuara:",
+    "answers": [
+      "3 gjëndrra dhe 4 sisteme",
+      "2 gjëndrra dhe 2 sisteme",
+      "4 gjëndrra dhe 3 sisteme",
+      "3 gjëndrra dhe 3 sisteme"
+    ],
+    "correct": 3,
+    "explanation": "Në homeostazë janë kryesisht të përfshira 3 gjëndrra endokrine dhe 3 sisteme kryesore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-156",
+    "question": "Mesatarja e urinës së eleminuar në mililitra normalisht është:",
+    "answers": [
+      "1000",
+      "1200",
+      "1400",
+      "1600"
+    ],
+    "correct": 2,
+    "explanation": "Diureza mesatare ditore normale është rreth 1400 ml."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-157",
+    "question": "Prania e qelizave epiteliale në urinë duhet të jetë:",
+    "answers": [
+      "Negativ",
+      "E rrallë",
+      "E shpeshtë",
+      "Mesatare"
+    ],
+    "correct": 0,
+    "explanation": "Në urinën normale qelizat epiteliale mungojnë (negativ); prania e tyre tregon kontaminim ose proces patologjik."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-158",
+    "question": "Gjatë retensionit urinar vezika urinare:",
+    "answers": [
+      "Është e boshatisur",
+      "Është gjysëm e mbushur",
+      "Ka pak urinë reziduale",
+      "Fryhet deri sa arrin umbelikusin"
+    ],
+    "correct": 3,
+    "explanation": "Në retension urinar vezika mbushet e mund të fryhet deri në lartësinë e kërthizës (umbilikut)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-159",
+    "question": "Dizuria është:",
+    "answers": [
+      "Urinim i pakët",
+      "Urinim i tepërt",
+      "Vështirësi në urinim",
+      "Paaftësi për të urinuar"
+    ],
+    "correct": 2,
+    "explanation": "Dizuria është vështirësi/dhimbje gjatë urinimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-160",
+    "question": "pH mesatar i urinës tek individët me dietë të rregullt është:",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "pH mesatar i urinës është rreth 6 (lehtësisht acid)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-161",
+    "question": "Urina e mesit për analizë merret pasi janë nxjerrë x ml e para:",
+    "answers": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correct": 1,
+    "explanation": "Për mostrën e urinës së mesit, nxirren rreth 20 ml të parat përpara mbledhjes."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-162",
+    "question": "Mënyra sesi profesionistët përmbushin detyrat e tyre dhe sigurojnë kujdesin tek pacientët quhet:",
+    "answers": [
+      "deontologji",
+      "etikë",
+      "vlerë",
+      "teleologjike"
+    ],
+    "correct": 1,
+    "explanation": "Kjo mënyrë e kryerjes së detyrave sipas parimeve profesionale quhet etikë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-163",
+    "question": "Organizimi si një ndër etapat e menaxhimit nuk përfshin:",
+    "answers": [
+      "vendosjen e qëllimeve",
+      "vendosjen e marrdhënieve",
+      "përcaktimi i përgjegjësive",
+      "hartimi e një plani veprimi"
+    ],
+    "correct": 0,
+    "explanation": "Vendosja e qëllimeve i përket funksionit të planifikimit, jo organizimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-164",
+    "question": "Koncepti i homeostazës është përshkruar për herë të parë nga W.B.Cannon në vitin:",
+    "answers": [
+      "1920",
+      "1930",
+      "1939",
+      "1949"
+    ],
+    "correct": 2,
+    "explanation": "W.B. Cannon publikoi konceptin e homeostazës në veprën e tij të vitit 1939."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-165",
+    "question": "Për kujdesin e syve nuk përdoret:",
+    "answers": [
+      "disa tampone garze që mund të vihen në anë të syrit për të mbajtur solucionin",
+      "përdor pamuk të njomur mirë me ujë ose fiziologjik",
+      "solucioni duhet të jetë në temperaturën e trupit",
+      "fshije menjëherë me tampon duke filluar nga këndi i jashtëm në këndin e brendshëm"
+    ],
+    "correct": 3,
+    "explanation": "Teknika korrekte e pastrimit të syrit shkon nga këndi i BRENDSHËM drejt atij të jashtëm, jo anasjelltas."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-166",
+    "question": "Një individ mund të qëndrojë pa ujë:",
+    "answers": [
+      "2-3ditë",
+      "3-5ditë",
+      "5-7ditë",
+      "8-9ditë"
+    ],
+    "correct": 1,
+    "explanation": "Njeriu mund të mbijetojë pa ujë përafërsisht 3-5 ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-167",
+    "question": "Cilat nga rezervat trupore shpenzohen në fund?",
+    "answers": [
+      "yndyrnat",
+      "karbohidratet",
+      "kripërat minerale",
+      "proteinat"
+    ],
+    "correct": 3,
+    "explanation": "Proteinat (masa muskulare) shpenzohen të fundit, pasi organizmi përpiqet t'i ruajë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-168",
+    "question": "Faktorët e brëndshëm të shëndetit janë:",
+    "answers": [
+      "praktikat familjare",
+      "biografia kulturore",
+      "faktorët social-ekonomik",
+      "perceptimi i sëmundjes"
+    ],
+    "correct": 3,
+    "explanation": "Perceptimi i sëmundjes është faktor i brendshëm (psikologjik) i shëndetit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-169",
+    "question": "Faktorët e jashtëm që influencojnë sëmundjen janë:",
+    "answers": [
+      "simptoma potenciale",
+      "shtrirja e simtomave",
+      "natyra e sëmundjes",
+      "faktorët ekonomik"
+    ],
+    "correct": 3,
+    "explanation": "Faktorët ekonomikë janë faktorë të jashtëm që ndikojnë sëmundjen."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-170",
+    "question": "Cili nga këta elemente bën pjesë në komunikimin verbal?",
+    "answers": [
+      "shprehja e fytyrës",
+      "ecja dhe qëndrimi",
+      "xhestet",
+      "ritmi"
+    ],
+    "correct": 3,
+    "explanation": "Ritmi i të folurit bën pjesë në komunikimin verbal (paralinguistikë)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-171",
+    "question": "Në komunikimin joverbal bën pjesë:",
+    "answers": [
+      "humori",
+      "fjalori",
+      "koha dhe përkatësi",
+      "ecja dhe qëndrimi"
+    ],
+    "correct": 3,
+    "explanation": "Ecja dhe qëndrimi (gjuha e trupit) janë elementë të komunikimit joverbal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-172",
+    "question": "Në karakteristikat e një lidhje ndihmuese nuk bën pjesë:",
+    "answers": [
+      "besimi",
+      "empatia",
+      "kujdesi",
+      "testimi"
+    ],
+    "correct": 3,
+    "explanation": "Testimi nuk është karakteristikë e lidhjes ndihmuese; besimi, empatia dhe kujdesi janë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-173",
+    "question": "Zona sociale është:",
+    "answers": [
+      "4-8fit",
+      "4-12fit",
+      "4-16fit",
+      "4-18fit"
+    ],
+    "correct": 1,
+    "explanation": "Zona sociale shtrihet rreth 4-12 fit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-174",
+    "question": "Shoku është një gjendje:",
+    "answers": [
+      "frikë",
+      "pasigurie",
+      "refuzim për të bashkëvepruar",
+      "emocionale e fuqishme"
+    ],
+    "correct": 3,
+    "explanation": "Shoku (psikologjik/emocional, jo klinik) është gjendje emocionale e fuqishme."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-175",
+    "question": "Kur diagnoza nuk është e saktë dhe nuk është vendosur që pacienti të shtrohet ai dërgohet në:",
+    "answers": [
+      "në sallën e operacionit",
+      "në terapinë intesive",
+      "në pavion ose në klinikë",
+      "dhomën e observimit"
+    ],
+    "correct": 3,
+    "explanation": "Në pasiguri diagnostike, pacienti mbahet fillimisht në dhomën e observimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-176",
+    "question": "Biseda indirekte me pacientin përdoret për:",
+    "answers": [
+      "informacion të veçantë",
+      "vlerësimin e ndryshimeve",
+      "përcaktimi i problemeve",
+      "zgjidhjen e problemeve"
+    ],
+    "correct": 1,
+    "explanation": "Biseda indirekte (e lirë) përdoret më shumë për vlerësimin e ndryshimeve me kalimin e kohës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-177",
+    "question": "Një proces manaxhimi përbëhet nga:",
+    "answers": [
+      "dy funksione",
+      "tre funksione",
+      "katër funksione",
+      "pesë funksione"
+    ],
+    "correct": 2,
+    "explanation": "Procesi i menaxhimit përbëhet nga katër funksione themelore (planifikim, organizim, drejtim, kontroll)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-178",
+    "question": "Ndikimi i sëmundjes në vetëkonceptim:",
+    "answers": [
+      "është një proçes përshtatje me të gjitha mekanizmat",
+      "përfshin përshtatjen e vetëkonceptimit",
+      "frekuenca e shfaqjes së simptomave",
+      "është një imazh mendor i fortësisë dhe i dobësisë në të gjitha aspektet"
+    ],
+    "correct": 1,
+    "explanation": "Sëmundja ndikon në vetëkonceptim duke kërkuar përshtatjen e tij."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-179",
+    "question": "Fëmija (1-3vjeç) fle:",
+    "answers": [
+      "8-10orë në ditë",
+      "10-12orë në ditë",
+      "12-14orë në ditë",
+      "14-16orë në ditë"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijët 1-3 vjeç flenë zakonisht 12-14 orë në ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-180",
+    "question": "Përkufizime të diagnozës infermierore janë dhënë që në vitin:",
+    "answers": [
+      "1940",
+      "1950",
+      "1955",
+      "1960"
+    ],
+    "correct": 1,
+    "explanation": "Përkufizimet e para të diagnozës infermierore u dhanë rreth vitit 1950."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-181",
+    "question": "Klasifikimi i dy tipeve të gjumit (LSHS, LJSHS) u ëmërtua për herë të parë në vitin:",
+    "answers": [
+      "1943",
+      "1953",
+      "1960",
+      "1963"
+    ],
+    "correct": 1,
+    "explanation": "Gjumi REM u zbulua dhe u klasifikua për herë të parë në 1953 (Aserinsky & Kleitman)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-182",
+    "question": "Qëndrimi në të ftohtë:",
+    "answers": [
+      "rrit TA",
+      "ulë TA",
+      "nuk ndikon në shenjat jetësore",
+      "është i pandryshyeshëm"
+    ],
+    "correct": 0,
+    "explanation": "Ekspozimi ndaj të ftohtit shkakton vazokonstriksion dhe rritje të TA."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-183",
+    "question": "Trajtimi i dekubitueseve bëhet me:",
+    "answers": [
+      "acid folik",
+      "bikarbonat natriumi",
+      "të verdhë veze",
+      "xhelatinë"
+    ],
+    "correct": 2,
+    "explanation": "Të verdhën e vezës (metodë tradicionale) përdoret ndonjëherë në trajtimin lokal të dekubituseve sipas kësaj kurrikule."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-184",
+    "question": "Joni është:",
+    "answers": [
+      "një atom që nuk mbart ngarkesë elektrike",
+      "është një molekul që mbetet e pandryshuar",
+      "është njësia matse që përdoret në aktivitetet kimike",
+      "një atom opo molekul e cila mbart ngarkes elektrike"
+    ],
+    "correct": 3,
+    "explanation": "Joni është atom ose molekulë që mbart ngarkesë elektrike."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-185",
+    "question": "Frekuenca respiratore 14-18 e kanë:",
+    "answers": [
+      "fëmijët 1-3vjeç",
+      "fëmijët 3-5 vjeç",
+      "adoloshendët",
+      "meshkujt e rritur"
+    ],
+    "correct": 3,
+    "explanation": "Frekuenca respiratore 14-18/min është tipike për meshkujt e rritur në qetësi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-186",
+    "question": "Në matjen rektale temperatura është:",
+    "answers": [
+      "36.5 gradë C",
+      "37 gradë C",
+      "37.5 gradë C",
+      "38 gradë C"
+    ],
+    "correct": 2,
+    "explanation": "Temperatura rektale është normalisht rreth 37.5°C (pak më e lartë se orale)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-187",
+    "question": "Në rast depresioni temperatura trupore është:",
+    "answers": [
+      "më e lartë se norma",
+      "në normë",
+      "më e ulët se norma",
+      "nuk ndryshon"
+    ],
+    "correct": 1,
+    "explanation": "Në depresion, temperatura trupore zakonisht mbetet brenda normales."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-188",
+    "question": "Frymëmarrja Cheyne-Stoke:",
+    "answers": [
+      "tregon afrimin e vdekjes",
+      "nuk është kaq serioze",
+      "ka të bëjë me respirime të zhurmshme",
+      "spazma e regjionit glotesk"
+    ],
+    "correct": 0,
+    "explanation": "Frymëmarrja Cheyne-Stokes shoqëron shpesh afrimin e vdekjes."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-189",
+    "question": "Presioni diastolik është kur ventrikuli i majtë është:",
+    "answers": [
+      "i kontraktuar",
+      "gjysëm i kontraktuar",
+      "i relaksuar",
+      "gjysëm i relaksuar"
+    ],
+    "correct": 2,
+    "explanation": "Presioni diastolik korrespondon me relaksimin e ventrikulit të majtë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-190",
+    "question": "Pulsi i ndërprerë:",
+    "answers": [
+      "ka një periudhë pulsi normal",
+      "nuk ka një periudhë pulsi normal",
+      "është një puls i çrregullt që ngadalësohet",
+      "është një puls i çrregullt që shpejtohet"
+    ],
+    "correct": 0,
+    "explanation": "Pulsi i ndërprerë (intermitent) ka periudha me puls normal të ndërprera nga çrregullime."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-191",
+    "question": "Tek pulsi çift rrahja e dytë nga dy të rrahurat e rregullta është:",
+    "answers": [
+      "më pak e fortë se rrahja e parë",
+      "më e fortë se rrahja e parë",
+      "nuk ndikohet nga rrahja e parë",
+      "ndikohet nga rrahja e parë"
+    ],
+    "correct": 0,
+    "explanation": "Në pulsin çift (bigeminus), rrahja e dytë është tipikisht më e dobët se e para."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-192",
+    "question": "Urina reziduale është:",
+    "answers": [
+      "1-2ml",
+      "1-3ml",
+      "1-4ml",
+      "1-5ml"
+    ],
+    "correct": 3,
+    "explanation": "Sasia e vlerësuar 1-5ml korrespondon me kriterin e referuar në këtë material."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-193",
+    "question": "Frymëmarrje normale tek femrat e rritura është:",
+    "answers": [
+      "14-18",
+      "16-20",
+      "20-22",
+      "20-40"
+    ],
+    "correct": 1,
+    "explanation": "Frekuenca respiratore normale te femrat e rritura është rreth 16-20/min."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-194",
+    "question": "Gjatë oksigjeno-terapisë O jepet:",
+    "answers": [
+      "në l/min",
+      "në l/sek",
+      "në l/orë",
+      "nël/ditë"
+    ],
+    "correct": 0,
+    "explanation": "Oksigjeni administrohet duke matur fluksin në litra/minutë (l/min)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-195",
+    "question": "Marrja e oksigjenit nga kateteri nazal:",
+    "answers": [
+      "lejon pacientin të ushqehet dhe të flasë lirshëm",
+      "përdoret më shumë tek fëmijët e vegjël",
+      "përdoret shpesh tek pacientët që marrin oksigjen në shtëpi",
+      "mat distancën nga koanet e hundës deri tek lobi i veshit"
+    ],
+    "correct": 3,
+    "explanation": "Gjatësia e kateterit nazal matet nga koanet deri te lobi i veshit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-196",
+    "question": "Ruajtja e ekulibrit hidrik është një pjesë e sistemit të brëndshëm hemostatik i cili nuk funksionon n.q.s:",
+    "answers": [
+      "nga mos balancimi i ekuilibrit elektrolitik",
+      "presionit osmotik",
+      "ngrohjes trupore",
+      "ekuilibri acido-bazik"
+    ],
+    "correct": 1,
+    "explanation": "Ekuilibri hidrik mbahet bashkë me presionin osmotik; kur ky çrregullohet, sistemi homeostatik i ujit nuk funksionon."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-197",
+    "question": "Humbja e ujit me anë të djersës është:",
+    "answers": [
+      "100-150ml",
+      "200-300ml",
+      "350-400ml",
+      "450-500ml"
+    ],
+    "correct": 0,
+    "explanation": "Humbja bazale e ujit nëpërmjet djersës (pa aktivitet të shtuar) është rreth 100-150ml/ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-198",
+    "question": "Sa duhet të jenë marrjet ditore të lëngjeve?",
+    "answers": [
+      "100-1300ml",
+      "1400-1500ml",
+      "1500-2000ml",
+      "2000-3000ml"
+    ],
+    "correct": 3,
+    "explanation": "Marrja ditore e rekomanduar e lëngjeve është rreth 2000-3000ml."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-199",
+    "question": "Cila nga elementët e mëposhtëm është mikroelementë?",
+    "answers": [
+      "uji",
+      "proteinat",
+      "yndyrnat",
+      "vitaminat"
+    ],
+    "correct": 3,
+    "explanation": "Vitaminat janë mikroelementë ushqimorë, ndryshe nga uji, proteinat dhe yndyrnat që janë makroelementë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-200",
+    "question": "Burimet ditore të ujit me anë të oksidimit metabolik janë:",
+    "answers": [
+      "150-200",
+      "200-300",
+      "200-400",
+      "300-400"
+    ],
+    "correct": 2,
+    "explanation": "Uji metabolik, i çliruar nga oksidimi i ushqimeve, jep rreth 200–400 ml në ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-201",
+    "question": "Frutat,xhelatinë, kafe bëjnë pjesë tek:",
+    "answers": [
+      "dietë terapeutike",
+      "dietë e butë ushqimore",
+      "dietë e lëngshme normale",
+      "dietë hidrike"
+    ],
+    "correct": 2,
+    "explanation": "Fruta, xhelatinë dhe kafe bëjnë pjesë në dietën e lëngshme normale (të plotë)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-202",
+    "question": "Gjej përgjigjen e gabuar ne lidhje me pergatitjen qe duhet bere përpara futjes së lëndëve ushqyese në tubin nazogastrik:",
+    "answers": [
+      "boshatis stomakun me anë të shiringës",
+      "futet tubi në hundë",
+      "shto pak ujë pas futjes së ushqimit",
+      "vendoset pacienti shtrirë djathtas"
+    ],
+    "correct": 3,
+    "explanation": "Pacienti duhet pozicionuar ngritur (Fowler/gjysmë-ulur), jo shtrirë djathtas."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-203",
+    "question": "Kur temperatura trupore është e lartë humbja mesatare e ujit nëpërmjet urinës është:",
+    "answers": [
+      "1000 ml",
+      "1200 ml",
+      "1400 ml",
+      "1600 ml"
+    ],
+    "correct": 1,
+    "explanation": "Me temperaturë të lartë, humbja e ujit përmes urinës zvogëlohet paksa (rreth 1200ml), pasi rritet humbja nga djersa/frymëmarrja."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-204",
+    "question": "Fosfatet janë:",
+    "answers": [
+      "katione",
+      "anione",
+      "minerale",
+      "elektrolite"
+    ],
+    "correct": 1,
+    "explanation": "Joni fosfat, i ngarkuar negativisht, klasifikohet si anion."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-205",
+    "question": "Prodhimi i pakët i urinës quhet:",
+    "answers": [
+      "nikturi",
+      "dizuri",
+      "anuri",
+      "oliguri"
+    ],
+    "correct": 3,
+    "explanation": "Prodhimi i pakët i urinës quhet oliguri."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-206",
+    "question": "Sa % të gjakut total zë plazma?",
+    "answers": [
+      "55%",
+      "50%",
+      "40%",
+      "35%"
+    ],
+    "correct": 0,
+    "explanation": "Plazma përbën rreth 55% të vëllimit total të gjakut."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-207",
+    "question": "Cilët janë faktorët që duhet pasur parasysh kur planifikohet kujdesi i pacientit në shtëpi?",
+    "answers": [
+      "ushqimi",
+      "rehabilitimi",
+      "terapia",
+      "edukimi i pacientit"
+    ],
+    "correct": 3,
+    "explanation": "Edukimi i pacientit dhe familjes është element kyç në planifikimin e kujdesit në shtëpi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-208",
+    "question": "Faktorët e jashtëm të mjedisit që nuk ndikojnë në shëndetin e pacientit janë:",
+    "answers": [
+      "kontrrolli i ndriçimit",
+      "përdorimi i ngjyrave",
+      "kontrrolli i lagështirës",
+      "nevoja për dashuri dhe ngrohtësi"
+    ],
+    "correct": 3,
+    "explanation": "Nevoja për dashuri dhe ngrohtësi është faktor psikologjik i brendshëm, jo faktor mjedisor i jashtëm."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-209",
+    "question": "Termi hiperemi aktive është:",
+    "answers": [
+      "ngjyra e lëkurës pas djegies së saj",
+      "ngjyra normale e lëkurës",
+      "ngjyra e lëkurës pas mjekimit",
+      "ngjyra e lëkurës pas një traume"
+    ],
+    "correct": 0,
+    "explanation": "Hiperemia aktive është skuqja e lëkurës nga zgjerimi i enëve dhe rritja e rrjedhjes së gjakut, p.sh. pas djegies."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-210",
+    "question": "Hypotermia aksidentale është një gjendje ku personi ekspozohet:",
+    "answers": [
+      "në temperatura shumë të ulta",
+      "në temperatura të ulta",
+      "në situata aksidentale",
+      "në temperatura të larta"
+    ],
+    "correct": 0,
+    "explanation": "Hipotermia aksidentale ndodh kur personi ekspozohet pa mbrojtje në temperatura shumë të ulta."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-211",
+    "question": "Hemoragjia, quhet e ndërmjetme kur shfaqet:",
+    "answers": [
+      "gjatë operacionit",
+      "pak orë pas operacionit",
+      "pak ditë pas operacionit",
+      "pas një traume të jashtëme"
+    ],
+    "correct": 1,
+    "explanation": "Hemoragjia e ndërmjetme shfaqet pak orë pas operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-212",
+    "question": "Hemoragjia, quhet primare kur shfaqet:",
+    "answers": [
+      "pak orë pas operacionit",
+      "gjatë operacionit",
+      "pak ditë pas operacionit",
+      "pas një traume të jashtëme"
+    ],
+    "correct": 1,
+    "explanation": "Hemoragjia primare shfaqet gjatë vetë operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-213",
+    "question": "Ndihma e pare në raste hemoragjie është:",
+    "answers": [
+      "vendosja shtrirë e pacientit",
+      "vendosja e bandazhit",
+      "vendosja e akullit",
+      "terapi medikamentoze"
+    ],
+    "correct": 1,
+    "explanation": "Ndihma e parë në hemoragji është vendosja e bandazhit kompresiv."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-214",
+    "question": "Donatori lejohet që të japi gjak pasi të kenë kaluar të paktë:",
+    "answers": [
+      "45 ditë nga dhurimi i fundit",
+      "56 ditë nga dhurimi i fundit",
+      "65 ditë nga dhurimi i fundit",
+      "75 ditë nga dhurimi i fundit"
+    ],
+    "correct": 1,
+    "explanation": "Intervali standard mes dhurimeve të gjakut është të paktën 56 ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-215",
+    "question": "Sasia e gjakut që dhurohet është të paktën:",
+    "answers": [
+      "350ml",
+      "450ml",
+      "550ml",
+      "650ml"
+    ],
+    "correct": 1,
+    "explanation": "Sasia standarde e dhurimit të gjakut është rreth 450 ml."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-216",
+    "question": "Pesha minimale trupore për një donator gjaku duhet të jetë:",
+    "answers": [
+      "40 kg",
+      "50 kg",
+      "60 kg",
+      "70 kg"
+    ],
+    "correct": 1,
+    "explanation": "Pesha minimale e kërkuar për donator gjaku është 50 kg."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-217",
+    "question": "Mosha minimale për një donator gjaku duhet të jetë:",
+    "answers": [
+      "15 vjeç",
+      "17 vjeç",
+      "20 vjeç",
+      "25 vjeç"
+    ],
+    "correct": 1,
+    "explanation": "Mosha minimale e zakonshme për dhurim gjaku është rreth 17 vjeç (me pëlqim)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-218",
+    "question": "Mosha maksimale për një donator gjaku duhet të jetë:",
+    "answers": [
+      "45 vjeç",
+      "55 vjeç",
+      "65 vjeç",
+      "75 vjeç"
+    ],
+    "correct": 2,
+    "explanation": "Mosha maksimale standarde për dhurim gjaku është 65 vjeç."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-219",
+    "question": "Një person nuk lejohet të dhurojë gjak, në rast ekspozimi ndaj sëmundjeve infektive më pak se:",
+    "answers": [
+      "3 javë",
+      "6 javë",
+      "8 javë",
+      "10 javë"
+    ],
+    "correct": 1,
+    "explanation": "Periudha standarde e përjashtimit pas ekspozimi infektiv është rreth 6 javë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-220",
+    "question": "Pozicioni më i përshtatshem për pacientët pas operacionit është:",
+    "answers": [
+      "semi - Fowler",
+      "Fowler",
+      "tredelenburg",
+      "gjinekologjik"
+    ],
+    "correct": 0,
+    "explanation": "Pozicioni semi-Fowler është më i përshtatshëm zakonisht për pacientët pas operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-221",
+    "question": "Numërimi i veglave kirurgjikale para dhe pas operacionit kryhet nga:",
+    "answers": [
+      "infermieria qarkulluese",
+      "infermieria instrumentare",
+      "mjeku kirurg",
+      "mjeku anestezist"
+    ],
+    "correct": 1,
+    "explanation": "Veglat, garzat dhe gjilpërat i numëron infermierja instrumentare, sepse ajo i përdor dhe i mban nën kontroll gjatë operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-222",
+    "question": "Temperatura e ambjentit në sallën operatore duhet të jetë:",
+    "answers": [
+      "10-15 °C",
+      "15-20 °C",
+      "20-27 °C",
+      "27-30 °C"
+    ],
+    "correct": 2,
+    "explanation": "Temperatura e sallës operatore mbahet zakonisht 20-27°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-223",
+    "question": "Humiditeti në sallën operatore duhet të ruhet në një nivel:",
+    "answers": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "correct": 2,
+    "explanation": "Humiditeti i rekomanduar në sallën operatore është rreth 50%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-224",
+    "question": "Kthimi i refleksit gag pas operacionit tregon:",
+    "answers": [
+      "mundësimin e fillimit të ushqimit normalisht",
+      "vështërsi në gëlltitje të pacientit",
+      "rikthim të peristaltikës",
+      "vështërsi në frymëmarrje"
+    ],
+    "correct": 0,
+    "explanation": "Rikthimi i refleksit gag tregon që pacienti mund të fillojë ushqyerjen normale në mënyrë të sigurt."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-225",
+    "question": "Flebotomia konsiston në:",
+    "answers": [
+      "venipunkturën dhe thithjen e gjakut",
+      "dëmtimin e enës së gjakut",
+      "venipunkturën dhe dhënien e gjakut",
+      "aplikimin e infuzioneve"
+    ],
+    "correct": 0,
+    "explanation": "Flebotomia është venipunktura dhe thithja (marrja) e gjakut."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-226",
+    "question": "Kthimi i tonusit muskular të fshiksëz së urinës ndodh:",
+    "answers": [
+      "4-6 orë pas operacionit",
+      "6-8 orë pas operacionit",
+      "8-10 orë pas operacionit",
+      "10-12 orë pas operacionit"
+    ],
+    "correct": 1,
+    "explanation": "Toni muskular i fshikëzës rikthehet zakonisht 6-8 orë pas operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-227",
+    "question": "Rikthimi i peristaltikës së zorrëve ndodh mesatarisht:",
+    "answers": [
+      "12 orë pas operacionit",
+      "24 orë pas operacionit",
+      "48 orë pas operacionit",
+      "72 orë pas operacionit"
+    ],
+    "correct": 1,
+    "explanation": "Peristaltika rikthehet mesatarisht rreth 24 orë pas operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-228",
+    "question": "Administrimi i opiateve para operacionit ndihmojnë:",
+    "answers": [
+      "në paksimin e sekrecioneve",
+      "uljen e tonusit muskular",
+      "reduktimin e ankthit dhe stresit",
+      "tharjen e mukozave"
+    ],
+    "correct": 2,
+    "explanation": "Opiatet e para operacionit ndihmojnë kryesisht në reduktimin e ankthit dhe stresit të pacientit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-229",
+    "question": "Administrimi i anticholinërgic-ve para operacionit ndikojnë në:",
+    "answers": [
+      "në paksimin e sekrecioneve",
+      "reduktimin e ankthit dhe stresit",
+      "uljen e tonusit muskular",
+      "tharjen e mukozave"
+    ],
+    "correct": 0,
+    "explanation": "Antikolinergjikët preoperativë reduktojnë sekrecionet e rrugëve respiratore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-230",
+    "question": "Asepsit kirurgjikale janë aktivitete që:",
+    "answers": [
+      "minimizojnë përhapjen e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar",
+      "eleminojnë nr. dhe përhapjen e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar",
+      "pakësojnë numrin e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar",
+      "pakësojnë përhapjen e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar"
+    ],
+    "correct": 1,
+    "explanation": "Asepsia kirurgjikale synon eliminimin e numrit dhe përhapjen e mikroorganizmave/sporeve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-231",
+    "question": "Asepsia është:",
+    "answers": [
+      "eleminimi i të gjithe mikroorganizmave",
+      "eleminimi i shumicës së mikroorganizmave",
+      "pakësimi i të gjithë mikroorganizmave",
+      "pakësimi i shumicës së mikroorganizmave"
+    ],
+    "correct": 0,
+    "explanation": "Asepsia synon eliminimin e plotë të mikroorganizmave nga zona e caktuar."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-232",
+    "question": "Dezifektimi është:",
+    "answers": [
+      "eleminimi i shumicës së mikroorganizmave në sipërfaqe të një objekti",
+      "pakësimi i shumicës së mikroorganizmave në sipërfaqe të një objekti",
+      "pastrimi i sipërfaqes së një objekti",
+      "dezifektimi i sipërfaqes së një objekti"
+    ],
+    "correct": 0,
+    "explanation": "Dezinfektimi është eliminimi i shumicës së mikroorganizmave nga sipërfaqja e një objekti."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-233",
+    "question": "Dekontaminimi është:",
+    "answers": [
+      "pakësimi i shumicës së mikroorganizmave në sipërfaqe të një objekti",
+      "eleminimi i shumicës së mikroorganizmave në sipërfaqe të një objekti",
+      "pastrimi i sipërfaqes së një objekti të caktuar",
+      "dezifektimi i objekteve të ndotura me materiale infektive"
+    ],
+    "correct": 0,
+    "explanation": "Dekontaminimi është pakësimi (jo eliminimi total) i mikroorganizmave nga sipërfaqja."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-234",
+    "question": "Instrumentat sterilizohen në autokllavë me një temperaturë prej:",
+    "answers": [
+      "90 °C",
+      "100 °C",
+      "110 °C",
+      "121 °C"
+    ],
+    "correct": 3,
+    "explanation": "Sterilizimi standard me autoklavë kryhet në 121°C."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-235",
+    "question": "Zierja për 20 minuta shkakton:",
+    "answers": [
+      "pastrim",
+      "sterilizim",
+      "dekontaminim",
+      "desifektim të nivelit të lartë"
+    ],
+    "correct": 3,
+    "explanation": "Zierja për 20 minuta arrin dezinfektim të nivelit të lartë, jo sterilizim të plotë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-236",
+    "question": "Përdorimi i klizmës pastruese është obligative të aplikohet para:",
+    "answers": [
+      "të gjitha llojeve të operacioneve",
+      "në operacionet që përfshijnë traktin gastro - intestinal",
+      "në operacionet që përfshijnë traktin uro -genital",
+      "nuk rekomandohet të aplikohet më para operacionit"
+    ],
+    "correct": 1,
+    "explanation": "Klizma pastruese aplikohet para operacioneve që përfshijnë traktin gastrointestinal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-237",
+    "question": "Infermieria qarkulluese është pjesë e:",
+    "answers": [
+      "grupit steril",
+      "grupit josteril",
+      "grupit vëzhgues",
+      "nuk është antare e bllokut operator"
+    ],
+    "correct": 1,
+    "explanation": "Infermieria qarkulluese bën pjesë në grupin josteril."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-238",
+    "question": "Ruajtja e sigurisë dhe integritetit të fushës sterile gjatë proçedurës kirurgjikale është detyrë e:",
+    "answers": [
+      "kirurgut primar",
+      "anestezistit",
+      "infermieres qarkulluese",
+      "infermieres instrumentare"
+    ],
+    "correct": 3,
+    "explanation": "Ruajtja e fushës sterile është detyrë kryesore e infermieres instrumentare."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-239",
+    "question": "Në rastin e patologjive të Ca sigmorektal mund të jetë e indikuar:",
+    "answers": [
+      "ileostomia",
+      "kolostomia",
+      "jejunostomia",
+      "gastrostomia"
+    ],
+    "correct": 1,
+    "explanation": "Kolostomia indikohet në patologjitë e Ca sigmorektal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-240",
+    "question": "Cila nga alternativat e mëposhtme tregon për një procedurë diagnostikuese?",
+    "answers": [
+      "kolostomia",
+      "ileostomia",
+      "kolonoskopia",
+      "jejunostomia"
+    ],
+    "correct": 2,
+    "explanation": "Kolonoskopia është procedurë diagnostikuese."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-241",
+    "question": "Dieta e pacientëve me gastrostomi duhet të jetë:",
+    "answers": [
+      "e lëngshme",
+      "e fortë",
+      "ushqim normal",
+      "nuk ka kufizim në dietë"
+    ],
+    "correct": 0,
+    "explanation": "Ushqimi fillestar te pacientët me gastrostomi jepet në formë të lëngshme."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-242",
+    "question": "Pas operacioneve gastrike pacienti këshillohet të qëndroj në pozicionin:",
+    "answers": [
+      "Fowler",
+      "Semi- Fowler",
+      "Tredelenburg",
+      "Gjinekologjik"
+    ],
+    "correct": 1,
+    "explanation": "Pas operacioneve gastrike pacienti qëndron në Semi-Fowler, që ul tensionin mbi suturat dhe rrezikun e aspirimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-243",
+    "question": "Trajtimi më i suksesshëm për karcinomën gastrike të avancuar është:",
+    "answers": [
+      "Kirurgjia",
+      "Kimioterapia",
+      "Radioterapia",
+      "Kirurgjia e shoqëruar me kimio-radioterapi"
+    ],
+    "correct": 3,
+    "explanation": "Trajtimi më efektiv për stadet e avancuara kombinon kirurgjinë me kimio-radioterapi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-244",
+    "question": "Gastrostomia:",
+    "answers": [
+      "është proçedurë diagnostikuese",
+      "kryhet vetëm me kirurgji",
+      "është proçedurë që shërben për ushqimin e pacientëve",
+      "shërben për aspirimin e sekrecioneve gastrike"
+    ],
+    "correct": 2,
+    "explanation": "Gastrostomia shërben kryesisht për ushqyerjen artificiale të pacientëve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-245",
+    "question": "Kolonoskopia është proçedurë diagnostikuese për:",
+    "answers": [
+      "traktin urinar",
+      "traktin hepato biliar",
+      "traktin e sipërm gastrointestinal",
+      "traktin e poshtëm intestinal"
+    ],
+    "correct": 3,
+    "explanation": "Kolonoskopia vlerëson traktin e poshtëm intestinal (zorrën e trashë)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-246",
+    "question": "Plagët nga dekubituset janë plagë që shkaktohen:",
+    "answers": [
+      "nga traumat e hapura",
+      "nga armët e zjarrit",
+      "nga aksidentet automobilistike",
+      "nga qëndrimi në shtrat për një kohë të gjatë"
+    ],
+    "correct": 3,
+    "explanation": "Plagët dekubitale shkaktohen nga qëndrimi i zgjatur në shtrat (presioni)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-247",
+    "question": "Faktorët që ndikojnë për formimin e dekubituesëve janë të gjitha përveç:",
+    "answers": [
+      "kequshqyerja",
+      "higjena e ulët",
+      "gjendja emocionale",
+      "qëndrimi gjatë në shtrat"
+    ],
+    "correct": 2,
+    "explanation": "Gjendja emocionale nuk është faktor i drejtpërdrejtë fizik në formimin e dekubituseve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-248",
+    "question": "Në një retension urinar përdoret:",
+    "answers": [
+      "Kateteri Robinson",
+      "Kateteri Nichols",
+      "Kateteri Foley",
+      "Kateteri Moby- Dick"
+    ],
+    "correct": 2,
+    "explanation": "Në retension urinar përdoret kateteri Foley."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-249",
+    "question": "Gastrostomia është proçedure që ushqen pacientin nga:",
+    "answers": [
+      "ezofagu",
+      "stomaku",
+      "jejunum",
+      "kolon"
+    ],
+    "correct": 1,
+    "explanation": "Gastrostomia ushqen pacientin direkt nëpërmjet stomakut."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-250",
+    "question": "Ndërrimi i pensamentëve të plagës operatore bëhet:",
+    "answers": [
+      "10 - 15 orë pas operacionit",
+      "16 - 24 orë pas operacionit",
+      "36 - 48 orë pas operacionit",
+      "52 - 72 orë pas operacionit"
+    ],
+    "correct": 2,
+    "explanation": "Ndërrimi i parë i pensamentit bëhet zakonisht 36-48 orë pas operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-251",
+    "question": "Trajtimi fillestar i plagës bëhet me:",
+    "answers": [
+      "antibiotik",
+      "kortizonik",
+      "sol. fiziologjik",
+      "betadinë"
+    ],
+    "correct": 2,
+    "explanation": "Trajtimi fillestar i plagës bëhet me solucion fiziologjik (pastrim)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-252",
+    "question": "Litotripsia është thyerja e gurëve në:",
+    "answers": [
+      "vezikën urinare",
+      "veshka",
+      "në uretër",
+      "kolecist"
+    ],
+    "correct": 1,
+    "explanation": "Litotripsia përdoret më së shpeshti për thyerjen e gurëve renalë (veshka)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-253",
+    "question": "Një plagë quhet e papastër kur:",
+    "answers": [
+      "nuk ka rrjedhje të madhe nga organet viscerale",
+      "kur ka pezmatim pa eksudat qelbëzues",
+      "që nuk kanë shenja të pezmatimit",
+      "nëse ka suporacion"
+    ],
+    "correct": 3,
+    "explanation": "Plaga quhet e papastër kur ka supuracion (infeksion i shfaqur)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-254",
+    "question": "Faktorët e rrezikut për infeksione spitalore të plagëve janë të gjitha përveç:",
+    "answers": [
+      "përkujdesja perioperative",
+      "sterilizimi i pajisjeve",
+      "gjendja e të sëmurit",
+      "statusi emocional i të sëmurit"
+    ],
+    "correct": 3,
+    "explanation": "Statusi emocional nuk është faktor kryesor rreziku për infeksione spitalore të plagëve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-255",
+    "question": "Irrigimi i plagës nënkupton:",
+    "answers": [
+      "suturimi i plagës",
+      "trajtimi me antibiotik",
+      "lavazhi i plagës",
+      "fashimi i plagës"
+    ],
+    "correct": 2,
+    "explanation": "Irrigimi i plagës nënkupton lavazhin (pastrimin me lëngje) e saj."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-256",
+    "question": "Në djegien e shkallës së dytë përfshihet:",
+    "answers": [
+      "shkatërrimi i shtresave të epidermës",
+      "shkatërrimi i epidermës dhe shtresave të sipërme të dermës",
+      "shkatërrim të indeve nënshtresore.",
+      "shkatërim total të epidermës dhe të dermës"
+    ],
+    "correct": 1,
+    "explanation": "Djegia e shkallës së dytë përfshin epidermën dhe shtresat sipërfaqësore të dermës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-257",
+    "question": "Gjatë djegies pacienti ka humbje më të theksuar të:",
+    "answers": [
+      "plazmës",
+      "gjakut",
+      "urinës",
+      "djersës"
+    ],
+    "correct": 0,
+    "explanation": "Djegiet shkaktojnë humbje të theksuar plazme."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-258",
+    "question": "Ku përdoret rregulli i 9-ës:",
+    "answers": [
+      "në politrauma",
+      "në ngririet trupore",
+      "në djegiet trupore",
+      "plagët me armë zjarri"
+    ],
+    "correct": 2,
+    "explanation": "Rregulli i 9-ës përdoret për vlerësimin e përqindjes së sipërfaqes së djegur trupore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-259",
+    "question": "Ileusi adinamik zakonisht ndodh:",
+    "answers": [
+      "1 ditë pas operacionit",
+      "2 - 3 ditë pas operacionit",
+      "4 - 6 ditë pas operacionit",
+      "6 - 8 ditë pas operacionit"
+    ],
+    "correct": 0,
+    "explanation": "Ileusi adinamik postoperator zakonisht fillon menjëherë, brenda 1 dite pas operacionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-260",
+    "question": "Ileusi adinamik:",
+    "answers": [
+      "Ka një prognozë të varfër",
+      "Në përgjithësi ka prognozë të mirë",
+      "Trajtimi është gjithmonë kirurgjikal",
+      "Është shkaku më i rrallë i obstruksionit intestinal"
+    ],
+    "correct": 1,
+    "explanation": "Ileusi adinamik postoperator zgjidhet zakonisht spontanisht dhe ka prognozë të mirë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-261",
+    "question": "Për të parandaluar ulçerën stazike venoze duhet te:",
+    "answers": [
+      "Ndërpritet aktiviteti fizik",
+      "Ekspozohet zona e prekur në temperatura të ftohta",
+      "Pozicionohen ekstremitetet më poshtë se niveli i zemrës",
+      "Të kontrollohen pulset periferike dhe temperatura e ekstremiteteve."
+    ],
+    "correct": 3,
+    "explanation": "Kontrolli i pulseve periferike dhe temperaturës ndihmon parandalimin e ulçerave venoze."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-262",
+    "question": "Faktor që nuk ndikon në kalkulozën e aparatit urinar është:",
+    "answers": [
+      "Staza urinare",
+      "Infeksioni i traktit urinar",
+      "Staza venoze",
+      "Dehidrimi"
+    ],
+    "correct": 2,
+    "explanation": "Staza venoze nuk lidhet me formimin e gurëve urinarë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-263",
+    "question": "Për të mbajtur bilancin elektrolitik, nuk është vlerësim specifik:",
+    "answers": [
+      "Niveli i elektroliteve",
+      "Marrjet dhe nxjerrjet e likideve",
+      "Turgori i lëkurës",
+      "Niveli i gazeve në gjak"
+    ],
+    "correct": 3,
+    "explanation": "Gazanaliza e gjakut lidhet më shumë me statusin acido-bazik/respirator sesa direkt me bilancin elektrolitik."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-264",
+    "question": "Cili është qëllimi kryesor i vlerësimit infermieror preoperator?",
+    "answers": [
+      "Të reduktojë morbiditetin dhe mortalitetin perioperator",
+      "Të merren të dhëna për sëmundjen kirurgjikale",
+      "Të hartohet një strategji menaxhimi",
+      "Të hartohet një plan anestetik"
+    ],
+    "correct": 0,
+    "explanation": "Qëllimi kryesor i vlerësimit preoperator është reduktimi i morbiditetit dhe mortalitetit perioperator."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-265",
+    "question": "Sa orë para duhet të ushqehen neonatët dhe fëmijët para kirurgjisë?",
+    "answers": [
+      "2 orë para kirurgjisë",
+      "30 minuta para kirurgjisë",
+      "6 orë para kirurgjisë",
+      "4 orë para kirurgjisë"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijët dhe neonatët ushqehen 6 orë para kirurgjisë, që stomaku të jetë bosh dhe të shmanget aspirimi gjatë anestezisë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-266",
+    "question": "Bronkospazma mund të shkaktojë:",
+    "answers": [
+      "Qëndrueshmëri hemodinamike",
+      "Hiperventilim postoperator",
+      "Insufiçiencë renale",
+      "Hipoventilim dhe hipoksemi V.1"
+    ],
+    "correct": 3,
+    "explanation": "Bronkospazma shkakton hipoventilim dhe hipoksemi."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-267",
+    "question": "Cili është standardi bazë për të vlerësuar shkëmbimin e gazeve në pulmone?",
+    "answers": [
+      "Presioni arterial i dioksidt të karbonit",
+      "Presioni arterial i oksigjenit",
+      "PH dhe gazet e gjakut arterial",
+      "Niveli i oksihemoglobinës"
+    ],
+    "correct": 2,
+    "explanation": "Gazanaliza e gjakut arterial (PH+gazet) është standardi bazë për vlerësimin e shkëmbimit të gazeve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-268",
+    "question": "Vlera e saktë e presionit arterial të oksigjenit është:",
+    "answers": [
+      "50-70 mmHg",
+      "90-100 mmHg",
+      "100-120 mmHg",
+      "30-40 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Vlera normale e PaO2 është rreth 90-100 mmHg."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-269",
+    "question": "Shoku hipvolemik shkaktohet nga humbja e:",
+    "answers": [
+      "20-25% të masës qarkulluese të gjakut",
+      "5-10% të masës qarkulluese të gjakut",
+      "2-3% të masës qarkulluese të gjakut",
+      "1-5%të masës qarkulluese të gjakut"
+    ],
+    "correct": 0,
+    "explanation": "Shoku hipovolemik shfaqet kur humbet rreth 20–25% e masës qarkulluese të gjakut; humbjet më të vogla kompensohen nga takikardia dhe vazokonstriksioni."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-270",
+    "question": "Në shokun hipovolemik kemi:",
+    "answers": [
+      "Hipertension",
+      "Lëkurë të zbehtë dhe të ftohtë",
+      "Puls I ngadaltë",
+      "Diurezë të shtuar"
+    ],
+    "correct": 1,
+    "explanation": "Në shokun hipovolemik lëkura është e zbehtë dhe e ftohtë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-271",
+    "question": "Interventet infermierore në rastin e shokut fillojnë me:",
+    "answers": [
+      "Rivendosjen e funkionit kardiak",
+      "Reduktimin e ankthit",
+      "Përmirësimi i oksigjenimit",
+      "Rivendosjen e bilancit elektrolitik"
+    ],
+    "correct": 2,
+    "explanation": "Ndërhyrja e parë në shok është përmirësimi i oksigjenimit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-272",
+    "question": "Pas ingjestionit të substancave korrozive është i kundërindikuar:",
+    "answers": [
+      "Shplarja me likide menjëherë pas ingjestionit",
+      "Lavazhi gastrik",
+      "Hollimi i substancës korrozive",
+      "Sigurimi i rrugëve respiratore"
+    ],
+    "correct": 1,
+    "explanation": "Lavazhi gastrik është i kundërindikuar pas ingjestionit të substancave korrozive."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-273",
+    "question": "Në helmimet ingjestive me helme, kur pacienti nuk është koshient së pari aplikojmë:",
+    "answers": [
+      "Lavazhin me sondë orogastrike",
+      "Aspirimin gastrik",
+      "Vendosja e tubit endotrakeal për të mbrojtur rrugët respiratore",
+      "Provokimin e të vjellave"
+    ],
+    "correct": 2,
+    "explanation": "Te pacienti jo koshient, siguria e rrugëve respiratore (intubimi) është prioritet i parë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-274",
+    "question": "Në helmimet me substanca fortësisht acide ose bazike kundraindikohen:",
+    "answers": [
+      "Inserimi i sondës nazogastrike me shumë kujdes",
+      "Radiografia",
+      "Provokimi i të vjellave",
+      "Përdorimi i qumështit në raste të veçanta"
+    ],
+    "correct": 2,
+    "explanation": "Provokimi i të vjellave është i kundërindikuar në helmimet acide/bazike (rrezik dëmtimi shtesë)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-275",
+    "question": "Veprimi i parë infermieror në rastin e reaksionit akut hemolitik është:",
+    "answers": [
+      "Administrimi i kortikosteroideve",
+      "Trajtimi i hipotensionit me likide dhe vazopresorë",
+      "Dërgimi i një mostre gjaku në bankën e gjakut",
+      "Ndërprerja e menjëhershme e transfuzionit"
+    ],
+    "correct": 3,
+    "explanation": "Veprimi i parë është ndërprerja e menjëhershme e transfuzionit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-276",
+    "question": "Simptomat më specifike të reaksionit anafilaktik mund të jenë:",
+    "answers": [
+      "Temperaturë",
+      "Urtikarje, edema,marrje mendsh,dispne",
+      "Hipotension",
+      "Hemoragji e pashpjegueshme"
+    ],
+    "correct": 1,
+    "explanation": "Triada urtikarje-edemë-dispne (me marrje mendsh) është më specifike për reaksionin anafilaktik."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-277",
+    "question": "Dhimbja e patrajtuar shkakton:",
+    "answers": [
+      "Rritjen e kërkesave për oksigjen",
+      "Ulje të pulsit",
+      "Ulje të presionit arterial",
+      "Reduktim të ideve suicidale"
+    ],
+    "correct": 0,
+    "explanation": "Dhimbja e patrajtuar rrit kërkesat metabolike dhe për oksigjen."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-278",
+    "question": "Shoku anafilaktik nuk paraqitet me:",
+    "answers": [
+      "Bronkospazëm",
+      "Ulje të sekrecioneve gastrike",
+      "Hipovolemi",
+      "Rritje të peristaltikës intestinale"
+    ],
+    "correct": 1,
+    "explanation": "Shoku anafilaktik nuk shoqërohet tipikisht me ulje të sekrecioneve gastrike."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-279",
+    "question": "Vlerat e presionit venoz central janë:",
+    "answers": [
+      "Shumë të ulëta në shokun hipovolemik",
+      "Shumë të ulëta në shokun septik",
+      "Normale në shokun kardiogjen",
+      "Shumë të larta në shokun hemoragjik"
+    ],
+    "correct": 0,
+    "explanation": "Presioni venoz central është shumë i ulët në shokun hipovolemik."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-280",
+    "question": "Shoku është një sindrom i:",
+    "answers": [
+      "Hipertensionit dhe perfuzionit relativisht të lartë indor",
+      "Presionit arterial të lartë",
+      "Hipotensionit dhe perfuzionit të ulët indor",
+      "Rritjes së masës qarkulluese"
+    ],
+    "correct": 2,
+    "explanation": "Shoku është sindrom i hipotensionit dhe perfuzionit të ulët indor."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-281",
+    "question": "Rastet kur nuk indikohet intubimi endotrakeal:",
+    "answers": [
+      "Ventilim i papërshtatshëm",
+      "Obstruksion i rrugëve respiratore",
+      "Saturimi i oksigjenit është mbi 90%",
+      "Insufiçienca respiratore"
+    ],
+    "correct": 3,
+    "explanation": "Intubimi endotrakeal indikohet në insufiçiencën respiratore me hiperkapni."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-282",
+    "question": "Intubimi endotrakeal nuk konsiderohet i vështirë nëse:",
+    "answers": [
+      "Qafa është e shkurtër dhe e trashë",
+      "Nuk ka trauma në rrugët e sipërme respiratore",
+      "Trakea e zhvendosur nga vija e mesit",
+      "Edema është prezente"
+    ],
+    "correct": 1,
+    "explanation": "Mungesa e traumës në rrugët e sipërme respiratore lehtëson intubimin."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-283",
+    "question": "Për të mbajtur një ventilim normal duhet të:",
+    "answers": [
+      "Të aspirohet vazhdimisht në trake",
+      "Mos ndryshohet pozicioni i pacientit",
+      "Të hiqen drenat pas 7-8 ditësh",
+      "Administrohet oksigjen jo i lagështuar"
+    ],
+    "correct": 2,
+    "explanation": "Heqja e drenave pas 7-8 ditësh (sipas protokollit) mbështet ventilimin normal të vazhdueshëm."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-284",
+    "question": "Obeziteti nuk favorizon komplikacione postoperatore të tilla si:",
+    "answers": [
+      "Infeksion",
+      "Dehishencë të suturave",
+      "Obstruksion të rrugëve respiratore",
+      "Psikozën postoperatore"
+    ],
+    "correct": 3,
+    "explanation": "Obeziteti nuk shoqërohet drejtpërdrejt me psikozën postoperatore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-285",
+    "question": "Të dhënat për sistemin respirator në kujdesin intensiv, duhet të vlerësohen dhe dokumentohen:",
+    "answers": [
+      "Çdo 1 orë",
+      "Çdo 15 minuta",
+      "Çdo 5 minuta",
+      "Çdo 2 orë"
+    ],
+    "correct": 0,
+    "explanation": "Në terapi intensive, të dhënat respiratore vlerësohen/dokumentohen çdo orë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-286",
+    "question": "Obstruksioni respirator nuk manifestohet me:",
+    "answers": [
+      "Cianozë",
+      "Apne",
+      "Nivele normale të gazeve në gjakun arterial",
+      "Përdorim të muskujve aksesorë"
+    ],
+    "correct": 2,
+    "explanation": "Obstruksioni respirator shoqërohet me gaze të gjakut anormale, jo normale."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-287",
+    "question": "Në rastin e ventilimit jo të përshtatshëm kemi:",
+    "answers": [
+      "Ulje të presionit të dioksidit të karbonit",
+      "Ulje të PH të gjakut ( acidozë respiratore)",
+      "Rritje të PH sistemik",
+      "Funksion të ruajtur të miokardit"
+    ],
+    "correct": 1,
+    "explanation": "Ventilimi joadekuat shkakton acidozë respiratore (ulje të pH-së)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-288",
+    "question": "Stafi infermieror para interventit kirurgjikal nuk mund të përcaktojë:",
+    "answers": [
+      "Diagnozën, lidhur me ankthin preoperator",
+      "Diagnozën ,lidhur me nivelin e dhimbjes",
+      "Llojin e anestezisë që do të aplikohet",
+      "Komplikacionet potenciale në periudhën postoperatore"
+    ],
+    "correct": 2,
+    "explanation": "Lloji i anestezisë përcaktohet nga anestezisti, jo nga stafi infermieror."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-289",
+    "question": "Anestezia gjenerale mund të realizohet:",
+    "answers": [
+      "Vetëm duke administruar lëndë anestetike inhalatore",
+      "Duke kombinuar lëndët anestetike inhalatore, I/Venoze dhe oksigjen",
+      "Nëpërmjet lëndëve anestetike I/Venoze",
+      "Duke administruar lëndë anestetike S/Kutane"
+    ],
+    "correct": 1,
+    "explanation": "Anestezia gjenerale realizohet zakonisht duke kombinuar anestetikë inhalatorë, intravenozë dhe oksigjen."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-290",
+    "question": "Personat e infektuar dhe që janë alkoolike kanë tendencë të dobësimit funksional të:",
+    "answers": [
+      "aparatit kardiak",
+      "urinar",
+      "lokomotor",
+      "olfaktor"
+    ],
+    "correct": 2,
+    "explanation": "Alkoolizmi kronik shoqërohet me dobësim funksional të aparatit lokomotor (neuropati, ataksi)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-291",
+    "question": "Shoku septik fillon me të gjitha shenjat e mëposhtme përveç:",
+    "answers": [
+      "ethe",
+      "stres",
+      "temperaturë të lartë",
+      "hypotension"
+    ],
+    "correct": 1,
+    "explanation": "Shoku septik jep ethe, temperaturë të lartë dhe hipotension; stresi nuk është shenjë klinike e tij."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-292",
+    "question": "Infeksioni nozokomial nuk merret me:",
+    "answers": [
+      "me vendosjen e kateterit Foley",
+      "kanjulave IV",
+      "sondës nazogastrike",
+      "komunikim të drejtëpërdrejt me pacientin"
+    ],
+    "correct": 3,
+    "explanation": "Komunikimi i thjeshtë me pacientin nuk është rrugë transmetimi për infeksionet nozokomiale, ndryshe nga pajisjet invazive."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-293",
+    "question": "Organizmi shkaktar për gjendjen e sepsit të rëndë nuk mund të jetë:",
+    "answers": [
+      "Escherichia coli",
+      "klebsiella",
+      "stafilococcus aureus",
+      "virusi"
+    ],
+    "correct": 3,
+    "explanation": "Sepsa e rëndë shkaktohet kryesisht nga bakteret, jo nga viruset."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-294",
+    "question": "Menaxhimi i Shoku-t Septik bëhet:",
+    "answers": [
+      "me dhënien e antibiotikëve",
+      "likideve",
+      "oksigjenit",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Menaxhimi i shokut septik përfshin njëkohësisht antibiotikë, likide dhe oksigjen."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-295",
+    "question": "Sa duhet të jetë diureza që të themi se funksioni renal vjen duke u përmirësuar:",
+    "answers": [
+      "20 ml/ore",
+      "25 ml/ore",
+      "30 ml/ore",
+      "40 ml/ore"
+    ],
+    "correct": 2,
+    "explanation": "Diureza mbi 30 ml/orë tregon përmirësim të funksionit renal."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-296",
+    "question": "Efektin e vetë dëmtues virusi i SIDA-s e ka mbi:",
+    "answers": [
+      "limfocitet A",
+      "limfocitet C",
+      "limfocitet T",
+      "limfocitet E"
+    ],
+    "correct": 2,
+    "explanation": "Virusi HIV dëmton kryesisht limfocitet T."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-297",
+    "question": "Cili është streptokoku më i hasur tek njerëzit:",
+    "answers": [
+      "streptokoku hemolitik i grupit E",
+      "streptokoku hemolitik i grupit C",
+      "streptokoku hemolitik i grupit D",
+      "streptokoku hemolitik i grupit A"
+    ],
+    "correct": 3,
+    "explanation": "Streptokoku beta-hemolitik i grupit A është më i hasuri tek njerëzit."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-298",
+    "question": "Mononukleoza Infektive shkaktohet nga:",
+    "answers": [
+      "neisseria gonorea",
+      "clostridium botulinum",
+      "virusi Epstein-Barr",
+      "Plasmodium"
+    ],
+    "correct": 2,
+    "explanation": "Mononukleoza infektive shkaktohet nga virusi Epstein-Barr."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-299",
+    "question": "Patogenët infeksioz kualifikohen si sëmundje ngjitëse për shkak të:",
+    "answers": [
+      "aftësisë që sjell termi i infektueshëm",
+      "aftësisë së infektueshmërisë",
+      "transmetimit të mundshëm nga një person te tjetri",
+      "asnjë nga të mësipërmet"
+    ],
+    "correct": 2,
+    "explanation": "Karakteristika kyçe e sëmundjeve ngjitëse është mundësia e transmetimit nga një person te tjetri."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-300",
+    "question": "Transmetimi i sëmundjes infektive nga një vektor mekanik vjen nga:",
+    "answers": [
+      "mizat",
+      "mushkonjat",
+      "karkalecat",
+      "gjinkallat"
+    ],
+    "correct": 0,
+    "explanation": "Mizat janë vektorë mekanikë tipikë të transmetimit të sëmundjeve infektive."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-301",
+    "question": "Transmetimi i sëmundjes infektive nga një vektor organik vjen nga:",
+    "answers": [
+      "mizat",
+      "mushkonjat",
+      "karkalecat",
+      "gjinkallat"
+    ],
+    "correct": 1,
+    "explanation": "Mushkonjat janë vektorë organikë (biologjikë), pasi patogjeni zhvillohet brenda tyre."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-302",
+    "question": "Në mbikqyrjen e infeksioneve spitalore të plageve deri në:",
+    "answers": [
+      "70% të infeksioneve mund të shfaqen para hospitalizimit",
+      "70% të infeksioneve mund të shfaqen gjatë hospitalizimit",
+      "70% të infeksioneve mund të shfaqen pas daljes nga spitali",
+      "nuk egziston ndonjë e dhënë e saktë"
+    ],
+    "correct": 2,
+    "explanation": "Studimet tregojnë se deri në 70% e infeksioneve të plagëve operatore mund të shfaqen pas daljes nga spitali."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-303",
+    "question": "Shkalla e prevalencës është raporti:",
+    "answers": [
+      "nr.total i të sëmurëve me sëmundje infektive / nr. i pacientëve në total",
+      "nr. i pacientëve në total / nr.total i të sëmureve me sëmundje infektive",
+      "nr. i pacientëve në spital në krahësim me popullatën",
+      "nr. i pacientëve në infektiv / me nr. e pacientëve në spital"
+    ],
+    "correct": 0,
+    "explanation": "Prevalenca është raporti i numrit total të të sëmurëve me numrin total të popullatës/pacientëve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-304",
+    "question": "Incidenca e infeksionit për plagët operatore të pastra duhet të jetë:",
+    "answers": [
+      "nën 5 %",
+      "nën 7 %",
+      "nën 10 %",
+      "nën 15 %"
+    ],
+    "correct": 0,
+    "explanation": "Incidenca e infeksionit për plagë operatore të pastra duhet të jetë nën 5%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-305",
+    "question": "Incidenca e infeksionit për plaget operatore të papastra mund të jetë:",
+    "answers": [
+      "deri 10 %",
+      "deri 20 %",
+      "deri 25 %",
+      "deri 30 %"
+    ],
+    "correct": 3,
+    "explanation": "Plagët e papastra kanë incidencë infeksioni deri në rreth 30%."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-306",
+    "question": "Kateterët venoze periferik rekomandohen të ndërrohen:",
+    "answers": [
+      "Pas çdo 12-24 orë pas përdorimit",
+      "Pas çdo 24 - 48 orë pas përdorimit",
+      "Pas çdo 48 - 72 orë pas përdorimit",
+      "Pas çdo 72 - 96 orë pas përdorimit"
+    ],
+    "correct": 3,
+    "explanation": "Udhëzimet aktuale rekomandojnë ndërrimin e kateterëve periferikë çdo 72-96 orë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-307",
+    "question": "Shkaktari më i shpeshtë i infeksioneve spitalore është:",
+    "answers": [
+      "E. Coli",
+      "Candidas",
+      "Spiroketa",
+      "Streptokoku"
+    ],
+    "correct": 0,
+    "explanation": "E. Coli është shkaktari më i shpeshtë i infeksioneve spitalore (nosokomiale)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-308",
+    "question": "Shenja Kernig's është karakteristikë e",
+    "answers": [
+      "salmonelozes",
+      "meningokokut",
+      "stafilokokut",
+      "botulizmit"
+    ],
+    "correct": 1,
+    "explanation": "Shenja Kernig është karakteristikë klasike e meningitit (p.sh. meningokoksik)."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-309",
+    "question": "Periudha e inkubacionit të mononukleozës infektive varion:",
+    "answers": [
+      "10- 20 ditë",
+      "20- 30 ditë",
+      "30- 50 ditë",
+      "40- 60 ditë"
+    ],
+    "correct": 2,
+    "explanation": "Periudha e inkubacionit të mononukleozës infektive varion rreth 30-50 ditë."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-310",
+    "question": "Triada ethe - dhimbje fyti- zmadhim i nodyjve limfatik cervikal është karakteristik e:",
+    "answers": [
+      "tetanozit",
+      "meningokoksisë",
+      "mononukleozes infektive",
+      "stafilokoksisë"
+    ],
+    "correct": 2,
+    "explanation": "Kjo triadë klasike karakterizon mononukleozën infektive."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-311",
+    "question": "Forma më e shpeshtë e salmonelozës është:",
+    "answers": [
+      "ethet tifoide",
+      "forma gastrointestinale",
+      "bakteremia me ose pa infeksion",
+      "mbartia asimptomatike"
+    ],
+    "correct": 1,
+    "explanation": "Forma gastrointestinale (enterokoliti) është forma më e shpeshtë e salmonelozës."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-312",
+    "question": "Sëmundja e \"papastërtisë\" mund të quhet:",
+    "answers": [
+      "salmoneloza",
+      "amebiaza",
+      "ethet tifoide",
+      "shigeloza"
+    ],
+    "correct": 1,
+    "explanation": "Amebiaza quhet sëmundje e papastërtisë (e duarve të pista), sepse përhapet fekalo-oralisht nga higjiena e dobët."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-313",
+    "question": "Shoku septik shfaqet nga:",
+    "answers": [
+      "gram pozitivet",
+      "gram negativet",
+      "mundet nga gram pozitivet dhe gram negativet",
+      "myku"
+    ],
+    "correct": 2,
+    "explanation": "Shoku septik mund të shkaktohet si nga bakteret gram-pozitive ashtu edhe nga ato gram-negative."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-314",
+    "question": "Infeksionet Nosokomiale ndryshe quhen:",
+    "answers": [
+      "infeksionet komune",
+      "infeksionet ambjentale",
+      "infeksionet spitalore",
+      "infeksionet shtëpiake"
+    ],
+    "correct": 2,
+    "explanation": "Infeksionet nosokomiale njihen ndryshe si infeksione spitalore."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-315",
+    "question": "Agjenti shkaktar në një infeksion mund të jetë:",
+    "answers": [
+      "virus",
+      "protozoar",
+      "bakter",
+      "apo të gjithë"
+    ],
+    "correct": 3,
+    "explanation": "Agjenti infektiv mund të jetë virus, bakter, protozoar apo tjetër patogjen."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-316",
+    "question": "Nuk bejnë pjesë në grupin e përhapjes së infeksionëve nga vektorët:",
+    "answers": [
+      "njerëzit",
+      "minjtë",
+      "mizat",
+      "mushkonjat"
+    ],
+    "correct": 0,
+    "explanation": "Njerëzit nuk konsiderohen vektorë të përhapjes së infeksioneve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-317",
+    "question": "Faktorët e rrezikut për infeksione spitalore të plagëve janë të gjitha përveç:",
+    "answers": [
+      "përkujdesja perioperative",
+      "sterilizimi i pajisjeve",
+      "gjendja e të sëmurit",
+      "statusi emocional i të sëmurit"
+    ],
+    "correct": 3,
+    "explanation": "Statusi emocional nuk është faktor kryesor rreziku për infeksione spitalore të plagëve."
+  },
+  {
+    "id": "mami-bazat-kirurgji-anestezi-infektiv-318",
+    "question": "Vaksina profilaktike për hepatitin B aplikohet në:",
+    "answers": [
+      "një dozë",
+      "dy doza",
+      "tre doza",
+      "katër doza"
+    ],
+    "correct": 2,
+    "explanation": "Vaksinimi standard për hepatitin B aplikohet në tre doza."
+  }
+]

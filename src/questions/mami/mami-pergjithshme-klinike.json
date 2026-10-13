@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "mami-pergjithshme-klinike-001",
+    "question": "Nuk është e vertete ne obezitet:",
+    "answers": [
+      "Haset shpesh;",
+      "Gjendet me shume ne meshkujt;",
+      "Faktore predispozues mund te jete rritja e estrogjneve ne gjak;",
+      "Lidhet me nenushqyerjen;"
+    ],
+    "correct": 3,
+    "explanation": "Obeziteti nuk lidhet me nënushqyerjen — janë kushte të kundërta."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-002",
+    "question": "Perben urgjence kirurgjikale:",
+    "answers": [
+      "Kalkuloza e kolecistes;",
+      "Akalazia e ezofagut;",
+      "Hernia strangulative;",
+      "Noduli i ftohte i tiroides;"
+    ],
+    "correct": 2,
+    "explanation": "Hernia strangulative është urgjencë kirurgjikale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-003",
+    "question": "Kanceri i gjirit prek me shpesh kuadratin:",
+    "answers": [
+      "medial te siperm;",
+      "medial te poshtem;",
+      "lateral te poshtem;",
+      "lateral te siperm;"
+    ],
+    "correct": 3,
+    "explanation": "Kanceri i gjirit prek më shpesh kuadratin lateral të sipërm."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-004",
+    "question": "Ileusi akut i zorres se holle nuk ka orirgjine nga:",
+    "answers": [
+      "Herniet interne",
+      "Briljet",
+      "Tumoret rektale beninje",
+      "Ileusi biliar"
+    ],
+    "correct": 2,
+    "explanation": "Tumoret rektale beninje ndodhen në rektum (zorra e trashë), jo në zorrën e hollë, kështu që nuk shkaktojnë ileus të zorrës së hollë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-005",
+    "question": "Nuk është okluzion nga shtrengimi ai i shkaktuar nga:",
+    "answers": [
+      "Brilja",
+      "Volvusi",
+      "Invaginacioni",
+      "Ileusi biliar"
+    ],
+    "correct": 3,
+    "explanation": "Ileusi biliar shkakton obstruksion, jo strangulim vaskular."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-006",
+    "question": "Kolecistiti akut kalkuloz nuk është urgjence absolute kirurgjikale:",
+    "answers": [
+      "Ne perionitin biliar,",
+      "Piokolecistit;",
+      "Kolecistopankreatit,",
+      "Gangrene te kolecistes"
+    ],
+    "correct": 2,
+    "explanation": "Kolecistopankreatiti trajtohet fillimisht më shumë në linjë medikale/të kombinuar, ndryshe nga tre gjendjet e tjera që janë urgjenca absolute kirurgjikale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-007",
+    "question": "Kolecistiti akut nuk konsiderohet rast i \"keq\" kirurgjikal ne:",
+    "answers": [
+      "Pacientet geriartrik",
+      "Insuficience renale,",
+      "Ne obezitet,",
+      "Ne lehoni,"
+    ],
+    "correct": 3,
+    "explanation": "Lehonia (periudha pas lindjes) nuk konsiderohet vetvetiu faktor rreziku kirurgjikal i lartë, ndryshe nga mosha e thyer, insuficienca renale apo obeziteti."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-008",
+    "question": "Hemorragjia nga barra ekstrauterine është:",
+    "answers": [
+      "Hemorragji digjestive e larte,",
+      "Hemorragji digjestive e poshtme,",
+      "Hemorragji retroperitoneale",
+      "Hemoperitoneum"
+    ],
+    "correct": 3,
+    "explanation": "Ruptura e barrës ekstrauterine shkakton hemoperitoneum."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-009",
+    "question": "Salla operatore është vendi ku:",
+    "answers": [
+      "Trajtohen kirurgjikalisht te semuret;",
+      "Ku shtrohen per trajtim pacientet;",
+      "Ku shtrohen per trajtim pacientet kirurgjikal;",
+      "Ku trajtohen intensivisht te semuret kirurgjikal;"
+    ],
+    "correct": 0,
+    "explanation": "Salla operatore është vendi ku trajtohen kirurgjikalisht të sëmurët."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-010",
+    "question": "Nuk është karakterisitke ne ileusin mekanik:",
+    "answers": [
+      "Stop i feceve dhe gazrave;",
+      "Nauze e te vjella;",
+      "Dhimbja abdominale;",
+      "Mungesa e hidroniveleve ne ro-grafi;"
+    ],
+    "correct": 3,
+    "explanation": "Në ileusin mekanik radiografia zakonisht TREGON hidronivele, mungesa e tyre është pohimi i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-011",
+    "question": "Agjenti me i vlefshem i perdorur si sterilizues te autoklavi është:",
+    "answers": [
+      "Ajri ujor nenpresion;",
+      "Forma e autoklavit;",
+      "Koha;",
+      "Nxehtesia;"
+    ],
+    "correct": 3,
+    "explanation": "Në autoklav sterilizon nxehtësia (e bartur nga avulli nën presion), që shkatërron mikroorganizmat dhe sporet."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-012",
+    "question": "Nuk është karakteristike e fazes akute te infeksionit:",
+    "answers": [
+      "Dhimbja;",
+      "Temperatura;",
+      "Leukopenia;",
+      "Hiperemia;"
+    ],
+    "correct": 2,
+    "explanation": "Faza akute e infeksionit shoqërohet me leukocitozë, jo leukopeni."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-013",
+    "question": "Është inflamacion i gjendrave limfatike:",
+    "answers": [
+      "Adeniti;",
+      "Celuliti;",
+      "Furunkuli;",
+      "Limfangoidi;"
+    ],
+    "correct": 0,
+    "explanation": "Limfadeniti është inflamacion i gjëndrave limfatike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-014",
+    "question": "Nuk është parameter kryesor ne vleresimin e gjendjes se te ushqyerit:",
+    "answers": [
+      "Klinik;",
+      "Imunologjik;",
+      "Dietetik;",
+      "Bioumoral;"
+    ],
+    "correct": 1,
+    "explanation": "Parametri imunologjik konsiderohet më pak parësor krahasuar me klinikun, dietetikun dhe biohumoralin."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-015",
+    "question": "Nuk është e vertete per ushiqimin parenteral:",
+    "answers": [
+      "Është ushqim artificial i pacientit kirurgjikal;",
+      "Merret me rruge venoze;",
+      "Merret me rruge arteriale;",
+      "Merret kur ushqimi oral ose enteral jane te pamundura;"
+    ],
+    "correct": 2,
+    "explanation": "Ushqimi parenteral administrohet me rrugë venoze, jo arteriale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-016",
+    "question": "Portagia është instrument kirurgjikal qe perdoret per:",
+    "answers": [
+      "Te suturuar;",
+      "Per te diveriguar;",
+      "Per te mbajtur agen",
+      "Per te mbajtur lamen;"
+    ],
+    "correct": 2,
+    "explanation": "Portagia është mbajtësi i gjilpërës dhe përdoret për të mbajtur gjilpërën gjatë suturimit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-017",
+    "question": "Nuk është urgjence kirurgjikale:",
+    "answers": [
+      "Hemorragjia digjestive;",
+      "Ulcer bulbi duodeni e perforuar;",
+      "Kalkuloza e kolecistes;",
+      "Apendiciti akut;"
+    ],
+    "correct": 2,
+    "explanation": "Kalkuloza asimptomatike/e pakomplikuar e kolecistës nuk përbën vetvetiu urgjencë kirurgjikale, ndryshe nga hemoragjia digjestive, ulçera e perforuar apo apendiciti akut."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-018",
+    "question": "Fibrogastroskopia mund te jete mjet trajtimi per:",
+    "answers": [
+      "Hemorragjine digjestive;",
+      "Perforacionin e ulcers duodenale;",
+      "Stenozen pylorike;",
+      "Peritonitin post ulcers se perforuar;"
+    ],
+    "correct": 0,
+    "explanation": "Fibrogastroskopia mund të përdoret si mjet trajtimi (hemostatik) për hemoragjinë digjestive."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-019",
+    "question": "Nuk ndodh ne hemorragjine gastro intestinale:",
+    "answers": [
+      "Melene;",
+      "Hemoptizi;",
+      "Hematemeza;",
+      "Anemia;"
+    ],
+    "correct": 1,
+    "explanation": "Hemoptizia është gjakderdhje respiratore, jo gastrointestinale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-020",
+    "question": "Nuk është komplikacion i nderhryjeve venoze qendrore:",
+    "answers": [
+      "Pneumotoraksi;",
+      "Nenushqyerjai;",
+      "Limforrea;",
+      "Embolia;"
+    ],
+    "correct": 1,
+    "explanation": "Nënushqyerja nuk është komplikacion i vendosjes së kateterit venoz qendror."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-021",
+    "question": "Është inflamacion i gjendrave te djerses:",
+    "answers": [
+      "Adeniti;",
+      "Celuliti;",
+      "Hidroadeniti;",
+      "Furunkuli;"
+    ],
+    "correct": 2,
+    "explanation": "Hidroadeniti është inflamacion i gjëndrave të djersës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-022",
+    "question": "Nuk është parameter kryesor ne vleresimin e gjendjes se te ushqyerit:",
+    "answers": [
+      "Klinik;",
+      "Imunologjik;",
+      "Dietetik;",
+      "Bioumoral;"
+    ],
+    "correct": 1,
+    "explanation": "Parametri imunologjik konsiderohet më pak parësor krahasuar me klinikun, dietetikun dhe biohumoralin."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-023",
+    "question": "Është urgjenca me e shpeshtë kirurgjikale:",
+    "answers": [
+      "Hemorragjia digjestive;",
+      "Ulcer bulbi duodeni e perforuar;",
+      "Apendiciti akut;",
+      "Kalkuloza e kolecistes;"
+    ],
+    "correct": 3,
+    "explanation": "Patologjitë e kolecistës (kolelitiaza/kolecistiti akut) janë ndër shkaqet më të shpeshta të urgjencave kirurgjikale abdominale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-024",
+    "question": "Neuronet e kanë origjinën në:",
+    "answers": [
+      "Epitelin e tubit neural",
+      "Kavitetin e tubit neural",
+      "Ektoderme",
+      "Endodermë"
+    ],
+    "correct": 2,
+    "explanation": "Neuronet kanë origjinë embrionale nga ektoderma (nëpërmjet tubit neural)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-025",
+    "question": "Rrjeta dendritike e një neuroni është:",
+    "answers": [
+      "Pjesa dalëse e informacioneve;",
+      "Pjesa receptive e neuronit;",
+      "Pjesa ku kryhen proceset metabolike të nevojshme për mbijetesën e neuronit;",
+      "Pjesa e përpunimit të informacionit të ardhur në neuron."
+    ],
+    "correct": 1,
+    "explanation": "Dendritet janë pjesa receptive e neuronit, ku merren sinjalet hyrëse."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-026",
+    "question": "Neuronet më të mëdha të SNQ janë:",
+    "answers": [
+      "Neuronet e korteksit cerebellar;",
+      "Neuronet e mesencefalonit;",
+      "Neuronet e medullës oblongata;",
+      "Neuronet motore të zonës primare motore."
+    ],
+    "correct": 3,
+    "explanation": "Neuronet motore piramidale (qelizat Betz) të korteksit motor primar janë ndër më të mëdhatë e SNQ."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-027",
+    "question": "Degjenerimi i korteksit apo sistemeve të tjera neuronale, nënkupton:",
+    "answers": [
+      "Atrofi graduale neuronale që con në humbje neuronale;",
+      "Humbje të qelizave gliale;",
+      "Humbje dhe pakësim të zgjatimeve aksonale;",
+      "Humbje të mbështjellës mielinike."
+    ],
+    "correct": 0,
+    "explanation": "Degjenerimi neuronal nënkupton atrofi graduale që çon në humbje neuronale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-028",
+    "question": "Edema cerebrale vazogjenike shkaktohet nga:",
+    "answers": [
+      "Dalja e gjakut nga vazat cerebrale në hapësirat përreth tyre;",
+      "Humbja e lëngut në hapësirën intersticiale për shkak të prishjes së integritetit të barrierës endoteliale;",
+      "Dalja e gjakut në hapësirat qarkulluese të likuorit cerebrospinal;",
+      "Dalja e gjakut në hapësirën subaraknoidale."
+    ],
+    "correct": 1,
+    "explanation": "Edema vazogjenike shkaktohet nga prishja e integritetit të barrierës gjak-tru (endoteliale), me kalim lëngu në hapësirën intersticiale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-029",
+    "question": "Encefalopatia bilirubinike është:",
+    "answers": [
+      "Encefalopati metabolike e fituar e periudhës neonatale;",
+      "Encefalopati metabolike e të rriturit;",
+      "Encefalopati hypoksike-iskemike;",
+      "Encefalopati metabolike e trashëguar."
+    ],
+    "correct": 0,
+    "explanation": "Kern-ikteri (encefalopatia bilirubinike) është encefalopati metabolike e fituar, specifike e periudhës neonatale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-030",
+    "question": "Severiteti i semundjeve të depozitimit lizozomal varet nga:",
+    "answers": [
+      "Mosha e shfaqjes;",
+      "Mënyra e trashëgimisë;",
+      "Sëmundjet shoqëruese;",
+      "Aktiviteti residual I enzimës lizozomale."
+    ],
+    "correct": 3,
+    "explanation": "Ashpërsia e sëmundjeve të depozitimit lizozomal varet kryesisht nga aktiviteti residual i enzimës defiçente."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-031",
+    "question": "Shenjat klinike të Leukodistrofisë metakromatike shfaqen në fëmijët:",
+    "answers": [
+      "E porsalindur;",
+      "0 - 1 vjec;",
+      "1 - 2 vjec;",
+      "> 2 vjec."
+    ],
+    "correct": 2,
+    "explanation": "Forma më e shpeshtë (infantile e vonshme) e leukodistrofisë metakromatike shfaqet tipikisht mes 1-2 vjeç."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-032",
+    "question": "Infeksionet perinatale dhe kongenitale të SNQ kanë shkaktarët më të shpeshtë:",
+    "answers": [
+      "Infeksionet bakteriale;",
+      "Infeksionet mykotike",
+      "Infeksionet virale, parazitare dhe spiroketale;",
+      "Infeksionet tuberkulare."
+    ],
+    "correct": 2,
+    "explanation": "Infeksionet TORCH (virale, parazitare, spiroketale) janë shkaktarët më të shpeshtë të infeksioneve kongenitale të SNQ."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-033",
+    "question": "Shënjat dhe simptomat e tumoreve cerebrale përcaktohen nga:",
+    "answers": [
+      "Mosha e pacientit.",
+      "Lloji I qelizave përbërëse të masës tumorale;",
+      "Faktorët sistemikë të individit;",
+      "Lokalizimi I rritjes së tumorit dhe efekti sekondar e edemës vazogjenike."
+    ],
+    "correct": 3,
+    "explanation": "Simptomat e tumoreve cerebrale varen kryesisht nga lokalizimi dhe efekti i edemës përcjellëse."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-034",
+    "question": "Anencefalia është:",
+    "answers": [
+      "Mungesë e septum pellucidum;",
+      "Mungesë e korpusit callos;",
+      "Mungesë e cerebellumit;",
+      "Mungesë e plotë e hemisferave cerebrale apo reduktim i shprehur i përmasave të tyre."
+    ],
+    "correct": 3,
+    "explanation": "Anencefalia karakterizohet nga mungesa e plotë ose pothuajse e plotë e hemisferave cerebrale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-035",
+    "question": "Hemisferat cerebrale janë:",
+    "answers": [
+      "Identike me njëra-tjetrën;",
+      "Thuajse identike me njëra-tjetrën",
+      "Plotësisht të ndryshme nga njëra-tjetra",
+      "Të pakrahasueshme"
+    ],
+    "correct": 1,
+    "explanation": "Hemisferat cerebrale janë thuajse identike, me dallime funksionale të holla."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-036",
+    "question": "Hemisferat dallojnë nga njëra-tjetra nga:",
+    "answers": [
+      "Përmasat e lobit frontal;",
+      "Përmasat e lobit temporal;",
+      "Lokalizimi i zonës së të folurës;",
+      "Përmasat e lobit oksipital"
+    ],
+    "correct": 2,
+    "explanation": "Hemisferat dallojnë kryesisht nga lokalizimi i zonës së të folurit (lateralizim)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-037",
+    "question": "Ndarja e hemisferave për arsye didaktike bëhet në:",
+    "answers": [
+      "2 lobe;",
+      "3 lobe;",
+      "4 lobe;",
+      "5 lobe."
+    ],
+    "correct": 2,
+    "explanation": "Për qëllime didaktike, çdo hemisferë ndahet në 4 lobe."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-038",
+    "question": "Korteksi cerebral përbëhet nga:",
+    "answers": [
+      "Kryesisht trupa qelizash nervore;",
+      "Kryesisht zgjatimet e qelizave nervore;",
+      "Kryesisht qeliza mbështetëse (jo neurone);",
+      "Trupa qelizore dhe zgjatime të qelizave nervore në sasi thuajse të barabarta."
+    ],
+    "correct": 0,
+    "explanation": "Korteksi cerebral (lënda gri) përbëhet kryesisht nga trupa qelizash nervore."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-039",
+    "question": "Vlerësimi i funksioneve të larta konjitive është i rëndësishëm, për:",
+    "answers": [
+      "Kontributin semiologjik në lokalizimin e një lezioni;",
+      "Vlerësimin e koeficientit të inteligjencës;",
+      "Vlerësimin e funksionit cerebellar të pacientit",
+      "Vleresimin e aftësive motorike të pacientit."
+    ],
+    "correct": 0,
+    "explanation": "Vlerësimi konjitiv ndihmon në lokalizimin semiologjik të lezionit neurologjik."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-040",
+    "question": "Cila nga shenjat e mëposhtme ka të bëjë me çrregullim të vëmendjes?",
+    "answers": [
+      "Afazia;",
+      "Apraksia;",
+      "Aleksia;",
+      "Shpërqëndrimi"
+    ],
+    "correct": 3,
+    "explanation": "Shpërqëndrimi lidhet drejtpërdrejt me çrregullimin e vëmendjes."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-041",
+    "question": "Afazia, është crregullim:",
+    "answers": [
+      "i vëmendjes,",
+      "i të folurit,",
+      "i nuhatjes",
+      "i shikimit;"
+    ],
+    "correct": 1,
+    "explanation": "Afazia është çrregullim i të folurit/gjuhës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-042",
+    "question": "Crregullimet e leximit quhen:",
+    "answers": [
+      "Disleksi;",
+      "Afazi;",
+      "Anosmi;",
+      "Agnozi"
+    ],
+    "correct": 0,
+    "explanation": "Çrregullimet e leximit quhen disleksi."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-043",
+    "question": "Apraksia është paaftësi për të:",
+    "answers": [
+      "kryer lëvizje të vullnetshme në mungesë të defiçiteve motore;",
+      "folur;",
+      "nuhatur;",
+      "shkruar."
+    ],
+    "correct": 0,
+    "explanation": "Apraksia është paaftësia për të kryer lëvizje të qëllimshme pa pasur defiçit motor."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-044",
+    "question": "Crregullimet e memories quhen:",
+    "answers": [
+      "Afazi;",
+      "Agrafi;",
+      "Amnezi;",
+      "Disfagi"
+    ],
+    "correct": 2,
+    "explanation": "Çrregullimet e kujtesës quhen amnezi."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-045",
+    "question": "Nervi cranial tek i cili mund të ndodhë dëmtim central apo periferik është:",
+    "answers": [
+      "Nervi II;",
+      "Nervi V;",
+      "Nervi IX",
+      "Nervi VII"
+    ],
+    "correct": 3,
+    "explanation": "Nervi VII (facial) klasifikohet me dëmtim qendror ose periferik (paralizë faciale qendrore vs periferike)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-046",
+    "question": "Anosmia është shenjë e dëmtimit të:",
+    "answers": [
+      "Nervave olfaktorë;",
+      "Nervave facial;",
+      "Nervave glosofaringealë;",
+      "Nervave trigeminalë"
+    ],
+    "correct": 0,
+    "explanation": "Anosmia lidhet me dëmtimin e nervit olfaktor."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-047",
+    "question": "Ptoza palpebrale haset në dëmtimet e:",
+    "answers": [
+      "Nervit olfaktor;",
+      "Nervit okulomotor;",
+      "Nervit trigeminal;",
+      "Nervit hypogloss."
+    ],
+    "correct": 1,
+    "explanation": "Ptoza palpebrale haset në dëmtimin e nervit okulomotor."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-048",
+    "question": "Shenja e \"Bell\", haset në:",
+    "answers": [
+      "Neuralginë trigeminale",
+      "Paralizën faciale centrale",
+      "Paralizën faciale periferike;",
+      "Neuralgjinë glosso-faringeale."
+    ],
+    "correct": 2,
+    "explanation": "Shenja Bell haset në paralizën faciale periferike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-049",
+    "question": "Në dëmtimet e nervit glosso-faringeal kemi humbjen e shijes në:",
+    "answers": [
+      "1/3 e përparme të gjuhës;",
+      "1/3 e mesme të gjuhës;",
+      "1/3 e pasme të gjuhës;",
+      "Gjithë gjuhën."
+    ],
+    "correct": 2,
+    "explanation": "Nervi glosofaringeal siguron shijen në 1/3 e pasme të gjuhës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-050",
+    "question": "Nervi hypogloss është:",
+    "answers": [
+      "Nerv sensitiv;",
+      "Nerv motor;",
+      "Nerv miks (sensitivo-motor);",
+      "Nerv me funksion parasimpatik."
+    ],
+    "correct": 1,
+    "explanation": "Nervi hipoglos është nerv motor."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-051",
+    "question": "Shenja \"Babinski\", haset në:",
+    "answers": [
+      "Dëmtime të rrugëve ekstrapiramidale;",
+      "Dëmtime të nervave kraniale;",
+      "Dëmtime cerebellare",
+      "Dëmtime të rrugëve piramidale"
+    ],
+    "correct": 3,
+    "explanation": "Shenja Babinski pozitive tregon dëmtim të rrugëve piramidale (kortikospinale)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-052",
+    "question": "Tremori cerebellar është tremor:",
+    "answers": [
+      "Intencional, vecanërisht në fund të lëvizjes;",
+      "Tremor qetësie;",
+      "Me përqëndrim distal;",
+      "Shoqëruar me crrëgullime të të folurit."
+    ],
+    "correct": 0,
+    "explanation": "Tremori cerebellar është tipi intencional, i theksuar në fund të lëvizjes së qëllimshme."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-053",
+    "question": "Hypotonia muskulare është:",
+    "answers": [
+      "Pakësim i rezistencës ndaj lëvizjes passive të anësive;",
+      "Shtim i rezistencës ndaj lëvizjes passive të anësive",
+      "Reziztencë e pandryshuar ndaj lëvizjes passive të anësive",
+      "Mungesë e rezistencës ndaj lëvizjes passive të anësive."
+    ],
+    "correct": 0,
+    "explanation": "Hipotonia është pakësimi i rezistencës ndaj lëvizjes pasive."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-054",
+    "question": "Skleroza multiple është patologji:",
+    "answers": [
+      "Dismielinizante hereditare;",
+      "Dismielinizante e fituar;",
+      "Demielinizante;",
+      "Metabolike."
+    ],
+    "correct": 2,
+    "explanation": "Skleroza multiple është sëmundje demielinizante."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-055",
+    "question": "M. Alzheimer është sëmundje:",
+    "answers": [
+      "Demielinizante;",
+      "Degjenerative progressive;",
+      "Traumatike;",
+      "Metabolike."
+    ],
+    "correct": 1,
+    "explanation": "Alzheimeri është sëmundje degjenerative progresive."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-056",
+    "question": "Në morbus Alzheimer, ndodh:",
+    "answers": [
+      "Humbje progressive neuronale në korteksin e lobeve parietale e temporal;",
+      "Humbje progressive neuronale në korteksin e lobeve oksipitale e frontale;",
+      "Humbje progressive neuronale në korteksin e lobeve frontale e parietale;",
+      "Humbje progressive neuronale në korteksin e lobeve oksipitale e parietale."
+    ],
+    "correct": 0,
+    "explanation": "Alzheimeri prek kryesisht lobet parietale dhe temporale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-057",
+    "question": "Termi adenopati i referohet:",
+    "answers": [
+      "Ënjtjes (zmadhimit) të nyjave limfatike",
+      "Ënjtjes së zorrëve të mëdha",
+      "Ënjtjes së fshikëzës së tëmthit",
+      "Ënjtjes së stomakut"
+    ],
+    "correct": 0,
+    "explanation": "Adenopatia i referohet zmadhimit të nyjave limfatike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-058",
+    "question": "Defekimi me feçe të gjakosura njihet si:",
+    "answers": [
+      "Gingivitis",
+      "Fissurë anale",
+      "Hematokezia",
+      "Hemorroide"
+    ],
+    "correct": 2,
+    "explanation": "Defekimi me feçe të gjakosura njihet si hematokezi."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-059",
+    "question": "Vjellja e gjakut është i njohur si:",
+    "answers": [
+      "Hemorroide",
+      "Hemostasis",
+      "Hematemesis",
+      "Melena"
+    ],
+    "correct": 2,
+    "explanation": "Hematemeza është vjellje gjaku."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-060",
+    "question": "Inflamacioni i mëlcisë njihet si:",
+    "answers": [
+      "Cirrhozë",
+      "Hepatit",
+      "Bulimi",
+      "Fistul"
+    ],
+    "correct": 1,
+    "explanation": "Inflamacioni i mëlçisë quhet hepatit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-061",
+    "question": "Ndjesia e djegies retrosternale njihet si:",
+    "answers": [
+      "Cardiosis",
+      "Pyrosis",
+      "Mostretje",
+      "Meteorizëm"
+    ],
+    "correct": 1,
+    "explanation": "Djegia retrosternale (urthi) quhet pirozis."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-062",
+    "question": "Të vjellat e shtuara njihen si:",
+    "answers": [
+      "Hyperpepsia",
+      "Hyperemesis",
+      "Hyperamnesia",
+      "Hyperfagia"
+    ],
+    "correct": 1,
+    "explanation": "Të vjellat e shtuara njihen si hiperemezë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-063",
+    "question": "Defekimi me feçe në ngjyrë të zezë quhet:",
+    "answers": [
+      "Diarre",
+      "Karcinozë",
+      "Konstipacion",
+      "Melena"
+    ],
+    "correct": 3,
+    "explanation": "Feçet e zeza quhen melena."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-064",
+    "question": "Inspektimi instrumental i pjesës fundore të zorrës së trashë është i njohur si:",
+    "answers": [
+      "Colostomi",
+      "Trakeostomi",
+      "Sigmoidoskopi",
+      "Tonsilektomi"
+    ],
+    "correct": 2,
+    "explanation": "Sigmoidoskopia inspekton pjesën fundore të zorrës së trashë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-065",
+    "question": "Cila nga të mëposhtmet nuk është patologji e pankreasit?",
+    "answers": [
+      "Pancreatiti akut",
+      "Kolecititi akut",
+      "Fibroza cistike",
+      "Kanceri pankreatik"
+    ],
+    "correct": 1,
+    "explanation": "Kolecistiti akut prek fshikëzën e tëmthit, jo pankreasin."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-066",
+    "question": "Disfagia është:",
+    "answers": [
+      "Vështirësi në gëlltitje",
+      "Vështirësi në tretje",
+      "Pamundësi për të përtypur",
+      "Vështirësi në defekim"
+    ],
+    "correct": 0,
+    "explanation": "Disfagia është vështirësi në gëlltitje."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-067",
+    "question": "Stenoza e lindur e pilorit:",
+    "answers": [
+      "Zakonisht paraqitet që në ditët e para të jetës",
+      "Ndodh më shpesh në meshkuj se femra",
+      "Paraqitet me të vjella me gjak",
+      "Trajtohet me FPP"
+    ],
+    "correct": 1,
+    "explanation": "Stenoza pilorike prek më shpesh meshkujt."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-068",
+    "question": "Cirroza është:",
+    "answers": [
+      "Sëmundje kronike degjenerative e mëlçisë",
+      "Tumor i gojës",
+      "Tumor i stomakut",
+      "Prania e gurëve në fshikëzën e tëmthit"
+    ],
+    "correct": 0,
+    "explanation": "Cirroza është sëmundje kronike e mëlçisë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-069",
+    "question": "Një pacient diagnoztikuar me hbs Ag (+), propabikish ka:",
+    "answers": [
+      "Një Hepatit B",
+      "Koledokolitiazë",
+      "Cirrozë biliare primare",
+      "Kolangit sklerotizant primar"
+    ],
+    "correct": 0,
+    "explanation": "HBsAg pozitiv tregon infeksion nga hepatiti B."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-070",
+    "question": "Cili ekzaminim gjaku do të ishte më i dobishem për të konfirmuar diagnozën e Cirrhozës biliare primare?",
+    "answers": [
+      "Antitrupa Antigliadinë",
+      "Antitrupa Antimitokondrial (AMA)",
+      "Antitrupa Antinuclear",
+      "Niveli i amilazes ne gjak"
+    ],
+    "correct": 1,
+    "explanation": "Antitrupat antimitokondrialë (AMA) janë markuesi diagnostikues i cirrozës biliare primare."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-071",
+    "question": "Për cilin nga viruset e hepatitit ekziston vaksina?",
+    "answers": [
+      "Për virusin A",
+      "Për virusin B",
+      "Për virusin C",
+      "Për virusin D"
+    ],
+    "correct": 1,
+    "explanation": "Ekziston vaksinë efektive për hepatitin B."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-072",
+    "question": "Per ulceren peptike jane te verteta pohimet e meposhtme pervec:",
+    "answers": [
+      "Etiopatogjeneza e se ciles ka lidhje me prishjen e ekuilibrit ndermjet faktoreve agresive dhe atyre mbrojtes te mukozes",
+      "Ne etiopatogjeneze ka rol helicobacter pilori",
+      "Prek vetem doudenin",
+      "Preparatet AIJS kane rol te rendesishem ne shkaktimin e ulcers"
+    ],
+    "correct": 2,
+    "explanation": "Ulçera peptike mund të prekë edhe stomakun, jo vetëm duodenin."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-073",
+    "question": "Lupusi Eritematoz Sistemik është te gjitha pervec:",
+    "answers": [
+      "Semundje me etiologji te njohur",
+      "Karakterizohet nga depozitimi i antikorpeve dhe komplekseve imune ne indet dhe qelizat e demtuara prej tyre",
+      "Patogjeneza lidhet me faktore gjenetike, ambientale, hormone seksuale",
+      "Kemi hiperaktivitet te Lim T dhe B"
+    ],
+    "correct": 0,
+    "explanation": "Etiologjia e LES nuk është plotësisht e njohur, është multifaktoriale/idiopatike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-074",
+    "question": "Lupusi Eritematoz Sistemik prek:",
+    "answers": [
+      "Me teper femrat me moshen e riprodhimit",
+      "Prek me teper meshkujt",
+      "Prek me teper grate ne menopauze",
+      "Prek me teper meshkujt ne pubertet"
+    ],
+    "correct": 0,
+    "explanation": "LES prek më shpesh femrat në moshën riprodhuese."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-075",
+    "question": "Lupusi Eritematoz Sistemik prek me teper:",
+    "answers": [
+      "Femrat e bardha",
+      "Femrat me ngjyre",
+      "Meshkujt e bardhe",
+      "Meshkujt me ngjyre"
+    ],
+    "correct": 1,
+    "explanation": "LES prek më shpesh femrat, me incidencë veçanërisht më të lartë te gratë me ngjyrë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-076",
+    "question": "Per Lupusin Eritematoz Sistemik jane te gjitha te verteta pervec:",
+    "answers": [
+      "Semundja mund te preki cdo organ apo sistem",
+      "Fillon me shenja te pergjithshme : dobesi, temperature subfebrile, lodhje",
+      "Semundja ka shfaqje ne lekure",
+      "Nuk shoqerohet me alterime hematologjike"
+    ],
+    "correct": 3,
+    "explanation": "LES shoqërohet shpesh me alterime hematologjike (anemi, leukopeni, trombocitopeni)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-077",
+    "question": "Antikorpet antinuklear:",
+    "answers": [
+      "Perbejne nje shenje laboratorike kryesore ndonese jo specifike per LES",
+      "Nuk jane positive ne patologji te tjera",
+      "Shkohen ne mikroskop te zakonshem",
+      "Nuk perbehet nga nentipa antikorpesh"
+    ],
+    "correct": 0,
+    "explanation": "ANA janë shenjë laboratorike kryesore, por jo specifike vetëm për LES."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-078",
+    "question": "Per mjekimin e LES perdoren te gjitha preparatet e meposhtme pervec:",
+    "answers": [
+      "Preparate AIJS",
+      "Antimalarike te sintezes",
+      "Preparate citotoksike",
+      "Levotiroksine"
+    ],
+    "correct": 3,
+    "explanation": "Levotiroksina (hormon tiroide) nuk përdoret në mjekimin e LES."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-079",
+    "question": "Artriti Reumatoid është nje semundje per te cilen jane te verteta te gjitha pervec:",
+    "answers": [
+      "Prek afersisht 0.8% te popullates",
+      "Femrat preken me shume se meshkujt",
+      "Semundja është me shpështë ne dekaden e pare dhe te dyte te jetes",
+      "Karakterizohet nga prania e sinoviteve inflamatore persistentete"
+    ],
+    "correct": 2,
+    "explanation": "Artriti reumatoid është më i shpeshtë në moshë mesatare, jo në dekadën e parë/dytë të jetës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-080",
+    "question": "Artralgjia ne Artritin Reumatoid është:",
+    "answers": [
+      "Jo simetrike",
+      "Pa rritje te ndjeshmerise gjate palpimit dhe enjtje te artikulacioneve te prekura",
+      "Preken me shume artikulacionet e vogla te gishtave",
+      "Inflamacioni per kohe te gjate nuk shkakton deformim artikulacionesh"
+    ],
+    "correct": 2,
+    "explanation": "Në artritin reumatoid preken tipikisht artikulacionet e vogla të gishtave."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-081",
+    "question": "Shfaqet ekstrartikulare te AR perfshijne te gjitha pervec:",
+    "answers": [
+      "Prekjen pulmonare",
+      "Crregullimet hematologjike",
+      "Crregullimet okulare",
+      "Pranine e hiperkeratozes dhe atrofise se lekures"
+    ],
+    "correct": 3,
+    "explanation": "Hiperkeratoza dhe atrofia e lëkurës nuk janë manifestime tipike ekstraartikulare të AR."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-082",
+    "question": "Mjekimi farmakologjik i HTA perfshin te gjitha pervec:",
+    "answers": [
+      "Metotreksat",
+      "Betabllokues",
+      "Ace inhibitore",
+      "Antagoniste te kalciumit"
+    ],
+    "correct": 0,
+    "explanation": "Metotreksati nuk është antihipertensiv, është medikament antireumatik/kimioterapik."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-083",
+    "question": "Faktore ambientale qe favorizojne krijimin e HTA jane te gjitha pervec:",
+    "answers": [
+      "Alkoli",
+      "Obeziteti",
+      "Dieta e pasur me kalcium",
+      "Aktiviteti fizik"
+    ],
+    "correct": 3,
+    "explanation": "Aktiviteti fizik ul (nuk favorizon) rrezikun për HTA."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-084",
+    "question": "Mjekimi i HTA perfshin te gjitha pervec:",
+    "answers": [
+      "Aktivitetin fizik",
+      "Shtimi i ne peshe",
+      "Kufizimi i kripes",
+      "Lenia e alkolit"
+    ],
+    "correct": 1,
+    "explanation": "Shtimi në peshë nuk bën pjesë në mjekimin e HTA; përkundrazi, rekomandohet humbje peshe."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-085",
+    "question": "Sklerodermia:",
+    "answers": [
+      "Patogjeneza e semundjes është e sqaruar plotesisht",
+      "Nuk është e lidhur me faktore nderveprues gjenetik dhe mjedisor",
+      "Karakteristike per semundjen është prania e fibrozes se lekures",
+      "Semundja prek me teper meshkujt se femrat"
+    ],
+    "correct": 2,
+    "explanation": "Sklerodermia karakterizohet nga fibroza e lëkurës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-086",
+    "question": "Dermatomioziti dhe polimioziti:",
+    "answers": [
+      "Nuk jane semundje autoimune",
+      "Te semuret nuk ankohen per dobesi dhe dhimbje muskujsh",
+      "Keta te semure kane alterime te cpk, sgot, sgpt, cpk",
+      "Keta te semure nuk kane autoantikorpe"
+    ],
+    "correct": 2,
+    "explanation": "Dermatomioziti/polimioziti shoqërohen me rritje të CPK, SGOT, SGPT."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-087",
+    "question": "Rashi ngjyre lejla rreth syve është tipik per:",
+    "answers": [
+      "Dermatomiozitin",
+      "Polimiozitin",
+      "Sindromin sjogren",
+      "Sklerodermine"
+    ],
+    "correct": 0,
+    "explanation": "Rashi heliotrop (lejla) rreth syve është tipik për dermatomiozitin."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-088",
+    "question": "Te semuret me miopati kane:",
+    "answers": [
+      "Dobesi te muskujve distale",
+      "Dobesi te muskujve proksimale",
+      "Dobesi te qafes",
+      "Nuk kane shqetesime te lokalizuara"
+    ],
+    "correct": 1,
+    "explanation": "Miopatitë karakterizohen nga dobësi e muskujve proksimale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-089",
+    "question": "Ne polimiozit jane te pranishme antikorpet:",
+    "answers": [
+      "ANA",
+      "Anti-dsadn",
+      "FR",
+      "Jo-1"
+    ],
+    "correct": 3,
+    "explanation": "Antikorpi anti-Jo-1 është karakteristik për polimiozitin/dermatomiozitin."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-090",
+    "question": "Klasifikimi i vaskuliteve paresore bazohet ne:",
+    "answers": [
+      "Agresivitetin e semundjes",
+      "Permasat e vazave te prekura",
+      "Ekzistojne dy klasa vaskulitesh",
+      "Nuk ka ndryshuar gjate viteve"
+    ],
+    "correct": 1,
+    "explanation": "Vaskulitet klasifikohen sipas madhësisë së enëve të gjakut të prekura."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-091",
+    "question": "Granulomatoza Wegener është:",
+    "answers": [
+      "Vaskulit i vazave te medha",
+      "Është vaskulit granulomatoz i aparatit respirator i shoqeruar dhe me glomerulonefrit",
+      "Te semuret nuk kane demtime otojatrike",
+      "Eshe vaskulit i vazave mesatare"
+    ],
+    "correct": 1,
+    "explanation": "Granulomatoza Wegener është vaskulit granulomatoz respirator, shoqëruar me glomerulonefrit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-092",
+    "question": "Spondiliti ankilozant është semundje:",
+    "answers": [
+      "e femrave ne dhjetevjecarin e katert te peste te jetes",
+      "e meshkujve ne dhjetevjecarin e dyte dhe te trete te jetes",
+      "e grave ne menopauze",
+      "infektive"
+    ],
+    "correct": 1,
+    "explanation": "Spondiliti ankilozant prek më shpesh meshkujt e rinj, në dhjetëvjeçarin e dytë-tretë të jetës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-093",
+    "question": "Ne spondilitin ankilozant FR dhe ANA:",
+    "answers": [
+      "Ne spondilitin ankilozant FR dhe ANA jane negative",
+      "Ne spondilitin ankilozant FR është negative ANA është pozitive",
+      "Ne spondilitin ankiloznat FR dhe ANA jane pozitive",
+      "Ne spondilitin ankilozant FR është pozitive ANA është negative"
+    ],
+    "correct": 0,
+    "explanation": "Spondiliti ankilozant është seronegativ: FR dhe ANA janë tipikisht negativë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-094",
+    "question": "Ankesat e te semurit me spondilit ankilozant:",
+    "answers": [
+      "Rendohen nga aktiviteti fizik",
+      "Nuk ndikohen nga aktiviteti fizik",
+      "Ngurtesimi mengjezor zgjat 15 min",
+      "Ankesat e te semurit rendohen ne mengjes dhe permiresohen gjate aktivitetit fizik"
+    ],
+    "correct": 3,
+    "explanation": "Ankesat e spondilitit ankilozant rëndohen në mëngjes dhe përmirësohen me aktivitet fizik."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-095",
+    "question": "Spondiliti ankilozant mjekohet:",
+    "answers": [
+      "Me terapi medikamentoze dhe terapi fizike",
+      "Vetem me terapi medikamentoze",
+      "Vetem me terapi fizike",
+      "Nuk ka nevoje per mjekim shume te gjate pothuajse gjithe jeten"
+    ],
+    "correct": 0,
+    "explanation": "Spondiliti ankilozant mjekohet me kombinim terapie medikamentoze dhe fizike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-096",
+    "question": "Podagra fillon zakonisht ne:",
+    "answers": [
+      "Artikulacionin e gjurit",
+      "Artkulacionet e gishtave te duarve",
+      "Artikulacionin e qafes",
+      "Gishtin e madh te kembes"
+    ],
+    "correct": 3,
+    "explanation": "Podagra fillon klasikisht në gishtin e madh të këmbës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-097",
+    "question": "Panusi është strukture histologjike qe vihet re tek te semuret me:",
+    "answers": [
+      "Lupus Eritematoz Sistemik",
+      "Sklerodermi difuze",
+      "Artrit Reumatoid",
+      "Dermatomiozit"
+    ],
+    "correct": 2,
+    "explanation": "Panusi është strukturë tipike histologjike e artritit reumatoid."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-098",
+    "question": "Shfaqet ekstrartikulare me te rralla qe vihen re ne Artritit Reumatoid jane:",
+    "answers": [
+      "Nderlikimet kardiake",
+      "Demtimet ne veshka",
+      "Vaskuliti reumatoid",
+      "Demtime te syve"
+    ],
+    "correct": 1,
+    "explanation": "Dëmtimet renale janë manifestimi ekstraartikular më i rrallë në artritin reumatoid, krahasuar me prekjet kardiake, vaskulitin apo prekjen okulare."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-099",
+    "question": "Manifestimi me i zakonshem dhe nga me te hershmit qe vihet re ne Morbus Bekteriev është:",
+    "answers": [
+      "Rashi malar ne forme fluture",
+      "Artriti simetrik i artikulacioneve te vogla te duarve",
+      "Sakroileiti",
+      "Polifagi dhe polidipsi"
+    ],
+    "correct": 2,
+    "explanation": "Sakroileiti është manifestimi më i zakonshëm dhe i hershëm i Morbus Bekteriev (spondilitit ankilozant)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-100",
+    "question": "Glukokortikosteroidet e injektueshem ne artikulacione indikohen te perdoren ne patologjite muskuloskeletike:",
+    "answers": [
+      "Inflamatore",
+      "Mekanike",
+      "Ne prani te osteoporozes",
+      "Ne prani te frakturave"
+    ],
+    "correct": 0,
+    "explanation": "Kortikosteroidet e injektueshme indikohen në patologjitë inflamatore artikulare."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-101",
+    "question": "Pneumonia atipike karakterizohet nga keto shenja pervec:",
+    "answers": [
+      "Dobesi trupure",
+      "Dhimbje koke",
+      "Kolle e thate",
+      "Melena"
+    ],
+    "correct": 3,
+    "explanation": "Melena (gjak në feçe) nuk lidhet me pneumoninë atipike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-102",
+    "question": "Hipotiroidizmi shfaqet me simptomat e meposhtme pervec:",
+    "answers": [
+      "Krampe muskulare",
+      "Tolerance ndaj te ftohtit",
+      "Konstipacion",
+      "Gjendje te pergjumur"
+    ],
+    "correct": 1,
+    "explanation": "Hipotiroidizmi shoqërohet me intolerancë (jo tolerancë) ndaj të ftohtit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-103",
+    "question": "Cili nga medikamentet konsiderohet si linja e pare e mjekimit ne depresionin madhor dhe crregullimin obsesiv kompulsiv?",
+    "answers": [
+      "Inhibitoret selektive te rikapjes se serotonines",
+      "Antidepresantet triciklike",
+      "Stabilizuesit e humorit",
+      "Benzodiasepinat"
+    ],
+    "correct": 0,
+    "explanation": "SSRI-të janë linja e parë e mjekimit në depresionin madhor dhe OCD."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-104",
+    "question": "Sindroma Kushing:",
+    "answers": [
+      "Është semundje qe vjen si pasoje e zvogelimit te prodhimit te kortizolit nga gjendra mbiveshkore",
+      "Është semundje qe vjen si pasoje e shtimit te prodhimit te kortizolit nga gjendra mbiveshkore",
+      "Është semundje qe karakerizohet nga dhimbja e mesit dhe ngurtesimi mengjezor",
+      "Ne kete semundje mungojne Shënjat e virilizmit si depozitimi i dhjamit ne regjionet ndermje shpatullave"
+    ],
+    "correct": 1,
+    "explanation": "Sindroma Kushing vjen nga rritja e prodhimit të kortizolit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-105",
+    "question": "Te gjitha sa me poshte jane te verteta per IRA prostrenale pervec:",
+    "answers": [
+      "Është mjaft e shpështë ndermjet te semureve ambulatore",
+      "Prek me shume burrat sesa grate",
+      "Ne shumicen e rasteve i detyrohet bllokimit uretral ose uretral",
+      "Shkaktohet nga medikamente qe reduktojne filtrimin glomerular"
+    ],
+    "correct": 3,
+    "explanation": "Reduktimi i filtrimit glomerular nga medikamentet lidhet me IRA prerenale/intrinseke, jo postrenale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-106",
+    "question": "Terapia e spondilitit ankilozant perfshin:",
+    "answers": [
+      "Vetem terapi medikamentoze",
+      "Terapi medikamentoze dhe fizike",
+      "Levotiroskine dhe deksametazon",
+      "Desmopresine dhe indometacine"
+    ],
+    "correct": 1,
+    "explanation": "Terapia e spondilitit ankilozant kombinon terapinë medikamentoze me atë fizike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-107",
+    "question": "Karakteristike per sindromen Kushing është prania e te gjithave pervec:",
+    "answers": [
+      "Hiperkalemise",
+      "Alkaloza metabolike",
+      "Prodhimi ektopik i ACRH",
+      "Artriti simetrik i artikulacioneve interfalangeal proksimal"
+    ],
+    "correct": 0,
+    "explanation": "Në sindromën Kushing gjendet hipokalemi, jo hiperkalemi."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-108",
+    "question": "Te semuret me poliarterit nodoz kutan kane:",
+    "answers": [
+      "Renie ne peshe",
+      "Temperature",
+      "Demtime ne organe",
+      "Noduse subkutane"
+    ],
+    "correct": 3,
+    "explanation": "Poliarteriti nodoz kutan karakterizohet nga prania e nodusave subkutanë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-109",
+    "question": "Faktore risku per krijimin e infeksioneve te rrugev urinare jane te gjitha pervec:",
+    "answers": [
+      "Shtatezania",
+      "Diabeti",
+      "Aktiviteti seksual",
+      "Prania e osteoartritit bashkeshoqerues."
+    ],
+    "correct": 3,
+    "explanation": "Osteoartriti nuk është faktor risku për infeksionet e rrugëve urinare."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-110",
+    "question": "Cila prej semundjeve te meposhtme muskulo-skeletike karakterizohet nga prania e nyjeve te Heberdenit?",
+    "answers": [
+      "Lupusi eritematoz sistemik",
+      "Artriti reumatoid",
+      "Sclerodermia",
+      "Osteoporoza"
+    ],
+    "correct": 1,
+    "explanation": "Nyjet e Heberdenit shoqërohen me çrregullime degjenerative/inflamatore artikulare; ndër opsionet e dhëna, artriti reumatoid përfshin ndryshime artikulare progresive të gishtave."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-111",
+    "question": "Pamja radiologjike e shkopit te bambuse është tipike per cilen patologji:",
+    "answers": [
+      "LES",
+      "AR",
+      "Polimiozit",
+      "Morbus Bekteriev"
+    ],
+    "correct": 3,
+    "explanation": "Shtylla kurrizore 'shkop bambuje' është tipike për spondilitin ankilozant (Morbus Bekteriev)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-112",
+    "question": "Sakroileiti është shenje fillestare e ciles prej ketyre patologjive:",
+    "answers": [
+      "Sklerodermi",
+      "Artrit reumatoid",
+      "Osteoartrit",
+      "Morbus Bekteriev"
+    ],
+    "correct": 3,
+    "explanation": "Sakroileiti është shenjë fillestare e spondilitit ankilozant."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-113",
+    "question": "Aspirina nuk ka efekt:",
+    "answers": [
+      "Efekt analgjezik",
+      "Efekt antinflamator",
+      "Efekt analgjezik",
+      "Efekt sedativ"
+    ],
+    "correct": 3,
+    "explanation": "Aspirina nuk ka efekt sedativ."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-114",
+    "question": "Guret ne veshka:",
+    "answers": [
+      "Nuk shkaktohen nga hiperkalciuria apo hiperoksaluria",
+      "Levizja e gurit ne sistemin ekskretor nuk shkakton dhimbje",
+      "Guret e pelvisit renal mund te jene asimptomatike apo te shkaktojne vetem hematuri",
+      "Shume pak prej gureve perbehen nga oksalatet e kalciumit"
+    ],
+    "correct": 2,
+    "explanation": "Gurët në pelvisin renal mund të jenë asimptomatikë ose të shkaktojnë vetëm hematuri."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-115",
+    "question": "Nje pacient 53 vjecar i cili mjekohet me ibuprofen 400mg dy here ne dite per te kuruar dhimbjen kronike te mesit krijon edeme e ekstremiteteve te poshtme. Infermierja qe kujdeset per te mendon se edema është rezultat i:",
+    "answers": [
+      "Uljes te funksionit renal",
+      "Uljes se nivelit te kreatinines",
+      "Rritje te filtrimit glomerular",
+      "Rritje te nivelit te proteinave plazmatike"
+    ],
+    "correct": 0,
+    "explanation": "AINS (ibuprofeni) mund të ulin funksionin renal, duke shkaktuar retension lëngjesh dhe edemë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-116",
+    "question": "Ne sklerodermine e lokalizuar ka demtime:",
+    "answers": [
+      "Vetem te miokardit",
+      "Vetem renale",
+      "Vetem gastrointestinale",
+      "Vetem te anesive"
+    ],
+    "correct": 3,
+    "explanation": "Sklerodermia e lokalizuar (morphea) përfshin dëmtime kryesisht të lëkurës/anësive, jo organe të brendshme."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-117",
+    "question": "Arteriti Takayasu është inflamacion granulomatoz i arterieve:",
+    "answers": [
+      "Te vogla",
+      "Te medha",
+      "Te mesme",
+      "Nuk është inflamacion granulomatoz"
+    ],
+    "correct": 3,
+    "explanation": "Arteriti Takayasu është inflamacion granulomatoz i arterieve të mëdha."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-118",
+    "question": "Etiopatogjeneza e bronkitit kronik mendohet te lidhet me shkaktaret e meposhtem pervec:",
+    "answers": [
+      "Me tymin e duhanit",
+      "Ekspozimi ndaj pluhurave profesionale",
+      "Infeksione te shkaktuara nga mykoplazma pneumonie",
+      "Ndotja atmosferike"
+    ],
+    "correct": 2,
+    "explanation": "Mykoplazma pneumonie lidhet me pneumoninë akute, jo me etiopatogjenezën e bronkitit kronik."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-119",
+    "question": "Ne mjekimin e pneumonise perdoren me shpesh preparatet e meposhtme pervec:",
+    "answers": [
+      "Ampicilina",
+      "Ceftazidina",
+      "Eritromicina",
+      "Metotreksati"
+    ],
+    "correct": 3,
+    "explanation": "Metotreksati nuk përdoret në mjekimin e pneumonisë; është kimioterapik/antireumatik."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-120",
+    "question": "Rol te rendesishem ne vendosjen e diagnozes se pneumonise ka:",
+    "answers": [
+      "Radiografia pulmonare",
+      "Torakocenteza dhe biopsia e pleures",
+      "Shintigrafia",
+      "Testet kutane"
+    ],
+    "correct": 0,
+    "explanation": "Radiografia pulmonare është mjeti kryesor diagnostikues për pneumoninë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-121",
+    "question": "Mjekimi i cirrozes alkolike perfshin te gjitha pervec:",
+    "answers": [
+      "Diete",
+      "Nderprerje te marrjes e alkolit",
+      "Vitamin terapi",
+      "Voltaren ne doze te larte"
+    ],
+    "correct": 3,
+    "explanation": "Voltareni (AINS) në dozë të lartë është i kundërindikuar në sëmundjen hepatike/cirrozën."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-122",
+    "question": "Hipertension pragu konsiderohet:",
+    "answers": [
+      "Me shume se 180 mmhg dhe ose me shume se 105",
+      "Sistolike 140-180 mmhg dhe ose diastolike 90-105",
+      "Sistoliku 140-180 mmhg dhe ose diastoliku 90-95",
+      "Sistoliku me i vogel se 140 mmhg dhe diastoliku me i vogel se 90 mmhg"
+    ],
+    "correct": 2,
+    "explanation": "Hipertensioni prag (kufitar) ka sistolike 140–180 mmHg dhe/ose diastolike 90–95 mmHg, mes normales dhe hipertensionit të qartë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-123",
+    "question": "Faktor madhor rrisku per SAK jane te tere përveç:",
+    "answers": [
+      "Dislipidemia",
+      "Niveli i larte i kolesterolit",
+      "Inaktiviteti fizik",
+      "Anamneza familjare"
+    ],
+    "correct": 2,
+    "explanation": "Inaktiviteti fizik konsiderohet faktor risku sekondar/më i lehtë krahasuar me dislipideminë, kolesterolin e lartë dhe anamnezën familjare."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-124",
+    "question": "A është e veretete se:",
+    "answers": [
+      "Me rritjen e moshes rritet risku per SAK",
+      "Me rritjen e moshes ulet risku per SAK",
+      "Nuk ka asnje lidhje te SAK me moshen",
+      "Mosha është faktor risku madhor per SAK"
+    ],
+    "correct": 0,
+    "explanation": "Rreziku për sëmundje të arterieve koronare rritet me rritjen e moshës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-125",
+    "question": "Oliguria percaktohet si sekretimi i:",
+    "answers": [
+      "me pak se 400 ml/ urine ne dite",
+      "me pak se 200 ml/ urine ne dite",
+      "me shume se 3 l/ urine ne dite",
+      "me pak se 100 ml/urine ne dite"
+    ],
+    "correct": 0,
+    "explanation": "Oliguria përkufizohet si diurezë më pak se 400 ml/ditë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-126",
+    "question": "Anuria percaktohet si sekretimi i:",
+    "answers": [
+      "me pak se 300 ml/ urine ne dite",
+      "me pak se 400 ml/ urine ne dite",
+      "me shume se 2 l/ urine ne dite",
+      "me pak se 100 ml/urine ne dite"
+    ],
+    "correct": 3,
+    "explanation": "Anuria përkufizohet si diurezë më pak se 100 ml/ditë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-127",
+    "question": "Ne crregullimet e ritmit bejne pjese:",
+    "answers": [
+      "Takikardia sinusale",
+      "Bradikardia sinusale",
+      "Flateri atrial",
+      "Infarkti i miokardit"
+    ],
+    "correct": 3,
+    "explanation": "Infarkti i miokardit nuk është vetë një çrregullim ritmi, edhe pse mund të shkaktojë të tillë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-128",
+    "question": "Osteoporoza mjekohet me:",
+    "answers": [
+      "Bifosfonate",
+      "Kripra te arit",
+      "D- penicilamine",
+      "Azatioprine"
+    ],
+    "correct": 0,
+    "explanation": "Osteoporoza mjekohet me bifosfonate."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-129",
+    "question": "Crregullimet e ritmit sinusal perfshijne te gjitha pervec:",
+    "answers": [
+      "Takikardia sinusal",
+      "Bradikardia sinusale",
+      "Fibrilacioni atrial",
+      "Aritmia sinusale dhe disfunksioni i nyjes sinusale."
+    ],
+    "correct": 2,
+    "explanation": "Fibrilacioni atrial është çrregullim i ritmit atrial, jo sinusal."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-130",
+    "question": "Polakiuria është:",
+    "answers": [
+      "Urinim naten",
+      "Urinim me djegje",
+      "Urinim i shpështë",
+      "Urinim i dhimbshem"
+    ],
+    "correct": 2,
+    "explanation": "Polakiuria është urinim i shpeshtë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-131",
+    "question": "Enuresis nocturna është:",
+    "answers": [
+      "Urinim i dhimbshem",
+      "Urinim me djegje",
+      "Urinim i shtuar",
+      "Urinim naten"
+    ],
+    "correct": 3,
+    "explanation": "Enuresis nocturna është urinim i pavullnetshëm gjatë natës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-132",
+    "question": "Lupusi eritematoz sistemik është semundje qe prek:",
+    "answers": [
+      "meshkujt me shpesh se femrat",
+      "femrat e bardha me shpesh se ato me ngjyre",
+      "me shpesh femrat dhe ka incidence me te madhe ne grate me ngjyre",
+      "njelloj si meshkujt dhe femrat"
+    ],
+    "correct": 2,
+    "explanation": "LES prek më shpesh femrat, me incidencë më të lartë te gratë me ngjyrë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-133",
+    "question": "Tiroidja normale:",
+    "answers": [
+      "Është e palpueshme",
+      "Nuk është e palpueshme",
+      "Është e palpueshme vetem tek meshkujt",
+      "Është e palpueshme vetem tek femrat"
+    ],
+    "correct": 0,
+    "explanation": "Tiroidja normale është e palpueshme (sidomos istmi), e butë dhe lëviz gjatë gëlltitjes."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-134",
+    "question": "Steoartriti është semundje:",
+    "answers": [
+      "inflamatore muskuloskeletike",
+      "degjenerative muskuloskeletike",
+      "endokrine",
+      "gjenetike"
+    ],
+    "correct": 1,
+    "explanation": "Osteoartriti është sëmundje degjenerative muskuloskeletike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-135",
+    "question": "Per mjekimin e morbus Graves perdoren te gjitha pervec:",
+    "answers": [
+      "Karbimazoli",
+      "Metimazoli",
+      "Indometacina",
+      "Propiltiuracili"
+    ],
+    "correct": 2,
+    "explanation": "Indometacina (AINS) nuk përdoret në mjekimin e sëmundjes Graves."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-136",
+    "question": "Shkaktare te hipertiroidizmit jane te gjitha pervec:",
+    "answers": [
+      "Semundjet autoimune",
+      "Patologji tumorale",
+      "Patologji inflamatore",
+      "Atireoza"
+    ],
+    "correct": 3,
+    "explanation": "Atireoza (mungesa e tiroides) shkakton hipotiroidizëm, jo hipertiroidizëm."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-137",
+    "question": "Morbus Bazedov:",
+    "answers": [
+      "Prek me shpesh femrat e moshes 30 deri ne 50 vjec",
+      "Mungon ekzoftalmia",
+      "Funksioni kardiak është normal",
+      "Mungon osteoporoza"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja Bazedov (Graves) prek më shpesh femrat 30-50 vjeç."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-138",
+    "question": "Rreziqet e hipotiroidizmit jane te gjitha pervec:",
+    "answers": [
+      "Koma miksedematoze",
+      "Aksidentet kardiake",
+      "Prania e astenise",
+      "Nervoziteti"
+    ],
+    "correct": 3,
+    "explanation": "Nervoziteti është simptomë e hipertiroidizmit, jo rrezik i hipotiroidizmit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-139",
+    "question": "Është i pranishem diabeti kur:",
+    "answers": [
+      "Glicemia esell ne dy dozime është me e larte se 1.40 g/l",
+      "Glicemia esell ne dy dozime është me e larte se 2.40 g/l",
+      "Glicemia esell ne dy dozime është me e larte se 0.20 g/l",
+      "Glicemia esell ne dy dozime është me e larte se 0.10 g/l"
+    ],
+    "correct": 0,
+    "explanation": "Diabeti diagnostikohet kur glicemia esell në dy dozime është mbi 1.40 g/l."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-140",
+    "question": "Ne komplikacionet metabolike akute te diabetit hyjen te gjitha pervec:",
+    "answers": [
+      "Acidoketoza",
+      "Koma hiperosmolare",
+      "Mikroangiopatia diabetike",
+      "Hipoglicemite"
+    ],
+    "correct": 2,
+    "explanation": "Mikroangiopatia diabetike është komplikacion kronik, jo akut."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-141",
+    "question": "Diabeti i tipit te pare mjekohet me:",
+    "answers": [
+      "Daonil",
+      "Metformine",
+      "Insuline",
+      "Diete hiperkalorike"
+    ],
+    "correct": 2,
+    "explanation": "Diabeti i tipit të parë mjekohet me insulinë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-142",
+    "question": "Diabeti i tipit te dyte mjekohet me:",
+    "answers": [
+      "Daonil, metformine",
+      "Insuline",
+      "Diete hiperkalorike",
+      "Kufizim i aktivitetit fizik"
+    ],
+    "correct": 0,
+    "explanation": "Diabeti tip 2 mjekohet fillimisht me antidiabetikë oralë si daonil/metformina."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-143",
+    "question": "Tension arterial normal konsiderohen vlerat e meposhtme:",
+    "answers": [
+      "Sistoliku me i vogel se 140 mmhg dhe diastoliku me i vogel se 90 mmhg",
+      "Sistoliku me i madh se 140 mmhg dhe diastolike me i madhe se 90 mmhg",
+      "Sistoliku ndermjet 160-180 mmhg dhe diastolike 90-120 mmhg",
+      "Sistoliku me i madh se 190 mmhg dhe diastoliku me i madh se 100 mmhg"
+    ],
+    "correct": 0,
+    "explanation": "Presioni normal konsiderohet sistolik <140 dhe diastolik <90 mmHg."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-144",
+    "question": "Pavioni kirurgjikal është vendi ku:",
+    "answers": [
+      "Trajtohen të sëmurët",
+      "Trajtohen të sëmuret kirurgjikal",
+      "Shtrohen për trajtim të sëmurët kirurgjikal",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Pavioni kirurgjikal është vendi ku trajtohen specifikisht të sëmurët kirurgjikalë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-145",
+    "question": "Shtrimi në pavionin kirurgjikal tek adultët bazohet:",
+    "answers": [
+      "Në bazë të seksit",
+      "Në bazë të parimeve të asepsisë",
+      "Në bazë të moshës",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Shtrimi bazohet kryesisht në parimet e asepsisë (ndarja steril/josteril)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-146",
+    "question": "Plaga nuk quhet:",
+    "answers": [
+      "E pastër",
+      "E kontaminuar",
+      "E infektuar",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Të treja klasifikimet (e pastër, e kontaminuar, e infektuar) janë kategori të vlefshme të plagëve — pra asnjëra nuk është emërtim i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-147",
+    "question": "Kateteri është për përdorim:",
+    "answers": [
+      "Venoz",
+      "Urinar",
+      "Nazo-gastrik",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Ekzistojnë kateterë venozë, urinarë dhe nazogastrikë — pra për të gjitha këto përdorime."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-148",
+    "question": "Ka kapsul piogjene:",
+    "answers": [
+      "Abscesi",
+      "Flegmona",
+      "Celuliti",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Abscesi karakterizohet nga prania e kapsulës piogjene."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-149",
+    "question": "Nuk është e vërtetë në obezitet:",
+    "answers": [
+      "Haset shpesh",
+      "Gjendet më shumë në meshkujt",
+      "Faktor predispozues mund të jetë rritja e estrogjeneve në gjak",
+      "Lidhet me nënushqyerjen"
+    ],
+    "correct": 3,
+    "explanation": "Obeziteti nuk lidhet me nënushqyerjen — janë kushte të kundërta."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-150",
+    "question": "Nuk është sëmundje kirurgjikale:",
+    "answers": [
+      "Ulcera e perforuar",
+      "Kanceri i stomakut",
+      "Ulcera stenozante grada IV",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Të treja janë sëmundje me indikacion kirurgjikal — pra asnjëra nuk është përjashtim."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-151",
+    "question": "Përbën urgjencë kirurgjikale:",
+    "answers": [
+      "Kalkuloza e kolecistës",
+      "Akalazia e ezofagut",
+      "Hernia strangulative",
+      "Noduli i ftohtë i tiroides"
+    ],
+    "correct": 2,
+    "explanation": "Hernia strangulative është urgjencë kirurgjikale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-152",
+    "question": "Kanceri i gjirit prek më shpesh:",
+    "answers": [
+      "Kuadratin medial të sipërm",
+      "Kuadratin medial të poshtëm",
+      "Kuadratin lateral të poshtëm",
+      "Kuadratin lateral të sipërm"
+    ],
+    "correct": 3,
+    "explanation": "Kanceri i gjirit prek më shpesh kuadratin lateral të sipërm."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-153",
+    "question": "Përdorimi i garzave hyn në:",
+    "answers": [
+      "Antiseptiken fizike",
+      "Antiseptiken kimike",
+      "Antiseptiken mekanike",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Përdorimi i garzave (pastrim mekanik) bën pjesë në antiseptikën mekanike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-154",
+    "question": "Në pozicionimin e pacientit në tavolinën e operacionit duhet pasur parasysh:",
+    "answers": [
+      "Të evitohet komprimimi abdominal i tejzgjatur",
+      "Të përdoren metodat që parandalojnë dekubituset",
+      "Të evitohet aplikimi për kohë të gjatë në gjymtyrë i lakut hemostatik",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Të gjitha këto konsiderata duhen respektuar gjatë pozicionimit të pacientit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-155",
+    "question": "Operacioni ku nuk përdoret antibioprofilaksia, është në:",
+    "answers": [
+      "Ezofag",
+      "Kalkulozet e kolecistës",
+      "Tumor tekolonit",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Antibioprofilaksia përdoret rutinë në të gjitha këto ndërhyrje (ezofag, kolecistë, kolon), pasi konsiderohen fusha me rrezik kontaminimi."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-156",
+    "question": "Nuk është urgjencë ekstreme kirurgjikale:",
+    "answers": [
+      "Ruptura e lienit",
+      "Ruptura kataklizmike e barrës ekstrauterine",
+      "Hembolia arteriale mezenteriale",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Të treja janë urgjenca ekstreme kirurgjikale — pra asnjëra nuk është përjashtim."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-157",
+    "question": "Një hemorragji konsiderohet e rëndë po qe se:",
+    "answers": [
+      "Aspirimi gastrik sjell pa ndërprerje gjak të kuq",
+      "Melena e ujshme përsëritet në intervale të shkurtra kohe",
+      "Për të mbajtur presionin venoz dhe arterial afër shifrave normale janë të nevojshme transfuzione të shumta",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Të gjitha këto shenja tregojnë hemorragji të rëndë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-158",
+    "question": "Nuk është origjinë e hemorragjisë digjestive te cirrotiket:",
+    "answers": [
+      "Ruptura e variceve të ezofagut",
+      "Turbullimet e hemostazës",
+      "Turbullimet trofike të mukozës + staza venoze nga hipertensioni portal",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Të treja janë shkaqe të njohura hemoragjie digjestive te cirrotikët — pra asnjëra nuk është përjashtim."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-159",
+    "question": "Shkaqet më të shpeshta të alterimeve të ventilimit në gjendjet e emergjencës janë:",
+    "answers": [
+      "Pneumotoraksi valvular",
+      "Hemotoraksi masiv",
+      "Frakturat multiple të brinjëve (\"flail chest\")",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Të gjitha këto janë shkaqe të shpeshta të alterimit të ventilimit në urgjenca."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-160",
+    "question": "Rektosigmoidoskopia në një hemorragji të poshtme tregon praninë e një:",
+    "answers": [
+      "Hemorroide të gjakosur",
+      "Tumori",
+      "Procesi inflamator",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Rektosigmoidoskopia mund të zbulojë secilën nga këto patologji si shkak i hemoragjisë së poshtme."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-161",
+    "question": "Ileusi akut i zorrës së hollë nuk ka origjinë nga:",
+    "answers": [
+      "Herniet interne",
+      "Briljet",
+      "Tumoret rektale beninje",
+      "Ileusi biliar"
+    ],
+    "correct": 2,
+    "explanation": "Tumoret rektale beninje nuk shkaktojnë ileus të zorrës së hollë, pasi ndodhen në rektum."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-162",
+    "question": "Nuk është okluzion nga shtrëngimi ai i shkaktuar nga:",
+    "answers": [
+      "Brilja",
+      "Volvusi",
+      "Invaginacioni",
+      "Ileusi biliar"
+    ],
+    "correct": 3,
+    "explanation": "Ileusi biliar shkakton obstruksion mekanik (bllokim nga guri), jo okluzion me shtrëngim vaskular si briljet/volvusi/invaginacioni."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-163",
+    "question": "Është okluzion nga obstruksioni ai i shkaktuar nga:",
+    "answers": [
+      "Tumoret beninje të zorrës",
+      "Tumoret malinje te zorrës",
+      "Ileuset biliar",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Të gjitha këto shkaktojnë okluzion nëpërmjet mekanizmit të obstruksionit (jo strangulimit)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-164",
+    "question": "Kolecistiti akut kalkuloz nuk është urgjencë absolute kirurgjikale:",
+    "answers": [
+      "Në perionitin biliar",
+      "Piokolecistitin",
+      "Kolecisto pankreatitin",
+      "Gangrenën e kolecistës"
+    ],
+    "correct": 2,
+    "explanation": "Kolecistopankreatiti trajtohet fillimisht më shumë medikalisht, ndryshe nga urgjencat e tjera absolute."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-165",
+    "question": "Infeksioni i rrugëve limfatike quhet:",
+    "answers": [
+      "Mastit",
+      "Limfadenit",
+      "Limfangoid",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Infeksioni i rrugëve limfatike quhet limfangoid."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-166",
+    "question": "Kolecistiti akut nuk konsiderohet rast i \"keq\" kirurgjikal në:",
+    "answers": [
+      "Pacientët geriartrik",
+      "Insuficiencën renale",
+      "Në obezitet",
+      "Në lehoni"
+    ],
+    "correct": 3,
+    "explanation": "Lehonia nuk përbën vetvetiu faktor rreziku kirurgjikal të lartë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-167",
+    "question": "Hemorragjia nga barra ekstrauterine është:",
+    "answers": [
+      "Hemorragji digjestive e lartë",
+      "Hemorragji digjestive e poshtme",
+      "Hemorragji retroperitoneale",
+      "Hemoperitoneum"
+    ],
+    "correct": 3,
+    "explanation": "Ruptura e barrës ekstrauterine shkakton hemoperitoneum (gjak në kavitetin peritoneal)."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-168",
+    "question": "Defibrilatori nuk është:",
+    "answers": [
+      "Një pajisje me anë të të cilit i jep pacientit një shkarkim elektrik të kontrolluar për të ndërprerë një aritmi",
+      "Një pajisje me anë të të cilit i jep pacientit një shkarkim elektrik të pakontrolluar për të ndërprerë një aritmi",
+      "Një pajisje që ushqehet me bateri të karikueshme ose rrjet të vazhdueshëm tensioni",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Defibrilatori jep një shkarkim elektrik TË KONTROLLUAR, jo të pakontrolluar."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-169",
+    "question": "Salla operatore është vendi ku:",
+    "answers": [
+      "Trajtohen kirurgjikalisht të sëmurët",
+      "Shtrohen për trajtim pacientët",
+      "Shtrohen për trajtim pacientët kirurgjikal",
+      "Trajtohen intensivisht të sëmurët kirurgjikal"
+    ],
+    "correct": 0,
+    "explanation": "Salla operatore është vendi ku trajtohen kirurgjikalisht të sëmurët."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-170",
+    "question": "Është parimi më i rëndesishëm në ndarjen në dhoma të të sëmurëve kirurgjikal:",
+    "answers": [
+      "Mosha",
+      "Seksi",
+      "Asepsia",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Asepsia është parimi kryesor në ndarjen e dhomave të pacientëve kirurgjikalë."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-171",
+    "question": "Nuk është karakterisitkë në ileusin mekanik:",
+    "answers": [
+      "Ndalimi i feçeve dhe gazrave",
+      "Nauze e të vjella",
+      "Dhimbja abdominale",
+      "Mungesa e hidroniveleve në ro-grafi"
+    ],
+    "correct": 3,
+    "explanation": "Në ileusin mekanik radiografia zakonisht TREGON hidronivele, mungesa e tyre është pohimi i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-172",
+    "question": "Agjenti më i vlefshëm i përdorur si sterilizues te autoklavi është:",
+    "answers": [
+      "Ajri ujor nën presion",
+      "Forma e autoklavit",
+      "Koha",
+      "Nxehtësia"
+    ],
+    "correct": 3,
+    "explanation": "Në autoklav sterilizon nxehtësia (e bartur nga avulli nën presion), që shkatërron mikroorganizmat dhe sporet."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-173",
+    "question": "Është komplikacion i ndërhryjeve venoze qëndrore:",
+    "answers": [
+      "Pneumotoraksi",
+      "Hemotoraksi",
+      "Limforrea",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Pneumotoraksi, hemotoraksi dhe limforrea janë të gjitha komplikacione të njohura të kateterizimit venoz qendror."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-174",
+    "question": "Ulcerat e lëkurës mund të jenë me origjinë:",
+    "answers": [
+      "Vaskulare",
+      "Traumatike",
+      "Neoplazike",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Ulçerat e lëkurës mund të kenë origjinë vaskulare, traumatike ose neoplazike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-175",
+    "question": "Nuk është karakteristike e fazës akute të infeksionit:",
+    "answers": [
+      "Dhimbja",
+      "Temperatura",
+      "Leukopenia",
+      "Hiperemia"
+    ],
+    "correct": 2,
+    "explanation": "Faza akute e infeksionit shoqërohet me leukocitozë, jo leukopeni."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-176",
+    "question": "Është inflamacion i gjendrave limfatike:",
+    "answers": [
+      "Adeniti",
+      "Celuliti",
+      "Furunkuli",
+      "Limfangoidi"
+    ],
+    "correct": 0,
+    "explanation": "Limfadeniti është inflamacion i gjëndrave limfatike."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-177",
+    "question": "Nuk është parametër kryesor në vlerësimin e gjendjes së të ushqyerit:",
+    "answers": [
+      "Klinik",
+      "Imunologjik",
+      "Dietetik",
+      "Bioumoral"
+    ],
+    "correct": 1,
+    "explanation": "Parametri imunologjik konsiderohet më pak parësor/më i avancuar krahasuar me vlerësimin klinik, dietetik dhe biohumoral."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-178",
+    "question": "Nuk është e vërtetë për ushiqimin parenteral:",
+    "answers": [
+      "Është ushqim artificial i pacientit kirurgjikal",
+      "Merret me rrugë venoze",
+      "Merret me rrugë arteriale",
+      "Merret kur ushqimi oral ose enteral janë të pamundur"
+    ],
+    "correct": 2,
+    "explanation": "Ushqimi parenteral administrohet me rrugë venoze, jo arteriale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-179",
+    "question": "Cila nga këto plagë është plagë e pastër:",
+    "answers": [
+      "Plaga traumatike e bërë brenda 8 orëve të para",
+      "Plaga nga djegiet",
+      "Plaga operatore",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Plaga operatore (elektive, në kushte sterile) klasifikohet si plagë e pastër."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-180",
+    "question": "Materialin qepës (suturat) nuk e ndajmë në bazë të origjinës së materialit përberës në:",
+    "answers": [
+      "Natyral",
+      "Artificial",
+      "Sintetik",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Suturat ndahen realisht sipas origjinës në natyrale, artificiale/sintetike — pra asnjëra nuk është klasifikim i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-181",
+    "question": "Portagia është instrument kirurgjikal që përdoret për:",
+    "answers": [
+      "Të suturuar",
+      "Të diveriguar",
+      "Të mbajtur agen",
+      "Të mbajtur lamën"
+    ],
+    "correct": 2,
+    "explanation": "Portagia është mbajtësi i gjilpërës dhe përdoret për të mbajtur gjilpërën gjatë suturimit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-182",
+    "question": "Kirurgji mini invazive quhet:",
+    "answers": [
+      "Lapartomia",
+      "Torakotomia",
+      "Laparoskopia",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Laparoskopia është kirurgji mini-invazive."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-183",
+    "question": "Nuk është urgjencë kirurgjikale:",
+    "answers": [
+      "Hemorragjia digjestive",
+      "Ulcer bulbi duodeni e perforuar",
+      "Kalkuloza e kolecistës",
+      "Apendiciti akut"
+    ],
+    "correct": 2,
+    "explanation": "Kalkuloza asimptomatike/e pakomplikuar e kolecistës nuk përbën vetvetiu urgjencë kirurgjikale, ndryshe nga hemoragjia digjestive, ulçera e perforuar apo apendiciti akut."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-184",
+    "question": "Antiseptiken nuk e ndajmë në:",
+    "answers": [
+      "Fizike",
+      "Kimike",
+      "Biologjike",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Antiseptika ndahet realisht në fizike, kimike dhe biologjike — pra asnjëra nuk është klasifikim i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-185",
+    "question": "Është urgjenca më e shpeshtë kirurgjikale:",
+    "answers": [
+      "Hemorragjia digjestive",
+      "Ulcer bulbi duodeni e perforuar",
+      "Apendiciti akut",
+      "Kalkuloza e kolecistës"
+    ],
+    "correct": 3,
+    "explanation": "Patologjitë e kolecistës (kolelitiaza/kolecistiti akut) janë ndër shkaqet më të shpeshta të urgjencave kirurgjikale abdominale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-186",
+    "question": "Fluktuacioni është karakteristike për:",
+    "answers": [
+      "Flegmonen",
+      "Limfangoidin",
+      "Abscesin",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Fluktuacioni (lëngu i grumbulluar) është karakteristik i abscesit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-187",
+    "question": "Fibrogastroskopia mund të jetë mjet trajtimi për:",
+    "answers": [
+      "Hemorragjinë digjestive",
+      "Perforacionin e ulçerës duodenale",
+      "Stenozën pylorike",
+      "Peritonitin post ulçerës së perforuar"
+    ],
+    "correct": 0,
+    "explanation": "Fibrogastroskopia mund të përdoret si mjet hemostatik trajtues për hemoragjinë digjestive."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-188",
+    "question": "Nuk ndodh në hemorragjinë gastro intestinale:",
+    "answers": [
+      "Melene",
+      "Hemoptizi",
+      "Hematemeza",
+      "Anemia"
+    ],
+    "correct": 1,
+    "explanation": "Hemoptizia është gjakderdhje respiratore, jo gastrointestinale."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-189",
+    "question": "Është karakteristikë në ileusin mekanik:",
+    "answers": [
+      "Ndalimi i feceve dhe gazrave",
+      "Nauze e të vjella",
+      "Prania e hidroniveleve në ro-grafi",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Ndalimi i tranzitit, nauze/të vjella dhe hidronivelet radiologjike janë të gjitha karakteristika të ileusit mekanik."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-190",
+    "question": "Nuk është komplikacion i ndërhryjeve venoze qëndrore:",
+    "answers": [
+      "Pneumotoraksi",
+      "Nënushqyerja",
+      "Limforrea",
+      "Embolia"
+    ],
+    "correct": 1,
+    "explanation": "Nënushqyerja nuk është komplikacion i vendosjes së kateterit venoz qendror."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-191",
+    "question": "Është karakteristike e fazës akute të infeksionit:",
+    "answers": [
+      "Dhimbja",
+      "Temperatura",
+      "Leukocitoza",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Faza akute e infeksionit shoqërohet me leukocitozë, jo leukopeni."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-192",
+    "question": "Nuk është e vërtetë për abscesin:",
+    "answers": [
+      "Prania e kapsulës piogjene",
+      "Prania e fluktuacionit",
+      "Mund të jetë i nxehtë / i ftohtë",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Prania e kapsulës piogjene, fluktuacioni, dhe mundësia për të qenë 'i nxehtë ose i ftohtë' janë të gjitha karakteristika të vërteta të abscesit."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-193",
+    "question": "Është inflamacion i gjendrave të djersës:",
+    "answers": [
+      "Adeniti",
+      "Celuliti",
+      "Hidroadeniti",
+      "Furunkuli"
+    ],
+    "correct": 2,
+    "explanation": "Hidroadeniti është inflamacion i gjëndrave të djersës."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-194",
+    "question": "Nuk është parametër kryesor në vlerësimin e gjendjes së të ushqyerit:",
+    "answers": [
+      "Klinik",
+      "Imunologjik",
+      "Dietetik",
+      "Bioumoral"
+    ],
+    "correct": 1,
+    "explanation": "Parametri imunologjik konsiderohet më pak parësor/më i avancuar krahasuar me vlerësimin klinik, dietetik dhe biohumoral."
+  },
+  {
+    "id": "mami-pergjithshme-klinike-195",
+    "question": "Nuk është e vërtetë për ushqimin enteral:",
+    "answers": [
+      "Është ushqim artificial i pacientit kirurgjikal",
+      "Merret me rrugë venoze",
+      "Merret me rrugë arteriale",
+      "Të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Ushqimi parenteral administrohet me rrugë venoze, jo arteriale."
+  }
+]

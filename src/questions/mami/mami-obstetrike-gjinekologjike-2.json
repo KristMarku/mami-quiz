@@ -1,0 +1,1767 @@
+[
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-001",
+    "question": "Cila pyetje bën pjesë në anamnezën obstetrikale?",
+    "answers": [
+      "Keni kryer ndonjë abort?",
+      "Keni përdorur kontraceptivë?",
+      "Kur ka ndodhur menarka juaj?",
+      "Sa i gjatë është fluksi juaj menstrual?"
+    ],
+    "correct": 0,
+    "explanation": "Historia e aborteve të mëparshme bën pjesë drejtpërdrejt në anamnezën obstetrikale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-002",
+    "question": "Kur gruaja shtatzanë paraqitet për herë të parë në klinikë mamia/mjeku i drejton disa pyetje nëse ka alergji nga medikamentet ose ka alergji të tjera, në cilën anamnezë bën pjesë?",
+    "answers": [
+      "Medikale",
+      "Medikale familjare",
+      "Medikale të shkuar",
+      "Obstetrikale"
+    ],
+    "correct": 0,
+    "explanation": "Pyetjet mbi alergjitë bëjnë pjesë në anamnezën medikale të përgjithshme."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-003",
+    "question": "Kur gruaja shtatzanë paraqitet për herë të parë në klinikë mamia/mjeku i drejton disa pyetje. Anamneza për hepatit bën pjesë në?",
+    "answers": [
+      "Anamnezën medikale",
+      "Anamnezën medikale familjare",
+      "Anamnezën medikale të shkuar",
+      "Anamnezën obsterikale"
+    ],
+    "correct": 2,
+    "explanation": "Pyetjet për hepatitin e kaluar bëjnë pjesë në anamnezën medikale të shkuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-004",
+    "question": "Cila nga pyetjet e mëposhtme bën pjesë në anamnezën obstetrikale?",
+    "answers": [
+      "Keni kaluar infeksione seksualisht të transmetueshme?",
+      "Keni kryer ndonjë intervent që i perket traktit riprodhues?",
+      "Kur e keni bërë Pap - Testin e fundit dhe rezultati i tij?",
+      "Sa është numri i lindjeve dhe fëmijëve të jetueshëm?"
+    ],
+    "correct": 3,
+    "explanation": "Numri i lindjeve dhe fëmijëve të gjallë (paritet) bën pjesë në anamnezën obstetrikale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-005",
+    "question": "Cila nga alternativat bën pjesë në anamnezën gjinekologjike?",
+    "answers": [
+      "Hystori për dysmenorrhea",
+      "Infeksione gjatë periudhes së post partumit",
+      "Probleme të post partumit hemoragjik",
+      "Rezultatet e testeve të barrës, nëse janë kryer"
+    ],
+    "correct": 0,
+    "explanation": "Historia për dismenorre bën pjesë në anamnezën gjinekologjike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-006",
+    "question": "Cila nga alternativat perfshihet në anamnezën obstetrikale?",
+    "answers": [
+      "Cila ka qënë mënyra e lindjes?",
+      "Kur ka ndodhur kojtusi i parë?",
+      "Kë Metodë kontraceptive ke përdorur?",
+      "Sa eshte numri i partnereve seksual?"
+    ],
+    "correct": 0,
+    "explanation": "Mënyra e lindjeve të mëparshme bën pjesë në anamnezën obstetrikale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-007",
+    "question": "Konjugata diagonale është distanca midis:",
+    "answers": [
+      "Buzës së sipërme të simfizës pubike dhe promontoriumit",
+      "Dy tuberoziteteve iskiadike",
+      "Pjesës së pasme të simfizës pubike dhe promontoriumit",
+      "Promontoriumit sacral dhe buzës së poshtme të simfizës pubike"
+    ],
+    "correct": 3,
+    "explanation": "Konjugata diagonale matet nga buza e poshtme e simfizës pubike deri te promontoriumi sakral."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-008",
+    "question": "Konjugata e vërtetë është distanca midis:",
+    "answers": [
+      "Buzës së sipërme të simfizës pubike dhe promontoriumit",
+      "Dy tuberoziteteve iskiadike",
+      "Promontoriumit sacral dhe buzës së poshtme të simfizës pubike",
+      "Pjesës së pasme të simfizës pubike dhe promontoriumit"
+    ],
+    "correct": 0,
+    "explanation": "Konjugata e vërtetë (anatomike) matet nga buza e sipërme e simfizës pubike deri te promontoriumi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-009",
+    "question": "Pjesa e pelvisit e cila është më shumë e përfshirë me lindjen është:",
+    "answers": [
+      "Koksiksi",
+      "Pelvisi falls",
+      "Pelvisi i vërtetë",
+      "Sakrumi"
+    ],
+    "correct": 2,
+    "explanation": "Pelvisi i vërtetë është pjesa kryesisht e përfshirë në proceset e lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-010",
+    "question": "Informacioni i siguruar nga metodat e Leopoldit përfshin:",
+    "answers": [
+      "Paraqitjen fetale",
+      "Rritjen dhe zhvillimin fetal",
+      "Vleresimin e toneve fetale",
+      "Vleresimin e tonusit maternal"
+    ],
+    "correct": 0,
+    "explanation": "Manovrat e Leopoldit japin informacion mbi paraqitjen fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-011",
+    "question": "Metodat e Leopoldit kryesisht janë përdorur për të:",
+    "answers": [
+      "Për të hequr presurën nga kordoni umbilikal",
+      "Përcaktuar nëse vezika është e distenduar",
+      "Sygjeruar vendin e monitorimit external të kontraksioneve uterine",
+      "Vleresuar prezentacionin dhe zbritjen"
+    ],
+    "correct": 3,
+    "explanation": "Manovrat e Leopoldit përdoren kryesisht për të vlerësuar prezentacionin dhe zbritjen fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-012",
+    "question": "Një grua 4 javëshe shtatzanë i kërkon mamisë se kur ajo është në gjendje të dëgjojë RZF- të e fëmijës së saj. Mamia i thotë asaj se me stetoskop ultrasonografik special apo fetoson i cili i amplifikon (i zmadhon) tonet, R.Z.F. mund të dëgjohen afërsisht pas:",
+    "answers": [
+      "2 - 4 javësh",
+      "6 - 8 javësh",
+      "10 - 12 javësh",
+      "14- 16 javësh"
+    ],
+    "correct": 2,
+    "explanation": "Me pajisje doppler/fetoson, tonet e zemrës fetale mund të dëgjohen zakonisht rreth javës 10-12."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-013",
+    "question": "Pamundësia për të dëgjuar RZF me stetoskop të zakonshëm obstetrikal është kur kemi:",
+    "answers": [
+      "Anomali fetale",
+      "Moshë barre 28 javë",
+      "Multifetal",
+      "Obezitet amtar"
+    ],
+    "correct": 3,
+    "explanation": "Obeziteti amtar mund të vështirësojë dëgjimin e RZF-ve me stetoskop të zakonshëm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-014",
+    "question": "Sa shpejt arrin të percaktojë barrën, ekografia me sondë vaginale?",
+    "answers": [
+      "6 jave",
+      "4 jave",
+      "Afersisht10 javë",
+      "Pas 10 ditësh"
+    ],
+    "correct": 1,
+    "explanation": "Ekografia transvaginale mund të konfirmojë shtatzaninë që në javën e 4-të."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-015",
+    "question": "Si shenjë positive e barrës përfshihet:",
+    "answers": [
+      "Amenorrhea",
+      "Lëvizjet fetale që ndihen nga nëna",
+      "Rritja abdominale",
+      "Sonographya"
+    ],
+    "correct": 3,
+    "explanation": "Vizualizimi ekografik i fetusit është shenjë pozitive (e sigurt) e shtatzanisë; të tjerat janë shenja supozuese/probabël."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-016",
+    "question": "Një shenjë supozuese e shtatzanisë është:",
+    "answers": [
+      "Kontraksionet e Braxton- Hicks",
+      "Ndërprerja e menseve",
+      "Shenja e hegarit",
+      "Zhurmat uterine"
+    ],
+    "correct": 1,
+    "explanation": "Ndërprerja e menseve është shenjë supozuese (jo e sigurt) e shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-017",
+    "question": "Shenja Mc Donald ka të bëjë me:",
+    "answers": [
+      "Diskolorimin",
+      "Perkuljen e trupit mbi qafë",
+      "Zbutjen e istmusit",
+      "Zbutjen e qafes"
+    ],
+    "correct": 1,
+    "explanation": "Shenja McDonald është përkulshmëria e trupit uterin mbi qafën e mitrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-018",
+    "question": "Shenja Goodell është:",
+    "answers": [
+      "Diskolorim (cerviksit, mukozës së vaginës dhe vulvës)",
+      "Përkulja e trupit të uterusit mbi cerviks",
+      "Zbutja e cerviksit",
+      "Zbutja e istmusit"
+    ],
+    "correct": 2,
+    "explanation": "Shenja Goodell është zbutja e cerviksit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-019",
+    "question": "Në ekzaminimin fizik, mamia vë re se cervixi i gruas është në ngjyrë të kaltër. Kjo është:",
+    "answers": [
+      "Shënja Chadwick",
+      "Shënja Goodell",
+      "Shënjë e Hegarit",
+      "Shënjë Mc Donald"
+    ],
+    "correct": 0,
+    "explanation": "Ngjyra e kaltër e cerviksit është shenja Chadwick."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-020",
+    "question": "Cila nga pikat e mëposhtme nuk bën pjesë në ndryshimet e lëkurës gjatë shtatzanisë?",
+    "answers": [
+      "Kloasoma gravidarum",
+      "Linea nigra",
+      "Shenja e Hegarit",
+      "Striae gravidarum"
+    ],
+    "correct": 2,
+    "explanation": "Shenja e Hegarit është shenjë uterine, jo ndryshim i lëkurës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-021",
+    "question": "Mamia i spjegon gruas se gjatë shtatzanisë sëmundja e mëngjesit (nausea & të vjellat) zakonisht takohet në:",
+    "answers": [
+      "Gjashte javët e para",
+      "Në 6 j - 12 j",
+      "Në 8j - 16j",
+      "Në muajin e pare",
+      "Në muajin e katërt"
+    ],
+    "correct": 1,
+    "explanation": "Sëmundja e mëngjesit takohet zakonisht midis javës 6 dhe 12."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-022",
+    "question": "Cila nga pikat e mëposhtme nuk ndikon në lartësinë e fundusit uterin?",
+    "answers": [
+      "Barra binjake",
+      "Hydramnioni",
+      "Qëndrimi fetal",
+      "Tonusi muskular"
+    ],
+    "correct": 3,
+    "explanation": "Lartësia e fundusit ndikohet nga barra binjake, hidramnioni dhe qëndrimi fetal; tonusi muskular nuk e ndikon."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-023",
+    "question": "Levizjet aktive fetale fillimisht perceptohen:",
+    "answers": [
+      "Dymbëdhjetë javë",
+      "Mes muajit te gjashte dhe te shtatë",
+      "Në muajin e trete te barres",
+      "Para se te perfundoje muaji i katert"
+    ],
+    "correct": 3,
+    "explanation": "Quickening (perceptimi i lëvizjeve fetale) fillon zakonisht para përfundimit të muajit të katërt."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-024",
+    "question": "Klientja juaj është në javën e 39 të shtatzanisë. Ajo vë re që është e friksuar rreth lindjes. Përgjigja juaj do të jetë:",
+    "answers": [
+      "Është normale të jeni anksioze. Dëshironi të diskutojmë më tepër rreth saj?",
+      "Ju mund të keni lindje me epidurale, e si rrjedhojë ju nuk do të ndjeni asgjë.",
+      "Mos u shqetëso rreth lindjes, pasi ju do të jeni shumë mirë",
+      "Rreth një experience e cila nuk është aktuale, është e frikshme për ta menduar"
+    ],
+    "correct": 0,
+    "explanation": "Përgjigja terapeutike valide dhe hapëse është të pranosh ankthin dhe të ofrosh mundësi për diskutim të mëtejshëm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-025",
+    "question": "Kujdesi prenatal është ideale të fillojë:",
+    "answers": [
+      "Pas mungesës së tretë të menseve",
+      "Pas mungesës së dytë të menseve",
+      "Pas mungesës së parë të menseve",
+      "Përpara mungesës parë të menseve"
+    ],
+    "correct": 3,
+    "explanation": "Kujdesi prenatal ideal fillon para mungesës së parë të menseve, që faktorët e riskut të korrigjohen që në fillim."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-026",
+    "question": "Në 16 javë niveli i fundusit uterin është:",
+    "answers": [
+      "1/3 e poshtme qe bashkon umbilikusin me procesin ksifoid",
+      "1/2 e vijës që bashkon simphizën pubike me umbilikusin",
+      "2/3 e vijës që bashkon umbilikusin me procesin ksifoid",
+      "Një gisht nën umbilicus"
+    ],
+    "correct": 1,
+    "explanation": "Në javën 16 fundusi uterin është në gjysmën e vijës që bashkon simfizën pubike me kërthizën."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-027",
+    "question": "Në 24 javë niveli i fundusit uteri është:",
+    "answers": [
+      "1/3 e siperme qe bashkon umbilikusin me procesin ksifoid",
+      "1/3 e poshtme qe bashkon umbilikusin me procesin ksifoid",
+      "1 - 2 gisht mbi umbilicus",
+      "3 - 4 gisht nën procesin ksifoid"
+    ],
+    "correct": 1,
+    "explanation": "Në javën 24 fundusi uterin është në 1/3 e poshtme të vijës që bashkon kërthizën me procesin ksifoid."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-028",
+    "question": "Znj.X është 14 j shtatzane. Infer - mamia shpreson të palpojë fundusin në cilin nga nivelet e mëposhtme:",
+    "answers": [
+      "Në nivelin e umbilikusit",
+      "Nuk palpohet mbi simphyzen pubike",
+      "Pak mbi symphyzën pubike",
+      "Pak mbi umbilicus"
+    ],
+    "correct": 2,
+    "explanation": "Në javën 14, fundusi palpohet pak mbi simfizën pubike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-029",
+    "question": "Tremestri i dytë i shtatzanisë gjatë cilave javë ndodh?",
+    "answers": [
+      "10 - 22",
+      "12 - 24",
+      "14 - 26",
+      "16 - 28"
+    ],
+    "correct": 2,
+    "explanation": "Tremestri i dytë përfshin javët 14-26."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-030",
+    "question": "Tremestri i tretë i shtatzanisë fillon nga java e:",
+    "answers": [
+      "23",
+      "25",
+      "27",
+      "29"
+    ],
+    "correct": 2,
+    "explanation": "Tremestri i tretë fillon nga java 27."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-031",
+    "question": "Znj. E. është në javën e 23 të shtatzanisë. Ajo është informuar se shenjë alarmi në shtatzani është:",
+    "answers": [
+      "Palpitacioni kardiak",
+      "Rritja e oreksit",
+      "Ulja e lëvizjeve fetale",
+      "Ulja e presionit të gjakut"
+    ],
+    "correct": 2,
+    "explanation": "Ulja e lëvizjeve fetale është shenjë alarmi që kërkon vlerësim të menjëhershëm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-032",
+    "question": "Cila nga simptomat e mëposhtme konsiderohet si shenjë paralajmëruese e një problem potencial dhe gruaja shtatzanë duhet të raportojë menjëherë personelin e kujdesit shëndetesor?",
+    "answers": [
+      "Gjakrrjedhje vaginale",
+      "Lodhje",
+      "Nausea",
+      "Shtim i frekuencës urinare"
+    ],
+    "correct": 0,
+    "explanation": "Gjakrrjedhja vaginale është shenjë paralajmëruese serioze gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-033",
+    "question": "Kultura për gonorrhea në shtatzani përfshihet si një nga testet rutinë e cila rekomandohet të bëhet në:",
+    "answers": [
+      "Edo fillim muaji gjatë shtatzanisë,",
+      "Fillim të vizitës së parë prenatale",
+      "Përfundim të muajit të fundit të shtatzanisë",
+      "Vizitën e parë prenatale dhe përsëritetet në 36 javë"
+    ],
+    "correct": 3,
+    "explanation": "Testimi për gonorrhea bëhet në vizitën e parë prenatale dhe përsëritet rreth javës 36."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-034",
+    "question": "Ç' ndryshim mund të shkaktojë pozicioni lithotomik, në presionin e gjakut tek gruaja shtatzanë?",
+    "answers": [
+      "Asgjë e veçantë nuk vihet re",
+      "E rrit presionin e gjakut",
+      "E ulë presionin e gjakut",
+      "Rrit dhe ul, varet nga linja bazë e presionit të gjakut"
+    ],
+    "correct": 2,
+    "explanation": "Pozicioni lithotomik/i shtrirë mbi shpinë mund të ulë presionin e gjakut (kompresion i venës kava)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-035",
+    "question": "Kur shtatzana paraqet probleme të uthit (pyrosis) me djegie e kthim të sasive të vogla të lëngjeve me shije të thartë ajo duhet të konsumojë:",
+    "answers": [
+      "Pije me gaz",
+      "Qumësht",
+      "Ushqime të yndyrshme",
+      "Vakte të mëdha"
+    ],
+    "correct": 1,
+    "explanation": "Qumështi mund të ndihmojë në neutralizimin e aciditetit dhe lehtësimin e uthit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-036",
+    "question": "Në vizitat e rradhës në shtatzaninë e pakomplikuar zakonisht nuk përfshihet:",
+    "answers": [
+      "Dëgjimin e RZF-ve",
+      "Ekzaminimin pelvik",
+      "Manovrat e Leopoldit",
+      "Matjet e lartësisë së fundusit"
+    ],
+    "correct": 1,
+    "explanation": "Ekzaminimi vaginal nuk bëhet rutinë në çdo vizitë prenatale të pakomplikuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-037",
+    "question": "Puna gjatë shtatzanisë:",
+    "answers": [
+      "Duhet të reduktohet në tremestrin e tretë",
+      "Nuk ka probleme në barrën normale",
+      "Rrit rrezikun e problemeve në barrë",
+      "Ul rriskun e problemeve në barrë"
+    ],
+    "correct": 1,
+    "explanation": "Puna e zakonshme nuk paraqet problem në një shtatzani normale, të pakomplikuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-038",
+    "question": "Mamia instrukton gruan të zbatojë ushtrimet e Kegelit, pasi ato:",
+    "answers": [
+      "Forcojnë dyshemenë pelvike",
+      "Ndihmojnë në zbritjen e fetusit",
+      "Ndihmojnë në zbutjen e columit",
+      "Përshpejtojne aktin e lindjes"
+    ],
+    "correct": 0,
+    "explanation": "Ushtrimet e Kegelit forcojnë dyshemenë pelvike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-039",
+    "question": "Pozicioni që ju i rekomandoni gruas shtatzanë për t'u çlodhur ose fjetur është:",
+    "answers": [
+      "Anash",
+      "Gjysëm ndenjur.",
+      "Në shpinë",
+      "Permbys"
+    ],
+    "correct": 0,
+    "explanation": "Pozicioni anash (lateral) rekomandohet për çlodhje/gjumë gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-040",
+    "question": "Dita e parë e zakoneve të fundit të gruas ka qënë 3 Maj 2011, duke përdorur rregullën e Negelit kësaj gruaje i takon të lindë:",
+    "answers": [
+      "10 shkurt 2012",
+      "10 mars 2012",
+      "31 qershor 2012",
+      "06 korrik 2012"
+    ],
+    "correct": 0,
+    "explanation": "Sipas rregullës së Negele-s (- 3 muaj + 7 ditë + 1 vit), data e llogaritur e lindjes është 10 Shkurt 2012."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-041",
+    "question": "Një grua shtatzanë ditën e parë të menseve të fundit i pati më 8 prill 2011 dhe ditën e fundit më 13 prill. Duke përdorur rregullën e Negelit dita e lindjes vlersohet se mund të jetë:",
+    "answers": [
+      "5 nëntor 2011",
+      "15 janar 2012",
+      "20 janar 2012",
+      "15 korrik 2012"
+    ],
+    "correct": 1,
+    "explanation": "Sipas rregullës së Negele-s (nga 8 prill: -3 muaj +7 ditë +1 vit), data e llogaritur e lindjes është 15 janar 2012."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-042",
+    "question": "Znj X. ju tregon që cikli i fundit menstrual ishte më 1 Tetor 2011. Sipas rregullës së Negelit, që ju dini lindja do të jetë më:",
+    "answers": [
+      "1 korrik 2011",
+      "8 gusht 2011",
+      "1 gusht 2011",
+      "8 korrik 2012"
+    ],
+    "correct": 3,
+    "explanation": "Sipas rregullës së Negele-s (nga 1 tetor: -3 muaj +7 ditë +1 vit), data e lindjes është 8 korrik 2012."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-043",
+    "question": "Cila nga vaksinat e mëposhtme mund të administrohet gjatë shtatzanisë:",
+    "answers": [
+      "Parotitit",
+      "Poliomelitit",
+      "Rabies",
+      "Varicelës"
+    ],
+    "correct": 2,
+    "explanation": "Vaksina e tërbimit është e inaktivizuar dhe lejohet gjatë shtatzanisë kur ka ekspozim; vaksinat e gjalla (parotit, varicelë) janë të kundërindikuara."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-044",
+    "question": "Cila nga vaksinat e mëposhtme nuk duhet të administrohen gjatë shtatzanisë?",
+    "answers": [
+      "Difteria",
+      "Hepatiti b",
+      "Parotiti",
+      "Rabies"
+    ],
+    "correct": 2,
+    "explanation": "Vaksina e parotitit (MMR, vaksinë e gjallë) është e kundërindikuar gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-045",
+    "question": "Cila nga vaksinat e mëposhtme nuk duhet të administrohen gjatë shtatzanisë?",
+    "answers": [
+      "Fruthi",
+      "Hepatiti b",
+      "Rabies",
+      "Tetanozi"
+    ],
+    "correct": 1,
+    "explanation": "Vaksina e parotitit (MMR, vaksinë e gjallë) është e kundërindikuar gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-046",
+    "question": "Cila nga vaksinat e mëposhtme mund të administrohet gjatë shtatzanisë?",
+    "answers": [
+      "Difteria",
+      "Fruthi",
+      "Parotiti",
+      "Rubeola"
+    ],
+    "correct": 2,
+    "explanation": "Vaksina e parotitit (MMR, vaksinë e gjallë) është e kundërindikuar gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-047",
+    "question": "Ndërlidhja e pjesëve trupore fetale me njëri - tjetrin është quajtur:",
+    "answers": [
+      "Pozicion fetal",
+      "prezentacion fetal",
+      "Qëndrim fetal",
+      "Shtrirje fetale"
+    ],
+    "correct": 2,
+    "explanation": "Marrëdhënia e pjesëve trupore fetale me njëra-tjetrën quhet qëndrim (attitude) fetal."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-048",
+    "question": "Ndërlidhja apo raporti i aksit gjatsor të nënës me aksin gjatësor të fetusit është quajtur:",
+    "answers": [
+      "Pozicion fetal",
+      "Prezentacion fetal",
+      "Qëndrim fetal",
+      "Shtrirje fetale"
+    ],
+    "correct": 3,
+    "explanation": "Raporti mes aksit gjatësor të nënës dhe atij të fetusit quhet shtrirje (lie) fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-049",
+    "question": "Infermierja e cila kryen ekzaminim vaginal për të vlersuar progresin e aktivitetit të lindjes duhet:",
+    "answers": [
+      "Diskutoje konkluzionet ( gjetjeve) me gruan dhe partnerin e saj",
+      "Kryej një ekzaminim të paktën njëherë në edo orë gjatë fazës aktive të aktivitetit të lindjes",
+      "Kryerj ekzaminime shumë frekuente, nëse hemoragjia është prezente",
+      "Veshja e dy dorezave për edo ekzaminim të kryer"
+    ],
+    "correct": 3,
+    "explanation": "Veshja e dorezave sterile për çdo ekzaminim vaginal është praktikë standarde e kontrollit të infeksionit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-050",
+    "question": "Për të përcaktuar frekuencën e kontraksioneve uterine mamia do të vlersojë kohën nga:",
+    "answers": [
+      "Fillimi i një kontraksioni deri në fund të kontraksioni tjetër",
+      "Fundi i një kontraksioni deri në fund të kontraksionit tjetër",
+      "Shpërthimi i kontraksionit deri në fund",
+      "Shpërthimi i një kontraksioni deri në shpërthimin e kontraksionit tjetër"
+    ],
+    "correct": 3,
+    "explanation": "Frekuenca e kontraksioneve matet nga fillimi (shpërthimi) i njërit deri te fillimi i tjetrit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-051",
+    "question": "Kur një grua vleresohet në stadin e parë të lindjes, infermierija arsyeton që shënja vendimtare që jep kontraksione uterine efektive duhet të jetë:",
+    "answers": [
+      "Dilatacioni i cerviksit",
+      "Ruptura e membranave amniotike",
+      "Shfaqja e një sasie hemoragjie",
+      "Zbritja e fetusit"
+    ],
+    "correct": 0,
+    "explanation": "Dilatacioni progresiv i cerviksit tregon kontraksione efektive."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-052",
+    "question": "Gjatë fazës aktive të aktivitetit të lindjes cerviksi dilatohet nga:",
+    "answers": [
+      "1 deri në 4cm",
+      "3 deri në 4cm",
+      "4 deri në 8cm",
+      "8 deri në 10cm"
+    ],
+    "correct": 2,
+    "explanation": "Faza aktive e lindjes karakterizohet nga dilatacioni prej 4 deri në 8cm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-053",
+    "question": "Mamia mendon se gruaja është në fazën e ekspulsionit kur gjatë vizitës vaginale vë re se cerviksi i gruas është dilatuar:",
+    "answers": [
+      "1 deri në 3cm",
+      "2 deri në 6cm",
+      "3 deri në 8cm",
+      "8 deri në 10cm"
+    ],
+    "correct": 3,
+    "explanation": "Faza e ekspulsionit fillon me dilatacion të plotë (8-10cm)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-054",
+    "question": "Cila nga pikat e mëposhme nuk bën pjesë në nënfazat e stadit të parë të aktivitetit të lindjes:",
+    "answers": [
+      "Faza aktive",
+      "Faza e expulsionit",
+      "Faza e tranzicionit",
+      "Faza latente"
+    ],
+    "correct": 1,
+    "explanation": "Faza e ekspulsionit i përket stadit të dytë, jo stadit të parë të lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-055",
+    "question": "Cila fazë e aktivitetit të lindjes është më i gjatë?",
+    "answers": [
+      "Dytë",
+      "Katërt",
+      "Parë",
+      "Tretë"
+    ],
+    "correct": 2,
+    "explanation": "Faza e parë e lindjes është faza më e gjatë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-056",
+    "question": "Faza e dytë e lindjes nis me:",
+    "answers": [
+      "1 - 2 orët e para pas daljes së placentës",
+      "Dilatacionin komplet dhe përfundon me lindjen e infantit",
+      "Fillimin e hapjes dhe zbutjes së cerviksit",
+      "Lindjen e infantit dhe përfundon me lindjen e placentës"
+    ],
+    "correct": 1,
+    "explanation": "Faza e dytë nis me dilatacionin komplet dhe përfundon me lindjen e foshnjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-057",
+    "question": "Faza e dytë e lindjes nis me:",
+    "answers": [
+      "1-2 orët e para pas lindjes",
+      "Dilatacionin komplet",
+      "Lindjen e infantit",
+      "Me përfundimin e fazës aktive"
+    ],
+    "correct": 2,
+    "explanation": "Faza e tretë nis me lindjen e foshnjes dhe përfundon me daljen e placentës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-058",
+    "question": "Mamia di që faza e parë e lindjes është:",
+    "answers": [
+      "Dalja e placentës",
+      "Dilatacioni",
+      "Expulsioni",
+      "Rikuperimi i gruas"
+    ],
+    "correct": 1,
+    "explanation": "Faza e parë e lindjes karakterizohet nga dilatacioni i qafës së mitrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-059",
+    "question": "Në njësinë e paralindjes mamia po ndjek një grua primigravida. Ajo do ta lejojë gruan të shterzojë kur dilatacioni i qafës së mitrës të jetë:",
+    "answers": [
+      "10cm",
+      "5 cm",
+      "7cm",
+      "8cm"
+    ],
+    "correct": 0,
+    "explanation": "Gruaja lejohet të shtrëngojë (shtyjë) vetëm kur dilatacioni është i plotë, 10 cm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-060",
+    "question": "Pjesa paraqitëse fetale përshkruhet me vertex kur:",
+    "answers": [
+      "Fytyra futet e para në pelvis",
+      "Koka e flexuar futet e para në pelvis",
+      "Shrirja fetale është longitudinale",
+      "Të ndenjurat me këmbët pervijohen gjatë abdomenit"
+    ],
+    "correct": 1,
+    "explanation": "Prezantimi vertex do të thotë se koka e fleksuar futet e para në pelvis."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-061",
+    "question": "Një grua multipare ka një aktivitet lindje prej 8 orësh. Membranat e saj sapo u rupturuan. Reagimi i menjëhershëm i mamisë do të jetë:",
+    "answers": [
+      "Dokumentimi i karakteristikave të likidit",
+      "Informojë gruan se primare është sigurimi i shëndetit të saj",
+      "Të përgatisë gruan menjëherë për lindje",
+      "Vleresimi i toneve fetale"
+    ],
+    "correct": 3,
+    "explanation": "Menjëherë pas plasjes së membranave vlerësohen tonet fetale (për të përjashtuar prolaps të kordonit/distres)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-062",
+    "question": "Një gruaje shtatzane me aktivitet lindje i rupturohen membranat amniotike. Veprimi i menjëhershëm i mamisë do te jetë:",
+    "answers": [
+      "Inspektimi i karakteristikave te likidit",
+      "Kryerja e ekzaminimit vaginal",
+      "Vleresimi i RZF-ve",
+      "Vleresimi maternal i T°, P, R dhe TA."
+    ],
+    "correct": 2,
+    "explanation": "Vlerësimi i menjëhershëm i RZF-ve është prioritar pas rupturës së membranave."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-063",
+    "question": "Infermieria shoqëron expulsionin e placentës duke administruar oxytocinë për:",
+    "answers": [
+      "Lehtësimin e dhimbjeve",
+      "Lehtësuar qëndrimin dhe relaximin",
+      "Prevenimin e infeksionit",
+      "Stimulimin e kontraksioneve"
+    ],
+    "correct": 3,
+    "explanation": "Oksitocina stimulon kontraksionet uterine, duke ndihmuar ekspulsionin e placentës dhe parandalimin e hemoragjisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-064",
+    "question": "Cilat nga pikat e mëposhtme nuk i tregon mamise shkolitjen e placentës?",
+    "answers": [
+      "Kontraksionet uterine",
+      "Ndryshime të TA dhe pulsit",
+      "Ndryshimi i formës së uterusit",
+      "Shtim i një sasie hemoragjie"
+    ],
+    "correct": 1,
+    "explanation": "Ndryshimet e TA/pulsit nuk janë shenjë direkte e shkolitjes së placentës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-065",
+    "question": "Fokusi primar i kujdesjeve infermierore në stadin e katër të lindjes duhet të jetë:",
+    "answers": [
+      "lehtësimi bashkëveprimit i sapolindur- prindër",
+      "Prevenimi i infeksionit",
+      "Prevenimi i hemoragjisë dhe shokut",
+      "Rrijtja e komfortit maternal"
+    ],
+    "correct": 2,
+    "explanation": "Në stadin e katërt, prioriteti kryesor është parandalimi i hemoragjisë dhe shokut postpartum."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-066",
+    "question": "Gjatë palpimit për të përcaktuar fundusin uterin tek një e sapo lindur, ju vini re se fundusi i saj është i fortë dhe tre gisht gjërësi mbi umbelikus dhe i devijuar. Ju duhet të:",
+    "answers": [
+      "Kontrollosh për shtim të lohjeve",
+      "Masazhosh uterusin e fortë",
+      "Matësh presionin arterial",
+      "Palposh për vezikë urinare të distenduar"
+    ],
+    "correct": 3,
+    "explanation": "Devijimi i fundusit shpesh shkaktohet nga vezika urinare e distenduar; duhet të palpohet."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-067",
+    "question": "Pritshmëria e mamisë lidhur me involucionin normal uterin në periudhën post partumit do të ishte, zbritja e uterusit:",
+    "answers": [
+      "1 cm në ditë",
+      "1 cm në dy ditë",
+      "1 cm në tre ditë",
+      "1 cm në javë"
+    ],
+    "correct": 0,
+    "explanation": "Involucioni normal i uterusit postpartum bën fundusin të zbresë rreth 1 cm në ditë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-068",
+    "question": "Zonja X lindi një djalë të shëndetshëm 5 ditë përpara. Efarë tipi të lochjeve ju shpresoni të shikoni kur ju do të bëni vleresimin e saj?",
+    "answers": [
+      "Lochia serosa",
+      "Lochie alba",
+      "Lochie nigra",
+      "Lochie rubra ( te kuqe)"
+    ],
+    "correct": 0,
+    "explanation": "Rreth ditës së 5-të postpartum, lochiet zakonisht janë të tipit serosa."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-069",
+    "question": "Gruaja ju kërkon juve se \"vendi i butë\" në kokën e djalit të saj, pas sa kohësh do të largohet? Përgjigja juaj është e bazuar në njohuritë tuaja që fantanela anteriore mbyllet në muajin ______ pas lindjes.",
+    "answers": [
+      "2",
+      "8",
+      "12",
+      "18"
+    ],
+    "correct": 3,
+    "explanation": "Fontanela anteriore mbyllet normalisht rreth muajit të 18-të."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-070",
+    "question": "Gruaja e cila dëshiron të ushqejnë fëmijën me gji, cilat nga pikat e mëposhtme nevojitet të bëjnë?",
+    "answers": [
+      "Nuk nevojitet ndonjë përgatitje speciale",
+      "Të fshij me peshqir thithat edo ditë",
+      "Të laj thithat me ujë e sapun pas edo ushqyerje",
+      "Të lyej thithat me ndonjë pomadë"
+    ],
+    "correct": 0,
+    "explanation": "Nuk nevojitet ndonjë përgatitje e veçantë e thithave para ushqyerjes me gji."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-071",
+    "question": "Gruaja e cila ushqen fëmijën e saj me qumësht gjiri, paraqet se ka nevojë për më shumë informacion lidhur me kujdesin e gjirit nëse ajo:",
+    "answers": [
+      "Lan areolën dhe thithën e edo gjiri me ujë të ngrohtë",
+      "Aplikon cremin me vitaminë E ne thithat dhe areolat vetëm përpara ushqyerjes së bebit",
+      "Shmang përdorimin e sapunit në thithat dhe areolat",
+      "Përdor kulloshtrën ose qumështin për të zbutur dhe mbrojtur thithat dhe areolat"
+    ],
+    "correct": 1,
+    "explanation": "Aplikimi i kremrave para ushqyerjes (pa u fshirë) mund të jetë e dëmshme për bebin, duke treguar nevojën për edukim shtesë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-072",
+    "question": "Gruaja e cila është diagnostikuar me mastit dhe merr antibiotikë duhet të:",
+    "answers": [
+      "Fillojë duke e ushqyer bebin fillimisht me gjirin e painfektuar",
+      "Ndërpresë ushqyerjen e fëmijës me gji",
+      "Ruaj laktacionin duke shtrydhur dhe shkarkuar qumështin me pompë",
+      "Ushqejë bebin e saj me gjirin e painfektuar"
+    ],
+    "correct": 2,
+    "explanation": "Rekomandohet ruajtja e laktacionit duke vazhduar shtrydhjen/pompimin edhe të gjirit të infektuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-073",
+    "question": "Mjeku porosit, që gruas ti bëhet Rhogama paslindjes. Mamia duhet ta administrojë atë, jo më vonë se ____ orë pas lindjes së fëmijës.",
+    "answers": [
+      "12",
+      "24",
+      "48",
+      "72"
+    ],
+    "correct": 3,
+    "explanation": "RhoGAM duhet administruar jo më vonë se 72 orë pas lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-074",
+    "question": "Substance abuzuese gjatë barrës e cila shkakton vazoconstricsion dhe ulje të perfuzionit placentar si rezultat i complikimeve maternale dhe fetale është:",
+    "answers": [
+      "Alkooli",
+      "Eokollata",
+      "Duhani",
+      "Kafeina"
+    ],
+    "correct": 2,
+    "explanation": "Nikotina (duhani) shkakton vazokonstriksion dhe ulje të perfuzionit placentar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-075",
+    "question": "Dhimbja e fortë e kokës në tremestrin e tretë të shtatzanisë, mund të jetë shenjë paralajmëruese për:",
+    "answers": [
+      "Dehydratim",
+      "Hypertension",
+      "Lodhje",
+      "Pamjaftueshmëri ushqimi"
+    ],
+    "correct": 1,
+    "explanation": "Dhimbja e fortë e kokës në tremestrin III mund të tregojë hipertension gestacional/preeklampsi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-076",
+    "question": "Hipertensioni kalimtar është:",
+    "answers": [
+      "Hipertension me edemë të gjeneralizuar,që zhvillohet pas 20 javë gravidancë ose pas lindjes",
+      "Hipertension me proteinuri,që zhvillohet pas 20 javë gravidancë ose menjëherë pas lindjes",
+      "Hipertensioni që krijohet gjatë barrës, ose 24 orë pas lindjes pa edemë, pa proteinuri",
+      "Zhvillimi i hipertensionit gjatë shtatzanisë dhe që kalon pas lindjes së infantit"
+    ],
+    "correct": 2,
+    "explanation": "Hipertensioni kalimtar (gestacional) shfaqet pa proteinuri e pa edemë të gjeneralizuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-077",
+    "question": "Eklampsia është:",
+    "answers": [
+      "Hipertensioni i zhvilluar menjëherë pas lindjes",
+      "Prania e hipertensionit para 20 javësh gravidancë",
+      "Prania e hipertensionit pas 20 javësh gravidancë",
+      "Preeklampsi plus konvulsione, koma ose të dyja"
+    ],
+    "correct": 3,
+    "explanation": "Eklampsia përkufizohet si preeklampsi e shoqëruar me konvulsione dhe/ose komë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-078",
+    "question": "Znj. X ka eklampsi. Detyra e parë e mamisë është:",
+    "answers": [
+      "Administrimi i O2 me maskë",
+      "Aspirimin e përmbajtjes së gojës për të prevenuar kalimin në rrugën e frymëmarrjes",
+      "Të fusë ajër në rrugë orale",
+      "Të qëndrojë me pacienten dhe të telefonojë për ndihmë"
+    ],
+    "correct": 1,
+    "explanation": "Aspirimi i sekrecioneve orale mbron rrugët respiratore gjatë/menjëherë pas krizës eklamptike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-079",
+    "question": "Znj. X është primipare, është monitoruar në klinikën e saj prenatale për HT të induktuar nga barra. Cila nga pikat e mëposhtme do të jetë shqetësuese për infermieren e saj?",
+    "answers": [
+      "Apo një edemë e këmbës me ++",
+      "Një proteinuri prej 400mg në 24 orë",
+      "Një rritje e tensionit diastolik prej 10mmhg",
+      "Një rritje e tensionit sistolik prej 25 mmhg"
+    ],
+    "correct": 3,
+    "explanation": "Një rritje e theksuar prej 25mmHg në presionin sistolik është veçanërisht shqetësuese si trend përkeqësimi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-080",
+    "question": "Zonja x është duke marrë përfuzion me MgSO4 për trajtimin për trajtimin e preeklampsisë së rëndë. Në vlersimin infermieror, infermieria përcakton shenjat vitale:T 37.3°C, P 88, R 10, TA 148/90 mm Hg, mungesë të refleksit patelar. Pacientija ankon për etje të shtuar e afshe të nxehta.",
+    "answers": [
+      "Dhënien e oksigjenit",
+      "Infermieria kërkon për të përcaktuar nivelin e MgSO4",
+      "Pergatitet për dhënien e hidralazinës",
+      "Përgatitet për administrimin e Ca glukonatit"
+    ],
+    "correct": 3,
+    "explanation": "Shenjat (RR i ulur, mungesë reflekse) tregojnë toksicitet të MgSO4; antidoti është kalcium glukonati."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-081",
+    "question": "Znj. X shtrohet në spital për të stimuluar lindjen për arsye të HT të induktuar nga barra. Analizat laboratorike tregojnë vlerën e trombociteve 90.000, rritje të transaminazave dhe ulje të hematokritit. Infermerija njofton mjekun se rezultatet laboratorike tregojnë për:",
+    "answers": [
+      "HELLP sindrom",
+      "K.I.D.",
+      "Preeklamsi",
+      "Trombocitopeni idiopatike"
+    ],
+    "correct": 0,
+    "explanation": "Trombocitopeni + rritje e transaminazave + hemolizë (ulje hematokriti) përbëjnë triadën klasike të sindromit HELLP."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-082",
+    "question": "Infermierja po merr anamnezën e znj. X gjatë vizitës së parë prenatale kur gruaja rezulton 10 javë me barrë. Cila prej pikave të mëposhtme tregon që znj. X është në rrezik për zhvillimin e diabetit gestacional gjatë kësaj barre?",
+    "answers": [
+      "Ajo është 28 vjeçe",
+      "Fëmija i parë i saj ka lindur me seksio",
+      "Në anamnezën familjare rezulton diabet i tipit të I-rë",
+      "Pesha e fëmijës së fundit në lindje ka qënë 4530gr."
+    ],
+    "correct": 3,
+    "explanation": "Lindja e mëparshme e një foshnje makrozomik (mbi 4kg) është faktor risku për diabet gestacional."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-083",
+    "question": "Konsultimi para konceptimit është i rëndësishëm për përfundimin e shtatzanisë tek gruaja me diabet, për shkak se kontrolli i dobët i glicemisë para dhe në periudhën e hershme të barrës shoqërohet me:",
+    "answers": [
+      "Anomali kongenetale të fetusit",
+      "Episode të shpeshta të hypoglicemisë amtare",
+      "Hyperemesis gravidarum",
+      "Polihydramion"
+    ],
+    "correct": 0,
+    "explanation": "Glicemia e pakontrolluar herët në barrë rrit riskun për anomali kongenitale fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-084",
+    "question": "Gjatë vizitës prenatale infermierja i shpjegon dietën Znj. X me diabet pregestacional. Infermierja vlerson që instruksioni i saj ka qënë efektiv, kur zonja X thotë:",
+    "answers": [
+      "Dieta dhe insulina duhet të ndryshojë gjatë barrës",
+      "Unë do të planifikoj dietën në bazë të nivelit të glukozës",
+      "Unë do të vazhdoj me të njëjtën dietë si përpara barrës, për aq kohë sa ajo do të jetë e mirë balancuar",
+      "Unë do të jetë e nevojshme të marrë më shumë se 600 kalori në ditë që nga momenti që jam shtatzanë"
+    ],
+    "correct": 1,
+    "explanation": "Përgjigja e saktë tregon kuptim të përshtatjes së dietës në bazë të niveleve të glukozës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-085",
+    "question": "Një grua paraqitet në departamentin e urgjencës duke ankuar për gjakrrjedhje dhe crampe. Fillimisht infermierja i merr anamnezën për menset e fundit, të cilat ajo i kishte patur 6 javë më parë. Me një speculum steril ekzaminohet me kujdes dhe shihet që columi është i mbyllur. Plani i kujdesit në këtë grua do të bazohet në diagnozën e cilit tip të abortit?",
+    "answers": [
+      "I paevitueshëm",
+      "Incomplet",
+      "Rrezik aborti",
+      "Septik"
+    ],
+    "correct": 2,
+    "explanation": "Kolumi i mbyllur me gjakrrjedhje/crampe klasifikohet si rrezik aborti."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-086",
+    "question": "Znj. D. eshtë 13 jave shtatzanë. Ajo ankon për dhimbje në fund të barkut dhe hemoragji. Gjatë ekzaminimit vaginal, mjeku konstaton se gruaja ka shkurtim të qafës së mitrës dhe dilatacion të saj. Cili lloj aborti është ky:",
+    "answers": [
+      "Abort progredient",
+      "Abort inkomplet",
+      "Mised abort",
+      "Rrezik aborti"
+    ],
+    "correct": 0,
+    "explanation": "Shkurtimi dhe dilatacioni i qafës së mitrës me hemoragji tregon abort të paevitueshëm/progredient."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-087",
+    "question": "Gruaja eshte ne javen e tete te shtatzanise. Gjatë ekzaminimit me ultrasaund mjeku nuk arrin të kapë RZF. Në këtë rast kemi të bëjmë me:",
+    "answers": [
+      "Abort habitual",
+      "Abort inkomplet",
+      "Abort të paevitueshmëm",
+      "Missed abort"
+    ],
+    "correct": 3,
+    "explanation": "Mungesa e RZF me sak gestacional të pranishëm tregon 'mised abort' (aborti i harruar)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-088",
+    "question": "Një grua 10 javë shtatzanë merr në telefon shërbimin prenatal dhe i referon se ajo ka hemoragji vaginale. Cila duhet të jetë përgjigjia fillestare e infermieres:",
+    "answers": [
+      "Ndoshta ju keni abortuar. Sill me vete të gjitha garzat apo lineset dhe hajde në klinikë tani.",
+      "Përshkruaj sasinë e hemoragjisë, karakteristikat dhe kohën e gjakrrjedhjes (sa kohë ka zgjatur hemoragjia)",
+      "Të rrijë regjim shtrati dhe nëse hemoragjia vazhdon të lajmërojë menjëherë",
+      "Të vijë në klinikë sa më shpejt të jetë e mundur me qëllim që të vizitohet"
+    ],
+    "correct": 1,
+    "explanation": "Infermieria duhet fillimisht të vlerësojë karakteristikat e hemoragjisë përpara se të japë udhëzime."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-089",
+    "question": "Një grua gravide 8 javëshe paraqet rrezik aborti. Kush është trajtimi i duhur për këttë lloj aborti:",
+    "answers": [
+      "Përgatitja e gruas për t'ju bërë dilatacioni e kyretazhi",
+      "Vendosja e gruas rregjim shtrati për disa ditë dhe rivlerësimi i saj",
+      "Përgatitja e gruas për ekzaminim ekografik për të parë integritetin e sakusit gestacional",
+      "Qetësimi i gruas duke i treguar asaj që edhe n.q.se e humbet këtë fëmijë ajo mund të ngelet përsëri shtatzane pas një muaji."
+    ],
+    "correct": 2,
+    "explanation": "Në kërcënim aborti gruaja përgatitet për ekografi, që të shihet integriteti i thesit gestacional dhe jetueshmëria e barrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-090",
+    "question": "Manifestimi klinik i placenta previas që e dallon nga distako placenta është prezenca e:",
+    "answers": [
+      "Aktivitetit uterin",
+      "Crampeve",
+      "Dhimbjes",
+      "Hemoragjisë"
+    ],
+    "correct": 3,
+    "explanation": "Placenta previa karakterizohet nga hemoragji pa dhimbje, ndryshe nga distakoja që shoqërohet me dhimbje."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-091",
+    "question": "Gjatë aplikimit të forcepsit infermiere-mamia duhet:",
+    "answers": [
+      "Të ndjeke R.Z.F.",
+      "Të ndjekë T.A.",
+      "Të vlersojë pulsin amtar",
+      "Të vlersojë T°"
+    ],
+    "correct": 0,
+    "explanation": "Monitorimi i RZF-ve është prioritet gjatë aplikimit të forcepsit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-092",
+    "question": "Kur vendoset forcepsi dilatacioni duhet të jetë:",
+    "answers": [
+      "6 - 7 cm",
+      "7 - 8 cm",
+      "10 cm",
+      "Mbi 10 cm"
+    ],
+    "correct": 2,
+    "explanation": "Forcepsi vendoset vetëm kur dilatacioni i qafës së mitrës është i plotë (10 cm)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-093",
+    "question": "Polihydramion kemi kur sasia e likidit amniotic është:",
+    "answers": [
+      "1000 ml",
+      "500 ml",
+      "1500 ml",
+      "Mbi 2000 ml"
+    ],
+    "correct": 3,
+    "explanation": "Polihidramnioni përkufizohet si sasi e likidit amniotik mbi 2000 ml."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-094",
+    "question": "Nëse gruaja ka një lindje në javën e 41 të shtatzanisë së saj, efarë lloj lindje ajo duhet të konsiderohet:",
+    "answers": [
+      "Pretermë",
+      "Termë",
+      "Postermë",
+      "Gestacinale"
+    ],
+    "correct": 1,
+    "explanation": "Lindja në javën 41 është termë (37–42 javë); postermë quhet mbi 42 javë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-095",
+    "question": "Nëse gruaja ka një lindje në javën e 38 të shtatzanisë së saj, efarë lloj lindje ajo duhet të konsiderohet:",
+    "answers": [
+      "Pretermë",
+      "Termë",
+      "Postermë",
+      "Gestacinale"
+    ],
+    "correct": 1,
+    "explanation": "Lindja në javën 38 konsiderohet termë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-096",
+    "question": "Nëse gruaja ka një lindje para javës së 36 të shtatzanisë së saj, efarë lloj lindje ajo duhet të konsiderohet:",
+    "answers": [
+      "Pretermë",
+      "Termë",
+      "Postermë",
+      "Gestacinale"
+    ],
+    "correct": 0,
+    "explanation": "Lindja para javës 36 konsiderohet pretermë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-097",
+    "question": "Shtatzania e zonjës x kalon kufirin e 42 j. Në këtë situatë mamia mendon se fetusi i kësaj zonje është i rrezikuar për:",
+    "answers": [
+      "Makrosomi",
+      "Malprezentacion",
+      "Polihydramion",
+      "Sepsis fetal"
+    ],
+    "correct": 0,
+    "explanation": "Barra post-term rrit riskun e makrosomisë fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-098",
+    "question": "Shënja që një grua shtatzane ka aktivitet të parakohshëm lindje mund të jetë:",
+    "answers": [
+      "Dhimbja që shoqëron kontraksionet uterine është e fortë, konstante dhe lokalizohet në pjesën e sipërme të barkut, në fundusin uterin",
+      "Kontraksionet uterine zgjasin të paktën 20 minuta",
+      "Kontraktime uterine të cilat ndodhin me një frekuencë prej katër kontraksionesh në 1 orë",
+      "Shkurtimi qafës së mitrës deri në 80% edhe dilatacioni 2 cm."
+    ],
+    "correct": 3,
+    "explanation": "Shkurtimi domethënës i qafës (80%) dhe dilatacioni tregojnë aktivitet të parakohshëm lindje."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-099",
+    "question": "Një grua shtatzanë, në javën e 32 të shtatzanisë është përcaktuar të jetë me rrisk për lindje pretermë. Një shenjë, që të ndodhë lindja pretermë do të jetë:",
+    "answers": [
+      "Dhimbja që shoqëron kontraksionet uterine është e fortë dhe konstate",
+      "Dilatacioni cervikal është më shumë se 1 cm",
+      "Kontraksionet uterine i kemi me një frekuencë, 4 kontraksione në një orë",
+      "Përgatitja e qafës mitrës (zbutaja) dhe shkurtimi i saj 25%"
+    ],
+    "correct": 1,
+    "explanation": "Dilatacioni cervikal mbi 1 cm në javën 32 është shenjë se lindja pretermë po afrohet."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-100",
+    "question": "Një grua e hospitalizuar për aktivitet të parakohshëm po merr MgSO4 i/v. Rezultati i pritur për këtë trajtim do të jetë n.q.s:",
+    "answers": [
+      "Ataket eklamptike nuk do të ndodhin",
+      "Kontraksionet uterine ndalohen",
+      "Mushkritë e të porsalindurit fillojnë prodhojnë surfaktatnt",
+      "Nuk ndodh plasja e parakohshme e membranave"
+    ],
+    "correct": 1,
+    "explanation": "MgSO4 përdoret si tokolitik për të ndaluar kontraksionet uterine në lindjen pretermë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-101",
+    "question": "Mamia duhet të kryej testin nitrazinës për të:",
+    "answers": [
+      "Përcaktuar nëse gjaku është prezent në likidin amniotik",
+      "Dalluar likidin amniotik nga urina duke testuar ph",
+      "Bërë ndryshimin mes feeeve maternale dhe meconiumit",
+      "Përcaktuar veeoritë e gravitetit të uterusit"
+    ],
+    "correct": 1,
+    "explanation": "Testi i nitrazinës dallon likidin amniotik (alkalin) nga urina (acide) përmes pH."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-102",
+    "question": "Zonja X është 23 javë shtatzanë. Ajo ju telefonon dhe ju thotë se mendon që ka rrjedhje të ujrave nga vagina.ju do ti thoni asaj:",
+    "answers": [
+      "Hajdeni menjëherë në klinikë",
+      "Më telefono pas 2 h dhe më trego nëse ka ndryshime të rrjedhjeve",
+      "Ne mund të presim deri në vizitën tjetër të radhës",
+      "Për sa kohë që bebi lëviz ju mos u shqetësoni"
+    ],
+    "correct": 0,
+    "explanation": "Dyshimi për rrjedhje uji kërkon vlerësim të menjëhershëm në klinikë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-103",
+    "question": "Kur gruas i plasin membranat amniotike parakohe mamia duhet të vlersojë T° çdo:",
+    "answers": [
+      "1 orë",
+      "4 orë",
+      "6 orë",
+      "8 orë"
+    ],
+    "correct": 1,
+    "explanation": "Temperatura vlerësohet çdo 4 orë pas plasjes së parakohshme të membranave (rrezik infeksioni)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-104",
+    "question": "Gruaja paraqitet në klinikë dhe ankon për dhimbje (kontraksione). Mamia mendon për aktivitet të parakohshëm atëherë kur:",
+    "answers": [
+      "kontraksionet janë çdo 30 min dhe zgjasin 90 sek",
+      "Kontraksionet janë çdo 5 min dhe zgjasin 30 sek",
+      "Kontraksionet janë të çrregullta në intervale të ndryshme kohore",
+      "Kontraksionet jan të çrregullta, por të forta"
+    ],
+    "correct": 1,
+    "explanation": "Kontraksione të rregullta çdo 5 minuta që zgjasin rreth 30 sekonda tregojnë fillim të aktivitetit të vërtetë/të parakohshëm të lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-105",
+    "question": "Znj x është 36 javë shtatzanë. Ajo referon se ka dhimbje shpine, si dhe dhimbje me forcim të barkut. Infermieria në këtë rast vlerson kontraksionet uterine për rreth:",
+    "answers": [
+      "5 min",
+      "10 min",
+      "15 min",
+      "30 min"
+    ],
+    "correct": 3,
+    "explanation": "Kontraksionet uterine vlerësohen për rreth 30 minuta, që të përcaktohet frekuenca, kohëzgjatja dhe intensiteti i tyre."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-106",
+    "question": "Pozicioni me i pershtatshëm që ju i rekomandoni gruas shtatzanë pas plasjes së membranave është në:",
+    "answers": [
+      "Dekupitus dorsal",
+      "Dekupitus lateral dextra",
+      "Dekupitus lateral sinistra",
+      "Pozicioni drejt qëndrim"
+    ],
+    "correct": 2,
+    "explanation": "Pozicioni lateral majtas rekomandohet, duke shmangur kompresionin e venës kava."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-107",
+    "question": "Kur infermiere mamia bën planifikimin e kujdesit për gruan të cilës i kanë plasur membranat amniotice, ajo arsyeton që gruaja është e rriskuar për:",
+    "answers": [
+      "Hemoragji",
+      "Hypotension në pozicion shtrirë me shpinë",
+      "Infeksion intrauterine",
+      "Lindje precipitoze"
+    ],
+    "correct": 2,
+    "explanation": "Plasja e parakohshme e membranave rrit riskun për infeksion intrauterin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-108",
+    "question": "Menjëherë pas lindjes, gjatë vlersimit që infermieria i bën gruas vë re që fundusi uterin është i squllur dhe ka gjakrrjedhje të madhe. Etiologjia më e mundëshme e kësaj gjakrrjedhje është:",
+    "answers": [
+      "Atonia e uterusit",
+      "Hematoma vaginale",
+      "Inversioni uterin",
+      "Laceracioni vaginal"
+    ],
+    "correct": 0,
+    "explanation": "Fundusi i squllur me hemoragji të madhe tregon atoni uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-109",
+    "question": "Hemoragjitë e vona të post partumit shkaktohen nga:",
+    "answers": [
+      "Atonia uterine",
+      "Mbetjet e fragmenteve placentare",
+      "Multipariteti i madh",
+      "Zgjatje e aktivitetit të lindjes"
+    ],
+    "correct": 1,
+    "explanation": "Hemoragjitë e vona postpartum shkaktohen zakonisht nga mbetje të fragmenteve placentare."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-110",
+    "question": "Pas lindjes, gjatë ekzaminimit të zonjës X ju konstatoni se brënda 15 min linesi i saj arrin të saturohet plotësisht. Veprimi i parë infermier që ju ndërrmerni është:",
+    "answers": [
+      "Kontrolloni shënjat vitale",
+      "Lajmëroni mjekun",
+      "Palponi fundusin uterin",
+      "Rrisni marrjen e likideve i/v"
+    ],
+    "correct": 2,
+    "explanation": "Veprimi i parë është palpimi i fundusit uterin për të vlerësuar tonin/atoninë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-111",
+    "question": "Zonja X është 25 vjeç. Ajo ka 2 gravidanca, dhe 2 lindje, njërën prej të cilave e pati para 4 orësh ku lindi një fëmije mashkull me peshë 4150gr induktimi i kësaj lindje u bë me oxytocinë. Gruaja vendos të lajmërojë menjëherë infermieren pasi ka shumë gjakrrjedhje. Shkaku i mundshëm i një postpartumi hemoragjik në këtë kliente mund të jetë:",
+    "answers": [
+      "Atonia uterine",
+      "Infeksioni puerperal",
+      "Laceracion vaginal i pariparuar",
+      "Mbetje të fragmenteve placentare"
+    ],
+    "correct": 0,
+    "explanation": "Makrosomia dhe induksioni me oksitocinë rrisin riskun e atonisë uterine postpartum."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-112",
+    "question": "Pas lindjes gruaja ka hemoragji të vazhdueshme në sasi të pakët, fundusi uterin i kontraktuar. Kjo vjen si pasojë:",
+    "answers": [
+      "Atonisë së uterusit",
+      "Laeeracionit të columit",
+      "Mbetjeve të fragmenteve plaeentare",
+      "Mbetjeve te membranave amniotike"
+    ],
+    "correct": 1,
+    "explanation": "Nëse fundusi është i kontraktuar mirë por ka hemoragji, shkaku është zakonisht laceracion i cervikut/columit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-113",
+    "question": "Hemoragjia e hershme e postpartumit (hemoragjia që ndodh brenda 24 orëve të para të pas lindjes) ka më pak gjasa të ndodhë si rezultat i:",
+    "answers": [
+      "Atonin uterine",
+      "Formacioneve të hematomave",
+      "Laceracionet e labieve, perineumit, vaginës ose cerviksit",
+      "Subinvolucionin e uterusit"
+    ],
+    "correct": 3,
+    "explanation": "Subinvolucioni uterin shkakton tipikisht hemoragji të vonshme, jo të hershme, postpartum."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-114",
+    "question": "Shkaqet më të shpeshta të subinvolucionit janë:",
+    "answers": [
+      "Barra multiple dhe hemorragjia postpartum",
+      "Hemoragjia postpartum dhe infeksioni",
+      "Kontraksion persistent dhe mbidozim me oxytocinë",
+      "Mbetje e fragmenteve placentare dhe infeksioni"
+    ],
+    "correct": 3,
+    "explanation": "Mbetjet placentare dhe infeksioni janë shkaqet më të shpeshta të subinvolucionit uterin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-115",
+    "question": "Katër orë pas një aktiviteti dhe lindje të vështirë, një grua primipare refuzon të ushqejë beben e saj. Ajo është gjithashtu e lodhur dhe nuk dëshiron të flejë. Mamia duhet:",
+    "answers": [
+      "Ta vlersoje si një lodhje e një faze të vështirë",
+      "Ta rregjistroje si qëndrim joefektiv i ndërlidhjes nënë - fëmijë",
+      "Ti thotë gruas që ajo mund të pushojë pasi ushqen beben e saj",
+      "Të ktheje bebin në infermieri, duke siguruar gruan që pushimi i saj është prioritet në këtë fazë"
+    ],
+    "correct": 0,
+    "explanation": "Kjo është reagim normal lodhjeje pas lindjes së vështirë, jo domosdoshmërisht shenjë çrregullimi të lidhjes nënë-fëmijë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-116",
+    "question": "Gratë në postpartum përjetojnë rrisk të lartë për infeksion të traktit urinar. Për të prevenuar këto infeksione mamia duhet t'u mësojë grave në postpartum që:",
+    "answers": [
+      "Aciditeti i urinës kalon duke pirë 3 gota lëng portokalli edo ditë",
+      "Kryerja e një kujdesi perineal sistematik duke zbatuar parimet bazë",
+      "Të boshatisë vezikën edo 4 orë gjatë gjithë ditës",
+      "Të vazhdojë të marrë likide 1-2 litra cdo ditë"
+    ],
+    "correct": 3,
+    "explanation": "Marrja e mjaftueshme e lëngjeve (1-2 litra/ditë) ndihmon parandalimin e UTI-ve postpartum."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-117",
+    "question": "Një grua shtatzanë për herë të parë lind dy binjakë në javën e 37 të shtatzanise. Përshkrimi korrekt i anamnezës obstetrikale të gruas do të jetë:",
+    "answers": [
+      "Multigravida, multipara",
+      "Multigravida, primipara",
+      "Primigravida, multipara",
+      "Primigravida, primipara"
+    ],
+    "correct": 3,
+    "explanation": "Kjo është shtatzania dhe lindja e parë e saj, pra primigravida, primipara (pavarësisht binjakëve)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-118",
+    "question": "Barra binjake shpesh:",
+    "answers": [
+      "Kalon ditën e lindjes",
+      "Con ne lindje premature",
+      "Nuk e ka të parashikueshme kohën e lindjes",
+      "Shkon deri në term"
+    ],
+    "correct": 1,
+    "explanation": "Shtatzania binjake shpesh çon në lindje premature."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-119",
+    "question": "Shtimi në peshë i pritshëm për gruan shtatzanë me binjakë është:",
+    "answers": [
+      "Më pak se të kishte një fetus",
+      "Më shume se të kishte një fetus",
+      "Varet se sa janë zhvilluar fetuset",
+      "Është e njëjtë si të kishte një fetus"
+    ],
+    "correct": 1,
+    "explanation": "Shtimi i pritur në peshë është më i madh krahasuar me shtatzaninë me një fetus të vetëm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-120",
+    "question": "Për të prevenuar komplikacionet shumë specialistë rekomandojnë regjimin e shtratit për barrat binjake të fillojë në:",
+    "answers": [
+      "16 javë të shtatzanisë",
+      "20 javë të shtatzanisë",
+      "28 javë të shtatzanisë",
+      "30 javë të shtatzanisë"
+    ],
+    "correct": 1,
+    "explanation": "Regjimi i shtratit për shtatzani binjake rekomandohet të fillojë rreth javës 20."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-121",
+    "question": "Bradikardia fetale është më shumë e zakonshme gjatë:",
+    "answers": [
+      "Administratimit tokolitik",
+      "Anemisë fetale",
+      "Infeksionit intraamniotik",
+      "Zgjatjes së kompresionit të cordonit umbilical"
+    ],
+    "correct": 3,
+    "explanation": "Kompresioni i zgjatur i kordonit umbilikal shkakton tipikisht bradikardi fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-122",
+    "question": "Takikardia fetale është më shumë e zakonshme gjatë:",
+    "answers": [
+      "Administratimit me MgSO4",
+      "Anestezisë regionale",
+      "temperatura maternale",
+      "Prolapsit të kordonit umbilikal"
+    ],
+    "correct": 2,
+    "explanation": "Temperatura e lartë maternale shkakton tipikisht takikardi fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-123",
+    "question": "Infermieria duhet të assistojë lindjen në pozicionin këmbë - duar kur:",
+    "answers": [
+      "Ka prolaps të kordonit",
+      "Membranat janë rupturuar",
+      "Oxyputi i fetusit është në pozicionin anterior",
+      "Prezentacioni i fetusit është me podiume"
+    ],
+    "correct": 0,
+    "explanation": "Pozicioni gjunjë-krah (këmbë-duar) përdoret në prolaps të kordonit për të reduktuar presionin mbi të."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-124",
+    "question": "Në pranim të obstetrikës vjen një grua me dhimbje shumë të forta barku. Gjatë vlerësimit që bën mamia vë re se gruaja pavarsisht dhimbjeve nuk ka kontraksione uterine. Ajo është shumë e zbehtë, ka puls të përshpejtuar, si dhe hemoragji të pakët vaginale. Në këtë rast mamia menjëherë dyshon për:",
+    "answers": [
+      "Distako placente",
+      "Distoci uterine",
+      "Placenta previa",
+      "Rupturë të uterusit"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbje e papritur e fortë pa kontraksione, me shenja shoku, sugjeron rupturë uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-125",
+    "question": "Disfunksioni uterin hypertonik zakonisht ndodh në fazën:",
+    "answers": [
+      "Aktive",
+      "E expulsionit",
+      "E tranzicionit",
+      "Latente"
+    ],
+    "correct": 3,
+    "explanation": "Disfunksioni hipertonik uterin ndodh më shpesh në fazën latente të lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-126",
+    "question": "Cila nga vlersimet e mëposhtme nuk është e lidhur me prezentacionin me podiume?",
+    "answers": [
+      "Prania e mekoniumit në likidin amniotik",
+      "Lindja parakohe e femijes",
+      "Degjimi RZF kuadratin e jashtëm abdominal",
+      "Kalimi i dates se parashikuar te lindjes"
+    ],
+    "correct": 3,
+    "explanation": "Kalimi i datës së parashikuar (postterm) nuk lidhet specifikisht me prezantimin podalik."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-127",
+    "question": "Znj. E. ka shtatzaninë e saj të parë. Ajo ka një aktivitet lindje prej 15 orësh. Dy orë përpara në ekzaminimin vaginal shihet se cerviksi është dilatuar 5cm dhe columi është zhdukur plotësisht, pjesa prezantuese është në stacionin 0. Në vizitën vaginale të kryer pas 2 orësh vihet re se nuk ka ndryshime. Cili model i aktivitetit anormal është i lidhur me këtë përshkrim?",
+    "answers": [
+      "Arrest i fazës active",
+      "Fazë active e zgjatur",
+      "Zbritje e zgjatur",
+      "Zgjatja e fazës latent"
+    ],
+    "correct": 0,
+    "explanation": "Mungesa e ndryshimit të dilatacionit gjatë fazës aktive tregon arrest të fazës aktive."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-128",
+    "question": "Kur vleresohet një grua për diskomfort menopauzal, diskomforti i raportuar më shpesh është:",
+    "answers": [
+      "Afshet e nxehta",
+      "Dhimbja e kokës",
+      "Ndryshim i humorit",
+      "Thatësia e vaginës"
+    ],
+    "correct": 0,
+    "explanation": "Afshet e nxehta janë simptoma menopauzale më e raportuar shpesh."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-129",
+    "question": "Cila nga pikat e mëposhtme është faktor rrisku për osteoporosis?",
+    "answers": [
+      "Marrja e pakët e proteinave",
+      "Obeziteti",
+      "Raca",
+      "Trup i dobët"
+    ],
+    "correct": 3,
+    "explanation": "Trupi i dobët (peshë e ulët trupore) është faktor risku i njohur për osteoporozën."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-130",
+    "question": "Një grua ankon për dhimbje të forta barku e pelvike rreth periudhës së zakoneve, e cila e ka përkeqsuar gjendjen e saj në 5 vitet e fundit. Ajo gjithashtu ankon për dhimbje gjatë mardhënieve seksuale dhe është përpjekur që të ngelet shtatzanë 18 muajt e fundit por pa sukses. Këto simptoma kanë më tepër mundësi të lidhen me:",
+    "answers": [
+      "Dismenorrenë primare",
+      "Dismenorrenë sekondare",
+      "Endometriozën",
+      "Sindromi premenstrual"
+    ],
+    "correct": 2,
+    "explanation": "Kombinimi i dhimbjes progresive, dispareunisë dhe infertilitetit sugjeron endometriozë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-131",
+    "question": "Kur një femer consultohet për dismenorrhea primare, cilat nga ndërhyrjet e më poshtme jo farmakologjike do të përdoret?",
+    "answers": [
+      "Mos bërja e ushtrimeve gjatë periudhës menstruale",
+      "Përdorimi i kompresave të ngrohta për të lehtësuar crampet",
+      "Shmagia e marrdhënieve seksuale gjatë ditës së parë të menseve",
+      "Shmangia e caffeinës gjatë periudhes menstruale"
+    ],
+    "correct": 1,
+    "explanation": "Kompresat e ngrohta janë ndërhyrje jofarmakologjike e njohur për lehtësimin e krampave menstrualë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-132",
+    "question": "Me amenorre kuptojmë:",
+    "answers": [
+      "Fluks i pakët menstrual",
+      "Fluks i shtuar menstrual",
+      "Menstruacione të dhimbshme",
+      "Mungesë e menseve"
+    ],
+    "correct": 3,
+    "explanation": "Amenorrea është mungesa e menstruacioneve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-133",
+    "question": "Dhimbja e fortë, akute jo menstruale lidhet me:",
+    "answers": [
+      "Cisti ovarial i rupturuar",
+      "Dismenorrheanë primare",
+      "Dispozitivin Intra- Uterin",
+      "Sëmundjet malinje të ovareve"
+    ],
+    "correct": 0,
+    "explanation": "Ruptura e një cisti ovarial shkakton dhimbje akute, të fortë, jo-menstruale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-134",
+    "question": "Dhimbja menstruale rekurente dhe në mënyrë periodike lidhet me:",
+    "answers": [
+      "Cistet ovariale",
+      "Dismenorrhea (primare, sekondare)",
+      "Sëmundjet inflamatore pelvike akute",
+      "Sëmundjet malinje të uterusit"
+    ],
+    "correct": 1,
+    "explanation": "Dhimbja menstruale periodike e përsëritur karakterizon dismenorrenë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-135",
+    "question": "Gjatë intervistës me nje zonje 31 vjeeare, mamia përpara ekzaminimit rutinë, mbledh të dhëna rreth ciklit të fundit menstrual. Ajo duhet të mbledhë informacion shtesë, ne rastin kur gruaja pershkruan:",
+    "answers": [
+      "rrjedhje shumë të shtuara",
+      "sasi të vogël spotingu mes periodave",
+      "Gjatësine e ciklit menstrual nga 26 deri 29 ditë",
+      "Rrjedhje menstruale më pak se 5-6 ditë"
+    ],
+    "correct": 1,
+    "explanation": "Spotingu mes periodave është i parregullt dhe kërkon informacion shtesë; ciklet 26–29 ditë janë normale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-136",
+    "question": "Në terapinë me estrogen të grave, ju do të përfshini rrezikun ndaj këtij trajtimi për:",
+    "answers": [
+      "Cancer cervikal",
+      "Cancer endometrial",
+      "Cancer ovarian",
+      "Osteoporozis"
+    ],
+    "correct": 1,
+    "explanation": "Terapia me estrogen të vetëm (pa progesteron) rrit riskun e kancerit endometrial."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-137",
+    "question": "Znj. X është diagnostikuar me fibriomiom uterin. Kur bëhet plani i kujdesit infermierja duhet të dijë që:",
+    "answers": [
+      "Janë fibrimiomat tumore malinje të uterusit",
+      "Rriten fibromiomat zakonisht mbas menopauzës",
+      "Rritja e fluksit menstrual është një simptomë e zakonshme",
+      "Barra mund të ndodhë në uteruset me fibromion"
+    ],
+    "correct": 2,
+    "explanation": "Rritja e fluksit menstrual është simptomë e zakonshme e fibromiomave uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-138",
+    "question": "Amenorrea hypogonadotropike nuk shkaktohet nga:",
+    "answers": [
+      "Humbje e shpejtë e peshës",
+      "Kontraceptivet oralë",
+      "Stresi",
+      "Ushtrime të forta"
+    ],
+    "correct": 1,
+    "explanation": "Kontraceptivët oralë nuk shkaktojnë amenorre hipogonadotropike përmes mekanizmit hipotalamik siç bëjnë stresi/humbja e peshës/ushtrimet e forta."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-139",
+    "question": "Cila prej simptomave të mëposhtme të përshkruara nga një grua është karakteristike për sindromin premenstrual (SPM)?",
+    "answers": [
+      "Unë filloj të kem fryerje barku dhe dhimbje gjoksi kur më fillojnë zakonet",
+      "Unë kam dhimbje të forta të barkut rreth ditës së tretë të zakoneve",
+      "Unë kam nauze, dhimbje koke pas fillimit të zakoneve",
+      "Unë ndjehem e irrituar 1 javë -10 ditë para fillimit të menstruacioneve"
+    ],
+    "correct": 3,
+    "explanation": "SPM karakterizohet nga simptoma që shfaqen 1 javë-10 ditë PARA fillimit të menstruacioneve, jo pas."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-140",
+    "question": "Zonja X është 29 vjeç. Ajo ka qënë e diagnostikuar për lindje preterme, e cila u mbajt nën kontroll me preparate tokolitikë. Zonja kërkon të dijë kur ajo do të jetë në gjendje të shkojë në shtëpi:",
+    "answers": [
+      "Pasi bebi të lindë",
+      "Nëse i sigurohet një infermiere për ta kontrolluar",
+      "Varet nga shtrimet në spital",
+      "Edo kohë që ajo vetë të vendosë"
+    ],
+    "correct": 2,
+    "explanation": "Kohëzgjatja e shtrimit varet nga vlerësimi klinik dhe protokollet e spitalit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-141",
+    "question": "Uterusi është një organ muskulor në formë dardhe që përgjigjet për:",
+    "answers": [
+      "Ciklin menstrual",
+      "Prodhimin e hormoneve seksuale",
+      "Fertilizimin",
+      "Zgjimin seksual"
+    ],
+    "correct": 0,
+    "explanation": "Uterusi është përgjegjës drejtpërdrejt për ciklin menstrual (shkolitja e endometrit)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-142",
+    "question": "Për arsye të efekteve të ciklit ovarian në ndryshimet e gjirit, koha më e mirë për të bërë vet- ekzaminimin e gjirit është:",
+    "answers": [
+      "5 - 7 ditë pas përfundimit të menseve",
+      "Ditën e parë të ciklit endometrial",
+      "Në mes të ciklit menstrual",
+      "Edo kohë është e përshtatshme"
+    ],
+    "correct": 0,
+    "explanation": "Koha më e mirë për vetëekzaminimin e gjirit është 5-7 ditë pas përfundimit të menstruacioneve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-143",
+    "question": "Volumi i likidit amniotic është një faktor i rëndësishëm në vlersimin të mirëqënies fetale. Oligohydramioni ( më pak se 300 ml likid amniotic) lidhet me cilën nga anomalitë fetale:",
+    "answers": [
+      "Renale",
+      "Kardiake",
+      "Gastrointestinale",
+      "Neurologjike"
+    ],
+    "correct": 0,
+    "explanation": "Oligohidramnioni lidhet klasikisht me anomali renale fetale (prodhim i pakët urine)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-144",
+    "question": "Mensturacioni është gjakrrjedhje uterine periodike:",
+    "answers": [
+      "Që ndodh edo 28 ditë",
+      "Në të cilën bie shtresa e brendshme e uterusit",
+      "Që rregullohet prej hormoneve ovarialë",
+      "E cila drejton fertilizimin"
+    ],
+    "correct": 1,
+    "explanation": "Menstruacioni karakterizohet nga shkolitja (rënia) e shtresës së brendshme (endometrit) të uterusit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-145",
+    "question": "Për të planifikuar familjen çifti vendos të përdorë metodën natyrore. E rëndësishme për ta është të dinë sa është jetëgjatësia e vezës pas ovulacionit. Mamia vëre se mësimdhënia e saj ka qënë efektive kur eifti përgjigjet se jetëgjatësia e vezës është:",
+    "answers": [
+      "1 - 3 ditë",
+      "3 - 5 ditë",
+      "5 - 7 ditë",
+      "7 - 9 ditë"
+    ],
+    "correct": 0,
+    "explanation": "Veza mbetet e fekondueshme rreth 1-3 ditë pas ovulacionit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-146",
+    "question": "Gjatë instruksionit në lidhje me nivelet e dëshiruara të glukozës kur flitet për diabet gestacional, infermierja shpjegon nivelet e glukozës si p.sh. para ushqimit të cilat janë:",
+    "answers": [
+      "60-90 mg/dl",
+      "90-120 mg/dl",
+      "110-150 mg/dl",
+      "150-180 mg/dl"
+    ],
+    "correct": 0,
+    "explanation": "Niveli i dëshiruar i glukozës para ushqimit në diabetin gestacional është rreth 60-90 mg/dl."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologjike-2-147",
+    "question": "Znj x është 3 muajshe me barrë. Në vizitën e saj prenatale, ajo i thotë mamisë se nuk e kupton se çfarë po i ndodh: një minutë ajo është e lumtur që është shtatzanë dhe minutin tjetër ajo qan pa arsye. Cila prej përgjigjeve të mëposhtme të dhëna nga mamia është më e përshtatshme?",
+    "answers": [
+      "Është e zakonshme të kesh ndryshime të shpejta emocionale gjatë shtatzanisë",
+      "Ju keni biseduar me partnerin tuaj rreth këtij problemi?",
+      "Ju vertetë nuk e dëshironi këtë shtatzani?",
+      "Mos u shqetëso ju do të ndjeheni më mirë brënda muajit"
+    ],
+    "correct": 0,
+    "explanation": "Ndryshimet e shpejta të humorit janë të zakonshme dhe normale gjatë shtatzanisë; përgjigja duhet të normalizojë përvojën e saj."
+  }
+]

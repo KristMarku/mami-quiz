@@ -1,0 +1,78 @@
+{
+    "id": "root",
+    "title": "Mami",
+    "type": "root",
+    "description": "Zgjidh provimin ose temat e mamisë.",
+    "children": [
+        {
+            "id": "exam",
+            "title": "Provimi",
+            "type": "exam",
+            "description": "Simulo provimin me 50 pyetje të rastësishme nga të gjitha temat."
+        },
+        {
+            "id": "mami",
+            "title": "Lendet Mami",
+            "type": "folder",
+            "description": "Zgjidh një temë për të praktikuar të gjitha pyetjet me radhë ose të përziera.",
+            "children": [
+                {
+                    "id": "mami-bazat-kirurgji-anestezi-infektiv",
+                    "title": "Bazat, Kirurgji, Anestezi dhe Infektiv",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-bazat-kirurgji-anestezi-infektiv.json",
+                    "description": "Praktiko: Bazat, Kirurgji, Anestezi dhe Infektiv."
+                },
+                {
+                    "id": "mami-pergjithshme-paraklinike",
+                    "title": "Lëndë të Përgjithshme Paraklinike",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-pergjithshme-paraklinike.json",
+                    "description": "Praktiko: Lëndë të Përgjithshme Paraklinike."
+                },
+                {
+                    "id": "mami-pergjithshme-klinike",
+                    "title": "Lëndë të Përgjithshme Klinike",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-pergjithshme-klinike.json",
+                    "description": "Praktiko: Lëndë të Përgjithshme Klinike."
+                },
+                {
+                    "id": "mami-obstetrike-gjinekologji-1",
+                    "title": "Obstetrikë dhe Gjinekologji 1",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-obstetrike-gjinekologji-1.json",
+                    "description": "Praktiko: Obstetrikë dhe Gjinekologji 1."
+                },
+                {
+                    "id": "mami-obstetrike-gjinekologjike-2",
+                    "title": "Obstetrikë dhe Gjinekologji 2",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-obstetrike-gjinekologjike-2.json",
+                    "description": "Praktiko: Obstetrikë dhe Gjinekologji 2."
+                },
+                {
+                    "id": "mami-pediatri-puerikulture-neonatologji",
+                    "title": "Pediatri, Puerikulturë dhe Neonatologji",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-pediatri-puerikulture-neonatologji.json",
+                    "description": "Praktiko: Pediatri, Puerikulturë dhe Neonatologji."
+                },
+                {
+                    "id": "mami-neonatologji",
+                    "title": "Neonatologji",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-neonatologji.json",
+                    "description": "Praktiko: Neonatologji."
+                },
+                {
+                    "id": "mami-shendet-riprodhues",
+                    "title": "Shëndet Riprodhues",
+                    "type": "lesson",
+                    "questionFile": "mami/mami-shendet-riprodhues.json",
+                    "description": "Praktiko: Shëndet Riprodhues."
+                }
+            ]
+        }
+    ]
+}

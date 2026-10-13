@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "mami-neonatologji-001",
+    "question": "Transpozicioni i vazave te medha nenkupton:",
+    "answers": [
+      "komunikim ndermjet atriumeve",
+      "komunikim ndemjet ventrikujve",
+      "aorta qe del nga ventrikuli i djathte",
+      "ventrikul unik"
+    ],
+    "correct": 2,
+    "explanation": "Transpozicioni i vazave të mëdha karakterizohet nga aorta që del nga ventrikuli i djathtë (në vend të të majtit)."
+  },
+  {
+    "id": "mami-neonatologji-002",
+    "question": "Cili quhet femije premature?",
+    "answers": [
+      "ai qe lind <37 jave moshe barre",
+      "ai qe lind >42 jave moshe barre",
+      "ai qe lind =20 jave moshe barre",
+      "Ai qe lind midis 37-41 jave moshe barre"
+    ],
+    "correct": 0,
+    "explanation": "Prematuriteti përkufizohet si lindje para javës 37."
+  },
+  {
+    "id": "mami-neonatologji-003",
+    "question": "Ikteri fiziologjik shfaqet:",
+    "answers": [
+      "diten e pare te jetes",
+      "diten e trete te jetes",
+      "diten e dhjete te jetes",
+      "muajin e pare te jetës"
+    ],
+    "correct": 1,
+    "explanation": "Ikteri fiziologjik shfaqet zakonisht ditën e tretë të jetës."
+  },
+  {
+    "id": "mami-neonatologji-004",
+    "question": "Ikteri nga papjtueshmeria e rhezusit shfaqet:",
+    "answers": [
+      "diten e pare te jetes",
+      "diten e trete te jetes",
+      "diten e dhjete te jetes",
+      "muajin e pare te jetes"
+    ],
+    "correct": 0,
+    "explanation": "Ikteri nga papajtueshmëria Rh shfaqet që ditën e parë të jetës."
+  },
+  {
+    "id": "mami-neonatologji-005",
+    "question": "Kernikter ose ikteri nuklear prek:",
+    "answers": [
+      "aparatin gastro-intestinal",
+      "aparatin lokomotor",
+      "berthamat nukale te trurit",
+      "aparatin kardio-respirator"
+    ],
+    "correct": 2,
+    "explanation": "Kernikteri prek bërthamat nukale të trurit."
+  },
+  {
+    "id": "mami-neonatologji-006",
+    "question": "Neonati nuk vendoset ne gji kur nena është e semure nga:",
+    "answers": [
+      "rubeola",
+      "meningiti",
+      "HIV-Aids",
+      "tetanozi"
+    ],
+    "correct": 2,
+    "explanation": "HIV-AIDS te nëna është kundërindikacion i ushqyerjes me gji."
+  },
+  {
+    "id": "mami-neonatologji-007",
+    "question": "Oftalmiti është shenja me e zakonshme dhe me e shpështë e:",
+    "answers": [
+      "tetanozit",
+      "gonorese",
+      "sifilizit",
+      "rubeoles"
+    ],
+    "correct": 1,
+    "explanation": "Oftalmia neonatorum lidhet më shpesh me infeksionin gonokoksik."
+  },
+  {
+    "id": "mami-neonatologji-008",
+    "question": "Kush nga detreset e meposhtme nuk quhet \"detres kirurgjikal\"?",
+    "answers": [
+      "hernia diafragmale",
+      "semundja e membranave hialine",
+      "atrezia e koanave",
+      "atrezia e ezofagut"
+    ],
+    "correct": 1,
+    "explanation": "Sëmundja e membranave hialine (RDS) është detres respirator mjekësor, jo kirurgjikal, ndryshe nga anomalitë strukturore."
+  },
+  {
+    "id": "mami-neonatologji-009",
+    "question": "Ventrikuli unik ben pjese ne:",
+    "answers": [
+      "kardiopatite cianogjene",
+      "kardiopatite jocianogjene",
+      "Kardiopatite komplekse",
+      "Tetrada Fallo"
+    ],
+    "correct": 0,
+    "explanation": "Ventrikuli unik bën pjesë në kardiopatitë cianogjene."
+  },
+  {
+    "id": "mami-neonatologji-010",
+    "question": "Apgari nuk vleresohet nepermjet:",
+    "answers": [
+      "ngjyres se lekures",
+      "frekuences respiratore",
+      "frekuences kardiake",
+      "thithje-gelltitjes"
+    ],
+    "correct": 3,
+    "explanation": "Apgari nuk përfshin vlerësimin e thithje-gëlltitjes; përfshin ngjyrën, frekuencën kardiake, respiratore, tonusin dhe irritabilitetin."
+  },
+  {
+    "id": "mami-neonatologji-011",
+    "question": "Përbëjnë kundërindikacion absolut për ushqyerjen me gji të gjitha me përjashtim të:",
+    "answers": [
+      "HIV i nënës",
+      "Insuficiencë kardiake e dekompesuar e nënës",
+      "TBC aktiv i nënës",
+      "ragadet e gjirit të nënës"
+    ],
+    "correct": 3,
+    "explanation": "Ragadet e gjirit janë të trajtueshme dhe s'përbëjnë kundërindikacion absolut."
+  },
+  {
+    "id": "mami-neonatologji-012",
+    "question": "Pikezimi i Apgarit është:",
+    "answers": [
+      "sëmundje ngjitëse e neonatit",
+      "keqformim i lindur",
+      "sëmundje e sistemit kardiorespirator",
+      "sistem vlerësues i shenjave jetësore të neonatit"
+    ],
+    "correct": 3,
+    "explanation": "Apgari është sistem vlerësues i shenjave jetësore të neonatit."
+  },
+  {
+    "id": "mami-neonatologji-013",
+    "question": "Ushqyerja ekskluzive me gji duhet te vazhdohet:",
+    "answers": [
+      "dy muaj pas lindjes",
+      "kater muaj pas lindjes",
+      "gjashte muaj pas lindjes",
+      "deri ne vitin e pare te jetes"
+    ],
+    "correct": 2,
+    "explanation": "Ushqyerja ekskluzive me gji rekomandohet për gjashtë muajt e parë."
+  },
+  {
+    "id": "mami-neonatologji-014",
+    "question": "Ne sallen e lindjes veprimi qe duhet bere gjithmone është:",
+    "answers": [
+      "vendos bebin mbi barkun e nenes",
+      "largoje ne nje dhome me vete",
+      "mbaje larg nga ambjenti ku rri nena",
+      "mos I jep informacion nenes"
+    ],
+    "correct": 0,
+    "explanation": "Bebi vendoset menjëherë mbi barkun e nënës (kontakti lëkurë-me-lëkurë)."
+  },
+  {
+    "id": "mami-neonatologji-015",
+    "question": "Ne sallen e lindjes ekipi neonator duhet te njoftohet:",
+    "answers": [
+      "30 minuta para lindjes",
+      "ne momentin e lindjes",
+      "pas lindjes",
+      "nuk është e nevojshme te jene ne salle"
+    ],
+    "correct": 0,
+    "explanation": "Ekipi neonator njoftohet paraprakisht, rreth 30 minuta para lindjes."
+  },
+  {
+    "id": "mami-neonatologji-016",
+    "question": "Cila nga ekzaminimet e meposhtme laboratorike na tregon per nivelin e ikterit?",
+    "answers": [
+      "bilirubinemia",
+      "azotemia",
+      "glicemia",
+      "sediment"
+    ],
+    "correct": 0,
+    "explanation": "Bilirubinemia (niveli i bilirubinës në gjak) tregon nivelin e ikterit."
+  },
+  {
+    "id": "mami-neonatologji-017",
+    "question": "Bebi i porsalindur vendoset ne gji:",
+    "answers": [
+      "menjehere pas lindjes",
+      "diten e pare pas lindjes",
+      "tre ditet e par ate lindjes",
+      "javen e pare pas lindjes"
+    ],
+    "correct": 0,
+    "explanation": "Bebi vendoset në gji menjëherë pas lindjes."
+  },
+  {
+    "id": "mami-neonatologji-018",
+    "question": "Pikezimi i Apgarit kryhet:",
+    "answers": [
+      "ne minute e pare te jetes",
+      "ne minute 0 te jetes",
+      "30 minutat e para",
+      "diten e pare te lindjes"
+    ],
+    "correct": 0,
+    "explanation": "Vlerësimi i Apgarit kryhet në minutën e parë të jetës (dhe në minutën 5)."
+  },
+  {
+    "id": "mami-neonatologji-019",
+    "question": "Dhëmbët e qumështit zëvendësohen me dhëmbët e përhershëm:",
+    "answers": [
+      "Rreth moshës 3-4 vjeç",
+      "Rreth moshës 4-5 vjeç",
+      "Rreth moshës 6-7 vjeç",
+      "Rreth moshës 8-9 vjeç"
+    ],
+    "correct": 2,
+    "explanation": "Dhëmbët e qumështit zëvendësohen me ata të përhershëm rreth moshës 6-7 vjeç."
+  },
+  {
+    "id": "mami-neonatologji-020",
+    "question": "Faktorët e jashtëm që ndikojnë në rritje e zhvillim janë të gjithë me përjashtim të:",
+    "answers": [
+      "Kushtet social-ekonomike",
+      "Klima tropikale",
+      "Sëmundjet kronike pas lindjes",
+      "Faktorët gjenetikë"
+    ],
+    "correct": 3,
+    "explanation": "Faktorët gjenetikë janë faktorë të brendshëm, jo të jashtëm."
+  },
+  {
+    "id": "mami-neonatologji-021",
+    "question": "Fëmija e dyfishon peshën e lindjes në moshën:",
+    "answers": [
+      "1 vjeç",
+      "8 muaj",
+      "10 muaj",
+      "5 muaj"
+    ],
+    "correct": 3,
+    "explanation": "Fëmija e dyfishon peshën e lindjes rreth moshës 5 muaj."
+  },
+  {
+    "id": "mami-neonatologji-022",
+    "question": "Vitamina D merr pjesë në:",
+    "answers": [
+      "mineralizimin e kockës",
+      "aktivitetin nervor",
+      "pjekurinë seksuale",
+      "ematopoezë"
+    ],
+    "correct": 0,
+    "explanation": "Vitamina D është esenciale për mineralizimin e kockës."
+  },
+  {
+    "id": "mami-neonatologji-023",
+    "question": "Fëmija e trefishon peshën e tij në moshën:",
+    "answers": [
+      "8 muaj",
+      "1.5 vjeç",
+      "2 vjeç",
+      "12 muaj"
+    ],
+    "correct": 3,
+    "explanation": "Fëmija e trefishon peshën e lindjes rreth moshës 12 muaj."
+  },
+  {
+    "id": "mami-neonatologji-024",
+    "question": "Ikteri i të porsalindurit mund të jetë:",
+    "answers": [
+      "Ikter nga infeksioni",
+      "Ikter hemolitik",
+      "Ikter fiziologjik",
+      "Mund t'i ketë të gjitha origjinat"
+    ],
+    "correct": 3,
+    "explanation": "Ikteri neonatal mund të ketë origjinë të ndryshme: infektive, hemolitike, ose fiziologjike."
+  },
+  {
+    "id": "mami-neonatologji-025",
+    "question": "Gjatësia e fëmijës në lindje është rreth:",
+    "answers": [
+      "50 cm",
+      "40 cm",
+      "30 cm",
+      "60 cm"
+    ],
+    "correct": 0,
+    "explanation": "Gjatësia mesatare e fëmijës në lindje është rreth 50 cm."
+  },
+  {
+    "id": "mami-neonatologji-026",
+    "question": "Faktorët e brendshëm që ndikojnë në rritje e zhvillim janë të gjithë me përjashtim të:",
+    "answers": [
+      "hormoneve seksuale",
+      "kushteve social-ekonomike",
+      "hormoneve e tiroides",
+      "hormoni somatotrop"
+    ],
+    "correct": 1,
+    "explanation": "Kushtet social-ekonomike janë faktor i jashtëm, jo i brendshëm."
+  },
+  {
+    "id": "mami-neonatologji-027",
+    "question": "Encefalopatia bilirubinike tek një fëmijë në term shfaqet kur vlera e bilirubinës serike arrin në:",
+    "answers": [
+      ">= 18 mg/dl",
+      ">= 10 mg/dl",
+      ">= 15 mg/dl",
+      ">= 20 mg/dl"
+    ],
+    "correct": 3,
+    "explanation": "Encefalopatia bilirubinike te fëmija në term shfaqet zakonisht kur bilirubina arrin ≥20 mg/dl."
+  },
+  {
+    "id": "mami-neonatologji-028",
+    "question": "Infeksioni neonatal nuk ka të vërtetë:",
+    "answers": [
+      "hipotermi",
+      "hipoglicemi",
+      "hipobilirubinemi",
+      "ulje të frekuencës kardiake"
+    ],
+    "correct": 2,
+    "explanation": "Infeksioni neonatal shoqërohet me hiperbilirubinemi, jo hipobilirubinemi."
+  },
+  {
+    "id": "mami-neonatologji-029",
+    "question": "Vlerësimi i Apgarit nuk përfshin:",
+    "answers": [
+      "frekuencën kardiake",
+      "tonusin muskular",
+      "frekuencën respiratore",
+      "reflekset primare"
+    ],
+    "correct": 3,
+    "explanation": "Refleksi primar (p.sh. Moro) nuk bën pjesë në pikët e Apgarit; Apgari mat vetëm 'reagimin ndaj stimulimit' (grimace)."
+  },
+  {
+    "id": "mami-neonatologji-030",
+    "question": "Shkaktojnë keqformime të lindura të gjitha, me përjashtim të:",
+    "answers": [
+      "rubeola kongenitale",
+      "toksoplazmoza kongenitale",
+      "CMV kongenital",
+      "hepatiti B kongenital"
+    ],
+    "correct": 3,
+    "explanation": "Hepatiti B kongenital nuk lidhet tipikisht me keqformime kongenitale, ndryshe nga infeksionet TORCH."
+  },
+  {
+    "id": "mami-neonatologji-031",
+    "question": "Mund të jenë shenja klinike të një infeksioni neonatal të gjitha, me përjashtim të:",
+    "answers": [
+      "hipotermi",
+      "hiperglicemi",
+      "hepatosplenomegali",
+      "bombim i fontanelës"
+    ],
+    "correct": 1,
+    "explanation": "Infeksioni neonatal shoqërohet me hipoglicemi, jo hiperglicemi."
+  },
+  {
+    "id": "mami-neonatologji-032",
+    "question": "Kern ikteri shkaktohet nga:",
+    "answers": [
+      "fiksimi i bilirubinës së palidhur në bërthamat trunore",
+      "fillimi i parakohshëm i ablaktacionit",
+      "anemia nga mungesa e hekurit",
+      "ikteri nga qumështi i gjirit"
+    ],
+    "correct": 0,
+    "explanation": "Kern ikteri (ikteri nuklear) shkaktohet nga fiksimi i bilirubinës së palidhur në bërthamat trunore."
+  },
+  {
+    "id": "mami-neonatologji-033",
+    "question": "Terapia rehidruese orale është trajtim i zgjedhur për të gjithë fëmijët e dehidruar, me përjashtim të:",
+    "answers": [
+      "të vjella dhe temperaturë e lartë,",
+      "koma ose shok,",
+      "shigelozë,",
+      "helmim ushqimor"
+    ],
+    "correct": 1,
+    "explanation": "Në komë ose shok kërkohet rehidrim intravenoz, jo oral."
+  },
+  {
+    "id": "mami-neonatologji-034",
+    "question": "Ndërlikimi më i shpeshtë i Salmonelozës është:",
+    "answers": [
+      "prolapsi rektal",
+      "anemia",
+      "dehidrimet e tipeve të ndryshme",
+      "meningiti"
+    ],
+    "correct": 2,
+    "explanation": "Dehidrimi është ndërlikimi më i shpeshtë i salmonelozës."
+  },
+  {
+    "id": "mami-neonatologji-035",
+    "question": "Cili nga ekzaminimet e mëposhtme nuk ka vlerë në shigelozë?",
+    "answers": [
+      "koprokultura",
+      "hemokultura",
+      "kërkimi për pus e gjak në feçe",
+      "gjak komplet"
+    ],
+    "correct": 1,
+    "explanation": "Hemokultura nuk ka vlerë diagnostikuese specifike në shigelozë."
+  },
+  {
+    "id": "mami-neonatologji-036",
+    "question": "Në dehidrimin hiperton vuan më shumë:",
+    "answers": [
+      "sistemi kardiovaskular",
+      "sistemi nervor",
+      "trakti tretës",
+      "sistemi limfatik"
+    ],
+    "correct": 1,
+    "explanation": "Dehidrimi hiperton dëmton kryesisht sistemin nervor qendror."
+  },
+  {
+    "id": "mami-neonatologji-037",
+    "question": "Tetanosi neonatal ka të vërteta të gjitha, me përjashtim të:",
+    "answers": [
+      "shkakton sepsis",
+      "shkakton kontraktura muskulare",
+      "shkakton fraktura të kockave",
+      "shkakton trismus"
+    ],
+    "correct": 2,
+    "explanation": "Frakturat kockore nuk janë manifestim tipik i tetanozit neonatal."
+  },
+  {
+    "id": "mami-neonatologji-038",
+    "question": "Fëmija postmatur është i lindur:",
+    "answers": [
+      "përpara 37 javësh moshë shtatzënie",
+      "me peshë nën 2500 g",
+      "pas javës 42 të shtatzënisë",
+      "nga 37 në 42 javë moshë shtatzënie"
+    ],
+    "correct": 2,
+    "explanation": "Fëmija postmatur lind pas javës së 42-të të shtatzanisë."
+  },
+  {
+    "id": "mami-neonatologji-039",
+    "question": "Mekonium quhet:",
+    "answers": [
+      "qumështi i ditëve të para pas lindjes",
+      "një keqformim i lindur i traktit gastrointestinal",
+      "një sëmundje ngjitëse e transmetuar nga nëna",
+      "jashtëqitja e parë e bebit"
+    ],
+    "correct": 3,
+    "explanation": "Mekoniumi është jashtëqitja e parë e të porsalindurit."
+  },
+  {
+    "id": "mami-neonatologji-040",
+    "question": "Doza e Acetaminofenit (Paracetamol) në fëmijë është:",
+    "answers": [
+      "2 mg/kg për çdo marrje,",
+      "5 mg/kg për çdo marrje,",
+      "15 mg/kg për çdo marrje,",
+      "50 mg/kg për çdo marrje,"
+    ],
+    "correct": 2,
+    "explanation": "Doza standarde e paracetamolit është 15 mg/kg për marrje."
+  },
+  {
+    "id": "mami-neonatologji-041",
+    "question": "Cili nga pohimet e mëposhtme është i vërtetë për stenozën hipertrofike të pilorit:",
+    "answers": [
+      "të vjella që në lindje",
+      "fillon reth muajit te pare",
+      "ka prani të bilës në të vjella",
+      "ka humbje të oreksit"
+    ],
+    "correct": 1,
+    "explanation": "Stenoza hipertrofike e pilorit fillon tipikisht rreth muajit të parë të jetës."
+  },
+  {
+    "id": "mami-neonatologji-042",
+    "question": "Sa është sasia e Tresolit që përdoret për rehidrim oral në dehidrimin e lehtë?",
+    "answers": [
+      "10 mg/kg peshë",
+      "20 mg/kg peshë,",
+      "50 mg/kg peshë,",
+      "100 mg/kg peshë"
+    ],
+    "correct": 2,
+    "explanation": "Në dehidrimin e lehtë përdoren rreth 50 ml/kg për rehidrim oral."
+  },
+  {
+    "id": "mami-neonatologji-043",
+    "question": "Forma e dehidrimit (i lehtë-i mesëm-i rëndë) tek fëmija vlerësohet me të gjitha, me përjashtim të:",
+    "answers": [
+      "matja e presionit arterial,",
+      "thellimi i syve,",
+      "dhimbja e kokës,",
+      "niveli i fontanelës së madhe"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbja e kokës nuk është parametër i vlerësimit të shkallës së dehidrimit tek fëmija; përdoren presioni arterial, thellimi i syve dhe niveli i fontanelës."
+  },
+  {
+    "id": "mami-neonatologji-044",
+    "question": "Shkaktarët më të shpeshtë të diarresë në fëmijë (rreth 70% e diarreve) janë:",
+    "answers": [
+      "viruset",
+      "bakteret",
+      "mykrat",
+      "asnjeri"
+    ],
+    "correct": 0,
+    "explanation": "Viruset janë shkaktari më i shpeshtë i diarresë te fëmijët."
+  },
+  {
+    "id": "mami-neonatologji-045",
+    "question": "Doza e Adrenalinës subkutan për trajtimin e shokut anafilaktik është:",
+    "answers": [
+      "1 mg për çdo 10 kg peshë,",
+      "0.5 mg për çdo 10 kg peshë,",
+      "0.1 mg për çdo 10 kg peshë,",
+      "10 mg për çdo 10 kg peshë"
+    ],
+    "correct": 2,
+    "explanation": "Doza standarde e adrenalinës subkutane është rreth 0.1 mg për çdo 10 kg peshë."
+  },
+  {
+    "id": "mami-neonatologji-046",
+    "question": "Dhënia e vitaminës K tek i porsalinduri duhet të jetë:",
+    "answers": [
+      "sistematike-e detyrueshme për çdo të porsalindur",
+      "e këshillueshme,",
+      "e panevojshme tek fëmija që ushqehet me gji,",
+      "vetëm në rast hemorragjie të jashtme"
+    ],
+    "correct": 0,
+    "explanation": "Vitamina K jepet sistematikisht/detyrimisht çdo të porsalinduri për të parandaluar sëmundjen hemorragjike."
+  },
+  {
+    "id": "mami-neonatologji-047",
+    "question": "Sindromi Reye lidhet me përdorimin e:",
+    "answers": [
+      "Aspirinës",
+      "Aminofilinës",
+      "Amfetaminës",
+      "Antibiotikëve"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma Reye lidhet me përdorimin e aspirinës te fëmijët, veçanërisht gjatë infeksioneve virale."
+  },
+  {
+    "id": "mami-neonatologji-048",
+    "question": "Njollat e Koplik-ut janë karakteristikë e:",
+    "answers": [
+      "Rubeolës",
+      "Varicelës",
+      "Fruthit",
+      "Skabiesit"
+    ],
+    "correct": 2,
+    "explanation": "Njollat e Koplik janë karakteristikë patognomonike e fruthit."
+  },
+  {
+    "id": "mami-neonatologji-049",
+    "question": "Ekzantema që shfaqet edhe në lëkurën me flokë flet për:",
+    "answers": [
+      "Rubeolë",
+      "Varicelë",
+      "Fruth",
+      "Skarlatinë"
+    ],
+    "correct": 1,
+    "explanation": "Ekzantema e varicelës shfaqet edhe në lëkurën me flokë, ndryshe nga sëmundjet e tjera ekzantematike."
+  },
+  {
+    "id": "mami-neonatologji-050",
+    "question": "Rashi kutan makulo-papulo-vezikular, i shoqëruar me temperaturë të lartë dhe prurit flet për:",
+    "answers": [
+      "Rubeolë",
+      "Varicelë",
+      "Fruth",
+      "Skarlatinë"
+    ],
+    "correct": 1,
+    "explanation": "Rashi makulo-papulo-vezikular me prurit është karakteristik i variçelës."
+  },
+  {
+    "id": "mami-neonatologji-051",
+    "question": "Janë komplikacione të varicelës të gjitha, me përjashtim të:",
+    "answers": [
+      "Qelbëzimi i elementeve kutane",
+      "Sindromi Reye",
+      "Glomerulonefriti",
+      "Herpes Zoster"
+    ],
+    "correct": 2,
+    "explanation": "Glomerulonefriti nuk është komplikacion tipik i varicelës."
+  },
+  {
+    "id": "mami-neonatologji-052",
+    "question": "Shenja madhore e glomerulonefritit akut është:",
+    "answers": [
+      "Proteinuria",
+      "Hematuria",
+      "Hipertensioni arterial",
+      "Anemia"
+    ],
+    "correct": 1,
+    "explanation": "Hematuria është shenja madhore/karakteristike e glomerulonefritit akut."
+  },
+  {
+    "id": "mami-neonatologji-053",
+    "question": "Për vaksinimin sipas kalendarit të vaksinimit janë të vërteta të gjitha, me përjashtim të:",
+    "answers": [
+      "Eshtë i detyrueshëm për të gjithë fëmijët",
+      "Nuk këshillohet të bëhet për fëmijët e lindur para kohe",
+      "Ndihmon në krijimin e imunitetit të fëmijës",
+      "Për aplikimin e vaksinave duhen respektuar afatet kohore sipas këtij kalendari"
+    ],
+    "correct": 1,
+    "explanation": "Vaksinimi këshillohet edhe për fëmijët e lindur para kohe, sipas protokolleve të përshtatura."
+  },
+  {
+    "id": "mami-neonatologji-054",
+    "question": "Një i porsalindur klasifikohet AGA, kur:",
+    "answers": [
+      "Pesha është midis 3-97% percentile",
+      "Gjatësia është midis 3-97 % percentile",
+      "Perimetri i kokës është midis 3-97% percentile",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "LGA përcaktohet kur cilido nga këta parametra është mbi 97-përqindëshin."
+  },
+  {
+    "id": "mami-neonatologji-055",
+    "question": "Një i porsalindur klasifikohet si SGA kur:",
+    "answers": [
+      "Pesha është nën 3% percentile",
+      "Gjatësia është nën 3% percentile",
+      "Perimetri i kokës është nën 3 % percentile",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "SGA përcaktohet kur cilido nga këta parametra (peshë, gjatësi, perimetër kraniumi) është nën 3-përqindëshin."
+  },
+  {
+    "id": "mami-neonatologji-056",
+    "question": "Një i porsalindur klasifikohet si LGA kur:",
+    "answers": [
+      "Pesha është mbi 97% percentile",
+      "Gjatësia është mbi 97 % percentile",
+      "Perimetri i kokës është mbi 97 % percentile",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "LGA përcaktohet kur cilido nga këta parametra është mbi 97-përqindëshin."
+  },
+  {
+    "id": "mami-neonatologji-057",
+    "question": "Trajtimi i ikterit përfshin:",
+    "answers": [
+      "ushqyerjen sa më shpesh me gji",
+      "fototerapi",
+      "eksanguinotransfuzion",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Trajtimi i ikterit mund të përfshijë ushqyerjen e shpeshtë, fototerapinë dhe në raste të rënda eksanguinotransfuzionin."
+  },
+  {
+    "id": "mami-neonatologji-058",
+    "question": "Një i porsalindur me ikter ka këto shenja klinike:",
+    "answers": [
+      "zverdhje të lëkurës dhe të mukozave",
+      "nuk kap gjirin",
+      "i plogësht",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Ikteri neonatal shoqërohet me zverdhje, vështirësi ushqyerjeje dhe plogështi."
+  },
+  {
+    "id": "mami-neonatologji-059",
+    "question": "E vjella në refluksin gastro-ezofageal ndodh:",
+    "answers": [
+      "mënjëherë pas ushqyerjes",
+      "para ushqyerjes",
+      "rreth 1-2 orë pas ushqyerjes",
+      "asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Në refluksin gastro-ezofageal e vjella shfaqet rreth 1–2 orë pas ushqyerjes, kur stomaku mbushet dhe sfinkteri ezofagal është i dobët."
+  },
+  {
+    "id": "mami-neonatologji-060",
+    "question": "E vjella në stenozën hipertrofike të pilorit ndodh:",
+    "answers": [
+      "mënjëherë pas ushqyerjes",
+      "para ushqyerjes",
+      "rreth 1-2 orë pas ushqyerjes",
+      "asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Në stenozën hipertrofike të pilorit e vjella vjen menjëherë pas ushqyerjes, e fuqishme, sepse stomaku nuk zbrazet."
+  },
+  {
+    "id": "mami-neonatologji-061",
+    "question": "Ushqyerja me gji ka përparësi ndaj asaj me qumësht artificial, sepse:",
+    "answers": [
+      "ka më shume IgA",
+      "ka aminoacide të rëndësishme",
+      "rrit lidhjen psiko-afektive nënë-fëmijë",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Qumështi i gjirit ofron IgA, aminoacide të rëndësishme dhe forcon lidhjen psiko-afektive."
+  },
+  {
+    "id": "mami-neonatologji-062",
+    "question": "Në ekzaminimin e parë të bebit gjithmonë duhet parë:",
+    "answers": [
+      "kalueshmëria anale",
+      "kalueshmëria nazale",
+      "kalueshmëria ezofago-gastrike",
+      "të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Në ekzaminimin e parë të bebes duhet parë kalueshmëria anale, për të zbuluar atrezinë anale."
+  },
+  {
+    "id": "mami-neonatologji-063",
+    "question": "Në sallën e lindjes asnjëherë nuk duhet të mungojë:",
+    "answers": [
+      "burimi i oksigjenit",
+      "ngrohësi i ambjentit",
+      "pelenat e ngrohta",
+      "asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Burimi i oksigjenit është element esencial që nuk duhet të mungojë kurrë në sallën e lindjes."
+  },
+  {
+    "id": "mami-neonatologji-064",
+    "question": "Një i porsalindur klasifikohet si serotin kur lind:",
+    "answers": [
+      "para javës së 37-të të shtatzanisë",
+      "pas javës së 42-të të shtatzanisë",
+      "midis 37-41 javë shtatzanie",
+      "asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Fëmija serotin lind pas javës së 42-të."
+  },
+  {
+    "id": "mami-neonatologji-065",
+    "question": "E vjella në stenozën hipertrofike të pilorit është:",
+    "answers": [
+      "përmbajtje qumështi",
+      "qumësht i prerë si hirë",
+      "më permbajtje bile",
+      "asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Të vjellat në stenozën pilorike përmbajnë qumësht (jo-biliare)."
+  },
+  {
+    "id": "mami-neonatologji-066",
+    "question": "E vjella në refluksin gastro-ezofageal është:",
+    "answers": [
+      "me përmbajtje qumështi",
+      "qumësht i prerë si hirë",
+      "me përmbajtje bile",
+      "të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Në RGE, e vjella përmban zakonisht qumësht (jo bile)."
+  },
+  {
+    "id": "mami-neonatologji-067",
+    "question": "Cilën nga sëmundjet e mëposhtme shfaq më shpejt prematuri:",
+    "answers": [
+      "papjekuri të sistemit respirator",
+      "papjekuri të sistemit lokomotor",
+      "papjekuri të sistemit nervor",
+      "asnjerën"
+    ],
+    "correct": 0,
+    "explanation": "Fëmija prematur shfaq më shpejt papjekuri të sistemit respirator (sindromi i distresit respirator)."
+  },
+  {
+    "id": "mami-neonatologji-068",
+    "question": "Cilën nga sëmundjet shfaq më shpesh prematuri:",
+    "answers": [
+      "papjekuri të sistemit respirator",
+      "papjekuri të sistemit gastro-intestinal",
+      "papjekuri të sistemit nervor",
+      "të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Prematuri shfaq më shpejt papjekurinë e sistemit respirator si problem parësor."
+  },
+  {
+    "id": "mami-neonatologji-069",
+    "question": "Hipotermia ose temperatura e ulët është karakteristike e:",
+    "answers": [
+      "bebit prematur",
+      "bebit hipotrof",
+      "bebit serotin",
+      "asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Hipotermia është karakteristikë e bebit prematur."
+  },
+  {
+    "id": "mami-neonatologji-070",
+    "question": "Përpara një fëmije prematur cilën do të vlerësoni më shumë:",
+    "answers": [
+      "vështirësinë në frymëmarje",
+      "hypogliceminë",
+      "hypoterminë",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Te fëmija prematur vlerësohen njëkohësisht frymëmarrja, glicemia dhe temperatura."
+  },
+  {
+    "id": "mami-neonatologji-071",
+    "question": "Një fëmijë serotin paraqet më së shpeshti:",
+    "answers": [
+      "asfiksi në lindje",
+      "vështirësi respiratore",
+      "hipoglicemi",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Fëmija serotin mund të paraqesë njëkohësisht asfiksi, vështirësi respiratore dhe hipoglicemi."
+  },
+  {
+    "id": "mami-neonatologji-072",
+    "question": "Një fëmijë që lind SGA paraqet më së shumti:",
+    "answers": [
+      "hypoglicemi",
+      "asfiksi në lindje",
+      "vështirësi në frymëmarrje",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Fëmija SGA mund të paraqesë hipoglicemi, asfiksi dhe vështirësi respiratore."
+  },
+  {
+    "id": "mami-neonatologji-073",
+    "question": "Anomalitë e bashkëlindura janë më tepër karakteristikë e:",
+    "answers": [
+      "fëmijëve të lindur në term",
+      "fëmijëve të lindur SGA",
+      "fëmijëve të lindur LGA",
+      "asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Anomalitë kongjenitale janë më të shpeshta te fëmijët SGA."
+  },
+  {
+    "id": "mami-neonatologji-074",
+    "question": "Një fëmijë që lind LGA paraqet më së shumti:",
+    "answers": [
+      "hypoglicemi",
+      "trauma të lindjes",
+      "vështirësi në frymëmarje",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Fëmija LGA rrezikohet nga hipoglicemia, traumat e lindjes dhe vështirësitë respiratore."
+  },
+  {
+    "id": "mami-neonatologji-075",
+    "question": "Përpara një neonati të sëmurë, gjithmonë duhet të bëjmë:",
+    "answers": [
+      "sigurimin e rrugëve ajrore të lira",
+      "të ofrojmë oksigjeno-terapi",
+      "monitorojmë shenjat vitale",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Vlerësimi i neonatit të sëmurë përfshin sigurimin e rrugëve ajrore, oksigjenim dhe monitorim vitalesh."
+  },
+  {
+    "id": "mami-neonatologji-076",
+    "question": "Çfarë duhet të shmangim tek një neonat i sëmurë:",
+    "answers": [
+      "banja",
+      "ushqyerja",
+      "ekzaminimi",
+      "të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Banja duhet shmangur tek neonati i sëmurë për shkak të rrezikut të paqëndrueshmërisë termike."
+  },
+  {
+    "id": "mami-neonatologji-077",
+    "question": "Çfarë duhet të bëjmë para një fëmije të sëmurë:",
+    "answers": [
+      "të trajtojmë problemin imediat",
+      "të gjejmë pse fëmija është sëmurë dhe të trajtojmë shkakun",
+      "të monitorojmë çdo faktor rreziku",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Qasja ndaj fëmijës së sëmurë përfshin trajtimin imediat, kërkimin e shkakut dhe monitorimin e faktorëve të riskut."
+  },
+  {
+    "id": "mami-neonatologji-078",
+    "question": "Kemi takikardi neonatale kur:",
+    "answers": [
+      "frekuenca kardiake është <100/min",
+      "frekuenca kardiake është >180/min",
+      "frekuenca kardiake është 140-160/min",
+      "asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Takikardia neonatale përkufizohet si frekuencë kardiake mbi 180/min."
+  },
+  {
+    "id": "mami-neonatologji-079",
+    "question": "Kemi takipne neonatale kur:",
+    "answers": [
+      "frekuenca respiratore është <20/min",
+      "frekuenca respiratore është >60/min",
+      "frekuenca respiratore është 20-60/min",
+      "të gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Takipnea neonatale përkufizohet si frekuencë respiratore mbi 60/min."
+  },
+  {
+    "id": "mami-neonatologji-080",
+    "question": "Llojet e apnoeve janë:",
+    "answers": [
+      "me origjinë qëndrore",
+      "me origjinë obstructive",
+      "të përziera",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Apnetë klasifikohen si qendrore, obstruktive, ose të përziera."
+  },
+  {
+    "id": "mami-neonatologji-081",
+    "question": "Ushqyerja me sondë këshillohet tek:",
+    "answers": [
+      "fëmijët që janë <32 javë moshë barre",
+      "që kanë vështirësi në thithje-gëlltitje",
+      "që kanë një sëmundje akute të frymëmarjes",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Ushqyerja me sondë indikohet te prematurët, ata me vështirësi thithje-gëlltitje dhe me sëmundje respiratore akute."
+  },
+  {
+    "id": "mami-neonatologji-082",
+    "question": "Kur raporti nënë-fëmijë ecën keq çfarë mund të presim:",
+    "answers": [
+      "braktisje të fëmijës",
+      "zhvillim të mangët fizik",
+      "crregullime të sjelljes së fëmijës",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Raporti i dëmtuar nënë-fëmijë mund të çojë në pasoja të shumëfishta zhvillimore/sjelljeje."
+  },
+  {
+    "id": "mami-neonatologji-083",
+    "question": "Kush e përmirëson raportin nënë-fëmijë:",
+    "answers": [
+      "të jemi të duruar me prindërit pa përvojë",
+      "t'u japim shpresë atyre",
+      "t'i lejojmë që të qëndrojë pa kufizim me fëmijën",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Durimi, shpresa dhe kontakti i pakufizuar me fëmijën ndihmojnë raportin nënë-fëmijë."
+  },
+  {
+    "id": "mami-neonatologji-084",
+    "question": "Mënyra më e përdorshme për matjen e temperaturës tek bebet është:",
+    "answers": [
+      "aksilare",
+      "rektale",
+      "matja në lëkurën e barkut",
+      "të gjitha"
+    ],
+    "correct": 0,
+    "explanation": "Matja aksilare është metoda më e përdorshme e temperaturës te bebet."
+  },
+  {
+    "id": "mami-neonatologji-085",
+    "question": "Një reanimim i suksesshëm varet nga:",
+    "answers": [
+      "parashikimi i një lindje asfiktike",
+      "fillimi i menjëhershëm i veprimeve reanimatore",
+      "kryerja e veprimeve reanimatore me saktësi",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Reanimimi i suksesshëm kërkon parashikim, fillim të shpejtë dhe saktësi teknike."
+  },
+  {
+    "id": "mami-neonatologji-086",
+    "question": "Infeksioni neonatal ka si shenja klinike:",
+    "answers": [
+      "konvulsione",
+      "hipotoni",
+      "çrregullime të ritmit të zemrës",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Infeksioni neonatal mund të shfaqet me konvulsione, hipotoni dhe çrregullime kardiake."
+  },
+  {
+    "id": "mami-neonatologji-087",
+    "question": "Cila nga masat e mëposhtme duhet marrë në një fëmijë me shok anafilaktik të rëndë:",
+    "answers": [
+      "lirimi i rrugëve të frymëmarrjes",
+      "oksigjenimi",
+      "përdorimi i adrenalinës",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Menaxhimi i shokut anafilaktik përfshin lirimin e rrugëve ajrore, oksigjenim dhe adrenalinë."
+  },
+  {
+    "id": "mami-neonatologji-088",
+    "question": "Obeziteti është:",
+    "answers": [
+      "Një tregues mbiushqyerje",
+      "Një tregues nënushqyerje",
+      "Një formë malnutricioni",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Obeziteti është tregues i mbiushqyerjes."
+  },
+  {
+    "id": "mami-neonatologji-089",
+    "question": "Diarrea nga Shigella karakterizohet klinikisht nga:",
+    "answers": [
+      "diarre me mukus dhe gjak",
+      "temperaturë e lartë",
+      "dhimbje barku",
+      "të gjitha"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbja e kokës nuk është simptomë kryesore e diarresë nga Shigella."
+  },
+  {
+    "id": "mami-neonatologji-090",
+    "question": "Spazmofilia është pasojë e:",
+    "answers": [
+      "Hipokalçemisë",
+      "Hiperkalcemisë",
+      "Hipokalçemisë dhe hiperkalcemisë",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Spazmofilia është pasojë e hipokalcemisë."
+  },
+  {
+    "id": "mami-neonatologji-091",
+    "question": "Spazmofilia paraqitet klinikisht me:",
+    "answers": [
+      "konvulsione parciale-të pjesshme",
+      "konvulsione të gjeneralizuara",
+      "konvulsione të dukshme ose që provokohen",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Spazmofilia mund të shfaqet me konvulsione parciale, të gjeneralizuara ose të provokueshme."
+  },
+  {
+    "id": "mami-neonatologji-092",
+    "question": "Komplikacionet më të shpeshta të refluksit gastroezofageal janë:",
+    "answers": [
+      "infeksione të përsëritura respiratore",
+      "anemia",
+      "otiti",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "RGE mund të shoqërohet me infeksione respiratore të përsëritura, anemi dhe otit."
+  },
+  {
+    "id": "mami-neonatologji-093",
+    "question": "Kraniotabes është shenjë klinike e:",
+    "answers": [
+      "Rakitit",
+      "Hipovitaminozës A",
+      "Rakitit dhe hipovitaminozës A",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Kraniotabes është shenjë klasike e rakitit."
+  },
+  {
+    "id": "mami-neonatologji-094",
+    "question": "Konvulsionet janë:",
+    "answers": [
+      "urgjencë mjekësore",
+      "trajtohen me diazepam-valium",
+      "doza=0.5 mg/kg peshë në një marrje/ për rectum",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Konvulsionet janë urgjencë mjekësore që trajtohen me diazepam në dozën e specifikuar."
+  },
+  {
+    "id": "mami-neonatologji-095",
+    "question": "Disa komplikacione afatgjata të diabetit janë:",
+    "answers": [
+      "dëmtimi i shikimit",
+      "dëmtimi i funksionit renal",
+      "ulçera trofike kryesisht në këmbë",
+      "të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Komplikacionet afatgjata të diabetit përfshijnë dëmtim të shikimit, veshkave dhe ulçera trofike."
+  },
+  {
+    "id": "mami-neonatologji-096",
+    "question": "Meningiti i latantit ka:",
+    "answers": [
+      "Konvulsione",
+      "Përgjumësi",
+      "Apnoe",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Meningiti i latantit mund të shfaqet me konvulsione, përgjumësi dhe apnoe."
+  }
+]

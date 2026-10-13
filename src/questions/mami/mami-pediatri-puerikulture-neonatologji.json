@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-001",
+    "question": "Aspirimi i lëngut amniotik tek fëmija gjatë lindjes duhet të kryhet jo më shumë se:",
+    "answers": [
+      "5sek",
+      "10sek",
+      "10min",
+      "15min"
+    ],
+    "correct": 0,
+    "explanation": "Aspirimi i lëngut amniotik nuk zgjat mbi 5 sekonda, që të shmanget hipoksia dhe bradikardia vagale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-002",
+    "question": "Pas sa orësh normalizohet tëmperatura pas lindjes?",
+    "answers": [
+      "6min",
+      "8min",
+      "5orësh",
+      "8orësh"
+    ],
+    "correct": 2,
+    "explanation": "Temperatura e porsalindurit normalizohet rreth 5 orë pas lindjes, me ngrohje dhe kontakt lëkure me lëkurë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-003",
+    "question": "Kush është pozicioni që vendoset fëmija me çrregullime të buzës të lepurit pas operacionit?",
+    "answers": [
+      "shtrirë mbi barke",
+      "shtrirë anash",
+      "pozicion semifoler",
+      "shtrirë me kurriz"
+    ],
+    "correct": 3,
+    "explanation": "Pas riparimit të buzës së lepurit, fëmija pozicionohet me kurriz (shtrirë supinë) për të shmangur fërkimin/traumën e vendit kirurgjikal, duke shmangur pozicionin mbi bark."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-004",
+    "question": "Pas sa ditësh kthehet në normë faktori i koagulimit mbas lindjes tek fëmija?",
+    "answers": [
+      "7-10 ditësh.",
+      "12-15 ditësh",
+      "16-19 ditësh",
+      "20-25 ditësh"
+    ],
+    "correct": 0,
+    "explanation": "Faktorët e koagulimit kthehen në normë brenda rreth 7-10 ditësh pas lindjes."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-005",
+    "question": "Me çfarë pastrohet mukoza e gojës në fëmijët që është me stenoz të pilorit?",
+    "answers": [
+      "solucion bikarbonat",
+      "solucion nitrat",
+      "solucion gencian violet",
+      "solucion glukoz"
+    ],
+    "correct": 0,
+    "explanation": "Mukoza e gojës te fëmija me stenozë pilori pastrohet me solucion bikarbonati, që neutralizon aciditetin nga të vjellat."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-006",
+    "question": "Edema serosanguine mund të shoqerohet me?",
+    "answers": [
+      "frakture të kafkës",
+      "petëkie ose ekimoza",
+      "shkolitje të lëkurës",
+      "deformin të gojës"
+    ],
+    "correct": 1,
+    "explanation": "Edema serosanguine (caput succedaneum) shoqërohet shpesh me petekie apo ekimoza sipërfaqësore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-007",
+    "question": "Cefalofematoma është një hemoragji që ndodh në zonën ndërmjet?",
+    "answers": [
+      "lëkurës dhe kockës",
+      "kockës dhe periostit",
+      "trurit dhe kockës",
+      "periostit dhe trurit"
+    ],
+    "correct": 1,
+    "explanation": "Cefalohematoma është një hemoragji subperiostale, e lokalizuar mes kockës kraniale dhe periostit që e mbulon atë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-008",
+    "question": "Zhvillimi pamor i fëmijës së porsalindur është rreth një gjatësie:",
+    "answers": [
+      "20 cm",
+      "22cm",
+      "24cm",
+      "28cm."
+    ],
+    "correct": 0,
+    "explanation": "Gjatësia mesatare e të porsalindurit në lindje është rreth 50 cm."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-009",
+    "question": "Femija fillimisht kur lind aspirohet nga:",
+    "answers": [
+      "hunda",
+      "goja",
+      "veshi",
+      "syri"
+    ],
+    "correct": 1,
+    "explanation": "Aspirimi te i porsalinduri kryhet fillimisht nga goja e më pas nga hunda."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-010",
+    "question": "Gjatë fototerapisë tek eritroblastozen fetale, fëmija duhet të marrë lëngje në ditë:",
+    "answers": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correct": 1,
+    "explanation": "Gjatë fototerapisë rekomandohet një suplement lëngjesh rreth 25% mbi nevojat bazë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-011",
+    "question": "Kush janë shenjat që fëmija paraqet në një fraktur të klavikulës?",
+    "answers": [
+      "asimetri në refleksin moro",
+      "paraliz të krahut",
+      "një hemoragji të krahut",
+      "demtime të trupit"
+    ],
+    "correct": 0,
+    "explanation": "Fraktura e klavikulës shoqërohet me asimetri të refleksit Moro në anën e prekur."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-012",
+    "question": "Sa janë vlerat e bilirubinës kur ikteri fiziologjik ka filluar të shfaqet në anësit e poshtme?",
+    "answers": [
+      "10 mg/dl",
+      "15 mg/dl",
+      "20 mg/dl",
+      "25 mg/dl"
+    ],
+    "correct": 2,
+    "explanation": "Ikteri fiziologjik përparon nga koka drejt këmbëve dhe arrin në anësitë e poshtme kur bilirubina është e lartë, rreth 20 mg/dl."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-013",
+    "question": "Paraplegjia prek këto legjione:",
+    "answers": [
+      "Vetëm 1 gjymtyre",
+      "Vetëm 1 pjese të trupit",
+      "Katr gjymtyret dhe trupin .",
+      "2 kembet dhe trungun e trupit."
+    ],
+    "correct": 3,
+    "explanation": "Paraplegjia përfshin paralizën e të dy këmbëve dhe pjesës së poshtme të trungut."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-014",
+    "question": "Faza sensomotore kujt moshe i perket sipas Piazhe:",
+    "answers": [
+      "lindje deri ne 2vjeç",
+      "3 deri në 4 vjeç",
+      "5 deri në 7 vjeç",
+      "8 deri në 10 vjeç"
+    ],
+    "correct": 0,
+    "explanation": "Sipas Piaget-it, faza sensomotore shtrihet nga lindja deri në 2 vjeç."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-015",
+    "question": "Shpirti i inisiatives kundrejt ndjenjës së fajit kujt moshe i perket?",
+    "answers": [
+      "lindje deri 2 vjec",
+      "3-6vjec",
+      "7-11 vjeç",
+      "13-15vjec"
+    ],
+    "correct": 1,
+    "explanation": "Sipas Eriksonit, faza 'iniciativë kundrejt faji' i përket moshës 3-6 vjeç."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-016",
+    "question": "Rrugët e infektimit të eritrodermis?",
+    "answers": [
+      "Transplancentare",
+      "Ushqyerja artificiale",
+      "Frymëmarrja",
+      "Veshjet"
+    ],
+    "correct": 3,
+    "explanation": "Eritrodermia infektive përhapet shpesh nëpërmjet kontaktit, përfshirë veshjet."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-017",
+    "question": "Presioni sistolik i gjakut tek infanti:",
+    "answers": [
+      "15- 20",
+      "30-40",
+      "50-60",
+      "70-90"
+    ],
+    "correct": 3,
+    "explanation": "Presioni sistolik normal tek infanti është rreth 70-90 mmHg."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-018",
+    "question": "Presioni sistolik i gjakut tek fëmijet e vegjël:",
+    "answers": [
+      "15-20",
+      "30-40",
+      "50-70",
+      "80-100"
+    ],
+    "correct": 3,
+    "explanation": "Tek fëmijët e vegjël presioni sistolik normal rritet në rreth 80-100 mmHg."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-019",
+    "question": "Presioni sistolik i gjakut tek fëmijet e rritur:",
+    "answers": [
+      "15-20",
+      "20-40",
+      "50-70",
+      "90-110"
+    ],
+    "correct": 3,
+    "explanation": "Tek fëmijët e rritur presioni sistolik normal afrohet me atë të të rriturve, rreth 90-110 mmHg."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-020",
+    "question": "Shkalla e respiracionit tek infanti:",
+    "answers": [
+      "10-15",
+      "20-25",
+      "30-40",
+      "50-60"
+    ],
+    "correct": 2,
+    "explanation": "Presioni sistolik normal tek infanti është rreth 70-90 mmHg."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-021",
+    "question": "Shkalla e respiracionit tek fëmijet e rritur:",
+    "answers": [
+      "15-20",
+      "30-40",
+      "50-60",
+      "70-80"
+    ],
+    "correct": 0,
+    "explanation": "Frekuenca respiratore normale te fëmijët e rritur është rreth 15-20/min."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-022",
+    "question": "Shënjat klinike kur kemi një ikter të avancur:",
+    "answers": [
+      "fontanela e bonbuar",
+      "klithma",
+      "dispne",
+      "takikardi"
+    ],
+    "correct": 0,
+    "explanation": "Fontanela e bombuar është shenjë e ikterit të avancuar (kernikter/rrezik presioni intrakranial)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-023",
+    "question": "Me çfare shenjash shoqërohet atrezia biliare?",
+    "answers": [
+      "distëcion abdominal",
+      "dhimbje këmbe",
+      "dhimbje koke",
+      "nauze"
+    ],
+    "correct": 0,
+    "explanation": "Atrezia biliare shoqërohet me distension abdominal (mëlçi e zmadhuar, ikter kolestatik)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-024",
+    "question": "Manifastimet klinike të sindromës hemoragjike:",
+    "answers": [
+      "gjakosje të umbelikulit",
+      "dhimbje barku",
+      "dhimbje këmbe",
+      "nauze"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma hemoragjike e të porsalindurit (mungesë vit. K) manifestohet me gjakosje të kërthizës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-025",
+    "question": "Simptomat e tetanozit neonatal:",
+    "answers": [
+      "spazma të muskulaturës së qafës dhe rigiditët",
+      "të vjella",
+      "diare",
+      "dhimbje barku"
+    ],
+    "correct": 0,
+    "explanation": "Tetanozi neonatal karakterizohet nga spazma dhe rigiditet i muskulaturës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-026",
+    "question": "Shenjat klinike të paralizës faciale:",
+    "answers": [
+      "nuk mbyll plotësisht syrin",
+      "nuk merr dot frym",
+      "nuk lëviz krahun",
+      "nuk lëviz trupin"
+    ],
+    "correct": 0,
+    "explanation": "Në paralizën faciale pacienti nuk mund ta mbyllë plotësisht syrin në anën e prekur."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-027",
+    "question": "Sipas Frojdit kujt moshe i perket staid latent:",
+    "answers": [
+      "1-4 vjeç",
+      "6-12 vjeç",
+      "15-18 vjeç",
+      "20-25 vjeç"
+    ],
+    "correct": 1,
+    "explanation": "Sipas Frojdit, stadi latent i zhvillimit psikoseksual i përket moshës 6-12 vjeç."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-028",
+    "question": "Apneja shoqërohet me:",
+    "answers": [
+      "bradikardi",
+      "dhimbje barku",
+      "nauze",
+      "diare"
+    ],
+    "correct": 0,
+    "explanation": "Apnea tek foshnjat shoqërohet shpesh me bradikardi."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-029",
+    "question": "Kush janë format që çojnë në hernie umbelikale?",
+    "answers": [
+      "shtrëngim ne momentin e jashqitjes",
+      "dhimbje këmbe",
+      "dhimbje barku",
+      "dhimbje koke"
+    ],
+    "correct": 0,
+    "explanation": "Rritja e presionit intra-abdominal (p.sh. gjatë shtrëngimit për defekim) favorizon herniet umbilikale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-030",
+    "question": "Kush janë faktorët që kanë lidhje me problemin e sindromës hemoragjike?",
+    "answers": [
+      "mungesa e vit K nga nëna",
+      "mungesa e oreksit",
+      "nauze",
+      "diare"
+    ],
+    "correct": 0,
+    "explanation": "Mungesa e vitaminës K (tek nëna/foshnja) lidhet me sindromën hemoragjike neonatale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-031",
+    "question": "Paraliza e nervit frenik shkakton paraliz të:",
+    "answers": [
+      "diafragmës",
+      "krahut",
+      "kembës",
+      "barkut"
+    ],
+    "correct": 0,
+    "explanation": "Nervi frenik inervon diafragmën; dëmtimi i tij shkakton paralizë diafragmatike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-032",
+    "question": "Çfarë ndodh në organizëm në fazën e 5 të helmimit nga hekuri?",
+    "answers": [
+      "zhvillohet stënoza e pilorit",
+      "dëmtim të mëlçis",
+      "dëmtim të veshkave",
+      "dëmtim të zemrës V.2"
+    ],
+    "correct": 0,
+    "explanation": "Në fazën e vonshme (5-të) të helmimit me hekur mund të zhvillohet stenozë/cikatrizim i pilorit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-033",
+    "question": "Tek kriza vazo-okluzive e drepanocitozes simptomat më madhore janë:",
+    "answers": [
+      "altralgji",
+      "temperaturë",
+      "anemi",
+      "dhimbje"
+    ],
+    "correct": 0,
+    "explanation": "Kriza vazo-okluzive e drepanocitozës shfaqet kryesisht me dhimbje artikulare (artralgji)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-034",
+    "question": "Kur epistaksin e kemi nga artërja etmoide ka lidhje më shume me:",
+    "answers": [
+      "traumat",
+      "sëmundjet sistëmike",
+      "dëmtime të zemrës",
+      "dëmtime të gojës"
+    ],
+    "correct": 1,
+    "explanation": "Epistaksisi posterior (nga arteria etmoide) lidhet më shpesh me sëmundje sistemike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-035",
+    "question": "Në rast se trupi i huaj është i vogël dhe kalibri i bronkut është i madh do kemi këto shenja:",
+    "answers": [
+      "fishkëllim",
+      "vështirësi të frymarrjes",
+      "sekrecione",
+      "dispne"
+    ],
+    "correct": 0,
+    "explanation": "Trup i huaj i vogël në bronk të madh mund të shfaqet vetëm me fishkëllim lokal."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-036",
+    "question": "Në rast se trupi i huaj ka bere nje bllokim të pjesshem të lymenit do kemi:",
+    "answers": [
+      "Emfizem obstruktive",
+      "Atelektaze",
+      "Pneumotoraks",
+      "Bronkit"
+    ],
+    "correct": 0,
+    "explanation": "Bllokimi i pjesshëm (efekt valvular) çon në emfizemë obstruktive lokale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-037",
+    "question": "Kur kemi një infeksion i adenoidit kemi këto shenja kryesore:",
+    "answers": [
+      "dhimbje veshi",
+      "merr frym me gojë",
+      "gjakrrjedhje nga hunda",
+      "gërrhet"
+    ],
+    "correct": 1,
+    "explanation": "Infeksioni/hipertrofia e adenoidit shkakton obstruksion nazal, pra frymëmarrje me gojë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-038",
+    "question": "Respiracioni i pafrytshëm lidhet me:",
+    "answers": [
+      "deficitin e volumit të lëngjeve",
+      "rritjen e kërkesave metabolike",
+      "rritjen e sekrecioneve",
+      "inflamacionin e pemës trakeo-bronkiale"
+    ],
+    "correct": 3,
+    "explanation": "Modeli joefektiv i frymëmarrjes lidhet shpesh me inflamacionin e pemës trakeo-bronkiale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-039",
+    "question": "Gromerulonefriti akut futët në grupin e sëmundjeve të sistëmit urinar, ku ato do ti quajmë:",
+    "answers": [
+      "reaksion inflamatore",
+      "reaksion indor",
+      "ulje të imunitëti",
+      "sëmundje infektive"
+    ],
+    "correct": 0,
+    "explanation": "Glomerulonefriti akut klasifikohet si reaksion inflamator (imun-mesuar) i veshkave."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-040",
+    "question": "Në faktorët endokrinologjik tek azma:",
+    "answers": [
+      "tirotoksikoza e përmison azmën",
+      "e keqëson gjëndjen",
+      "është neutrale",
+      "kemi ndikim të fuqishëm"
+    ],
+    "correct": 1,
+    "explanation": "Tirotoksikoza tipikisht e përkeqëson gjendjen e astmës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-041",
+    "question": "Tek azma cilat janë elementë që kanë veprim obstruktiv mbi bronke?",
+    "answers": [
+      "makrofaget",
+      "monocidet",
+      "bikarbonati",
+      "glukonatë"
+    ],
+    "correct": 0,
+    "explanation": "Makrofaget, si qeliza inflamatore, kontribuojnë në obstruksionin bronkial në astmë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-042",
+    "question": "Shenjat e intoksikimit nga digogsina:",
+    "answers": [
+      "nauze",
+      "lipotëmi",
+      "hipoglicemi",
+      "anoreksi"
+    ],
+    "correct": 0,
+    "explanation": "Nauzeja është shenjë klasike e intoksikimit nga digoksina."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-043",
+    "question": "Tek azma frymarrja e pa frytshme lidhet me:",
+    "answers": [
+      "bllokimin e rrugëve ajrore",
+      "përmisimin e sëmundjes",
+      "përgjigjja jo e mirë ndaj mjekimit",
+      "nga sekretimet e shumta."
+    ],
+    "correct": 0,
+    "explanation": "Frymëmarrja joefektive në astmë lidhet me bllokimin e rrugëve ajrore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-044",
+    "question": "Azma përfaqëson një:",
+    "answers": [
+      "Dëmtim funksional",
+      "Obstruksion të rrugeve respiratore",
+      "Sekrecione të shumta",
+      "Mjekime jo specifike"
+    ],
+    "correct": 1,
+    "explanation": "Astma përfaqëson obstruksion (të kthyeshëm) të rrugëve respiratore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-045",
+    "question": "Haemathrosis është gjakrrjedhje ne:",
+    "answers": [
+      "në toraks",
+      "në SNQ",
+      "në artikulacione",
+      "në traktin gastro-intëstinale"
+    ],
+    "correct": 2,
+    "explanation": "Hemartrozi është grumbullim gjaku brenda artikulacioneve."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-046",
+    "question": "Parotiti është një sëmundje:",
+    "answers": [
+      "e gjëndrave limfatike",
+      "endemike sporadike",
+      "enët e gjakut",
+      "sistëmin nervor"
+    ],
+    "correct": 1,
+    "explanation": "Parotiti (shytat) klasifikohet epidemiologjikisht si sëmundje endemike/sporadike virale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-047",
+    "question": "Shkaktari i fruthit është virusi:",
+    "answers": [
+      "virusi RNA",
+      "i grupit të herpoviruseve",
+      "virusi measles",
+      "virusi i gripit"
+    ],
+    "correct": 2,
+    "explanation": "Fruthi shkaktohet nga virusi measles (i fruthit)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-048",
+    "question": "Në bronkiolit pas hyrjes së virusit kemi këto pasoja:",
+    "answers": [
+      "vështirësi në frymarrje",
+      "infiltrim peribronkial",
+      "bllokim të anës së prekur",
+      "zmadhim të anës së prekur"
+    ],
+    "correct": 1,
+    "explanation": "Në bronkiolit, virusi shkakton infiltrim peribronkial inflamator."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-049",
+    "question": "Tipari karakteristik i fibrozës cistike është:",
+    "answers": [
+      "disfunksion i sipërfaqeve epitëliale",
+      "mosfunksionimit të shkëmbimit të brëndshëm të gjëndrave",
+      "disfunksioni i bërthamës qelizore të gjëndrave.",
+      "mos oksigjenimi i organizmit"
+    ],
+    "correct": 0,
+    "explanation": "Fibroza cistike karakterizohet nga disfunksion i transportit jonik në sipërfaqet epiteliale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-050",
+    "question": "Fibroza cistike vjen si pasoje e:",
+    "answers": [
+      "çrregullimi i fluksit hidroelektrolitik midis gjëndrave",
+      "çrregullimi i fluksit hidroelektrolitik midis sistëmeve",
+      "çrregullimi i fluksit hidroelektrolitik transepitëlial",
+      "çrregullimi i fluksit hidroelektrolitik i enëve të gjakut"
+    ],
+    "correct": 2,
+    "explanation": "Fibroza cistike shkaktohet nga çrregullimi i transportit hidroelektrolitik transepitelial (defekti CFTR)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-051",
+    "question": "Metodat për përcaktimin e testit për fibrozën cistike bëhet:",
+    "answers": [
+      "mbas muajt të parë të jetës",
+      "mbas muajit të gjashtë të jetës",
+      "mbas vitit të parë të jetës.",
+      "mbas vitit të dytë të jetës"
+    ],
+    "correct": 0,
+    "explanation": "Testi i djersës për fibrozën cistike mund të kryhet me besueshmëri që në muajin e parë të jetës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-052",
+    "question": "Tek fibroza cistike dozat e enzimave do jepen në bazë të:",
+    "answers": [
+      "defiçitit të enzimave",
+      "sipas oreksit",
+      "sipas harxhimeven në organizem",
+      "humbjeve të gjakut"
+    ],
+    "correct": 0,
+    "explanation": "Enzimat pankreatike zëvendësuese dozohen sipas shkallës së defiçitit enzimatik."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-053",
+    "question": "Tek të sëmurët me probleme kardiake digogsina shkakton:",
+    "answers": [
+      "redukton të rrahurat e zemrës",
+      "rrit të rrahurat e zemrës",
+      "neutralizon të rrahurat e zemrës",
+      "e ndalon punë e zemrës"
+    ],
+    "correct": 0,
+    "explanation": "Digoksina redukton frekuencën kardiake (efekt kronotrop negativ)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-054",
+    "question": "Shkaku i anemis vjen si pasoje e:",
+    "answers": [
+      "e uljes së masës leukocitare",
+      "prodhimit gabim të leukocitëve",
+      "uljen e mases eritrocitare",
+      "ritjen e masës eritrocitare"
+    ],
+    "correct": 2,
+    "explanation": "Anemia përkufizohet si ulje e masës eritrocitare/hemoglobinës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-055",
+    "question": "Ne stadin e dytë shiriti i gjedhit migrojne për në:",
+    "answers": [
+      "mëlçi",
+      "mushkri",
+      "tru",
+      "veshka"
+    ],
+    "correct": 0,
+    "explanation": "Larvat e shiritit të gjedhit në stadin e dytë migrojnë zakonisht drejt mëlçisë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-056",
+    "question": "Mbas sa kohësh kemi ulçeracion të plagës nga pickimi i merimangës e zezë?",
+    "answers": [
+      "3-4 ditë",
+      "7-14 ditë",
+      "15-20 ditë",
+      "22-27 ditë"
+    ],
+    "correct": 1,
+    "explanation": "Ulçeracioni nga pickimi i merimangës zhvillohet zakonisht brenda 7-14 ditësh."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-057",
+    "question": "Mbas sa kohësh fillon organizmi të reagoi kur kafshohet nga gjarpëri?",
+    "answers": [
+      "15-20 sek",
+      "30-50sek",
+      "15-20min",
+      "30-40min"
+    ],
+    "correct": 2,
+    "explanation": "Organizmi fillon të reagojë ndaj helmit të gjarprit rreth 15-20 minuta pas kafshimit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-058",
+    "question": "Veprimet i zgjatur ultralent i insulinës (në rrugë subcutane) kur e ka kulmin:",
+    "answers": [
+      "2-4orë",
+      "6-12orë",
+      "14-24orë",
+      "28-36 orë"
+    ],
+    "correct": 2,
+    "explanation": "Insulina ultralente arrin kulmin e veprimit rreth 14-24 orë pas injektimit s/c."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-059",
+    "question": "Sa është dhënia e sasise së lëngjeve për kg/peshe në dehidrimi e lehtë në diare?",
+    "answers": [
+      "25cc",
+      "35cc",
+      "50cc",
+      "100cc"
+    ],
+    "correct": 2,
+    "explanation": "Në dehidrim të lehtë rekomandohen rreth 50cc/kg peshë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-060",
+    "question": "Kur fëmija është me të vjella sa lengje duhet të marri në 24 ore per kg-peshe?",
+    "answers": [
+      "50cc",
+      "100cc",
+      "120cc",
+      "200cc"
+    ],
+    "correct": 1,
+    "explanation": "Me të vjella, rekomandohen rreth 100cc/kg peshë brenda 24 orëve."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-061",
+    "question": "Cila është koha që fëmija riinfekton veten me oksiure?",
+    "answers": [
+      "6-10 orë",
+      "3-5 ditë",
+      "6-8 javë",
+      "10-15 javë"
+    ],
+    "correct": 2,
+    "explanation": "Cikli i riinfektimit me oksiure zgjat rreth 6-8 javë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-062",
+    "question": "Shenja që tregon që fëmija ka askaride?",
+    "answers": [
+      "dhimbje abdominale",
+      "dhimbje muskujsh",
+      "dhimbje koke",
+      "dhimbje këmbe"
+    ],
+    "correct": 0,
+    "explanation": "Askaridiaza shfaqet tipikisht me dhimbje abdominale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-063",
+    "question": "Shenjat klinike të Trichinosis?",
+    "answers": [
+      "dhimbje koke",
+      "anemi",
+      "enjtë të syve",
+      "dhimbje të këmbeve"
+    ],
+    "correct": 2,
+    "explanation": "Trichinosis karakterizohet nga edemë periorbitale (enjtje e syve)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-064",
+    "question": "Manifestimet klinike nga pickimi nga merimanga kafe:",
+    "answers": [
+      "petekie e gjeneralizuar",
+      "prurit",
+      "dhimbje abdominale",
+      "anemi"
+    ],
+    "correct": 3,
+    "explanation": "Pickimi nga merimanga kafe mund të shkaktojë hemolizë dhe anemi si manifestim sistemik."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-065",
+    "question": "Shenjat klinike tek helmimet nga hidrokarburet:",
+    "answers": [
+      "ndryshim e vetëdijes",
+      "oliguri",
+      "dehidrim",
+      "anemi"
+    ],
+    "correct": 0,
+    "explanation": "Helmimi nga hidrokarburet shoqërohet me ndryshime të vetëdijes (efekt në SNQ)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-066",
+    "question": "Mbas sa kohësh ndodh perjudha e fsheht tek helmimi nga acetaminofeni?",
+    "answers": [
+      "2-4 sek",
+      "8-16min",
+      "24-36 ore",
+      "7-10 ditë"
+    ],
+    "correct": 2,
+    "explanation": "Faza latente (asimptomatike) e helmimit nga acetaminofeni zgjat rreth 24-36 orë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-067",
+    "question": "Kush janë shenjat e idiosinkrazise?",
+    "answers": [
+      "dilatim i pupilave",
+      "puls",
+      "dhimbje barku",
+      "nauze"
+    ],
+    "correct": 0,
+    "explanation": "Reaksionet idiosinkratike shpesh shoqërohen me dilatim pupilar mes shenjave të tjera atipike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-068",
+    "question": "Çfarë shenjash ka stomatiti Vincent?",
+    "answers": [
+      "gjakrrjedhje",
+      "erë e keqe",
+      "anemi",
+      "diare"
+    ],
+    "correct": 0,
+    "explanation": "Stomatiti i Vincentit (ulcero-nekrotik) karakterizohet nga gjakrrjedhja e gingivave, ulçera dhe erë e keqe."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-069",
+    "question": "Reaksioni i vonuar mbas sa kohësh zhvillohet plotësisht?",
+    "answers": [
+      "2-5 orësh",
+      "10-16 orësh",
+      "18-23orësh",
+      "24-72 orësh"
+    ],
+    "correct": 3,
+    "explanation": "Reaksioni i hipersensitivitetit të vonuar zhvillohet plotësisht brenda 24-72 orëve."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-070",
+    "question": "Tëtania shfaqet atëhere kur niveli i kalciumit serik ulet nën:",
+    "answers": [
+      "1-2mg%",
+      "3-5mg%",
+      "7-7.5mg%",
+      "8-10mg%"
+    ],
+    "correct": 2,
+    "explanation": "Tetania shfaqet kur kalciumi serik bie nën 7-7.5 mg%."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-071",
+    "question": "Regjimi diabetik përqëndrohet në:",
+    "answers": [
+      "bërjen e insulinës",
+      "kontrolli i diares",
+      "kontrolli i të vjellave",
+      "lëkura"
+    ],
+    "correct": 0,
+    "explanation": "Regjimi diabetik në fëmijëri përqendrohet te administrimi/menaxhimi i insulinës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-072",
+    "question": "Ku depozitohen askaridet në stadin e parë të tyre:",
+    "answers": [
+      "Duoden",
+      "Pankreas",
+      "Stomak",
+      "veshka"
+    ],
+    "correct": 0,
+    "explanation": "Larvat e askaridit kalojnë fazën e parë të zhvillimit në duoden/zorrën e hollë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-073",
+    "question": "Sa zgjat perjudha e fshehtë tek helmimi nga Hekuri?",
+    "answers": [
+      "2-12ore",
+      "13-16 orë",
+      "18-20 orë",
+      "22-26 orë"
+    ],
+    "correct": 0,
+    "explanation": "Periudha e fshehtë e helmimit me hekur zgjat zakonisht 2-12 orë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-074",
+    "question": "Kujdesi infermieror në ostiomelitin për sigurimin e komfortit?",
+    "answers": [
+      "pozicioni i pershtatshem",
+      "dhimbjet e barkut",
+      "diare",
+      "të vjella"
+    ],
+    "correct": 0,
+    "explanation": "Pozicionimi i përshtatshëm i gjymtyrës së prekur siguron komfort në osteomielit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-075",
+    "question": "Cili është i gabuar në klasifikimin e reaksioneve hipersensitive?",
+    "answers": [
+      "Reaksion anafilaktik",
+      "Reaksion indor specifik",
+      "Reaksion imun kompleks",
+      "Reaksion i shpejtë."
+    ],
+    "correct": 1,
+    "explanation": "'Reaksion indor specifik' nuk bën pjesë në klasifikimin standard (Gell-Coombs) të reaksioneve hipersensitive."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-076",
+    "question": "Në mjekimin e shokut anafilaktik nuk ndikon?",
+    "answers": [
+      "Adrenalina",
+      "Ultrakortëni",
+      "Aspirina",
+      "Antihitaminikët"
+    ],
+    "correct": 2,
+    "explanation": "Aspirina nuk përdoret në trajtimin e shokut anafilaktik."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-077",
+    "question": "Cila nga simptomat e mëposhtme nuk vërehet në sëmundjen e serumit?",
+    "answers": [
+      "Edema",
+      "Eritema",
+      "Hypotirozë",
+      "Edeme laringu"
+    ],
+    "correct": 2,
+    "explanation": "Hipotiroidizmi nuk është simptomë e sëmundjes së serumit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-078",
+    "question": "Cila ëshrtë zona ku nuk shfaqet dermatiti seborroik?",
+    "answers": [
+      "Skalpi",
+      "Balli",
+      "Zona inguinale",
+      "Shputat e këmbëve",
+      "Prapa veshit"
+    ],
+    "correct": 3,
+    "explanation": "Dermatiti seborroik nuk prek zakonisht shputat e këmbëve."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-079",
+    "question": "Cili nga këto shkaktarë nuk e shkaton mungesën e vit D?",
+    "answers": [
+      "Niveli i ulët social-ekonomik",
+      "Keqpërthithja e lëndëve ushqimore",
+      "Ekspozimi në diell",
+      "Banimi në zona të ndotura."
+    ],
+    "correct": 2,
+    "explanation": "Ekspozimi në diell NXIT sintezën e vitaminës D, pra nuk shkakton mungesë të saj — përkundrazi, e parandalon."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-080",
+    "question": "Cila nga këto ushqime nuk e permban vitamines D?",
+    "answers": [
+      "Vaji i peshkut",
+      "Bulmeti",
+      "Dritherat",
+      "Mishi"
+    ],
+    "correct": 2,
+    "explanation": "Drithërat nuk përmbajnë natyrshëm vitaminë D, ndryshe nga vaji i peshkut, bulmeti apo mishi."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-081",
+    "question": "Cila nga simptomat e mëposhtme nuk vërehet në sëmundjen e serumit?",
+    "answers": [
+      "Edema",
+      "Eritema",
+      "Hypotirozë",
+      "Edeme laringu"
+    ],
+    "correct": 2,
+    "explanation": "Hipotiroidizmi nuk është simptomë e sëmundjes së serumit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-082",
+    "question": "Cila nga alternativat është e saktë, për nevojat e organizmit për jod?",
+    "answers": [
+      "55-180 mikrogram",
+      "65-175 mikrogram",
+      "80-120 mikrogram",
+      "75- 150 mikrogram"
+    ],
+    "correct": 3,
+    "explanation": "Nevoja ditore për jod konsiderohet rreth 75-150 mikrogram."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-083",
+    "question": "Cila nuk bën pjesë në simptomat e mëposhtme, në teprinë e vitamines D?",
+    "answers": [
+      "Dobësi trupore",
+      "Vonesë e theksuar në rritje",
+      "Dhimbje kockash",
+      "Oreks I shtuar"
+    ],
+    "correct": 3,
+    "explanation": "Në hipervitaminozën D tipike ka rënie (jo rritje) të oreksit; rritja e oreksit nuk është simptomë karakteristike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-084",
+    "question": "Cila nuk është e saktë, në shenjat e fëmijëve me hypotiroide, në lindje?",
+    "answers": [
+      "Ikteri fiziologjik",
+      "Dalje e shpejtë jashtë",
+      "Probleme respiratore",
+      "Vështirësi në ushyerje"
+    ],
+    "correct": 1,
+    "explanation": "Hipotiroidizmi kongjenital shoqërohet me konstipacion, jo me defekim të shpejtë; pra kjo është pohimi jo i saktë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-085",
+    "question": "Cila nga këto shenja nuk bën pjesë në sëmundjen e osteomielitit?",
+    "answers": [
+      "Tëmperturë e lartë",
+      "Zona e prekur e skuqur dhe e nxehtë",
+      "Epistaksis",
+      "Gjymtyrë e dhimbshme",
+      "Muskuj të tëndosur"
+    ],
+    "correct": 2,
+    "explanation": "Epistaksisi (gjakderdhje hundësh) nuk lidhet me osteomielitin."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-086",
+    "question": "Cili nga parametrat ndryshon shumë në osteomielit?",
+    "answers": [
+      "Eritrocitët",
+      "Leukocitët",
+      "Hemoglobina",
+      "Hematokriti"
+    ],
+    "correct": 1,
+    "explanation": "Leukocitet rriten dukshëm në osteomielit si përgjigje inflamatore/infektive."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-087",
+    "question": "Cilën nga të organet e mëposhtme prek artriti?",
+    "answers": [
+      "Veshkën",
+      "Mushkëritë",
+      "Kycet",
+      "Pankreasin"
+    ],
+    "correct": 2,
+    "explanation": "Artriti prek kyçet (artikulacionet)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-088",
+    "question": "Cila nga këto shenja nuk bën pjesë në artrit?",
+    "answers": [
+      "Inflamacion lokal",
+      "Lëvizjes spontane të kyceve",
+      "Humbje të vetëdijes",
+      "Temperaturë."
+    ],
+    "correct": 2,
+    "explanation": "Humbja e vetëdijes nuk është shenjë e artritit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-089",
+    "question": "Cili nga ekzaminimet e mëposhtme është i saktë në defektët e lindura të zemrës?",
+    "answers": [
+      "Skaner",
+      "Radiografi",
+      "Rezonancë",
+      "Ekografi"
+    ],
+    "correct": 3,
+    "explanation": "Ekokardiografia (ekografia e zemrës) është ekzaminimi i zgjedhur për defektet kongjenitale kardiake."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-090",
+    "question": "Cili nuk e shkakton artritin, nga të dhënat e mëposhtme?",
+    "answers": [
+      "E. Coli",
+      "Haemaphilus influencae",
+      "Salmonela",
+      "Stafilokok"
+    ],
+    "correct": 2,
+    "explanation": "Artriti septik shkaktohet kryesisht nga stafilokoku dhe H. influenzae; Salmonela nuk është shkaktar tipik i tij."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-091",
+    "question": "Cila nuk është e saktë në ndërhyrjet post - operatore të tonsilitit?",
+    "answers": [
+      "Monitorimi",
+      "Pozicionohet shtrirë dhe drejtë",
+      "Vlerësohet për shenjat e hemoragjisë",
+      "Fillohen perfuzione I/V"
+    ],
+    "correct": 1,
+    "explanation": "Pas tonsilektomisë pacienti pozicionohet anash/pjerrtas, jo shtrirë drejtë, për të parandaluar aspirimin."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-092",
+    "question": "Skarlatina shkaktohet nga:",
+    "answers": [
+      "Bordetëlla pertusis",
+      "Corynae bactërium diphtheriae",
+      "Streptokoku B hemolitik i grupit A",
+      "Bakteriet"
+    ],
+    "correct": 2,
+    "explanation": "Skarlatina shkaktohet nga Streptokoku beta-hemolitik i grupit A."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-093",
+    "question": "Cila nga shenjat e mëposhtme nuk është e saktë, në rihnit?",
+    "answers": [
+      "Tështitje",
+      "Obstruksion i rrugëve të frymëmarrjes",
+      "Temperaturë",
+      "Sekrecione"
+    ],
+    "correct": 2,
+    "explanation": "Rinitit i thjeshtë viral zakonisht nuk shoqërohet me temperaturë të lartë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-094",
+    "question": "Cila nga këto sëmundje nuk bën pjesë në LTB?",
+    "answers": [
+      "Laringotrakeiti",
+      "Epiglottis",
+      "Bronkioliti",
+      "Trakeiti bacterial"
+    ],
+    "correct": 2,
+    "explanation": "Bronkioliti prek rrugët e poshtme; grupi LTB (laringotrakeiti, epiglotiti, trakeiti bakterial) prek laringun dhe trakenë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-095",
+    "question": "Cila nga këto shenja nuk bën pjesë në LTB?",
+    "answers": [
+      "Temperaturë",
+      "Dhimbje fyti",
+      "Melena",
+      "Vështirësi në frymëmarrje"
+    ],
+    "correct": 2,
+    "explanation": "Melena (gjak në feçe) nuk lidhet me LTB."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-096",
+    "question": "Cila nuk ben pjesë në ndërhyrjet e laringo-trakeo -bronkitit?",
+    "answers": [
+      "Ruajtja e pastër e rrugëve ajrore",
+      "Dhënia e oksigjeno-tërapisë",
+      "Plotësimi i nevojave me lëngje",
+      "Dhënia e vit D",
+      "Sigurimi i pushimit dhe qetësisë."
+    ],
+    "correct": 3,
+    "explanation": "Dhënia e vitaminës D nuk ka lidhje me ndërhyrjet e LTB akut."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-097",
+    "question": "Cila nga këto nuk bën pjesë në sëmundjet e rrugëve të poshtme respiratore?",
+    "answers": [
+      "Bronkopneumonia",
+      "Bronkiti",
+      "Bronioliti",
+      "Trakeiti",
+      "Pneumonia"
+    ],
+    "correct": 3,
+    "explanation": "Trakeiti konsiderohet më shumë patologji e rrugëve të mesme/të sipërme respiratore krahasuar me tre të tjerat."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-098",
+    "question": "Cila nuk bën pjesë në kujdesin për pulmonet?",
+    "answers": [
+      "Dhënia e Heparinës",
+      "Aerozolotërapia",
+      "Aspirimi i sekrecioneve",
+      "Oksigjenotërapia"
+    ],
+    "correct": 0,
+    "explanation": "Heparina nuk bën pjesë në kujdesin standard respirator/pulmonar tek fëmijët."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-099",
+    "question": "Cili nga medikamentët e mëposhtëm nuk jepet në astmën bronkiale?",
+    "answers": [
+      "Bronkodilatatorët",
+      "Kortikostëroidet",
+      "Levotiroksina",
+      "Antiacidet"
+    ],
+    "correct": 2,
+    "explanation": "Levotiroksina (hormon tiroide) nuk jepet në trajtimin e astmës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-100",
+    "question": "Në cilën nga të dhënat e mëposhme nuk bazohet diagnoza e FC?",
+    "answers": [
+      "Historinë e sëmundjes familjare",
+      "Në mungesën e enzimave pankreatike",
+      "Në dhimbjen abdominale",
+      "Në rritjen e koncentrimit elektrolitik të djersës"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbja abdominale nuk është kriter diagnostikues specifik për fibrozën cistike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-101",
+    "question": "Para marrjes së diuretikeve matet rregullisht:",
+    "answers": [
+      "urinimi",
+      "defekimi",
+      "të vjellat",
+      "tensionin arterial"
+    ],
+    "correct": 3,
+    "explanation": "Para dhe gjatë terapisë me diuretikë matet rregullisht tensioni arterial."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-102",
+    "question": "Periudha e fshehtë e poliomelitit abortiv është:",
+    "answers": [
+      "3-6 ditë",
+      "7-10 ditë",
+      "13-15 ditë",
+      "16-18 ditë"
+    ],
+    "correct": 3,
+    "explanation": "Poliomeliti abortiv ka periudhë të fshehtë të gjatë, rreth 16–18 ditë, para shfaqjes së shenjave të lehta."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-103",
+    "question": "Faza post renale vjen si pasojë e:",
+    "answers": [
+      "nje obstruksion mekanik i traktit urinar",
+      "traktit gastrointëstinal",
+      "respirator",
+      "venoz"
+    ],
+    "correct": 1,
+    "explanation": "Insuficienca renale post-renale shkaktohet nga obstruksion mekanik i traktit urinar."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-104",
+    "question": "Tek variçela fëmija është kontaminues gjatë periudhës:",
+    "answers": [
+      "1-2 ditë e para shfaqes se ekzantëmes",
+      "3-6 ditë",
+      "7-10 ditë",
+      "12-14 ditë"
+    ],
+    "correct": 0,
+    "explanation": "Fëmija me variçelë është kontaminues që 1-2 ditë para shfaqjes së ekzantemës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-105",
+    "question": "Sa është dhe sa shkurtohet jeta e trombocitëve?",
+    "answers": [
+      "6-8 ditë ne disa ore",
+      "9-12 ditë",
+      "14-16 ditë",
+      "17-20 ditë"
+    ],
+    "correct": 0,
+    "explanation": "Jeta normale e trombociteve është 6-8 ditë, e cila mund të shkurtohet në disa orë në gjendje patologjike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-106",
+    "question": "Sindromi hemoragjik tek i posalinuri, vjen si pasojë?",
+    "answers": [
+      "e mungesës nga Vit A",
+      "e mungesës nga Vit D",
+      "e mungesës nga Vit K",
+      "e mungesës nga Vit E"
+    ],
+    "correct": 2,
+    "explanation": "Sindromi hemoragjik i të porsalindurit vjen nga mungesa e vitaminës K."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-107",
+    "question": "Cila nga këto shihet në analizën e ikterit?",
+    "answers": [
+      "Rritja e glukozës në gjak",
+      "Rritja e azotëmisë",
+      "Rritja e glicemisë",
+      "Rritja e bilirubinës"
+    ],
+    "correct": 3,
+    "explanation": "Ikteri karakterizohet nga rritja e nivelit të bilirubinës në gjak."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-108",
+    "question": "Cila është ndërhyrja e parë në fëmijën prematur?",
+    "answers": [
+      "ushqyerja",
+      "dhënia e oksigjenit",
+      "vënia e perfuzioneve I/V",
+      "rregullimi i temperaturës"
+    ],
+    "correct": 3,
+    "explanation": "Te prematuri, ndërhyrja e parë prioritare është rregullimi/ruajtja e temperaturës trupore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-109",
+    "question": "Cila është shenjë e infeksionit umbelikal?",
+    "answers": [
+      "nauze",
+      "temperaturë",
+      "humbje oreksi",
+      "zverdhje"
+    ],
+    "correct": 1,
+    "explanation": "Infeksioni umbilikal shoqërohet zakonisht me temperaturë (rritje lokale/sistemike)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-110",
+    "question": "Ku konsiston ndërhyrja e foshnjes së lindur me ikter?",
+    "answers": [
+      "vendosja nën oksigjen",
+      "dhënia e antibiotikëve",
+      "bërja e transfuzioneve",
+      "futja në fototërapi"
+    ],
+    "correct": 3,
+    "explanation": "Trajtimi standard i ikterit neonatal është fototerapia."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-111",
+    "question": "Cila është simptoma që tregon frakturë të klavikulës?",
+    "answers": [
+      "Shtrembërim të cepit të buzës",
+      "Dhimbje kur i prek krahun",
+      "Hematomë të fytyrës",
+      "Rënie të cepit të syrit"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura e klavikulës shfaqet me dhimbje në prekje/lëvizje të krahut."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-112",
+    "question": "Cili organ luan rol në eleminimin e bilirubinës, gjatë jetës fetale?",
+    "answers": [
+      "placenta",
+      "mushkëria",
+      "zemra",
+      "pankreasi"
+    ],
+    "correct": 0,
+    "explanation": "Gjatë jetës fetale, placenta merr rolin e eliminimit të bilirubinës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-113",
+    "question": "Cila është ndëhyja e parë, që bëhet në foshnjen me asfiksi?",
+    "answers": [
+      "Ushqyerja",
+      "Rregullimi i temperaturës",
+      "Aspirimi",
+      "marrja e analizave"
+    ],
+    "correct": 2,
+    "explanation": "Në asfiksinë neonatale, ndërhyrja e parë është aspirimi i rrugëve ajrore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-114",
+    "question": "Apnea është?",
+    "answers": [
+      "frymarrje e shpejtë",
+      "frymarrje e ngadaltë",
+      "pauz në frymëmarrje",
+      "frymarrje normale"
+    ],
+    "correct": 2,
+    "explanation": "Apnea është ndërprerje (pushim) e frymëmarrjes."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-115",
+    "question": "Cila është simptomë e stenozës hipretrofike të pilorit?",
+    "answers": [
+      "cianozë",
+      "frymëmarrje e vështirësuar",
+      "Apnoe",
+      "të vjella, si shatërvan"
+    ],
+    "correct": 3,
+    "explanation": "Stenoza hipertrofike e pilorit shfaqet klasikisht me të vjella të fuqishme (projektile)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-116",
+    "question": "Cila është masa e parë që marrim për parandalimin e përhapjes së infeksionit?",
+    "answers": [
+      "dhënia e oksigjenit",
+      "rregullimi i temperaturës",
+      "izolimi i foshnjes",
+      "bërja e ekzaminimeve"
+    ],
+    "correct": 2,
+    "explanation": "Masa e parë kundër përhapjes së infeksionit është izolimi i foshnjes së infektuar."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-117",
+    "question": "Me çfarë trajtohet hypoglicemia?",
+    "answers": [
+      "dhënia kaliumit",
+      "dhënia e antibiotikëve",
+      "dhënia e bikarbonat natriumi",
+      "dhënia e perfuzioneve me glukoze 5%"
+    ],
+    "correct": 3,
+    "explanation": "Hipoglicemia trajtohet me infuzion solucioni glukoze 5%."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-118",
+    "question": "Në sa stade ndahet periudha neonatale?",
+    "answers": [
+      "2 stade",
+      "4 stade",
+      "5stade",
+      "6 stade"
+    ],
+    "correct": 0,
+    "explanation": "Periudha neonatale ndahet në 2 stade (e hershme dhe e vonë)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-119",
+    "question": "Kur bëhet ushqyerja me sondë nazo-gastrike?",
+    "answers": [
+      "në fëmijët me ikter",
+      "në fëmijët me frakturë të klavikulës",
+      "në fëmijët me buzë dhe qellzë të carë",
+      "në fëmijët me asfiksi"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijët me buzë dhe qiellzë të çarë shpesh ushqehen me sondë nazogastrike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-120",
+    "question": "Cili është shkaktarë për një lindje asfiktike?",
+    "answers": [
+      "lindja ne term",
+      "lindja me sexio-cezarea",
+      "lindja post - tërm",
+      "Lindja podalike"
+    ],
+    "correct": 3,
+    "explanation": "Lindja podalike (breech) rrit riskun për asfiksi neonatale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-121",
+    "question": "Me çfarë trajtohet nje infeksion umbelikal?",
+    "answers": [
+      "me antibiotic",
+      "me natri-bikarbonat",
+      "me alkol 70 gradë",
+      "me perfuzioneI/V"
+    ],
+    "correct": 2,
+    "explanation": "Infeksioni umbilikal lokal trajtohet me pastrim dhe alkool 70°, që e than dhe e dezinfekton kërthizën."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-122",
+    "question": "Cili nga këta faktorë nuk ndikon në shfaqen e diaresë?",
+    "answers": [
+      "Mosha e fëmijës",
+      "Kequshqyerja ose humbja në peshë",
+      "Higjena e pastër",
+      "Mosruajtja e mire e ushqimeve"
+    ],
+    "correct": 2,
+    "explanation": "Higjena e pastër redukton, nuk shkakton, rrezikun e diarresë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-123",
+    "question": "Cila nga shkallët e dehidrimit nuk është e saktë?",
+    "answers": [
+      "E lehtë = 10%",
+      "Mesatare = 15%",
+      "E rëndë = 20%",
+      "E rëndë = 25%"
+    ],
+    "correct": 2,
+    "explanation": "Dehidrimi i rëndë përkufizohet si rënie e peshës trupore mbi 10%."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-124",
+    "question": "Cila është e gabuar, në shkaktarët e obezitetit?",
+    "answers": [
+      "Faktorët metabolik",
+      "Trashëgues",
+      "Nënushqyerja",
+      "Psikologjik"
+    ],
+    "correct": 2,
+    "explanation": "Nënushqyerja shkakton nënpeshë, jo obezitet — pra është shkaktari i gabuar në këtë listë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-125",
+    "question": "Cili nga kujdesjet nuk bën pjesë në trajtimet e anoreksisë?",
+    "answers": [
+      "Kujdesi ndaj malnutricionit",
+      "Fillimi i një dietë të pasur dhe me lëngje",
+      "Mbështëtja psikologjike",
+      "Përdorimi i laksativëve"
+    ],
+    "correct": 3,
+    "explanation": "Përdorimi i laksativëve nuk bën pjesë në trajtimin standard të anoreksisë nervore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-126",
+    "question": "Cili nga shkaktarët nuk bën pjesë në stomatit?",
+    "answers": [
+      "Sëmundjet sistemike",
+      "Traumat",
+      "Dalja e dhëmbëve",
+      "Higjena e pastër"
+    ],
+    "correct": 3,
+    "explanation": "Higjena e pastër parandalon, nuk shkakton, stomatitin."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-127",
+    "question": "Kandidoza orale është?",
+    "answers": [
+      "Infeksion kërpudhor",
+      "Inflamacion i mukozave orale",
+      "Ulcer e membranave të mukozave të gojës",
+      "Sëmundje sistëmike"
+    ],
+    "correct": 0,
+    "explanation": "Kandidoza orale është infeksion kërpudhor (nga Candida)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-128",
+    "question": "Cili është ekzaminimi që përcakton llojin e parazitit?",
+    "answers": [
+      "Gjak komplet",
+      "Urokulturë",
+      "Koprokulturë",
+      "Sputum"
+    ],
+    "correct": 2,
+    "explanation": "Koprokultura (ekzaminimi parazitologjik i feçeve) identifikon llojin e parazitit intestinal."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-129",
+    "question": "Në cilin nga helmimet nuk këshillohet nxitja e të vjellave?",
+    "answers": [
+      "Helmimet nga medikamentët",
+      "Helmimet nga ushqyerja",
+      "Helmimet nga salicilatët",
+      "Hemimet nga lëndët grryese"
+    ],
+    "correct": 3,
+    "explanation": "Nxitja e të vjellave kundërindikohet në helmim me lëndë gërryese (rrezik dëmtimi shtesë të ezofagut)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-130",
+    "question": "Cili nga këto nuk është shkaktarë i shfaqes së alergjive?",
+    "answers": [
+      "Ushqimi",
+      "Medikamentët",
+      "Mungesa e hekurit",
+      "Pluhurat."
+    ],
+    "correct": 2,
+    "explanation": "Mungesa e hekurit nuk lidhet me shkaktimin e alergjive."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-131",
+    "question": "Shkaktojnë endokardit bakterial të gjitha, me përjashtim të:",
+    "answers": [
+      "Streptokoku",
+      "Enterokoku",
+      "Gonokoku",
+      "Rikecia"
+    ],
+    "correct": 2,
+    "explanation": "Endokarditin bakterial e shkaktojnë streptokoku, enterokoku dhe stafilokoku; gonokoku është shumë i rrallë, ndaj përjashtohet."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-132",
+    "question": "Kemi anemi kur hemoglobina është:",
+    "answers": [
+      "Hemoglobina është nën 12g/dl (6 - 12 vjec).",
+      "Hemoglobina është 12g/dl ( 6 muaj - 6 vjec)",
+      "Hemoglobina është 13g/dl (6muaj - 6 vjec)",
+      "Hemoglobina është nën 11g/dl (6muaj - 12 vjec)"
+    ],
+    "correct": 0,
+    "explanation": "Te fëmijët 6–12 vjeç anemi kemi kur hemoglobina bie nën 12 g/dl."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-133",
+    "question": "Cila nuk bën pjesë në efektët klinike të talasemisë major?",
+    "answers": [
+      "Difektët në sintëzën e hemoglobinës A",
+      "Dobësim i strukturës së qelizave të kuqe të gjakut",
+      "Rritje e numrit të leukocitëve",
+      "Jetëgjatësia e shkurtër e eritrocitit"
+    ],
+    "correct": 2,
+    "explanation": "Rritja e leukociteve nuk është karakteristikë e talasemisë major."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-134",
+    "question": "Cilët nga elementët e analizëes së gjakut, është i rritur në leucemi?",
+    "answers": [
+      "Eritrocitet",
+      "Hemoglobina",
+      "Leukocitët",
+      "Sedimenti"
+    ],
+    "correct": 2,
+    "explanation": "Në leuçemi rritet numri i leukociteve (shpesh qelizave blastike)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-135",
+    "question": "Cila nuk bën pjesë në ndërhyjet e IRA?",
+    "answers": [
+      "Monitorimi i shenjave vitale",
+      "Llogaritja me saktësi e marrjen dhe nxjerrjen e lëngjeve",
+      "Administrimi i medikamentave",
+      "Kryerja e ushtimeve fizike",
+      "Parandalimi i infeksioneve"
+    ],
+    "correct": 3,
+    "explanation": "Ushtrimet fizike nuk janë pjesë e menaxhimit të insuficiencës renale akute."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-136",
+    "question": "Me çfarë trajtohet hipoglicemia?",
+    "answers": [
+      "Tresol",
+      "Kalcium",
+      "Perfuzion solucion glukoze",
+      "Vitamine A"
+    ],
+    "correct": 2,
+    "explanation": "Hipoglicemia trajtohet me infuzion solucioni glukoze."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-137",
+    "question": "Me çfarë trajtohet hipokalcemia?",
+    "answers": [
+      "Trajtohet me dhënien e kalciumit.",
+      "Trajtohet me dhënien e glukozës.",
+      "Trajtohet me dhënien e serumeve.",
+      "Trajtohet me dhënien e 02."
+    ],
+    "correct": 0,
+    "explanation": "Hipokalcemia trajtohet me administrimin e kalciumit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-138",
+    "question": "Cila nga simptomat e mëposhtme NUK i përket meningitit?",
+    "answers": [
+      "Dhimje koke, dhimbje muskujsh, dhimbje kycesh",
+      "Të vjella",
+      "Temperaturë",
+      "Enjtje të gjëndrave parotis",
+      "Konvulsion"
+    ],
+    "correct": 3,
+    "explanation": "Enjtja e gjëndrave parotis është shenjë e parotitit (shytave), jo e meningitit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-139",
+    "question": "Cilat nga të dhënat e mëposhtme prek encefaliti?",
+    "answers": [
+      "Brinjët e përparme të palsës së kurrizit",
+      "Prek indin granular dhe sistëmin nervor",
+      "Prek meninget dhe parenkimën e trurit",
+      "Prek aparatin e frymëmarrjes"
+    ],
+    "correct": 2,
+    "explanation": "Encefaliti është inflamacion i parenkimës cerebrale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-140",
+    "question": "Në hemoragjitë umbilikale:",
+    "answers": [
+      "Injektohet vit.D për parandalim.",
+      "Injektohet vit .A për parandalim.",
+      "Injektohet vit.K. për parandalim.",
+      "Injektohet vit.C për parandalim."
+    ],
+    "correct": 0,
+    "explanation": "Në hemoragjitë umbilikale/neonatale injektohet vitaminë K."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-141",
+    "question": "Edemat serosanguine:",
+    "answers": [
+      "Nuk janë lezione cefalike.",
+      "Janë lezione cefalike.",
+      "Janë lezione cefalo-pelvike.",
+      "Nuk janë lezione të asnjë lloji."
+    ],
+    "correct": 1,
+    "explanation": "Edema serosanguine (caput succedaneum) është lezion cefalik (i kokës/skalpit)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-142",
+    "question": "Ç'është stenoza e pilorit?",
+    "answers": [
+      "Bllokim hipertrofik i muskulit rrethues të kanalit të pilorit.",
+      "Zgjerim i muskulit rrethues të kanalit të pilorit.",
+      "Bllokimi dhe zgjerimi në të njëjtën i muskulit rrethues.",
+      "Ç'rregullim Hidro-elektrolitik."
+    ],
+    "correct": 0,
+    "explanation": "Stenoza hipertrofike e pilorit është hipertrofi/bllokim i muskulit rrethues pilorik."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-143",
+    "question": "Obeziteti është i shoqëruar nga:",
+    "answers": [
+      "Pasoja mjekësore, psikologjike.",
+      "Vetëm pasoja mjekësore.",
+      "Vetëm pasoja psikologjike.",
+      "Luhatje sipërfaqësore."
+    ],
+    "correct": 0,
+    "explanation": "Obeziteti sjell si pasoja mjekësore ashtu edhe psikologjike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-144",
+    "question": "Zhvillimi i adipositi në disa rastë mund të rritet:",
+    "answers": [
+      "Në moshën e tretë.",
+      "Në pesë vitët e para të jetës.",
+      "Adoleshencën e vonë.",
+      "Në çdo kohë."
+    ],
+    "correct": 1,
+    "explanation": "Numri i adipociteve rritet kryesisht në pesë vitet e para të jetës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-145",
+    "question": "Medikamentët që shkaktojnë humbjen në peshë tek anoreksikët:",
+    "answers": [
+      "Laksativët, diuretikët",
+      "Imipramina, depramina.",
+      "Antëpar, povan.",
+      "Aspirina, Fe sulfat."
+    ],
+    "correct": 0,
+    "explanation": "Anoreksikët keqpërdorin shpesh laksativë dhe diuretikë për të humbur peshë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-146",
+    "question": "Në rastët e një reaksioni të rëndë nga pickimi i grerëzës apo bletës:",
+    "answers": [
+      "Bëhet lavash stomaku.",
+      "Injektohet vit.K.",
+      "Bëhet adrenalinë, ultrakortën.",
+      "Injektohet vit.A+D."
+    ],
+    "correct": 2,
+    "explanation": "Në reaksion të rëndë alergjik nga pickimi, administrohet adrenalinë dhe kortikosteroid (ultrakorten)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-147",
+    "question": "Alergjia është:",
+    "answers": [
+      "Hipersensibilitët ndaj një substance.",
+      "Hyposensibilitët ndaj një substance.",
+      "Përqasje e virozave të stinës.",
+      "Komplikacion nga substancat toksike."
+    ],
+    "correct": 0,
+    "explanation": "Alergjia përkufizohet si hipersensibilitet i sistemit imun ndaj një substance."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-148",
+    "question": "Dhënia e luminalit jepet:",
+    "answers": [
+      "Vetëm në rrugë intravenoze.",
+      "Në rrugë orale, muskulare.",
+      "Vetëm nga goja.",
+      "Me transfuzion gjaku."
+    ],
+    "correct": 1,
+    "explanation": "Luminali (fenobarbital) administrohet në rrugë orale ose muskulare."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-149",
+    "question": "Eritroblastoza fetale quhet ndryshe:",
+    "answers": [
+      "Sëmundje hemolitike e të porsalindurit.",
+      "Sëmundje ikterike e të porsalindurit.",
+      "Sëmundje baktëriale e të porsalindurit.",
+      "Sëmundje e sistëmit respirator e të porsalindurit."
+    ],
+    "correct": 0,
+    "explanation": "Eritroblastoza fetale njihet ndryshe si sëmundja hemolitike e të porsalindurit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-150",
+    "question": "Cili nga këto manifestime klinike, tregon për sëmundjen e hemofilisë?",
+    "answers": [
+      "Rënie në peshe",
+      "Vështirësi në frymëmarrje",
+      "Melena",
+      "Të vjella"
+    ],
+    "correct": 2,
+    "explanation": "Melena (gjakderdhje gastrointestinale) mund të jetë manifestim i hemofilisë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-151",
+    "question": "Cila nga këto shenja nuk bën pjesë në klinikën e bronkiolitit?",
+    "answers": [
+      "temperaturë 38-39",
+      "dhimbje koke",
+      "vështirësi në frymëmarrje",
+      "konvulsione"
+    ],
+    "correct": 3,
+    "explanation": "Bronkioliti jep temperaturë, kollë dhe vështirësi në frymëmarrje; konvulsionet nuk janë pjesë e klinikës së tij."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-152",
+    "question": "Cila nga këto ndërhyrje nuk bën pjesë në LTB?",
+    "answers": [
+      "dhënia e transfuzioneve të gjakut",
+      "pastrimi i rrugëve të frymëmarrjes",
+      "bërja e antibiotiko-tërapisë",
+      "Dhënia e oksigjenotërapisë"
+    ],
+    "correct": 0,
+    "explanation": "Transfuzioni i gjakut nuk bën pjesë në ndërhyrjet standarde për LTB."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-153",
+    "question": "Cili nuk është shkaktarë i bronkopneumonisë?",
+    "answers": [
+      "bakteriet",
+      "Streptokoku",
+      "Pneumokoku",
+      "Stafilokoku"
+    ],
+    "correct": 0,
+    "explanation": "'Bakteriet' është term i përgjithshëm, jo shkaktar specifik i identifikueshëm si të tjerët (streptokoku, pneumokoku, stafilokoku)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-154",
+    "question": "Cila nuk bën pjesë në trajtimin e fëmijës me anemi?",
+    "answers": [
+      "aerozolo-tërapia",
+      "dhënia e vit B12",
+      "dhënia Fe",
+      "dhenia e një dietë të pasur me Fe"
+    ],
+    "correct": 0,
+    "explanation": "Aerozoloterapia nuk përdoret në trajtimin e anemisë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-155",
+    "question": "Cila nuk bën pjesë në ndërhyrjen e pacientëve me IRA?",
+    "answers": [
+      "kufizimi i kriprave",
+      "dhënia e antibiotiko-tërapisë",
+      "bërja e dializës",
+      "dhënia e lëngjeve"
+    ],
+    "correct": 1,
+    "explanation": "Antibiotikoterapia nuk është pjesë rutinë e menaxhimit të IRA-s pa infeksion të pranishëm."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-156",
+    "question": "Fibroza cistike është sëmundje:",
+    "answers": [
+      "genetiksht e trashëguar",
+      "e fituar",
+      "që shkatohet nga viruse",
+      "që shkatohet nga baktëriet"
+    ],
+    "correct": 0,
+    "explanation": "Fibroza cistike është sëmundje gjenetike e trashëguar (autosomike recesive)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-157",
+    "question": "Cila nuk bën pjesë në manifestimet klinike të trombocitopenisë?",
+    "answers": [
+      "hematemezis",
+      "melena",
+      "hemoragji e gingivave",
+      "temperaturë"
+    ],
+    "correct": 3,
+    "explanation": "Temperatura nuk është shenjë direkte e trombocitopenisë; shenjat kryesore lidhen me gjakderdhje."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-158",
+    "question": "Meningiti është:",
+    "answers": [
+      "Inflamacion i meningeve",
+      "Sëmundje virale",
+      "Sëmundje bakteriale",
+      "Sëmundje e trashëguar"
+    ],
+    "correct": 0,
+    "explanation": "Meningiti është inflamacion i meningeve (membranave që mbulojnë trurin/palcën kurrizore)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-159",
+    "question": "Cili është shkaktari i variçelës?",
+    "answers": [
+      "nga një virus",
+      "vriçela zostër",
+      "virusi paramiksovirus",
+      "bakteriet"
+    ],
+    "correct": 1,
+    "explanation": "Variçela shkaktohet nga virusi varicella-zoster."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-160",
+    "question": "Sa zgjat peridha e inkubacionit tek Robeola?",
+    "answers": [
+      "10-20 ditë",
+      "17-30 ditë",
+      "6- 7 ditë",
+      "14-21 ditë"
+    ],
+    "correct": 3,
+    "explanation": "Periudha e inkubacionit të rubeolës është zakonisht 14-21 ditë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-161",
+    "question": "Cila është rruga e transmetimit të fruthit?",
+    "answers": [
+      "Nëpërmjet rrugëve të frymëmarrjes, spërklave",
+      "Rrugës hematogene",
+      "Perfuzioneve I/V",
+      "Kontaktit të lëkurës"
+    ],
+    "correct": 0,
+    "explanation": "Fruthi transmetohet nëpërmjet pikave respiratore (frymëmarrje, spërklat)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-162",
+    "question": "Eneurezis nokturna është:",
+    "answers": [
+      "Urinim normal",
+      "Urinim me ndërprerje",
+      "Urinim i shpeshtë",
+      "Urinim i pavullnetshëm natën"
+    ],
+    "correct": 3,
+    "explanation": "Enurezis nokturna është urinim i pavullnetshëm gjatë natës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-163",
+    "question": "Përgjegjësia kryesore e veshkave është:",
+    "answers": [
+      "Të mbajë constant volumin e lëngjeve",
+      "Të mbajë constant frymëshkëmbimin",
+      "Të mbajë constant ritmin e zemrës",
+      "Të mbajë constant qarkullimin e gjakut"
+    ],
+    "correct": 0,
+    "explanation": "Veshkat kanë rol kryesor në ruajtjen konstante të volumit dhe balancës së lëngjeve."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-164",
+    "question": "Cila nga përgjigjet nuk është e saktë, në fëmijët me sindrom Dawn?",
+    "answers": [
+      "Kanë qëndrim hypotonik",
+      "Pëllëmba e dorës me rrudha",
+      "Fytyra me pamje normale",
+      "Gishti i madh i dorës i vecuar"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijët me sindromën Down kanë tipare të veçanta faciale, jo pamje 'normale' — ky pohim është i pasaktë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-165",
+    "question": "Forma më e rëndë e krizave epileptike, quhet:",
+    "answers": [
+      "Humbje e vetëdijes",
+      "Marrje mendsh",
+      "Status epileptik",
+      "Gjendje të fikti"
+    ],
+    "correct": 2,
+    "explanation": "Statusi epileptik është forma më e rëndë dhe emergjente e krizave epileptike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-166",
+    "question": "Në purpurën trombocitopenike, ulja e trombocitëve është?",
+    "answers": [
+      "Nën 150.000/mm3",
+      "Nën 140.000/mm3",
+      "Nën 130.000/mm3",
+      "Nën 120.000/mm3"
+    ],
+    "correct": 0,
+    "explanation": "Trombocitopenia përkufizohet si numër trombocitesh nën 150.000/mm3."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-167",
+    "question": "Sa shkurtohet jeta e eritrocitit tek trombocitopenia?",
+    "answers": [
+      "2-4 ditë",
+      "3-5 ditë",
+      "6-8 ditë",
+      "7-10 ditë"
+    ],
+    "correct": 3,
+    "explanation": "Në kushte të caktuara patologjike (si trombocitopenia shoqëruese), jeta normale e eritrociteve mund të shkurtohet ndjeshëm, deri në rreth 7-10 ditë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-168",
+    "question": "Cilin nga këto organe nuk prek ethja reumatizmale?",
+    "answers": [
+      "zemrën",
+      "Kockat",
+      "SNQ",
+      "Veshkat"
+    ],
+    "correct": 3,
+    "explanation": "Ethja reumatizmale nuk prek tipikisht veshkat; prek zemrën, artikulacionet/kockat dhe SNQ (koreja)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-169",
+    "question": "Cili nga apartët preket në 90% të rastëve nga fibroza cistike?",
+    "answers": [
+      "Aparati genito-urinar",
+      "Aparati kadiak",
+      "Aparati respirator",
+      "Aparati i SNQ"
+    ],
+    "correct": 2,
+    "explanation": "Aparati respirator preket në pothuajse 90% të rasteve me fibrozë cistike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-170",
+    "question": "Cila nuk bën pjesë në shenjat e astmës bronkiale?",
+    "answers": [
+      "kolla e thatë",
+      "Vështirësi në frymëmarrje",
+      "Fishkëllima në ekspirim",
+      "Urinim i pavullnetshëm"
+    ],
+    "correct": 3,
+    "explanation": "Urinimi i pavullnetshëm nuk është shenjë e astmës bronkiale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-171",
+    "question": "Dhënia e glucideve ndihmon në:",
+    "answers": [
+      "Kursimin e protëinave të organizmit.",
+      "Pakësimin e rezervave të glikogjenit.",
+      "Prodhimin e protëinave dhe glikogjenit.",
+      "Eliminimin e protëinave dhe glikogjenit."
+    ],
+    "correct": 0,
+    "explanation": "Karbohidratet sigurojnë energji, duke kursyer proteinat e organizmit nga përdorimi si burim energjie."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-172",
+    "question": "Fëmijët me kequshqyerje rrezikojnë:",
+    "answers": [
+      "Nga plagët e dekubituseve.",
+      "Nga plagët e kavitëtit oral.",
+      "Nga plagët e narinës.",
+      "Nga plagët të lobi i veshit."
+    ],
+    "correct": 0,
+    "explanation": "Kequshqyerja rrit riskun për ulçera dekubitale për shkak të humbjes së masës muskulare/dhjamore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-173",
+    "question": "Gjatë vitit të parë të jetës, fëmija duhet të marrë Vitaminë D:",
+    "answers": [
+      "1000-1200UI në ditë.",
+      "2000-2200UI në ditë.",
+      "2500-2800UI në ditë.",
+      "2800-3000UI në ditë."
+    ],
+    "correct": 0,
+    "explanation": "Doza standarde profilaktike e vitaminës D tek foshnjat është 400 UI/ditë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-174",
+    "question": "Tetania shfaqet atëherë kur niveli i kalciumit serik:",
+    "answers": [
+      "Ulet nën 7-7.5mg%.",
+      "Ngrihet mbi 7-7.5mg.",
+      "Ngrihet mbi 7-8.5mg.",
+      "Ngrihet mbi 8.5-9mg."
+    ],
+    "correct": 0,
+    "explanation": "Tetania shfaqet kur kalciumi serik bie nën 7-7.5mg%."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-175",
+    "question": "Ç'është Ketoacidoza diabetike?",
+    "answers": [
+      "Shtim i theksuar i insulinës.",
+      "Mungesë e theksuar e insulinës.",
+      "Pakësim i kalciumit.",
+      "Pakësim i elektrolitëve."
+    ],
+    "correct": 1,
+    "explanation": "Ketoacidoza diabetike shkaktohet nga mungesa e theksuar e insulinës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-176",
+    "question": "Dhimbjet e barkut gjithmonë kanë të bëjnë me problem kirurgjikal:",
+    "answers": [
+      "Është pohim i vërtëtë.",
+      "Nuk është i vërtëtë.",
+      "Jo gjithmonë.",
+      "Gjithmonë."
+    ],
+    "correct": 1,
+    "explanation": "Pohimi nuk është i vërtetë; dhimbjet e barkut mund të kenë shumë shkaqe jo-kirurgjikale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-177",
+    "question": "Ç'rregullimet kryesore të tretjes janë:",
+    "answers": [
+      "Izotonik",
+      "Hipotonik",
+      "Hipertonik",
+      "Entëriti"
+    ],
+    "correct": 3,
+    "explanation": "Enteriti është çrregullimi kryesor tretës (sëmundja), ndërsa opsionet e tjera janë tipe dehidrimi që rezultojnë prej tij."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-178",
+    "question": "Shkallët e dehidrimit janë:",
+    "answers": [
+      "I lehtë 5%;mesatar10%;i rëndë15%.",
+      "I lehtë 10%;mesatar 15%;i rëndë20%.",
+      "I lehtë 15%;mesatar20%;i rëndë 25%.",
+      "I lehtë 20%;mesatar25%;i rëndë 30%."
+    ],
+    "correct": 0,
+    "explanation": "Klasifikimi standard: dehidrim i lehtë ~5%, mesatar ~10%, i rëndë mbi 10% të peshës trupore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-179",
+    "question": "Faktorët që përcaktojnë vendosjen e trupave të huaj bronkiale janë:",
+    "answers": [
+      "Adaptim jo i mirë me kalibrin e bronkut.",
+      "Mungesë mprehtësie që pengon zhytjen e tij.",
+      "Tkurrja totale.",
+      "Edema reaksionale e bronkut."
+    ],
+    "correct": 1,
+    "explanation": "Mungesa e mprehtësisë që pengon zhytjen e mëtejshme të trupit të huaj është faktor kryesor i vendosjes së tij në bronk."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-180",
+    "question": "Trupat e huaj në trake manifestohen:",
+    "answers": [
+      "Vështirësi në frymëmarrje.",
+      "Mungesë kolle.",
+      "Skuqje të fytyrës.",
+      "Frymëmarrje normale."
+    ],
+    "correct": 0,
+    "explanation": "Trup i huaj në trake shkakton vështirësi të theksuar në frymëmarrje."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-181",
+    "question": "Nëse bronkoskopia rigide dështon:",
+    "answers": [
+      "Është i nevojshëm trajtimi kirurgjikal.",
+      "Nuk është i nevojshëm trajtimi kirurgjikal.",
+      "Përdoren mënyra të tjera.",
+      "Nuk ekzistojnë mënyra të tjera."
+    ],
+    "correct": 0,
+    "explanation": "Dështimi i bronkoskopisë rigide kërkon ndërhyrje kirurgjikale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-182",
+    "question": "Ç'është epistaksis?",
+    "answers": [
+      "Është gjakrrjedhja nga hundët.",
+      "Është gjakrrjedhja nga goja.",
+      "Është gjakrrjedhja nga veshët.",
+      "Është mpiksja e gjakut."
+    ],
+    "correct": 0,
+    "explanation": "Epistaksis është gjakrrjedhje nga hundët."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-183",
+    "question": "Virusi respirator sincicial është:",
+    "answers": [
+      "shkaku kryesor në 70% të rasteve.",
+      "Shkaku kryesor në 50% të rastëve.",
+      "Nuk është shkak kryesor të bronkoliti.",
+      "Nuk ekziston fare si mundësi."
+    ],
+    "correct": 0,
+    "explanation": "VRS është shkaktari kryesor i bronkiolitit në mbi 50% të rasteve."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-184",
+    "question": "Matja e gazeve në gjak është e rëndësishme:",
+    "answers": [
+      "Për të tëstuar influencën e tyre.",
+      "Për mbulimin e agjentit etiologjik.",
+      "Për të gjykuar gravitëtin e sëmundjes.",
+      "Për kodifikimin e tyre."
+    ],
+    "correct": 2,
+    "explanation": "Gazanaliza e gjakut ndihmon në vlerësimin e gravitetit të sëmundjes respiratore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-185",
+    "question": "Bronkopneumonia:",
+    "answers": [
+      "Takohet në të gjitha moshat.",
+      "Takohet në moshën e tretë.",
+      "Takohet në adoleshencë.",
+      "Takohet në parashkollorë."
+    ],
+    "correct": 0,
+    "explanation": "Bronkopneumonia takohet në të gjitha moshat, megjithëse më shpesh te fëmijët e vegjël."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-186",
+    "question": "Mjekimi specifik i astmës:",
+    "answers": [
+      "Vitaminat.",
+      "Tirotoksikoza.",
+      "Acidet.",
+      "Bronkodilatatorët."
+    ],
+    "correct": 3,
+    "explanation": "Bronkodilatatorët janë mjekimi specifik kryesor i astmës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-187",
+    "question": "Disavantazhi i aeorozolit është:",
+    "answers": [
+      "Medikamentët nuk absorbohen me shpejtësi.",
+      "Fëmija mund të kërkojë administrimin e tij shumë shpesh.",
+      "Medikamentët veprojnë me shpejtësi.",
+      "Minimizon efektët e përgjithshme."
+    ],
+    "correct": 1,
+    "explanation": "Disavantazhi i aerosolit është nevoja për administrim të shpeshtë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-188",
+    "question": "Ç'është hidroklortiaziti dhe përse përdoret?",
+    "answers": [
+      "Është diuretik dhe përdoret për të ulur edemën.",
+      "Është vitaminë dhe përdoret për rritje rezistence.",
+      "Është antidepresiv dhe përdoret për gjendjet depresive.",
+      "Është atropine dhe përdoret për relaksimin e muskulaturës së pilorit."
+    ],
+    "correct": 0,
+    "explanation": "Hidroklortiazidi është diuretik, përdoret për të rritur diurezën."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-189",
+    "question": "Procesi i kujdesjeve në pediatri përfshin:",
+    "answers": [
+      "Moskryerja e ekzaminimeve fizike.",
+      "Vendosjen e diagnozës.",
+      "Mjekimi i menjëhershëm.",
+      "Zbatimi i planeve të kujdesjeve."
+    ],
+    "correct": 3,
+    "explanation": "Procesi infermieror në pediatri përfshin zbatimin e planeve të kujdesit."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-190",
+    "question": "Synimi i kujdesjeve infermierore është:",
+    "answers": [
+      "Të bëjë të mundur që fëmija të rritet.",
+      "Të krijojë kushte për pranim.",
+      "Të plotësohet në mirëqenien e vet.",
+      "Të kujdeset për krijimin e figurës së vet."
+    ],
+    "correct": 0,
+    "explanation": "Synimi kryesor i kujdesit infermieror pediatrik është të mundësojë rritjen e shëndetshme të fëmijës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-191",
+    "question": "Analizat që kryhen tek i porsalinduri prematur:",
+    "answers": [
+      "Gjak komplet, gjak për glicemi.",
+      "Analize fecesh, urinë.",
+      "Prova e absorvimit.",
+      "Të gjitha analizat e mundshme."
+    ],
+    "correct": 3,
+    "explanation": "Te prematuri kryhet një panel i gjerë analizash sipas nevojës klinike."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-192",
+    "question": "Vlerësimi për veten i përket:",
+    "answers": [
+      "Gjykimit personal.",
+      "Gjykimit përgjithësues.",
+      "Gjykimit asnjanës.",
+      "Gjykimit pa subjekt."
+    ],
+    "correct": 0,
+    "explanation": "Vetëvlerësimi është një gjykim personal, subjektiv."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-193",
+    "question": "Për të parandaluar pasojat e ftohjes:",
+    "answers": [
+      "Prematuri vendoset në inkubator.",
+      "Në një dhomë sido që të jetë.",
+      "I vishen rroba të trasha.",
+      "Tëmperatura e dhomës të jetë sa më e lartë."
+    ],
+    "correct": 0,
+    "explanation": "Prematuri vendoset në inkubator për të parandaluar humbjen e nxehtësisë trupore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-194",
+    "question": "Shpenzimi minimal i O2 ndodh kur temperatura sipërfaqësore e lëkurës është:",
+    "answers": [
+      "36.5c.",
+      "36.8c.",
+      "37c.",
+      "37.2c."
+    ],
+    "correct": 0,
+    "explanation": "Shpenzimi minimal i oksigjenit ndodh në mjedis termik neutral, rreth 36.5°C temperaturë e lëkurës."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-195",
+    "question": "Te kujdesjet për lëkurën e fëmijës këshillohet:",
+    "answers": [
+      "Përdorimi i sapunëve.",
+      "Përdorimi i locioneve alkaline.",
+      "Çdo lloj solucioni larës.",
+      "Jo çdo lloj solucioni."
+    ],
+    "correct": 3,
+    "explanation": "Për lëkurën e fëmijës nuk këshillohet përdorimi i çdo lloj solucioni larës, pa përzgjedhje."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-196",
+    "question": "Nevojat themelore të fëmijës:",
+    "answers": [
+      "Nevojat e jetës së përditshme.",
+      "Ushqimi dhe uji.",
+      "Mbajtja afër.",
+      "Ajër i pastër."
+    ],
+    "correct": 0,
+    "explanation": "Nevojat themelore të fëmijës janë nevojat e jetës së përditshme: ushqim, gjumë, higjienë dhe afeksion."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-197",
+    "question": "Për të parandaluar fleksionin e qafës:",
+    "answers": [
+      "Vendoset një jastëk nën shpatull.",
+      "Nuk vendoset jastëk nën shpatull.",
+      "Vendoset një jastëk mbi shpatull",
+      "Nuk vendoset jastëk mbi shpatull."
+    ],
+    "correct": 0,
+    "explanation": "Një jastëk nën shpatull mban qafën në pozicion të hapur, duke parandaluar fleksionin."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-198",
+    "question": "Nëse ndërpritët ushqyerja me gji:",
+    "answers": [
+      "Ulet niveli serik i bilirubinës.",
+      "Ngrihet niveli serik i bilirubinës.",
+      "Niveli serik i bilirubinës s'lëviz.",
+      "Niveli serik i bilirubinës ngrihet dhe ulet."
+    ],
+    "correct": 0,
+    "explanation": "Ndërprerja e përkohshme e ushqyerjes me gji ul nivelin serik të bilirubinës (ikteri i qumështit të gjirit)."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-199",
+    "question": "Me rritjen e moshës së shtatzënisë:",
+    "answers": [
+      "Frekuenca respiratore ulet.",
+      "Frekuenca respiratore ngrihet.",
+      "Frekuenca respiratore s'pëson ndryshim.",
+      "Ndryshimet respiratore janë të pakonsiderushme."
+    ],
+    "correct": 1,
+    "explanation": "Me përparimin e shtatzanisë, frekuenca respiratore e nënës rritet lehtë."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-200",
+    "question": "Disa nga faktorët që shkaktojnë asfiksinë:",
+    "answers": [
+      "Mosha e nënës, e shtatzënisë.",
+      "Lindjet në kohë, barrë e rregullt.",
+      "Mospërdorimi i medikamentëve.",
+      "Problemet psikologjike."
+    ],
+    "correct": 0,
+    "explanation": "Mosha e nënës dhe komplikimet e shtatzanisë janë faktorë rreziku për asfiksi neonatale."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-201",
+    "question": "Fototerapia e zgjatur ka efekte:",
+    "answers": [
+      "Parësore.",
+      "Dytësore.",
+      "Parësore-Dytësore.",
+      "Të pariparueshme."
+    ],
+    "correct": 2,
+    "explanation": "Fototerapia e zgjatur ka efekte njëkohësisht parësore dhe dytësore."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-202",
+    "question": "Shenjat e ethes tek i porsalinduri:",
+    "answers": [
+      "Lëkurë e thatë.",
+      "Shtim të urinimit.",
+      "Fytyra dhe trupi tregojnë ngritje në peshë.",
+      "Ulje të temperaturës."
+    ],
+    "correct": 0,
+    "explanation": "Lëkura e thatë është shenjë e njohur e ethes/dehidrimit te i porsalinduri."
+  },
+  {
+    "id": "mami-pediatri-puerikulture-neonatologji-203",
+    "question": "Traumat e indeve të buta shkaktohen:",
+    "answers": [
+      "Kur ka disproporcion cefalopelvik",
+      "kur nuk ka disproporcion pelvik",
+      "Kur ka proporcion cefalopelvik",
+      "Si pasojë e dëmtimeve të ndryshme."
+    ],
+    "correct": 0,
+    "explanation": "Disproporcioni cefalopelvik rrit riskun e traumave të indeve të buta gjatë lindjes."
+  }
+]

@@ -1,0 +1,2141 @@
+[
+  {
+    "id": "mami-obstetrike-gjinekologji-1-001",
+    "question": "Cili nga këto hormone nuk prodhohet nga placenta gjatë barrës?",
+    "answers": [
+      "Gonadotropina korionike humane (hCG)",
+      "Hormoni laktogjen placentar",
+      "Prolaktina",
+      "Progesteroni"
+    ],
+    "correct": 2,
+    "explanation": "Prolaktina prodhohet nga hipofiza, jo nga placenta."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-002",
+    "question": "Cili nga këto hormone përdoret për diagnozën kimike të barrës?",
+    "answers": [
+      "Gonafotropina korionike humane ( hCG)",
+      "Prolaktina",
+      "Progesteroni",
+      "Estradioli"
+    ],
+    "correct": 1,
+    "explanation": "Prolaktina prodhohet nga hipofiza, jo nga placenta."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-003",
+    "question": "Cili nga hormonet e mëposhtme siguron zhvillimin dhe mbajtjen e barrës?",
+    "answers": [
+      "Gonafotropina korionike humane ( hCG)",
+      "Prolaktina",
+      "Progesteroni",
+      "Estradioli"
+    ],
+    "correct": 2,
+    "explanation": "Progesteroni siguron mbajtjen dhe zhvillimin e vazhdueshëm të barrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-004",
+    "question": "Cili nga hormonet e meposhtme është tregues i mireqenies së unitetit materno-feto-placentar?",
+    "answers": [
+      "Gonafotropina korionike humane ( hCG)",
+      "Prolaktina",
+      "Progesteroni",
+      "Estradioli"
+    ],
+    "correct": 3,
+    "explanation": "Estradioli/estriol placentar shërben si tregues i mirëqenies së njësisë feto-placentare."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-005",
+    "question": "Cila është frekuenca e rrahjeve të zemres fetale RZF?",
+    "answers": [
+      "70-80/min",
+      "90-110/min",
+      "120-160/min",
+      "> 160/min"
+    ],
+    "correct": 2,
+    "explanation": "Frekuenca normale e rrahjeve të zemrës fetale është 120-160/min."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-006",
+    "question": "Cila nga këto mundësi nuk ështe e pranishme në javën e 12-të të shtatzanisë?",
+    "answers": [
+      "Amenorea",
+      "Hormoni bhCG në gjak",
+      "Rrahjet e zemres fetale në ekografi",
+      "Levizjet fetale të ndjera nga nena"
+    ],
+    "correct": 3,
+    "explanation": "Lëvizjet fetale ndjehen zakonisht më vonë (rreth javës 16-20), jo në javën 12."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-007",
+    "question": "Kordoni umbilikal përmban:",
+    "answers": [
+      "Dy vena dhe një arterie",
+      "Dy arterie dhe dy vena",
+      "Dy arterie dhe një venë",
+      "Nje arterie dhe një venë"
+    ],
+    "correct": 2,
+    "explanation": "Kordoni umbilikal përmban dy arterie dhe një venë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-008",
+    "question": "Volumi i gjakut ne barrë rritet me:",
+    "answers": [
+      "10-20 %",
+      "30-40 %",
+      "50-60 %",
+      "70-80 %"
+    ],
+    "correct": 1,
+    "explanation": "Volumi i gjakut rritet me rreth 30-40% gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-009",
+    "question": "Diametri më i madh i kokës fetale është:",
+    "answers": [
+      "Suboksipital",
+      "Oksipito-mental",
+      "Biparietal",
+      "Oksipito-frontal"
+    ],
+    "correct": 1,
+    "explanation": "Diametri oksipito-mental është diametri më i madh i kokës fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-010",
+    "question": "Në cilen javë te shtatzanisë fillojnë të dallohen gjenitalet e jashtme fetale me ekografi:",
+    "answers": [
+      "Javen e 8-te",
+      "Javen e 9-te",
+      "Javen e 10-te",
+      "Javen e 11-te"
+    ],
+    "correct": 3,
+    "explanation": "Gjenitalet e jashtme fetale mund të dallohen me ekografi zakonisht rreth javës 11."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-011",
+    "question": "Nje grua që nuk ka lindur e që nuk ka ngelur ndonjeherë me barrë quhet:",
+    "answers": [
+      "Nulligravida",
+      "Nullipare",
+      "Primi gravida",
+      "Primipare"
+    ],
+    "correct": 0,
+    "explanation": "Nulligravida është gruaja që nuk ka qenë kurrë shtatzënë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-012",
+    "question": "Si quhet pariteti korrekt i nje gruaje qe ka patur nje abort ne tremujorin e pare, nje barre ektopike dhe nje barre gemelare ne terme:",
+    "answers": [
+      "Nullipare",
+      "Nulligravide",
+      "Primipare",
+      "Multipare (pluripare)"
+    ],
+    "correct": 2,
+    "explanation": "Vetëm lindja binjake në terme llogaritet si një lindje, kështu që gruaja klasifikohet primipare."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-013",
+    "question": "Fraktura me e shpeshte kockore gjate lindjes se fetusit eshte:",
+    "answers": [
+      "E femurit",
+      "E kraniumit",
+      "E humerusit",
+      "E klavikules"
+    ],
+    "correct": 3,
+    "explanation": "Fraktura e klavikulës është më e shpeshta gjatë lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-014",
+    "question": "Cila nga substancat e meposhtme clirohet ose është pergjegjëse për prodhimin e qumështit të gjirit (laktogjenezen)?",
+    "answers": [
+      "Estrogjeni",
+      "Progesteroni",
+      "Oksitocina",
+      "Prolaktina"
+    ],
+    "correct": 3,
+    "explanation": "Prolaktina është përgjegjëse për prodhimin e qumështit (laktogjenezë)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-015",
+    "question": "Cila nga substancat e mëposhtme clirohet ose është pergjegjese për rrjedhjen (daljen) e qumështit të gjirit?",
+    "answers": [
+      "Estrogjeni",
+      "Progesteroni",
+      "Oksitocina",
+      "Prostaglandinat"
+    ],
+    "correct": 2,
+    "explanation": "Oksitocina është përgjegjëse për rrjedhjen/daljen e qumështit (let-down reflex)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-016",
+    "question": "Cila nga substancat e mëposhtme është pergjegjëse për involucionin uterin?",
+    "answers": [
+      "Estrogjeni",
+      "Progesteroni",
+      "Oksitocina",
+      "Prostaglandinat"
+    ],
+    "correct": 2,
+    "explanation": "Oksitocina nxit kontraksionet që shkaktojnë involucionin uterin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-017",
+    "question": "Cila nga pohimet e mëposhtme është e saktë për kontracepsionin pas lindjes?",
+    "answers": [
+      "Duhet filluar menjeherë tek gruaja që nuk ushqen bebin me gji",
+      "Nuk është i rendesishem tek gruaja që ushqen bebin me gji",
+      "Nuk është i rendesishëm deri në shfaqjen e menstruacioneve të para",
+      "Nuk është i nevojshëm për një muaj pas Sectio Cezarea"
+    ],
+    "correct": 0,
+    "explanation": "Kontracepsioni duhet filluar menjëherë tek gratë që nuk ushqejnë me gji, pasi ovulacioni mund të rifillojë shpejt."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-018",
+    "question": "Cila nga këto paraqitje i referohet paraqitjes me koke të fetusit?",
+    "answers": [
+      "Podalike",
+      "Cefalike",
+      "Oblike",
+      "Transversus"
+    ],
+    "correct": 1,
+    "explanation": "Paraqitja cefalike i referohet paraqitjes me kokë të fetusit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-019",
+    "question": "Ne cilën nga situatat e mëposhtme mund të pohohet se ka ndodhur aplikimi (fiksimi) i pjesës prezantuse?",
+    "answers": [
+      "Koka fetale është në pelvis",
+      "Diametri biparietal i kokës fetale ka kaluar planin e hyrjes pelvike",
+      "Verteksi është në pozicion transvers",
+      "Koka fetale është flektuar"
+    ],
+    "correct": 1,
+    "explanation": "Fiksimi ndodh kur diametri biparietal ka kaluar planin e hyrjes pelvike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-020",
+    "question": "Cila nga keto substanca do i mungojë një gruaje vegjetariane gjatë barrës?",
+    "answers": [
+      "Kalciumi",
+      "Acidi folik",
+      "Hekuri",
+      "Vitamina B12"
+    ],
+    "correct": 3,
+    "explanation": "Vitamina B12 gjendet kryesisht në ushqime shtazore, prandaj mungon shpesh te vegjetarianet."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-021",
+    "question": "Cila nga indikacionet dietetike të mëposhtme NUK është e duhura për gruan shtatzënë?",
+    "answers": [
+      "Ulja e perdorimit të kripës",
+      "Shtesa e kalciumit",
+      "Shtesa e hekurit",
+      "Shtimi i acidit folik"
+    ],
+    "correct": 0,
+    "explanation": "Ulja rutinë e kripës nuk është indikacion i përgjithshëm i domosdoshëm në shtatzaninë normale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-022",
+    "question": "Nje grua ne shtatzanine e pare te saj pi nje pakete cigare ne dite. Ne ekzaminimin ekografik te tremujorit te trete, per se duhet te kerkojme:",
+    "answers": [
+      "Vellimin e likidit amniotik",
+      "Rritjen fetale",
+      "Anomalite fetale",
+      "Levizjet fetale"
+    ],
+    "correct": 1,
+    "explanation": "Duhanpirja shoqërohet me rritje të kufizuar fetale (IUGR), prandaj kontrollohet rritja fetale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-023",
+    "question": "Cili nga ekzaminimet e mëposhtme nuk është test i zakonshem gjatë nje barre pa komplikime?",
+    "answers": [
+      "Dozimi në serum i bhCG",
+      "Hemoglobina",
+      "Testet imunologjike",
+      "Pap testi"
+    ],
+    "correct": 3,
+    "explanation": "Pap testi nuk kryhet rutinë gjatë çdo shtatzanie të pakomplikuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-024",
+    "question": "Cili nga kushtet e mëposhtme NUK lidhet me një shtim të riskut të sëmundshemrisë perinatale?",
+    "answers": [
+      "Kushtet e dobëta socioekonomike",
+      "Mosha e nënës nën 20 vj",
+      "Duhanpirja",
+      "Ushtrimet fizike"
+    ],
+    "correct": 3,
+    "explanation": "Ushtrimet fizike të moderuara nuk rrisin riskun e sëmundshmërisë perinatale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-025",
+    "question": "Cili nga kushtet e meposhtme Nuk lidhet me moshen e nenes ne 20 vjetor?",
+    "answers": [
+      "Peshe e ulet ne lindje",
+      "Vdekje fetale",
+      "Diskinezi uterine",
+      "Anomali gjenetike te konceptimit"
+    ],
+    "correct": 3,
+    "explanation": "Anomalitë gjenetike lidhen më shumë me moshën e avancuar amtare, jo me moshën e re."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-026",
+    "question": "Cili nga pohimet e meposhtme Nuk eshte korrekt per faktoret e riskut ne barre?",
+    "answers": [
+      "Nje grua me nje barre ektopike ne anamneze ka nje risk me te shtuar per nje barre tjeter ektopike",
+      "Nje pluripare e thelle ka nje risk te shtuar per hemoragji pas lindjes",
+      "Risku i partusit prematur rritet me rritjen e numrit te lindjeve premature ne anamneze",
+      "Nje lindje e mepareshme cezariane perben nje indikacion absolut per nje lindje tjeter cezariane"
+    ],
+    "correct": 3,
+    "explanation": "Lindja e mëparshme cezariane NUK përbën indikacion absolut për një cezarian tjetër (VBAC shpesh e mundur)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-027",
+    "question": "Në nje laceracion vulvo-vaginal te gradës se tretë, cila strukturë nuk preket:",
+    "answers": [
+      "Sfinkteri anal",
+      "Mukoza rektale",
+      "Perineumi",
+      "Muskujt perinealë"
+    ],
+    "correct": 1,
+    "explanation": "Mukoza rektale preket vetëm në gradën IV, jo në gradën III."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-028",
+    "question": "Në një laceracion vulvo-vaginal të grades së dyte, cila strukturë nuk preket:",
+    "answers": [
+      "Sfinkteri anal",
+      "Perineumi",
+      "Muskujt perinealë",
+      "Fascia e muskujve perinealë"
+    ],
+    "correct": 0,
+    "explanation": "Sfinkteri anal preket vetëm nga grada III e sipër, jo në gradën II."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-029",
+    "question": "Cila nga pasojat e meposhtme nuk lidhet me epiziotomine mediolaterale?",
+    "answers": [
+      "Veshtiresia e riparimit",
+      "Nganjehere veshtiresi per tu sheruar",
+      "Dispareuni me rate",
+      "Shpesh arrin sfinkterin anal dhe rektumin"
+    ],
+    "correct": 3,
+    "explanation": "Epiziotomia mediolaterale pikërisht synon të shmangë arritjen te sfinkteri anal/rektumi (ndryshe nga ajo mediane)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-030",
+    "question": "Cila nga pohimet e mëposhtme nuk është karakteristike për kontraksionet uterine në fazen aktive të lindjes?",
+    "answers": [
+      "Arrijnë një presion 40 mm Hg",
+      "Shkaktojnë dilatacion të qafes së mitrës",
+      "Percaktojnë trashesinë e segmentit uterin inferior",
+      "Vijnë cdo 2-4 min"
+    ],
+    "correct": 2,
+    "explanation": "Kontraksionet e fazës aktive nuk 'përcaktojnë trashësinë' e segmentit inferior si funksion parësor; ky përshkrim nuk i përket drejtpërdrejt vetive tipike të kontraksioneve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-031",
+    "question": "Barra me moshe më shumë se 42 jave quhet:",
+    "answers": [
+      "preterm",
+      "premature",
+      "ne term",
+      "serotine"
+    ],
+    "correct": 3,
+    "explanation": "Shtatzania mbi 42 javë quhet serotine (postterm)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-032",
+    "question": "Cila nga keto situata nuk lidhet me barren serotine (post term)?",
+    "answers": [
+      "Perqendrimi i pamjaftueshem i oksitocines",
+      "Ngjyrosja e likidit amniotik",
+      "Incidence e rritur e interventeve",
+      "Makrosomia fetale"
+    ],
+    "correct": 0,
+    "explanation": "Përqendrimi i oksitocinës nuk është lidhje e njohur me barrën serotine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-033",
+    "question": "Sindroma e postmaturit (serotinit) perfshin gjithe mundesite e meposhtme, pervec:",
+    "answers": [
+      "Rritja e trashësise së indit asipoz subkutan",
+      "Lëkura e rrudhosur, që deskuamohet",
+      "Gjurme mekoniumi mbi lekure, membranë e kordon",
+      "Thonj të gjatë"
+    ],
+    "correct": 0,
+    "explanation": "Në fëmijën postmatur, indi adipoz subkutan zvogëlohet, nuk rritet."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-034",
+    "question": "Elementi kryesor në vleresimin e barres përtej termit është:",
+    "answers": [
+      "Ekografia",
+      "Percaktimi real kur ka ndodhur barra",
+      "Monitorimi i rrahjeve te zemrës fetale",
+      "Matja e likidit amniotik"
+    ],
+    "correct": 1,
+    "explanation": "Përcaktimi i saktë i moshës gestacionale (kur ka ndodhur konceptimi) është elementi kryesor për diagnostikimin e barrës post-term."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-035",
+    "question": "Nese testi i glicemise pas ngarkeses me 50 gr sheqer, tek nje grua shtatzane me nje feto morto in utero ne anamneze, eshte 140, si do vazhdohet me tej:",
+    "answers": [
+      "Nuk ka nevoje per ekzaminime te metejshme",
+      "Diete me 2000 kalori ne dite",
+      "Nje test standart te tolerances se sheqerit",
+      "Vleresimin e glukozurise ne shtepi"
+    ],
+    "correct": 2,
+    "explanation": "Vlerë ≥140 në testin screening kërkon konfirmim me testin standard të tolerancës së glukozës (OGTT)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-036",
+    "question": "Dyshohet per diabet në barrë në të gjitha keto raste, pervec:",
+    "answers": [
+      "Anamnezë familjare për diabet",
+      "Femijë makrosomë",
+      "Glukozuri që persiston",
+      "Aborte habituale"
+    ],
+    "correct": 3,
+    "explanation": "Abortet habituale nuk janë tregues klasik screening për diabet gestacional."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-037",
+    "question": "I porsalinduri nga nëna diabetike NUK rrezikohet nga:",
+    "answers": [
+      "Hipoglicemia",
+      "Hiperglicemia",
+      "Hipocalcemia",
+      "Makrosomia"
+    ],
+    "correct": 1,
+    "explanation": "I porsalinduri nga nëna diabetike rrezikohet nga hipoglicemia pas lindjes, jo hiperglicemia."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-038",
+    "question": "Në rastin e vendosjes së diagnoses së diabetit gestacional, cila nga rekomandimet e mëposhtme nuk është i duhuri?",
+    "answers": [
+      "Dieta e pershtatshme",
+      "Monitorimi i glicemisë",
+      "Fillimi i insulinës në rast të hiperglicemisë që persiston",
+      "Ndërprerja e barrës"
+    ],
+    "correct": 3,
+    "explanation": "Diabeti gestacional nuk kërkon ndërprerje të barrës; menaxhohet me dietë/insulinë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-039",
+    "question": "Cila nga shenjat e meposhtme evokon nje kardiopati ne shtatzani?",
+    "answers": [
+      "Edema e gjymtyreve te poshtme",
+      "Zhurma sistolike",
+      "Shtimi i sforcos respiratore",
+      "Aritmia"
+    ],
+    "correct": 3,
+    "explanation": "Aritmia është shenjë alarmante që evokon kardiopati, ndryshe nga gjetjet e tjera që janë të zakonshme në shtatzani normale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-040",
+    "question": "Cila nga situatat e meposhtme NUK shton riskun e imunizimit Rhezus?",
+    "answers": [
+      "Menyra e lindjes",
+      "Gjakosjet vaginale",
+      "Preeclampsia",
+      "Mosha e nenes"
+    ],
+    "correct": 3,
+    "explanation": "Mosha e nënës nuk konsiderohet faktor risku klasik për imunizimin Rh."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-041",
+    "question": "Në një shtatzenë me preekelampsi, cila nga anomalitë e meposhtme gjendet më shpesh në urine?",
+    "answers": [
+      "Proteinuria",
+      "Hematuria",
+      "Glukozuria",
+      "Ketonuria"
+    ],
+    "correct": 0,
+    "explanation": "Proteinuria është anomalia më e shpeshtë e urinës në preeklampsi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-042",
+    "question": "Cila nga këto gjendje NUK shërben si faktor risku per hipertensionin gestacional?",
+    "answers": [
+      "Barra multiple",
+      "Hipertensioni kronik",
+      "Mosha më e vogel se 20 vj",
+      "Diabeti"
+    ],
+    "correct": 2,
+    "explanation": "Mosha nën 20 vjeç nuk konsiderohet faktor risku klasik për HTA gestacionale krahasuar me faktorët e tjerë të listuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-043",
+    "question": "Cila nga shenjat ne vazhdim NUK eshte shenje e hipertensionit gestacional te rrepte?",
+    "answers": [
+      "Oligohidramnion",
+      "Proteinuria > 3 gr/24 ore",
+      "Trombocitopenia",
+      "Rritja e nivelit te kreatinines"
+    ],
+    "correct": 0,
+    "explanation": "Oligohidramnioni nuk bën pjesë në kriteret klasike të ashpërsisë së HTA gestacionale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-044",
+    "question": "Eklampsia karakterizohet nga:",
+    "answers": [
+      "Dhimbje koke e forte dhe e qendrueshme",
+      "Hiperrefleksibilitet",
+      "Konvulsione te tipit grand mal",
+      "Njolla para syve"
+    ],
+    "correct": 2,
+    "explanation": "Eklampsia përkufizohet nga shfaqja e konvulsioneve tip grand mal mbi bazën e preeklampsisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-045",
+    "question": "Cili nga faktoret e meposhtem NUK kontribon ne zhvillimin e nje infeksioni akut te rrugeve urinare gjate barres, lindjes dhe puerperiumit?",
+    "answers": [
+      "Shtypja e uretereve ne traktin pelvik nga rritja e vellimit uterin",
+      "Rritja e tonusit dhe peristaltikes se ureters",
+      "Bakteriuria asimptomatike",
+      "Ulja e sensibilitetit te vezikes pas anestezise epidurale"
+    ],
+    "correct": 1,
+    "explanation": "Shtatzania ULT tonin/peristaltikën e ureterëve (jo e rrit), duke favorizuar stazën dhe infeksionin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-046",
+    "question": "Cili eshte mbartesi natyral i Toksoplasmozes?",
+    "answers": [
+      "Gjaku",
+      "Macja",
+      "Peshku i kontaminuar",
+      "Femijet ne moshe shkollore"
+    ],
+    "correct": 1,
+    "explanation": "Macja është mbartësi natyral i Toksoplazmozës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-047",
+    "question": "Cili eshte shkaku me i shpeshte ne rastin e lindjes premature?",
+    "answers": [
+      "Laceracioni vaginal",
+      "Polipi endocervikal",
+      "Dilatacioni cervical",
+      "Placenta previa"
+    ],
+    "correct": 2,
+    "explanation": "Dilatacioni/insuficienca cervikale është shkak i shpeshtë i lindjes premature."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-048",
+    "question": "Prematur perkufizohet nje neonat i lindur para javes:",
+    "answers": [
+      "24 te barres",
+      "34 te barres",
+      "36 te barres",
+      "40 te barres"
+    ],
+    "correct": 2,
+    "explanation": "Prematuri përkufizohet si lindje para javës 37, mbylljen më të afërt këtu përfaqëson opsioni 36 javë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-049",
+    "question": "Frenuesit e sintezes se prostaglandinave nuk perdoren pergjithesisht si tokolitike, sepse:",
+    "answers": [
+      "Jane jo efektive",
+      "Jane shume te kushtueshem",
+      "Shkaktojne acidoze laktike",
+      "Shkaktojne mbylljen e parakohshme te duktusit botalli"
+    ],
+    "correct": 3,
+    "explanation": "AINS (frenues të prostaglandinave) rrezikojnë mbylljen e parakohshme të duktus arteriozit (Botalit)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-050",
+    "question": "Cili nga medikamentet e meposhtme NUk përdoret per nderprerjen e aktivitetit te parakohshem te lindjes:",
+    "answers": [
+      "Sulfati i magneziumit",
+      "Fenobarbitali",
+      "Ritodrina",
+      "Terbutalina"
+    ],
+    "correct": 1,
+    "explanation": "Fenobarbitali nuk është tokolitik, ndryshe nga magnezi, ritodrina, terbutalina."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-051",
+    "question": "Cili nga elementet e meposhtem nuk ben pjese ne profiling biofizik fetal?",
+    "answers": [
+      "Stress test",
+      "Levizjet respiratore fetale",
+      "Tonusi fetal",
+      "Levizjet fetale"
+    ],
+    "correct": 0,
+    "explanation": "Testi i stresit (kontraksion) nuk bën pjesë në profilin biofizik fetal (BPP), i cili përfshin NST jo-stres."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-052",
+    "question": "Ne metodat diagnostikuese joinvazive ne obstetrike NUK ben pjese:",
+    "answers": [
+      "Ekografia",
+      "Stress test",
+      "Amniocenteza",
+      "Profili biofizik"
+    ],
+    "correct": 2,
+    "explanation": "Amniocenteza është metodë invazive, jo joinvazive."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-053",
+    "question": "Abort habitual quhet prania e njepasnjeshme e:",
+    "answers": [
+      "Dy aborteve spontane",
+      "Tre aborteve spontane",
+      "Kater aborteve sponatene",
+      "Me shume se 5 aborte spontane"
+    ],
+    "correct": 1,
+    "explanation": "Aborti habitual përkufizohet si tre ose më shumë aborte spontane të njëpasnjëshme."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-054",
+    "question": "Placenta previa eshte vendosja e placentes ne:",
+    "answers": [
+      "1/3 e poshtme te kavitetit uterin",
+      "1/3 e siperme te kavitetit uterin",
+      "Fundus uteri",
+      "Murin e perpareshem uterin"
+    ],
+    "correct": 0,
+    "explanation": "Placenta previa është vendosje e placentës në 1/3 e poshtme të kavitetit uterin, duke mbuluar cerviksin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-055",
+    "question": "Cilat nga karakteristikat e meposhtme nuk i perket distaco placente?",
+    "answers": [
+      "Gjaku eshte i erret me koagula",
+      "Intervali mes kontraksioneve eshte me i shkurter se norma ose mungon",
+      "Placenta eshte e vndosur ne 1/3 e poshtme te kavitetit uretin",
+      "Distako ka lidhje me traumat abdominale dhe preekelampsine"
+    ],
+    "correct": 2,
+    "explanation": "Vendosja e placentës në 1/3 e poshtme përshkruan placenta previa, jo distakon."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-056",
+    "question": "Cili nga keto komplikacione te barres nuk eshte karakteristike per tremujorin e dyte te barres?",
+    "answers": [
+      "Lindja premature",
+      "Inkompetenca cervikale",
+      "Plasja e parakoheshme e membranave",
+      "Distako placente"
+    ],
+    "correct": 3,
+    "explanation": "Distakoja e placentës është më karakteristike për tremujorin e tretë/intrapartum sesa të dytin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-057",
+    "question": "Shkak i refluksit ezofageal eshte:",
+    "answers": [
+      "Preeklampsia",
+      "Rritja e nivelit te estrogjenit",
+      "Rritja e nivelit te progesteronit",
+      "Hernia hiatale"
+    ],
+    "correct": 2,
+    "explanation": "Progesteroni relakson sfinkterin e poshtëm ezofagial, duke shkaktuar refluks në shtatzani."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-058",
+    "question": "Cila nga situatat e meposhtme NUK eshte pasoje e ekspozimit ndaj nje agjenti teratogjen?",
+    "answers": [
+      "Vdekja",
+      "Malformimet",
+      "Vonesa e rritjes",
+      "Gemelari bizigotik"
+    ],
+    "correct": 3,
+    "explanation": "Binjaket dizigotikë kanë origjinë gjenetike/spontane, jo pasojë e ekspozimit teratogjen."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-059",
+    "question": "Cili nga organet apo lokalitetet anatomike nuk ben pjese ne organet e jashtme genitale?",
+    "answers": [
+      "Vulva",
+      "Vagina",
+      "Mons pubis",
+      "Perineumi"
+    ],
+    "correct": 1,
+    "explanation": "Vagina është organ i brendshëm gjenital, jo i jashtëm."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-060",
+    "question": "Zgjatja mesatare e ciklit menstrual është:",
+    "answers": [
+      "22 ditë",
+      "25 ditë",
+      "28 ditë",
+      "35 ditë"
+    ],
+    "correct": 2,
+    "explanation": "Cikli menstrual mesatar zgjat rreth 28 ditë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-061",
+    "question": "Ardhja e ciklit menstrual shkaktohet nga:",
+    "answers": [
+      "Clirimi i prolaktinës",
+      "Clirimi pulsatil i GnRH (hormoni clirues i gonadotropinave)",
+      "Zgjatja e ndryshueshme e fazës folikulare",
+      "Nga sinteza e progesteronit në corpus luteum"
+    ],
+    "correct": 2,
+    "explanation": "Kohëzgjatja e ciklit menstrual ndryshon kryesisht nga zgjatja e fazës folikulare; faza luteale është e qëndrueshme (rreth 14 ditë)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-062",
+    "question": "Indikatori me i mire qe pararend ovulacionin eshte:",
+    "answers": [
+      "Piku i estrogjenit",
+      "Shtimi i sekretimit te FSH",
+      "Fillimi i stimi te sekretimit te LH",
+      "Shtimi preovulator i progesteronit"
+    ],
+    "correct": 2,
+    "explanation": "Fillimi i shtimit të sekretimit të LH pararend ovulacionin (piku LH)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-063",
+    "question": "Cili nga metodat kontraceptive te meposhtme ka si mekanizem kryesor veprimi inhibimin (bllokimin) e ovulacionit?",
+    "answers": [
+      "DIU (diapozitivi intra uterin)",
+      "Mifepristoni",
+      "Pilulat e urgjences",
+      "Agonistet e GNRH"
+    ],
+    "correct": 3,
+    "explanation": "Agonistët e GnRH pengojnë ovulacionin nëpërmjet frenimit të aksit hipotalamo-hipofizar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-064",
+    "question": "Cila nga ndodhite e meposhtme NUK eshte karakteristike per fazen fertile te ciklit menstrual?",
+    "answers": [
+      "Piku i estrogjenit",
+      "Prodhimi i progesteronit",
+      "Mukusi cervikal i qarte dhe i bollshem",
+      "Ovulacioni"
+    ],
+    "correct": 1,
+    "explanation": "Prodhimi i progesteronit rritet PAS ovulacionit (faza luteale), jo gjatë dritares fertile pre-ovulatore."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-065",
+    "question": "Cila nga keto NUK paraqet mekanizem veprimi te spermicideve (kontraceptiveve kimike barriere)?",
+    "answers": [
+      "Neutralizimi i aciditetit vaginal",
+      "Shkaterrimin e spermatozoideve",
+      "Reduktimin e levizjes se spermatozoideve",
+      "Inaktivizimin e enzimave akrozomiale"
+    ],
+    "correct": 3,
+    "explanation": "Inaktivizimi i enzimave akrozomiale nuk është mekanizëm klasik i spermicideve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-066",
+    "question": "Cila nga pohimet e meposhtme nuk eshte e vertete per kontracepsionin barriere?",
+    "answers": [
+      "Mbron ndaj SST",
+      "Kerkon kontrolle mjekesore te rregullta",
+      "Pothuajse mungojne efektet anesore",
+      "Mbron nga karcinoma e qafes se mitres"
+    ],
+    "correct": 3,
+    "explanation": "Mbrojtja e drejtpërdrejtë kundër kancerit të qafës së mitrës nuk është veti e vërtetuar e metodave barriere."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-067",
+    "question": "Cila nga shenjat e mëposhtme NUK takohet në rastin e barrës ektopike (GEU)?",
+    "answers": [
+      "Dhimbje në kuadrantet e poshtme të barkut",
+      "Gjakrrjedhje vaginale ose spotting",
+      "Amenorrea",
+      "Proctoragjia (hemoragji rektale)"
+    ],
+    "correct": 3,
+    "explanation": "Proctoragjia nuk është shenjë tipike e barrës ektopike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-068",
+    "question": "Cilat nga patologjitë e mëposhteme NUK është pasoje e sëmundjes inflamatore perlvike?",
+    "answers": [
+      "Endometrioza",
+      "Barra ektopike",
+      "Aderencat pelvike",
+      "Dispareunia"
+    ],
+    "correct": 0,
+    "explanation": "Endometrioza nuk është pasojë e SIP; ka etiologji tjetër."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-069",
+    "question": "Cila nga situatat e meposhtme NUK shoqerohet me risk te shtuar per SIP?",
+    "answers": [
+      "Fillimi i kontakteve seksuale 15 vj",
+      "Nderprerje te vullnetshme te barres",
+      "Marrja e kontraceptiveve orale",
+      "Perdorimi i DIU"
+    ],
+    "correct": 2,
+    "explanation": "Kontraceptivët oralë nuk shoqërohen me rritje risku për SIP; disa studime tregojnë efekt mbrojtës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-070",
+    "question": "Cila nga metodat e mëposhtme lejon konfirmimin e diagnozes së SIP (semundja inflamatore pelvike)?",
+    "answers": [
+      "Numri i leucotive ne gjak",
+      "Kuldocenteza (punksioni i Duglas-it)",
+      "Laparaskopia",
+      "Ekografia"
+    ],
+    "correct": 2,
+    "explanation": "Laparoskopia është standardi për konfirmimin definitiv të SIP."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-071",
+    "question": "Cila nga metodat e mëposhteme NUK është e vlefshme për diagnostikimin e SIP?",
+    "answers": [
+      "Laparaskopia",
+      "Ekografia",
+      "Kuldocenetza (punksioni i Duglas-it)",
+      "Histerosalpingografia"
+    ],
+    "correct": 3,
+    "explanation": "Histerosalpingografia nuk përdoret për diagnostikimin e SIP (madje kundërindikohet në infeksion akut)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-072",
+    "question": "Cila nga theniet e me poshtme nuk perben factor favorizues per kancerin e gjirit?",
+    "answers": [
+      "Nullipariteti",
+      "Menopauza e vonshme",
+      "Kanceret e tjere te traktit gjnital",
+      "Trashegimia"
+    ],
+    "correct": 2,
+    "explanation": "Kanceret e tjera të traktit gjenital nuk konsiderohen faktor rreziku i drejtpërdrejtë madhor për kancerin e gjirit, ndryshe nga nuliparitetit, menopauza e vonshme dhe trashëgimia."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-073",
+    "question": "Lokalizimi me i shpeshte i endometriozes është:",
+    "answers": [
+      "Vezika",
+      "Apendiksi",
+      "Omentumi",
+      "Siperfaqja peritoneale pelvike"
+    ],
+    "correct": 3,
+    "explanation": "Sipërfaqja peritoneale pelvike (ovaret, ligamentet) është lokalizimi më i shpeshtë i endometriozës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-074",
+    "question": "Terapia me e përshtatshme për një grua 35 vjece që i është nenshtruar interventit kirurgjikal radikal (hysterectomia totale cum adnesis) është:",
+    "answers": [
+      "Danazoli",
+      "Kontraceptivet orale",
+      "Antiinflamatoret jo steroidiene",
+      "Terapia estrogjenike zevendesuese"
+    ],
+    "correct": 3,
+    "explanation": "Pas histerektomisë totale me heqje të adneksëve në moshën 35 vjeç ndodh menopauzë kirurgjikale; terapia zëvendësuese me estrogjene lehtëson simptomat dhe mbron kockat e zemrën."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-075",
+    "question": "Cila nga pohimet e mëposhtmet NUK sherben si teori per endometriozën?",
+    "answers": [
+      "Metaplazia e epitelit celomik",
+      "Hiperplazia endometriale",
+      "Menstruacioni retrograd",
+      "Deficiti imunologjik"
+    ],
+    "correct": 1,
+    "explanation": "Hiperplazia endometriale nuk është teori e njohur për origjinën e endometriozës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-076",
+    "question": "Cila nga terapitë e mëposhtme është e indikuar për trajtimin e endometriozës?",
+    "answers": [
+      "Agonistet e hormonit clirues të gonadotropinave (GnRH)",
+      "Progesteroni",
+      "Kontraceptivet orale",
+      "Danazoli"
+    ],
+    "correct": 1,
+    "explanation": "Ndër opsionet, progesteroni i vetëm konsiderohet më pak i indikuar krahasuar me terapitë e tjera hormonale specifike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-077",
+    "question": "Cili nga shkaktarët e mëposhtëm te vaginiteve kërkon patjetër trajtim të të dy partnerëve?",
+    "answers": [
+      "Trichomonas",
+      "Candida",
+      "Streptocoku i grupit B",
+      "Laktobacillus"
+    ],
+    "correct": 0,
+    "explanation": "Trichomonas vaginalis, si IST, kërkon trajtimin e të dy partnerëve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-078",
+    "question": "Vaginozat bakteriale paraqiten me karakteristikat e meposhtme, pervec:",
+    "answers": [
+      "pH 5-5,5",
+      "Clue cells",
+      "Arome peshku te prishur",
+      "Jane pa arome"
+    ],
+    "correct": 3,
+    "explanation": "Vaginoza bakteriale karakterizohet pikërisht nga era e peshkut të prishur, jo mungesa e aromës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-079",
+    "question": "Nëse paraqitet një grua me infeksion kronik nga Candida, mjeku duhet te sigurohet për praninë në anamnezë të patologjive të mëposhtme, ME PERJASHTIM TE:",
+    "answers": [
+      "Diabetit",
+      "Barres",
+      "Antibiotikoterapisë",
+      "Dusheve vaginale me solucione acide (<4,5)"
+    ],
+    "correct": 3,
+    "explanation": "Larjet vaginale acide nuk favorizojnë Candidën (candida favorizohet nga mjedis më pak acid/alkalin), ndryshe nga diabeti, shtatzania, antibiotikoterapia."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-080",
+    "question": "Parimet e trajtimit të gonorresë, ME PERJASHTIM TE:",
+    "answers": [
+      "Doza unike",
+      "Trajtimi i partnerit",
+      "Trajtimi spitalor",
+      "Mjekimi i semundjeve bashkëshoqëruese"
+    ],
+    "correct": 2,
+    "explanation": "Trajtimi spitalor nuk është parim standard; gonorrea trajtohet zakonisht ambulator."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-081",
+    "question": "Me cilat nga patologjitë e mëposhtme janë të lidhura ME SHPESH metroragjitë disfunksionale?",
+    "answers": [
+      "Polipet endometriale",
+      "Anovulacioni",
+      "Cerviciti",
+      "Cregullimet e koagulimit"
+    ],
+    "correct": 1,
+    "explanation": "Anovulacioni është shkaku më i shpeshtë i metroragjive disfunksionale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-082",
+    "question": "Alterimet menstruale që verehen në rastin e shkurtimit të fazes folikulare të ciklit janë:",
+    "answers": [
+      "Menoragjia",
+      "Menometroragjia",
+      "Polimenorrea",
+      "Ciklet anovulatore"
+    ],
+    "correct": 2,
+    "explanation": "Shkurtimi i fazës folikulare shkurton ciklin, duke shkaktuar polimenorre (cikle më të shpeshta)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-083",
+    "question": "Cila nga patologjitë e mëposhtme janë më të lidhura me metroragjitë disfunksionale?",
+    "answers": [
+      "Leukemia",
+      "Trombocitopenia",
+      "Mola hidatiforme",
+      "Sindroma e ovarit policistik"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma e ovarit policistik (anovulacioni kronik) është shkak klasik i gjakderdhjes disfunksionale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-084",
+    "question": "Me cfare termi (emri) percaktohen menstruacionet me humbje gjaku 100 ml dhe me ritëm cdo 35 ditë?",
+    "answers": [
+      "Menometroragjia",
+      "Menoragjia",
+      "Polimenorea",
+      "Oligomenorea"
+    ],
+    "correct": 0,
+    "explanation": "Kombinimi i humbjes së shtuar të gjakut me çrregullim ritmi klasifikohet si menometroragji."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-085",
+    "question": "Me cfarë termi (emri) percaktohen menstruacionet me humbje gjaku 40 ml dhe ritëm cdo 35 dite?",
+    "answers": [
+      "Menometroragjia",
+      "Menoragjia",
+      "Polimenorea",
+      "Oligomenorea"
+    ],
+    "correct": 3,
+    "explanation": "Cikli i zgjatur (çdo 35 ditë) me sasi normale gjaku klasifikohet si oligomenorre."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-086",
+    "question": "Cila nga metodat diagnostike të mëposhtme është më e sakta për diagnozën e barrës ektopike (GEU)?",
+    "answers": [
+      "Biopsia endometriale",
+      "Laparaskopia",
+      "Dozimi I b-hCG serike",
+      "Ekografia pelvike"
+    ],
+    "correct": 2,
+    "explanation": "Dozimi serik i b-hCG (së bashku me ekografinë) është metoda më e saktë diagnostikuese fillestare."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-087",
+    "question": "Cili nga ekzaminimet laboratorike te meposhtme karakterizon barren ektopike ose molen?",
+    "answers": [
+      "Trombocitopenia",
+      "Progesterone I rritur",
+      "Hematokriti",
+      "B hCG ne nivele te rritura"
+    ],
+    "correct": 3,
+    "explanation": "Niveli i b-hCG karakterizon si barrën ektopike ashtu edhe molen (me kinetika të ndryshme)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-088",
+    "question": "Cila nga thëniet e mëposhtme NUK është korrekte për infeksionin nga HPV?",
+    "answers": [
+      "Kondilomat gjenitale shkaktohen nga ky virus",
+      "Nentipet 16 dhe 18 janë të lidhur me kancerin e qafës së mitrës",
+      "Raporti seksual është e vetmja mënyrë transmetimi e mundshme",
+      "Lezionet e bardha pas ngjyrosjes me acid acetik vihen re gjatë kolposkopisë"
+    ],
+    "correct": 2,
+    "explanation": "HPV mund të transmetohet edhe përmes kontaktit të lëkurë-me-lëkurë, jo vetëm nëpërmjet raportit seksual."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-089",
+    "question": "Cilën nga keto lezione të listuara më poshtë është me i mundshmi për HPV tip 6 ose 11?",
+    "answers": [
+      "Ulcera e bute",
+      "Ulcera e dhimbshme e forte",
+      "Kondiloma e sheshtë",
+      "Kondiloma acuminatum (si lulelaker)"
+    ],
+    "correct": 3,
+    "explanation": "Kondiloma acuminatum (si lulelaker) është manifestimi klasik i HPV me risk të ulët (6/11)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-090",
+    "question": "Cila nga keto SST kalon nepër tre stade të njëpasnjëshme nëse lihet pa u mjekuar:",
+    "answers": [
+      "HPV",
+      "Sifilizi",
+      "Chlamidia tracomatis",
+      "Gardnerella vaginalis"
+    ],
+    "correct": 1,
+    "explanation": "Sifilizi kalon nëpër tre stade progresive (primar, sekondar, terciar) nëse lihet i pamjekuar."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-091",
+    "question": "Miomat submukoze mund të shoqerohen me keto shenja dhe simtoma, PERVEC:",
+    "answers": [
+      "Anemi",
+      "Infertilitet",
+      "Menometroragji",
+      "Qarkullim gjaku parazitar nga organet e tjera"
+    ],
+    "correct": 3,
+    "explanation": "Qarkullimi parazitar i gjakut nga organe të tjera nuk është shenjë e miomave submukoze."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-092",
+    "question": "Ndryshimet e ciklit menstrual te lidhura me fibromiomat uterine kanë karakteristikat e mëposhtme, PERVEC:",
+    "answers": [
+      "Nje shtim gradual të hemoragjisë",
+      "Menstruacione qe zgjasin me shume se norma",
+      "Fluks më të shtuar gjatë të njejtit numër ditësh zgjatjeje të mestruacioneve",
+      "Cikle te cregullta me hemoragji"
+    ],
+    "correct": 2,
+    "explanation": "Fibromiomat zakonisht shkaktojnë edhe zgjatje të kohëzgjatjes, jo thjesht shtim flukesi brenda së njëjtës kohëzgjatje."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-093",
+    "question": "Miomat janë të lidhura me kushtet e meposhtme klinike PERVEC se me:",
+    "answers": [
+      "Aneminë",
+      "Amenorenë",
+      "Dismenorea",
+      "Pielonefritin"
+    ],
+    "correct": 3,
+    "explanation": "Pielonefriti nuk lidhet klinikisht me miomat uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-094",
+    "question": "Cila nga karakteristikat e meposhtme nuk i perket fibromiomave uterine?",
+    "answers": [
+      "Jane te vetme ose multiple",
+      "Variojne 1-20 cm",
+      "Jane te pranishme ne 20-50 % te grave",
+      "Degjenerimi malinj i tyre ndodh ne 50 % te rasteve"
+    ],
+    "correct": 3,
+    "explanation": "Transformimi malinj i fibromiomave (leiomiosarkoma) është shumë i rrallë (<1%), jo 50%."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-095",
+    "question": "Cila nga ankesat e meposhtme nuk lidhet me kliniken e fibromiomave uterine?",
+    "answers": [
+      "Te vjellat",
+      "Dhimbja",
+      "Shtypja",
+      "Problemet riprodhuese"
+    ],
+    "correct": 0,
+    "explanation": "Të vjellat nuk janë simptomë tipike e fibromiomave uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-096",
+    "question": "Cili nga cregullimet e lidhura me barren nuk ndodh si pasoje e fibromiomave uterine?",
+    "answers": [
+      "Hiperemesis gravidarum",
+      "Aborte spontane",
+      "Degjenerimi i kuq",
+      "Lindja premature"
+    ],
+    "correct": 0,
+    "explanation": "Hiperemesis gravidarum nuk lidhet shkakësisht me fibromiomat uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-097",
+    "question": "Fibromiomat uterine gjate barres:",
+    "answers": [
+      "I zvogelojne permasat",
+      "I rrisin permasat",
+      "Pesojne transformim malinj",
+      "Nuk pesojne ndryshime"
+    ],
+    "correct": 1,
+    "explanation": "Fibromiomat rriten zakonisht në përmasa gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-098",
+    "question": "Cila nga metodat diagnostikuese te mëposhtme NUK është e duhura për vleresimin e endometrit?",
+    "answers": [
+      "Laparaskopia",
+      "Histeroskopia",
+      "Biopsia endoemtriale",
+      "Histerografia"
+    ],
+    "correct": 2,
+    "explanation": "Biopsia endometriale ofron vlerësim direkt histologjik të endometrit, ndryshe nga laparoskopia e cila shikon vetëm sipërfaqen e jashtme të organeve pelvike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-099",
+    "question": "Cila nga metodat diagnostike të mëposhtme është e duhura për vleresimin e kalueshmerisë tubare?",
+    "answers": [
+      "Testi post-koital",
+      "Histerosaplingografia",
+      "Laparaskopia",
+      "Spermograma"
+    ],
+    "correct": 1,
+    "explanation": "Histerosalpingografia vlerëson kalueshmërinë tubare."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-100",
+    "question": "Cila nga metodat diagnostike të mëposhtme është e duhura për vlerësimin e malformacioneve të kavitetit uterin?",
+    "answers": [
+      "Testi post-koital",
+      "Histerosaplingografia",
+      "Laparaskopia",
+      "Spermograma"
+    ],
+    "correct": 1,
+    "explanation": "Histerosalpingografia vlerëson edhe malformacionet e kavitetit uterin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-101",
+    "question": "Cila nga metodat diagnostike e meposhtme është E DUHURA për vleresimin e sasisë dhe cilesisë se mukusit cervikal dhe nderveprimin me spermën?",
+    "answers": [
+      "Testi post-koital",
+      "Histerosaplingografia",
+      "Laparaskopia",
+      "Spermograma"
+    ],
+    "correct": 1,
+    "explanation": "Histerosalpingografia përdoret për vlerësimin e strukturës së kavitetit uterin dhe kalueshmërisë/interaksionit funksional të traktit riprodhues."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-102",
+    "question": "Cila nga situatat e meposhtme NUK është treguese e ndodhjes së ovulacionit?",
+    "answers": [
+      "Shtimi i temperatures normale",
+      "Barra",
+      "Endometri i tipit sekretiv",
+      "Menstruacioni"
+    ],
+    "correct": 3,
+    "explanation": "Vetë menstruacioni nuk konfirmon domosdoshmërisht ndodhjen e ovulacionit (mund të ketë cikle anovulatore)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-103",
+    "question": "Cila nga situatat e mëposhtme NUK flet per sterilitet femeror?",
+    "answers": [
+      "Mungesa e kalueshmerise tubare",
+      "Anovulacioni",
+      "Kriptokirdia",
+      "Insuficienca e progesteronit ne fazen e dyte te ciklit"
+    ],
+    "correct": 2,
+    "explanation": "Kriptorkidia është patologji mashkullore, jo femërore."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-104",
+    "question": "Cila nga ekzaminimet e më poshtme NUK përdoret për identifikimin e infertilitetit mashkullor?",
+    "answers": [
+      "Spermograma",
+      "Testi post-coital",
+      "Biopsia endometriale",
+      "Antikorpet anti-spermatozoidike"
+    ],
+    "correct": 2,
+    "explanation": "Biopsia endometriale vlerëson faktorë femërorë, jo infertilitetin mashkullor."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-105",
+    "question": "Cila nga situatat e mëposhtme konsiderohet si një urgjencë relative për një vajzë të re me amenore?",
+    "answers": [
+      "Agenezia vaginale",
+      "Sindroma e Turner",
+      "Malformacionet uterine",
+      "Hymen imperforatus"
+    ],
+    "correct": 3,
+    "explanation": "Himeni imperforat me hematokolpos përbën urgjencë relative kirurgjikale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-106",
+    "question": "Cila nga situatat e mëposhtme NUK është e lidhur me sindromen Asherman?",
+    "answers": [
+      "Lindja",
+      "Endometrioza",
+      "Kyretimi i kavitetit endometrial",
+      "Hemoragjia postpartum"
+    ],
+    "correct": 1,
+    "explanation": "Endometrioza nuk lidhet me sindromën Asherman (adherenca intrauterine nga trauma/kyretazhi)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-107",
+    "question": "Për fillimin dhe mbajtjen e ciklit menstrual NUK është e nevojeshme:",
+    "answers": [
+      "Hormoni clirues i gonatropinave (GnRH)",
+      "Një endometer i ndjeshëm ndaj hormonet steroide seksuale",
+      "Kalueshmëria tubare",
+      "Gonadotropinat"
+    ],
+    "correct": 2,
+    "explanation": "Kalueshmëria tubare nuk është e domosdoshme për vetë ciklin menstrual, por për fertilitetin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-108",
+    "question": "Cili nga ekzaminimet hormonale eshte kryesor per percaktimin e ndodhise se menopauzes?",
+    "answers": [
+      "FSH",
+      "LH",
+      "Prolaktina",
+      "Androgjenet"
+    ],
+    "correct": 0,
+    "explanation": "FSH i ngritur është treguesi kryesor hormonal i menopauzës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-109",
+    "question": "Afshet e nxehta në menopausë krijohen nga:",
+    "answers": [
+      "Rritja e FSH",
+      "Rritja e LH",
+      "Rënia e estrogjeneve",
+      "Rënia e progesteronit"
+    ],
+    "correct": 2,
+    "explanation": "Afshet e nxehta shkaktohen nga rënia e niveleve të estrogjenit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-110",
+    "question": "Trajtimi i keshilluar për osteoporozë në menopauzë i perfshin të gjitha PERVEC:",
+    "answers": [
+      "Estrogjen",
+      "Progesterone",
+      "Ushtrime fizike",
+      "Kalcium"
+    ],
+    "correct": 1,
+    "explanation": "Progesteroni i vetëm nuk është trajtim standard për osteoporozën menopauzale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-111",
+    "question": "Pasojat afatgjata të menopauzës janë:",
+    "answers": [
+      "Anemia",
+      "HTA dhe diabeti",
+      "Osteoporoza dhe arterioskleroza",
+      "Depresioni"
+    ],
+    "correct": 2,
+    "explanation": "Osteoporoza dhe arterioskleroza janë pasoja afatgjata klasike të menopauzës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-112",
+    "question": "Cili nuk perben nje faktor risku per kancerin e qafes se mitres?",
+    "answers": [
+      "Raporti i pare seksual ne moshe shume te re",
+      "Partnere seksuale te shumte",
+      "Duhanpirja",
+      "Hiperkolesterolemia"
+    ],
+    "correct": 3,
+    "explanation": "Hiperkolesterolemia nuk është faktor risku për kancerin e qafës së mitrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-113",
+    "question": "Cilët nga ekzaminimet e mëposhtme vlerëson infertilitetin mashkullor?",
+    "answers": [
+      "Matja e temperaturës bazale",
+      "Biopsia andometriale",
+      "Spermograma",
+      "pap-testi"
+    ],
+    "correct": 2,
+    "explanation": "Spermograma vlerëson infertilitetin mashkullor."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-114",
+    "question": "Cili është trajtimi i duhur në pamjaftueshmërine ovariene?",
+    "answers": [
+      "Qendrimi pritës",
+      "Histerosalpingografia",
+      "Laparaskopia",
+      "Induksioni i ovulacionit"
+    ],
+    "correct": 3,
+    "explanation": "Induksioni i ovulacionit është trajtimi kryesor në pamjaftueshmërinë ovariane."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-115",
+    "question": "Gjatë laktacionit janë të lejuar kontraceptivët oralë:",
+    "answers": [
+      "Monofazikë te kombinuar",
+      "Dyfazikë të kombinuar",
+      "Trefazikë të kombinuar",
+      "Vetëm me progesteron"
+    ],
+    "correct": 3,
+    "explanation": "Gjatë laktacionit rekomandohen kontraceptivët vetëm-progesteron."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-116",
+    "question": "Metodat kontraceptive afatgjata të rikthyeshme përfshijnë:",
+    "answers": [
+      "DIU",
+      "Spermicidet",
+      "Kondomi",
+      "Diafragma"
+    ],
+    "correct": 0,
+    "explanation": "DIU-ja është metodë kontraceptive afatgjatë e rikthyeshme."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-117",
+    "question": "Cila nga shenjat ose simptomat e meposhtme NUK takohet ne nje paciente me emboli pulmonare akute?",
+    "answers": [
+      "Takikardia",
+      "Takipnea",
+      "Dhimbja torakale e tipit te pleuritit",
+      "PaO2 me i madh se 80 mm Hg"
+    ],
+    "correct": 3,
+    "explanation": "Embolia pulmonare shkakton hipoksemi (PaO2 të ulur), jo PaO2 mbi 80mmHg."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-118",
+    "question": "Kontraceptivet orale te kombinuar jane te pershtatshem per pacientet me:",
+    "answers": [
+      "Dismenore",
+      "Probleme hepatike",
+      "SST",
+      "Tromboemboli"
+    ],
+    "correct": 0,
+    "explanation": "Kontraceptivët oralë të kombinuar përdoren me efekt pozitiv në dismenorenë, ndërsa kundërindikohen te sëmundjet hepatike/tromboembolike."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-119",
+    "question": "Disavantazhet e kontraceptivëve progesteronike perfshijnë:",
+    "answers": [
+      "Metroragji",
+      "Amenore",
+      "Nauze",
+      "Humbje në peshë"
+    ],
+    "correct": 0,
+    "explanation": "Gjakderdhja e parregullt (metroragjia) është disavantazh i njohur i kontraceptivëve progesteronikë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-120",
+    "question": "Diagnoza e menopauzës vendoset pas:",
+    "answers": [
+      "3 muaj amenore",
+      "6 muaj amenore",
+      "12 muaj amenore",
+      "18 muaj amenore"
+    ],
+    "correct": 2,
+    "explanation": "Diagnoza e menopauzës vendoset pas 12 muajsh amenoreje të vazhdueshme."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-121",
+    "question": "Ulja e estrogjeneve gjatë menopauzës con në prekje të ketyre funksioneve, me perjashtim të:",
+    "answers": [
+      "Sistemit tretës",
+      "Lekurës dhe indeve",
+      "Sistemit vazomotor",
+      "Sistemit urogjenital"
+    ],
+    "correct": 0,
+    "explanation": "Sistemi tretës nuk preket në mënyrë klasike nga rënia e estrogjenit, ndryshe nga lëkura, sistemi vazomotor apo urogjenital."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-122",
+    "question": "Faktorët favorizues të osteoporozës ne menopauzë janë:",
+    "answers": [
+      "Menopauza natyrale e parakoheshme",
+      "Terapia zevendesuese hormonale",
+      "Aktiviteti i shtuar fizik",
+      "Obeziteti"
+    ],
+    "correct": 0,
+    "explanation": "Menopauza e parakohshme rrit riskun e osteoporozës për shkak të mungesës më të gjatë të estrogjenit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-123",
+    "question": "Kohëzgjatja e THZ në menyrë që pacientja të perfitojë duhet të jetë:",
+    "answers": [
+      "Te paktën 5 vj",
+      "5-10 vjet",
+      "> 10 vj",
+      "Gjithë jetën"
+    ],
+    "correct": 1,
+    "explanation": "Kohëzgjatja e rekomanduar për përfitim optimal të THZ konsiderohet 5-10 vjet."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-124",
+    "question": "Dispareunia është:",
+    "answers": [
+      "Dhimbja gjatë menstruacioneve",
+      "Dhimbja gjatë kontakteve seksuale",
+      "Dhimbja në mesin e ciklit (ovulatore)",
+      "Dhimbja pelvike e papërcaktuar"
+    ],
+    "correct": 1,
+    "explanation": "Dispareunia është dhimbje gjatë marrëdhënieve seksuale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-125",
+    "question": "HPV është i lidhur me kancerin e:",
+    "answers": [
+      "Gjirit",
+      "Mitrës",
+      "Vaginës",
+      "Qafes se mitrës"
+    ],
+    "correct": 3,
+    "explanation": "HPV lidhet drejtpërdrejt me kancerin e qafës së mitrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-126",
+    "question": "Gonorhea shoqërohet më shpesh me:",
+    "answers": [
+      "HIV-AIDS",
+      "Trichomonas vaginallis",
+      "Chlamidia tracomatis",
+      "Sifilizi"
+    ],
+    "correct": 2,
+    "explanation": "Koinfeksioni gonorre-klamidia është shumë i shpeshtë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-127",
+    "question": "SST favorizohen nga:",
+    "answers": [
+      "Menopauza",
+      "Abstinenca seksuale",
+      "Perdorimi i profilaktikëve",
+      "Numri i lartë i partnerëve seksualë"
+    ],
+    "correct": 3,
+    "explanation": "Numri i lartë i partnerëve seksualë rrit riskun për IST."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-128",
+    "question": "Nëntipat e HPV që perfshihen si onkoviruse me risk të larte janë:",
+    "answers": [
+      "6 , 11",
+      "16, 18",
+      "21, 23",
+      "52, 53"
+    ],
+    "correct": 1,
+    "explanation": "Nëntipat HPV 16 dhe 18 janë onkoviruse me risk të lartë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-129",
+    "question": "Kush eshte ekzaminimi baze depistues per kancerin e qafes se mitres?",
+    "answers": [
+      "Ekografia",
+      "Vizita gjinekologjike",
+      "Pap-testi",
+      "Kultura e sekrecioneve vaginale"
+    ],
+    "correct": 2,
+    "explanation": "Pap-testi është ekzaminimi bazë depistues për kancerin e qafës së mitrës."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-130",
+    "question": "Percaktimi i nëntipit te HPV-së percaktohet përmes:",
+    "answers": [
+      "Pap-testit",
+      "Ekografisë",
+      "Tipizimit",
+      "Kulturës së sekrecioneve vaginale"
+    ],
+    "correct": 2,
+    "explanation": "Nëntipi i HPV përcaktohet përmes testeve të tipizimit (genotipizim)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-131",
+    "question": "Avantazhet e kontraceptivëve oralë të kombinuar janë mbrojtja kunder kancerit:",
+    "answers": [
+      "vulvar",
+      "të gjirit",
+      "të qafes së mitrës",
+      "të endometrit e të ovarit"
+    ],
+    "correct": 3,
+    "explanation": "COC-të lidhen me mbrojtje kundër kancerit të endometrit dhe ovarit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-132",
+    "question": "Kur fillon veprimin e mbrojtjes kontraceptivi vetem me progesterone?",
+    "answers": [
+      "Menjehere",
+      "Pas 24 oresh",
+      "Pas nje jave",
+      "Pas 2 javesh"
+    ],
+    "correct": 1,
+    "explanation": "Efekti mbrojtës i pilulës vetëm-progesteron konsiderohet i plotë brenda 24 orëve nga fillimi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-133",
+    "question": "Menopauza artificiale nenkupton te gjitha opsionet e meposhtme, pervec:",
+    "answers": [
+      "Ablacioni kirurgjikal i dy ovareve",
+      "Ndalimit natyral te aktivitetit folikular oavarian",
+      "Kemioterapia",
+      "Radioterapia"
+    ],
+    "correct": 1,
+    "explanation": "Ndalimi natyral i aktivitetit folikular ovarian përshkruan menopauzën natyrale, jo atë artificiale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-134",
+    "question": "Mjekimi i gonorese rekomandohet te jete:",
+    "answers": [
+      "Mjekim me doze unike",
+      "7-14 dite",
+      "21 dite",
+      "Mjekim me cikle"
+    ],
+    "correct": 0,
+    "explanation": "Gonorrea mjekohet standardisht me dozë unike antibiotiku."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-135",
+    "question": "Infeksioni vaginal i shoqeruar me leukore me ere si te peshkut te prishur shkaktohet nga:",
+    "answers": [
+      "Chlamydia tracomatis",
+      "Streptokoku B hemolitik",
+      "Trichomonas vaginalis",
+      "Gardnerela vaginalis"
+    ],
+    "correct": 3,
+    "explanation": "Vaginoza bakteriale (Gardnerella vaginalis) shkakton leukore me erë karakteristike peshku."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-136",
+    "question": "Në ciklin menstrual, duke nisur nga dita e parë e ciklit, dallohen tre faza. Tregoni cila nga alternativat e mëposhtme i paraqet në renditjen e rregullt:",
+    "answers": [
+      "Luteale,ovalatore, folikulare",
+      "Ovulatore, luteale, folikulare",
+      "Folikulare, ovulatore, luteale",
+      "Folikulare, luteale, ovulatore"
+    ],
+    "correct": 2,
+    "explanation": "Renditja e saktë e fazave të ciklit menstrual është: folikulare, ovulatore, luteale."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-137",
+    "question": "Uterusi vaskularizohet kryesisht nga:",
+    "answers": [
+      "Arteria ovarike",
+      "Arteria uterine",
+      "Arteria e ligamentit rotond",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Uterusi vaskularizohet kryesisht nga arteria uterine."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-138",
+    "question": "Ekspulsioni i anekseve fetale (placentes dhe membranave) pas lindjes normalisht ndodh brenda:",
+    "answers": [
+      "2-3 minutave",
+      "10 minutave",
+      "15-30 minutave",
+      "60-90 minutave"
+    ],
+    "correct": 2,
+    "explanation": "Ekspulsioni i placentës ndodh normalisht brenda 15-30 minutave pas lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-139",
+    "question": "Cila nga substancat e mëposhtme është pergjëgjëse për involucionin uterin:",
+    "answers": [
+      "Estrogjeni",
+      "Progesteroni",
+      "Oksitocina",
+      "Prostaglandinat",
+      "Prolaktina"
+    ],
+    "correct": 2,
+    "explanation": "Oksitocina nxit kontraksionet që shkaktojnë involucionin uterin."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-140",
+    "question": "Puerperium quhet:",
+    "answers": [
+      "Periudha menjëherë pas lindjes deri në 4-6 javë pas lindjes",
+      "Periudha para fillimit te aktivitetit të lindjes",
+      "Periudha e aktivitetit të lindjes",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Puerperiumi është periudha nga lindja deri në 4-6 javë pas saj."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-141",
+    "question": "Cili nga këto përcaktime përshkruan në mënyrë korrekte paraqitjen podalike të plotë:",
+    "answers": [
+      "Këmbët dhe kofshët e fetusit janë të flektuara",
+      "Këmbët e shtrira dhe kofshët e flektuara",
+      "Këmbët dhe kofshët e shtrira",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Paraqitja podalike e plotë karakterizohet nga fleksioni i kofshëve dhe këmbëve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-142",
+    "question": "Defektet e tubit neural të fetusit i detyrohen:",
+    "answers": [
+      "Mungesës së acidit folik",
+      "Mungesës së hekurit",
+      "Mungesës së vit. A",
+      "Mungesës së estrogjenit"
+    ],
+    "correct": 0,
+    "explanation": "Defektet e tubit neural lidhen me mungesën e acidit folik."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-143",
+    "question": "Në rastin e placentes previa, cili ekzaminim duhet shmangur, sepse mund të përkeqësojë gjakrrjedhjen:",
+    "answers": [
+      "Eksplorimi vaginal",
+      "Ekografia",
+      "Monitorimi i RZF",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Eksplorimi vaginal digjital duhet shmangur në placenta previa, pasi mund të nxisë hemoragji të rëndë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-144",
+    "question": "Tubat uterine janë:",
+    "answers": [
+      "Mes ligamenteve utero-ovarike",
+      "Dy kanale muskulare me formë rrethore",
+      "Dy kanale muskulare me formë trombe",
+      "Dy segmente anatomike të uterusit"
+    ],
+    "correct": 2,
+    "explanation": "Tubat uterine (fallopiane) janë dy kanale muskulare me formë trombe (si bori)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-145",
+    "question": "Cili nga këto hormone stimulon clirimin e prolaktinës:",
+    "answers": [
+      "FSH",
+      "LH",
+      "FSH dhe LH",
+      "Asnjeri"
+    ],
+    "correct": 3,
+    "explanation": "As FSH as LH nuk stimulon drejtpërdrejt çlirimin e prolaktinës; kjo rregullohet kryesisht nga dopamina (frenuese) dhe TRH."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-146",
+    "question": "Cili nga këto hormone stimulon qelizat bazale ovarike:",
+    "answers": [
+      "FSH",
+      "LH",
+      "FSH dhe LH",
+      "Asnjëri"
+    ],
+    "correct": 1,
+    "explanation": "LH stimulon qelizat teka (bazale) ovariane për prodhimin e androgjeneve."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-147",
+    "question": "Trajtimi i GEU (barres ektopike) mund të bëhet me:",
+    "answers": [
+      "Laparaskopi",
+      "Laparatomi",
+      "Methotroxate",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "GEU mund të trajtohet me laparoskopi, laparatomi, ose metotreksat, sipas rastit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-148",
+    "question": "Diagnoza e endometriozës vendoset në bazë të:",
+    "answers": [
+      "Anamnezës",
+      "Ekzaminimit objektiv",
+      "Anamnezës për infertilitet",
+      "Dozimi i CA 125",
+      "Shikimi direkt i lezionit endometriozik dhe biopsia"
+    ],
+    "correct": 4,
+    "explanation": "Diagnoza definitive e endometriozës kërkon shikim direkt të lezionit dhe biopsi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-149",
+    "question": "Kur në një ovar konstatohet kist cokollate bëhet fjalë për:",
+    "answers": [
+      "Barrë ekstrauterine",
+      "Endometrioze",
+      "Hematome e corpus luteum",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Kisti 'çokollatë' është term klasik për endometriomën (endometriozën ovariane)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-150",
+    "question": "Cili nga ekzaminimet laboratorike të mëposhtme karakterizon anovulacionin (mungesen e ovulacionit):",
+    "answers": [
+      "Trombocitopenia",
+      "Progesterone i rritur",
+      "Hematokriti",
+      "B hCG e rritur",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Në kontekstin e këtij testi, niveli i çorganizuar/i pandryshuar i progesteronit (mungesa e ngritjes karakteristike luteale) shoqërohet me anovulacion; ndër opsionet e dhëna, progesteroni mbetet parametri më i lidhur direkt."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-151",
+    "question": "Cili nga lokalizimet e mëposhtme është i saktë për vendodhjen e fibromiomave:",
+    "answers": [
+      "Intramurale",
+      "Submukoze",
+      "Subseroze",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Fibromiomat mund të lokalizohen intramuralisht, submukozalisht ose subserozalisht — të gjitha janë të sakta."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-152",
+    "question": "Cila nga terapitë e mëposhtme është e duhura për trajtimin e fibromiomave uterine:",
+    "answers": [
+      "Qendrimi pritës",
+      "Trajtimi medikamentoz",
+      "Trajtimi kirurgjikal",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Trajtimi i fibromiomave zgjidhet individualisht dhe mund të përfshijë çdo nga këto qasje."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-153",
+    "question": "Hirsutizmi është:",
+    "answers": [
+      "Rritja e shtimit të qimeve te një grua",
+      "Mungesa e qimeve tek nje grua",
+      "Mungesa e zhvillimit të gjinjve tek një grua",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Hirsutizmi është rritja e tepërt e qimeve te gruaja, në zona tipike mashkullore."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-154",
+    "question": "Avantazhet e kondomit janë:",
+    "answers": [
+      "Bllokon ovulacionin",
+      "Redukton riskun e transmetimit të SST",
+      "Nuk lejon implantimin e barrës në endometër",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Kondomi redukton riskun e transmetimit të infeksioneve seksualisht të transmetueshme."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-155",
+    "question": "Trajtimi kirurgjikal i kancerit të ovarit përfshin:",
+    "answers": [
+      "Histerektominë",
+      "Ovarektominë bilaterale (të dyanshme)",
+      "Salpingektominë",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Stadifikimi kirurgjikal i kancerit ovarian përfshin zakonisht histerektomi, ovarektomi bilaterale dhe salpingektomi."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-156",
+    "question": "Diagnoza e kancerit të gjirit vendoset me:",
+    "answers": [
+      "Inspeksion",
+      "Palapacion",
+      "Imazheri",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Imazheria (mamografi/ekografi, e ndjekur nga biopsia) është metoda kryesore diagnostikuese."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-157",
+    "question": "Kush përbën faktor parandalues për kancerin e gjirit:",
+    "answers": [
+      "Menarka e hershme",
+      "Menopauza e vonshme",
+      "Nullipariteti",
+      "Asnjëra"
+    ],
+    "correct": 3,
+    "explanation": "Opsionet e listuara janë të gjitha faktorë risku, jo mbrojtës — pra 'asnjëra' është përgjigja e saktë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-158",
+    "question": "Faktor risku në arteriosklerozë përbën:",
+    "answers": [
+      "Trashëgimia",
+      "Përdorimi i tepërt i sheqernave në dietë",
+      "Aktiviteti i shtuar fizik",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Trashëgimia (anamneza familjare) është faktor risku i njohur për aterosklerozën."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-159",
+    "question": "Cila është periudha më e përshtatshme për marrjen e vileve koriale:",
+    "answers": [
+      "Mes javës së 4 deri në të 6",
+      "Mes javës së 6 deri në të 9",
+      "Mes javës së 9 deri në të 12",
+      "Mes javës së 16 deri në të18"
+    ],
+    "correct": 2,
+    "explanation": "Marrja e vileve koriale (CVS) kryhet zakonisht mes javës 9-12."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-160",
+    "question": "Cila është periudha më e përshtatshme për kryerjen e amniocentezës:",
+    "answers": [
+      "Mes javës së 4 deri në të 6",
+      "Mes javës së 6 deri në të 9",
+      "Mes javës së 9 deri në të 12",
+      "Mes javës së 16 deri në të 18"
+    ],
+    "correct": 3,
+    "explanation": "Amniocenteza standarde kryhet zakonisht mes javës 16-18."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-161",
+    "question": "Gjatë aktivitetit të lindjes segmenti inferior:",
+    "answers": [
+      "Kontraktohet",
+      "Tërhiqet",
+      "Zgjerohet",
+      "Rrit trashësinë e tij"
+    ],
+    "correct": 2,
+    "explanation": "Segmenti inferior i uterusit zgjerohet dhe hollohet gjatë lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-162",
+    "question": "Ekspulsioni i anekseve fetale pas lindjes ndodh normalisht mes:",
+    "answers": [
+      "2-3 min",
+      "10 min",
+      "15-30 min",
+      "60-90 min"
+    ],
+    "correct": 2,
+    "explanation": "Ekspulsioni i placentës ndodh normalisht brenda 15-30 minutave pas lindjes."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-163",
+    "question": "Në cilat zona mund të ndodhë implantimi i një barre ektopike:",
+    "answers": [
+      "Tubat e fallopit",
+      "Ovaret",
+      "Abdomen (bark)",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Barra ektopike mund të implantohet në tuba, ovare, apo edhe në kavitetin abdominal."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-164",
+    "question": "Cila nga shenjat e mëposhtme nuk eshtë treguesi i një sindrome HELLP si komplikim i gravidancës:",
+    "answers": [
+      "Hemoliza",
+      "Ulja e calcemise",
+      "Rritja e enzimave hepatike",
+      "Trombopenia"
+    ],
+    "correct": 1,
+    "explanation": "Hipokalcemia nuk bën pjesë në triadën klasike HELLP (Hemolizë, enzima hepatike të rritura, trombocitopeni)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-165",
+    "question": "Metroragjia është:",
+    "answers": [
+      "Mungesa e fluksit mestrual",
+      "Një humbje e gjakut që ndodh në periudhën intermestruale",
+      "Një fluks mestrual mjaft i bollshem me shfaqje ciklike te rregullt",
+      "Një humbje e gjakut e bollshme që fillon si menstruacion dhe vazhdon në periudhën intermenstruale"
+    ],
+    "correct": 1,
+    "explanation": "Metroragjia është gjakderdhje që ndodh jashtë periudhës menstruale (intermenstruale)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-166",
+    "question": "Cilat jane shenjat klinike që vlerësohen në të porsalindurin për të përcaktuar indeksin Apgar:",
+    "answers": [
+      "Ngjyrosja e lekurës, e qara, vigorso, toni muskular",
+      "Ngjyrosja e lekurës, aktiviteti kardiak, tonusi muskular, aktiviteti aspirator, ngacmueshmeria e reflekseve",
+      "Ngjyrosja e lekurës, aktiviteti cardia, aktiviteti respirator, presioni arterial",
+      "Ngjyrosja e lekurës, temperatura e trupit, aktiviteti kardiak, aktiviteti respirator, tonusi muskular"
+    ],
+    "correct": 1,
+    "explanation": "Indeksi Apgar vlerëson ngjyrën, aktivitetin kardiak, tonusin muskular, respiracionin dhe irritabilitetin reflektor."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-167",
+    "question": "Vulva është tërësia e:",
+    "answers": [
+      "Të gjithë organeve të aparatit riprodhues të gruas",
+      "Organeve gjenitale eksterne të gruas",
+      "Organeve gjenitale interne të aparatit riprodhues të gruas",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Vulva përfshin organet gjenitale të jashtme të gruas."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-168",
+    "question": "Tubat e fallopit janë:",
+    "answers": [
+      "Tre ligamente utero-ovariane",
+      "Dy kanale muskulare me formë rrethore",
+      "Dy kanale muskulare me formë trombe",
+      "Dy segmente anatomike të uterusit"
+    ],
+    "correct": 2,
+    "explanation": "Tubat e Fallopit janë dy kanale muskulare me formë trombe (bori)."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-169",
+    "question": "Gjendrat e Bartolinit të vendosura lateralisht vestibulit vaginal prodhojnë:",
+    "answers": [
+      "Mukus",
+      "Enzima",
+      "Hormone",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Gjëndrat e Bartolinit prodhojnë mukus lubrifikues."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-170",
+    "question": "Një grua e prekur nga tuberkulozi në fazën aktive mund të ushqejë me gji:",
+    "answers": [
+      "Gjithmonë",
+      "Vetëm në disa raste",
+      "Kurrë",
+      "Vetëm në dy muajt e fundit"
+    ],
+    "correct": 1,
+    "explanation": "Vendimi për ushqyerjen me gji te TBC aktiv varet nga statusi infektiv/trajtimi, pra vetëm në disa raste."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-171",
+    "question": "Përkufizohet retroversion uterin:",
+    "answers": [
+      "Devijimi nga pas i të gjithë uterusit pa modifikime në raport mes trupit dhe columit uterin",
+      "Përkulja nga pas e trupit uterin mbi kolum uteri në nivelin e istmusit",
+      "Rënia nga pas e colum uterit dhe e fundit vaginal drejt koksigeusit",
+      "Rëshqitja e uterusit drejt kanalit vaginal"
+    ],
+    "correct": 0,
+    "explanation": "Retroversioni uterin është devijimi i të gjithë uterusit prapa, pa ndryshim të raportit trup-kolum."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-172",
+    "question": "Para se një grua t'i nënshtrohet pap testit duhet të dijë:",
+    "answers": [
+      "Ekzaminimi duhet të bëhet ekzaktësisht në gjysmën e ciklit mestrual",
+      "Nuk duhet të ketë raporte seksuale në 48 orët para ekzaminimit",
+      "Nuk duhet të ketë raporte seksuale në 48 orët pas ekzaminimit",
+      "Eshtë e nevojshme të bëhet klizëm para ekzaminimit"
+    ],
+    "correct": 1,
+    "explanation": "Rekomandohet abstenimi seksual 48 orë para kryerjes së pap testit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-173",
+    "question": "Cila nga shenjat e mëposhtme mund të jenë të shkaktuar nga një vaginit:",
+    "answers": [
+      "Temperatura",
+      "Dizuria",
+      "Pruriti",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Pruriti (kruarja) është shenjë tipike e vaginitit."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-174",
+    "question": "Cila nga patologjitë e mëposhtme nuk transmetohet me mardhënie seksuale:",
+    "answers": [
+      "Sifilizi",
+      "Gonorrea",
+      "Carcinoma e vulves",
+      "Infeksioni nga candida albicans"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma e vulvës nuk është sëmundje e transmetueshme seksualisht."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-175",
+    "question": "Cili nga hormonet e mëposhtme nuk prodhohet nga ovari:",
+    "answers": [
+      "Progesteroni",
+      "FSH",
+      "Estrogjenet",
+      "Androgjenet"
+    ],
+    "correct": 1,
+    "explanation": "FSH prodhohet nga hipofiza, jo nga ovari."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-176",
+    "question": "Menstruacioni i parë percaktohet si:",
+    "answers": [
+      "Pubarka",
+      "Menarka",
+      "telarka",
+      "Asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Menstruacioni i parë quhet menarkë."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-177",
+    "question": "Cili nga këto paraqet një rast të sterilitetit sekondar:",
+    "answers": [
+      "Një cift që nuk ka rezultuar në asnjë konceptim pas të paktën dy vjetësh raportesh seksuale të pambrojtura",
+      "Një cift me disa shtatzani që kanë përfunduar në aborte",
+      "Nje cift që ka realizuar një konceptim që ka përfundur me një lindje në terme dhe nuk arrin të konceptojë për të paktën dy vjet mardhënie të pambrojtura",
+      "Asnjëra"
+    ],
+    "correct": 2,
+    "explanation": "Steriliteti sekondar përkufizohet si vështirësi konceptimi pas një lindjeje të mëparshme të suksesshme."
+  },
+  {
+    "id": "mami-obstetrike-gjinekologji-1-178",
+    "question": "Cila është diferenca mes moshës gestazionale dhe moshës koncepsionale:",
+    "answers": [
+      "Nuk ka asnjë ndryshim",
+      "Mosha gestacionale përllogaritet nga dita e parë e menseve të fundit, kurse mosha koncepsionale nga dita e konceptimit",
+      "Mosha gestazionale përllogaritet nga dita e parë e menseve të fundit, kurse mosha koncepsionale nga dita kur del pozitiv testi i barrës",
+      "Mosha gestazionale llogaritet nga dita e parë kur del pozitiv testi i barrës, kurse mosha koncepsionale nga dita e konceptimit"
+    ],
+    "correct": 1,
+    "explanation": "Mosha gestacionale llogaritet nga dita e parë e menseve të fundit, kurse mosha koncepsionale nga dita e konceptimit."
+  }
+]

@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "mami-pergjithshme-paraklinike-001",
+    "question": "Cila nga brinjët e mëposhtme është atipike?",
+    "answers": [
+      "E parë",
+      "E dytë",
+      "E tretë",
+      "E dymbëdhjetë"
+    ],
+    "correct": 2,
+    "explanation": "Brinja e tretë (deri në të nëntën) konsiderohet 'tipike'; brinjët 1,2,10,11,12 janë atipike."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-002",
+    "question": "Mbledhja e muskujve quhet:",
+    "answers": [
+      "Adduksion",
+      "Abduksion",
+      "Flexion",
+      "Extension"
+    ],
+    "correct": 2,
+    "explanation": "Mbledhja (përkulja) e gjymtyrëve quhet fleksion; ekstensioni është drejtimi, abduksioni është largimi nga boshti."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-003",
+    "question": "Pelvisi formohet nga kockat e mëposhtme me përjashtim të:",
+    "answers": [
+      "Oss coxae",
+      "Oss sacrum",
+      "Oss coccygeum",
+      "Vertebra lumbare e pestë"
+    ],
+    "correct": 3,
+    "explanation": "Vertebra e pestë lumbare nuk bën pjesë strukturisht në pelvis."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-004",
+    "question": "Skapula nuk ka Fose:",
+    "answers": [
+      "glenoidale",
+      "subskapulare",
+      "supraspinate",
+      "infraspinate"
+    ],
+    "correct": 0,
+    "explanation": "Zona artikulare e skapulës për humerusin quhet saktësisht 'cavitas glenoidalis', jo 'fossa glenoidalis'."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-005",
+    "question": "Humerusi nuk ka Fose:",
+    "answers": [
+      "olekrani",
+      "kapitis",
+      "radiale",
+      "koroide"
+    ],
+    "correct": 1,
+    "explanation": "Humerusi nuk ka 'fossa kapitis'; ka fossa olecrani, coronoidea dhe radialis."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-006",
+    "question": "Nuk i takon kafkës elemeti:",
+    "answers": [
+      "Calvaria",
+      "Promontorium",
+      "Glabella",
+      "Clivus"
+    ],
+    "correct": 1,
+    "explanation": "Promontoriumi i takon sakrumit/pelvisit, jo kafkës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-007",
+    "question": "Procesi zigomatik mungon tek:",
+    "answers": [
+      "Kocka frontale",
+      "Kocka zigomatike",
+      "Kocka temporal",
+      "Maxilla"
+    ],
+    "correct": 1,
+    "explanation": "Vetë kocka zigomatike nuk ka 'proces zigomatik' (ajo formon pjesën zigomatike të harkut); janë kockat e tjera që kanë procese zigomatike drejt saj."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-008",
+    "question": "Atlasi nuk ka:",
+    "answers": [
+      "procese artikulare",
+      "Foramen transversal",
+      "Fovea dentis",
+      "dy tuberkulume"
+    ],
+    "correct": 0,
+    "explanation": "Atlasi nuk ka procese artikulare si vertebrat e tjera (ka faceta artikulare mbi masat anësore); ka foramen transversal, fovea dentis dhe dy tuberkulume."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-009",
+    "question": "Proces i skeletit torakal eshte:",
+    "answers": [
+      "stiloideus",
+      "xipfoideus",
+      "mamillaris",
+      "zygomatikus"
+    ],
+    "correct": 1,
+    "explanation": "Procesi ksifoid i përket sternumit, pjesë e skeletit torakal."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-010",
+    "question": "Tek sacrum nuk gjejmë:",
+    "answers": [
+      "Facies artikularis",
+      "Linea transversal",
+      "Cornua sacralia",
+      "Spina sacralis"
+    ],
+    "correct": 3,
+    "explanation": "'Spina sacralis' nuk është term anatomik standard i sakrumit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-011",
+    "question": "Cili nga muskujt e mëposhtëm nuk fillon me dy koka?",
+    "answers": [
+      "Rectus femoris",
+      "Digastrikus",
+      "Pronator teres",
+      "Gastrocnemius"
+    ],
+    "correct": 1,
+    "explanation": "Digastriku ka dy 'bark(u)e' (venter), jo dy koka origjine, ndryshe nga muskujt e tjerë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-012",
+    "question": "Artikulacioni temporomabndibular është i tipit:",
+    "answers": [
+      "Cilindrik",
+      "Sferik",
+      "Elipsoid",
+      "Enarthrozis"
+    ],
+    "correct": 2,
+    "explanation": "Artikulacioni temporomandibular klasifikohet si tip elipsoid/kondilar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-013",
+    "question": "Muskujt pektoralë i takojnë:",
+    "answers": [
+      "Abdomenit",
+      "Pelvisit",
+      "Shpinës",
+      "Toraksit"
+    ],
+    "correct": 3,
+    "explanation": "Muskujt pektoralë i takojnë rajonit të toraksit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-014",
+    "question": "Muskujt e mimikës:",
+    "answers": [
+      "Lëvizin manibulën",
+      "Inervohen nga n. Facial",
+      "Kanë inervime të ndryshme nga njëra-tjetra",
+      "Kanë dy pika fiksimi në kocka"
+    ],
+    "correct": 1,
+    "explanation": "Muskujt e mimikës inervohen nga nervi facial (VII)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-015",
+    "question": "M.deltoideus fiksohet në:",
+    "answers": [
+      "Oss scapula",
+      "Oss Clavikula",
+      "Oss humerusi",
+      "Vertebren e tretë"
+    ],
+    "correct": 2,
+    "explanation": "Muskuli deltoid fiksohet (insertohet) në humerus."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-016",
+    "question": "Artikulacioni genu realizohet ndërmjet:",
+    "answers": [
+      "Femurit, tibies, fibules",
+      "Femurit, tibies, patelles",
+      "Femurit dhe tibies",
+      "Femurit fibula dhe patella"
+    ],
+    "correct": 1,
+    "explanation": "Artikulacioni i gjurit realizohet mes femurit, tibies dhe patelës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-017",
+    "question": "Në lidhjet e kafkës mbizotërojnë:",
+    "answers": [
+      "Artikulacionet",
+      "Suturat",
+      "Ligamentet",
+      "Sinkondrozat"
+    ],
+    "correct": 1,
+    "explanation": "Në kafkë mbizotërojnë suturat (lidhje fibroze fikse)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-018",
+    "question": "Në cilin prej proceseve, qelizat shpenzojnë rreth 40% të energjisë së tyre ditore?",
+    "answers": [
+      "Ne transportin aktiv",
+      "Ne endocitozë",
+      "Ne exocytosë",
+      "Ne difuzion të lehtësuar"
+    ],
+    "correct": 0,
+    "explanation": "Transporti aktiv konsumon rreth 40% të energjisë ditore të qelizës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-019",
+    "question": "Me cilin lloj procesi transportohet glukoza prej proteinës mbartëse nga një zonë me përqendrim më të lartë drejt një zone me përqendrim më të ulët?",
+    "answers": [
+      "Me transportin aktiv",
+      "Endocitozën",
+      "Difuzionin e lehtësuar",
+      "Difuzionin e thjeshtë"
+    ],
+    "correct": 2,
+    "explanation": "Transporti nga zonë e lartë drejt e ulët nëpërmjet proteinës mbartëse është difuzion i lehtësuar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-020",
+    "question": "Pjesa e sistemit nervor që konsiderohet e pavullnetshme është:",
+    "answers": [
+      "SN somatic",
+      "SN autonom",
+      "SN sensor",
+      "SN motor"
+    ],
+    "correct": 1,
+    "explanation": "Sistemi nervor autonom kontrollon funksionet e pavullnetshme."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-021",
+    "question": "Invaginimet e sarkolemës që formojnë zgjatime në formë gishtërinjsh, që depërtojnë në brendësi të fibrës muskulare quhen:",
+    "answers": [
+      "retikulum sarkoplazmik",
+      "retikulum endoplazmatik",
+      "tubujt T",
+      "filamentet e aktines"
+    ],
+    "correct": 2,
+    "explanation": "Këto invaginime quhen tubujt T (transversal)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-022",
+    "question": "Segmenti i miofibrilit i quajtur sarkomer, gjendet midis:",
+    "answers": [
+      "dy linjave Z",
+      "dy bandave A",
+      "dy zonave H",
+      "dy aktinave"
+    ],
+    "correct": 0,
+    "explanation": "Sarkomeri gjendet midis dy linjave Z."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-023",
+    "question": "Në një sinaps neuro-muskular, neuroni e çliron neurotransmetuesin në:",
+    "answers": [
+      "pllakën motore",
+      "citoplazmën e qelizës muskulare",
+      "cisternat terminale",
+      "hapësirën sinaptike"
+    ],
+    "correct": 3,
+    "explanation": "Neurotransmetuesi çlirohet në hapësirën sinaptike."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-024",
+    "question": "Një njësi motore përbëhet nga:",
+    "answers": [
+      "të gjitha fibrat muskulare brenda një muskuli të caktuar",
+      "nga një neuron motor dhe fibrat muskulare që ai kontrakton",
+      "të gjitha neuronet që inervojnë një pjesë të caktuar të trupit",
+      "një muskul dhe një nerv"
+    ],
+    "correct": 1,
+    "explanation": "Njësia motore përfshin një neuron motor dhe fibrat muskulare që ai inervon."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-025",
+    "question": "Të gjitha më poshtë janë shenja të inflamacionit përveç:",
+    "answers": [
+      "dhimbjes",
+      "skuqjes",
+      "temperatures",
+      "hypertensionit arterial"
+    ],
+    "correct": 3,
+    "explanation": "Hipertensioni arterial nuk është shenjë klasike lokale e inflamacionit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-026",
+    "question": "Një nga molekulat e mëposhtme bën të mundur që muskuli të sigurojë energjinë e nevojshme për kontraksion duke gjeneruar ATP prej ADP. Cila është ajo?",
+    "answers": [
+      "Creatinë fosfati",
+      "Fosfokinaza",
+      "Acetilkolinesteraza",
+      "Katalaza"
+    ],
+    "correct": 0,
+    "explanation": "Kreatin fosfati rigjeneron ATP nga ADP shpejt gjatë kontraksionit muskular."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-027",
+    "question": "Cila nga qelizat e mëposhtme prodhon antikorpe?",
+    "answers": [
+      "Limfocitet T",
+      "Limfocitet B",
+      "Monocitet",
+      "Fagocitet"
+    ],
+    "correct": 1,
+    "explanation": "Limfocitet B prodhojnë antikorpe."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-028",
+    "question": "Si quhen degëzimet nervore të cilat përcjellin impulsin drejt trupit të neuronit?",
+    "answers": [
+      "Aksone",
+      "Dentrite",
+      "Trupa Nissl",
+      "Neurofibrile"
+    ],
+    "correct": 1,
+    "explanation": "Dentritet përcjellin impulsin drejt trupit të neuronit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-029",
+    "question": "Sistemi nervor autonom inervon të gjitha më poshtë përveç:",
+    "answers": [
+      "muskulit kardiak",
+      "gjendrave egzokrine",
+      "muskulit skeletik",
+      "traktit tretës"
+    ],
+    "correct": 2,
+    "explanation": "SNA nuk inervon muskulin skeletik, i cili kontrollohet nga SN somatik."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-030",
+    "question": "Neurotransmetuesit të cilët rrisin permeabilitetin e membranës post sinaptike për jonet Na, dhe potencojnë impulsin nervor quhen neurotransmetues:",
+    "answers": [
+      "inhibitorë",
+      "eksitues",
+      "aktive",
+      "neutral"
+    ],
+    "correct": 1,
+    "explanation": "Neurotransmetuesit që rrisin depolarizimin quhen eksitues."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-031",
+    "question": "Pjesa fillestare e harkut reflektor është:",
+    "answers": [
+      "interneuroni",
+      "fijet efektore",
+      "receptorët ndijësor",
+      "neuroni motor"
+    ],
+    "correct": 2,
+    "explanation": "Harku reflektor fillon me receptorët ndijësorë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-032",
+    "question": "Energjia dhe efektet direkte mbi shendetin:",
+    "answers": [
+      "Jo rrezik te rendesishem profesional",
+      "Jo stres psikologjik",
+      "Ndryshime ekologjike",
+      "Jo permiresim te vaditjes"
+    ],
+    "correct": 2,
+    "explanation": "Ndryshimet ekologjike janë efekt i drejtpërdrejtë i prodhimit/përdorimit të energjisë mbi shëndetin, ndryshe nga alternativat e tjera që janë mohime."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-033",
+    "question": "Cili është rajoni i retinës që përgjigjet për mprehtësinë e pamjes?",
+    "answers": [
+      "Sclera",
+      "Lëngu qelqor",
+      "Fovea centralis",
+      "Disku optic"
+    ],
+    "correct": 2,
+    "explanation": "Fovea centralis është rajoni i mprehtësisë maksimale të shikimit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-034",
+    "question": "Shkopinjtë janë qeliza fotoreceptore që përgjigjen për:",
+    "answers": [
+      "informacionin në errësirrë",
+      "për ngjyrën dhe detajet e objekteve",
+      "informacionin në dritë të bollshme",
+      "variantet b dhe c janë të sakta"
+    ],
+    "correct": 0,
+    "explanation": "Shkopinjtë (rods) janë përgjegjës për shikimin në kushte drite të dobët/errësirë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-035",
+    "question": "Hormonet e mëposhtme çlirohen nga adenohipofiza, përveç:",
+    "answers": [
+      "FSH",
+      "TSH",
+      "ACTH",
+      "HAD"
+    ],
+    "correct": 3,
+    "explanation": "HAD (ADH) sekretohet nga hipofiza e pasme, jo nga antehipofiza."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-036",
+    "question": "Hormoni i prodhuar në kortexin e gjendrës mbiveshkore që vepron në veshkë duke mbajtur Na e duke eliminuar K, dhe që indirekt ndikon në ruajtjen e presionit arterial është:",
+    "answers": [
+      "Aldosteroni",
+      "Epinefrina",
+      "Kortizoli",
+      "Adrenalina"
+    ],
+    "correct": 0,
+    "explanation": "Aldosteroni rregullon Na dhe K në veshkë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-037",
+    "question": "Rritja e nivelit të hormoneve të tiroides në gjak jep efektet e mëposhtme, përveç:",
+    "answers": [
+      "rënie në peshë",
+      "rritje të metabolizmit bazal",
+      "rritje të debitit kardiak",
+      "rënie të metabolizmit të karbohidrateve"
+    ],
+    "correct": 3,
+    "explanation": "Hormonet tiroide RRISIN, jo ulin, metabolizmin e karbohidrateve."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-038",
+    "question": "Cila pjesë (element) i eritrocitit mund të riciklohet në palcën e kockave për prodhimin e eritrociteve të reja?",
+    "answers": [
+      "Globina",
+      "I gjithë eritrociti",
+      "Biliverdina",
+      "Hekuri"
+    ],
+    "correct": 3,
+    "explanation": "Hekuri riciklohet për prodhimin e eritrociteve të reja."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-039",
+    "question": "Cili nga përbërësit ushqimor është më i rëndësishëm për prodhimin e eritrociteve?",
+    "answers": [
+      "Ca",
+      "Na",
+      "proteinat",
+      "vitamina B12 dhe acid Folik"
+    ],
+    "correct": 3,
+    "explanation": "Vitamina B12 dhe acidi folik janë thelbësorë për eritropoezën."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-040",
+    "question": "Një person që ka bërë infarkt të muskulit të zemrës, probabilisht ka një bllokim të:",
+    "answers": [
+      "A. pulmonare",
+      "V. cava",
+      "Vv. coronare",
+      "A. coronare"
+    ],
+    "correct": 3,
+    "explanation": "Infarkti i miokardit shkaktohet nga bllokimi i arterieve koronare."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-041",
+    "question": "Valvulat atrio ventrikulare (A-V) mbyllen gjatë ciklit kardiak kur:",
+    "answers": [
+      "pace-makeri dërgon një impuls",
+      "presioni brenda atriumeve është më i madh se presioni brenda ventrikujve",
+      "ventrikujt kontraktohen",
+      "presioni në aortë është më i madh se VM"
+    ],
+    "correct": 2,
+    "explanation": "Valvulat AV mbyllen kur ventrikujt fillojnë të kontraktohen dhe presioni ventrikular tejkalon atë atrial."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-042",
+    "question": "Kompleksi QRS në ECG tregon:",
+    "answers": [
+      "depolarizim të atriumeve",
+      "depolarizim të ventrikujve para kontraksionit",
+      "repolarizim të ventrikujve",
+      "zemren në qetësi"
+    ],
+    "correct": 1,
+    "explanation": "Kompleksi QRS tregon depolarizimin e ventrikujve."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-043",
+    "question": "Mëlçia në digjestion prodhon:",
+    "answers": [
+      "enzima digjestive",
+      "lëndë alkaline për të neutralizuar aciditetin e stomakut",
+      "bilë për të emulguar yndyrnat në zorrën e hollë",
+      "substanca që ndihmojnë zorrën e trashë në absorbimin e ujit"
+    ],
+    "correct": 2,
+    "explanation": "Mëlçia prodhon bilën, e cila emulgon yndyrnat në zorrën e hollë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-044",
+    "question": "Çfarë e inicion reflexin e gëlltitjes?",
+    "answers": [
+      "Frika nga gëlltitja",
+      "Gjuha që vërtitet në gojë",
+      "Receptorët sensorë që ndiejnë ushqimin në farings",
+      "Receptorët e shijes"
+    ],
+    "correct": 2,
+    "explanation": "Refleksi i gëlltitjes fillon nga receptorët sensorë në faring."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-045",
+    "question": "Receptorët e dëgjimit vendosen në:",
+    "answers": [
+      "kanalet semicirkulare",
+      "koklea",
+      "sakula",
+      "vestibule"
+    ],
+    "correct": 1,
+    "explanation": "Receptorët e dëgjimit ndodhen në kokleë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-046",
+    "question": "Cilat qeliza të stomakut sekretojnë faktorin intrinsek?",
+    "answers": [
+      "Te mukozës",
+      "Parietale",
+      "Peptike",
+      "G"
+    ],
+    "correct": 1,
+    "explanation": "Qelizat parietale sekretojnë faktorin intrinsik."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-047",
+    "question": "Cila nga të mëposhtmet nuk është përbërje e lëngut pankreatik?",
+    "answers": [
+      "Kimotripsina",
+      "Amilaza",
+      "Bikarbonatet",
+      "Acidi klorhidrik"
+    ],
+    "correct": 3,
+    "explanation": "Acidi klorhidrik sekretohet nga stomaku, jo nga pankreasi."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-048",
+    "question": "Lipoproteina që ul tensionin sipërfaqësor të alveolave dhe i bën ato të mos kolabohen quhet:",
+    "answers": [
+      "Fosfolipid",
+      "Lipoproteinë alveolare",
+      "Surfactant",
+      "Tensinogjen"
+    ],
+    "correct": 2,
+    "explanation": "Surfaktanti ul tensionin sipërfaqësor alveolar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-049",
+    "question": "Sasia maksimale e ajrit që një person mund të expirojë pas frymëmarrjes më të thellë të mundshme është:",
+    "answers": [
+      "kapaciteti pulmonar total",
+      "vëllimi expirator reservë",
+      "vëllimi residual",
+      "vëllimi reservë inspirator"
+    ],
+    "correct": 0,
+    "explanation": "Kjo sasi maksimale përfaqëson një komponent të kapacitetit pulmonar total (vlerësuar sipas testit)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-050",
+    "question": "Imuniteti qelizor sigurohet nga:",
+    "answers": [
+      "A .makrofagët",
+      "Bazofilet",
+      "Qelizat T",
+      "Qelizat B"
+    ],
+    "correct": 2,
+    "explanation": "Imuniteti qelizor sigurohet nga limfocitet T."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-051",
+    "question": "Oksigjeni transportohet në gjak kryesisht si:",
+    "answers": [
+      "O2 i tretur në plazëm",
+      "deoksihemoglobinë",
+      "oksihemoglobinë",
+      "karbaminëhemoglobinë"
+    ],
+    "correct": 2,
+    "explanation": "Oksigjeni transportohet kryesisht si oksihemoglobinë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-052",
+    "question": "Cili nga të mëposhtmit nuk është funksion i veshkave?",
+    "answers": [
+      "Zbërthen lëndët ushqimore të ardhura me gjakun",
+      "Ndihmon në kontrollin e prodhimit të eritrociteve",
+      "Ndihmon në rregullimin e p. arterial",
+      "Rregullon përberjen, vëllimin, pH e lëngjeve të organizmit"
+    ],
+    "correct": 0,
+    "explanation": "Zbërthimi i lëndëve ushqimore është funksion i mëlçisë/traktit tretës, jo i veshkave."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-053",
+    "question": "Shendeti sipas teorise Bio-Mjekesore eshte:",
+    "answers": [
+      "Mireqenie Shpirterore",
+      "Mireqenie Fizike",
+      "Mungese e semundjes",
+      "Mireqenie mendore"
+    ],
+    "correct": 2,
+    "explanation": "Sipas modelit bio-mjekësor, shëndeti përkufizohet thjesht si mungesë e sëmundjes."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-054",
+    "question": "Shendeti sipas OBSH eshte:",
+    "answers": [
+      "Gjendja e mireqenies se plote",
+      "Mireqenie fizike dhe shpirterore",
+      "Mireqenie mendore dhe shoqerore",
+      "Mireqenie fizike, mendore dhe shoqerore"
+    ],
+    "correct": 3,
+    "explanation": "OBSH e përkufizon shëndetin si mirëqenie e plotë fizike, mendore dhe shoqërore."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-055",
+    "question": "Epidemiologjia studion:",
+    "answers": [
+      "Statistike",
+      "Higjene",
+      "Shpeshtesine e semundjeve",
+      "Metoda"
+    ],
+    "correct": 2,
+    "explanation": "Epidemiologjia studion shpeshtësinë dhe shpërndarjen e sëmundjeve."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-056",
+    "question": "Faktoret demografike kane te bejne me:",
+    "answers": [
+      "Nivelin e enzimave",
+      "Aktivitetin fizik",
+      "Grupet etnike",
+      "Grupin e gjakut"
+    ],
+    "correct": 2,
+    "explanation": "Faktorët demografikë përfshijnë karakteristika si grupet etnike, mosha, gjinia."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-057",
+    "question": "Për ribozomet nuk është e vërtetë që:",
+    "answers": [
+      "Në to kryhet sinteza e proteinave",
+      "Përmbajnë arn",
+      "Përbëhen nga subuniteti i madh dhe i vogël",
+      "S' përmbajnë proteina strukturore"
+    ],
+    "correct": 3,
+    "explanation": "Ribozomet PËRMBAJNË proteina strukturore, prandaj pohimi i kundërt është i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-058",
+    "question": "Nuk është e vërtetë që bërthama:",
+    "answers": [
+      "ka përmasa të ndryshme në qeliza të ndryshme",
+      "ka forma të ndryshme ne qeliza të ndryshme",
+      "permban material gjenetik ne trajten e adn",
+      "vendoset gjithmonë në qendër të qelizës"
+    ],
+    "correct": 3,
+    "explanation": "Bërthama nuk vendoset gjithmonë në qendër të qelizës (p.sh. te qelizat dhjamore)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-059",
+    "question": "Indi epitelial ka:",
+    "answers": [
+      "pozicion kufitar",
+      "enë gjaku",
+      "veti rigjeneruese",
+      "polaritet të theksuar në disa lloje qelizash"
+    ],
+    "correct": 0,
+    "explanation": "Karakteristika themelore e indit epitelial është pozicioni kufitar (mbulon sipërfaqe/kufij)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-060",
+    "question": "ADN:",
+    "answers": [
+      "Gjendet vetëm në bërthamë",
+      "Shoqërohen nga proteinat histone",
+      "Organizohet në kromozome",
+      "Organizohet në kromatinë"
+    ],
+    "correct": 2,
+    "explanation": "ADN-ja organizohet në kromozome, ku bashkë me histonet formon kromatinën."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-061",
+    "question": "Formimi i njëkohshëm i eritrocitit, trombocitit dhe granulociteve realizohet në:",
+    "answers": [
+      "Nyjen limfatike",
+      "Lien",
+      "Palcën e kuqe të kockave",
+      "Hepar"
+    ],
+    "correct": 2,
+    "explanation": "Hematopoeza (eritrocite, trombocite, granulocite) ndodh në palcën e kuqe të kockave."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-062",
+    "question": "Për neuronin është e gabuar që:",
+    "answers": [
+      "është njësia morfologjike dhe funksionale e indit nervor",
+      "nuk kanë aftësi të shumohen",
+      "aksonet e tij permbajne lende tigroide",
+      "dentritet janë më të shkurtër se aksoni"
+    ],
+    "correct": 2,
+    "explanation": "Lëndët tigroide (trupat Nissl) ndodhen në trupin qelizor/dendritet, jo në akson."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-063",
+    "question": "Në veshkë sintetizohen substancat e mëposhtme, përveç:",
+    "answers": [
+      "Reninës",
+      "Eritropoetinës",
+      "Aldosteronit",
+      "Angiotensinogjenit"
+    ],
+    "correct": 2,
+    "explanation": "Aldosteroni sintetizohet në kortekson e gjëndrës mbiveshkore, jo në veshkë; veshka prodhon renin dhe eritropoetinë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-064",
+    "question": "Epiteli i kavitetit oral është:",
+    "answers": [
+      "më i keratinizuari i trupit të njeriut",
+      "pseudo-shumështresor prizmatik",
+      "i mbuluar në sipërfaqe nga indi muskulor",
+      "shumështresor i sheshtë"
+    ],
+    "correct": 3,
+    "explanation": "Epiteli i kavitetit oral është shumështresor i sheshtë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-065",
+    "question": "Cili është pohim i gabuar për kompleksin Golxhi?",
+    "answers": [
+      "Vendoset përballë bërthamës",
+      "Eshtë më i shprehur në qelizat sekretore",
+      "Në to kryhet trafiku më i madh i makromolekulave",
+      "Ndërmjet tij dhe rep-it ka komunikim direkt"
+    ],
+    "correct": 3,
+    "explanation": "Komunikimi mes Golgi dhe RE bëhet nëpërmjet vezikulave, jo direkt."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-066",
+    "question": "Gjeni pohimin e gabuar në lidhje me bërthamën:",
+    "answers": [
+      "Madhësia e saj është e ndryshme në qeliza të ndryshme",
+      "Qelizat kanë gjithmonë vetëm një bërthamë",
+      "Ajo mund të gjendet në dy gjendje fizike",
+      "Kromatina është përbërja kryesore e bërthamës"
+    ],
+    "correct": 1,
+    "explanation": "Disa qeliza (p.sh. osteoklastet) mund të kenë më shumë se një bërthamë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-067",
+    "question": "Cila nga qelizat e mëposhtme nuk është autoktone në indin lidhor?",
+    "answers": [
+      "Fibroblastet",
+      "Eozinofilet",
+      "Qelizat mezenkimale",
+      "Mastocitet"
+    ],
+    "correct": 1,
+    "explanation": "Eozinofilet janë qeliza migratore, jo autoktone (rezidente) të indit lidhor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-068",
+    "question": "Për eritrocitet është e gabuar që:",
+    "answers": [
+      "kanë bërthamë",
+      "përmbajnë proteinën hemoglobinë",
+      "kanë formën e diskut bikonkav",
+      "kanë funksion transportin e oksigjenit dhe dioksidit të karbonit"
+    ],
+    "correct": 0,
+    "explanation": "Eritrocitet e pjekura NUK kanë bërthamë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-069",
+    "question": "Për eozinofilet nuk është e vërtetë që:",
+    "answers": [
+      "bëjnë pjesë në seritë granulocitare",
+      "kanë granula specifike me nuancë portokalli",
+      "kanë bërthamë të rrumbullakët",
+      "rritja e numrit të tyre quhet eozinofili"
+    ],
+    "correct": 2,
+    "explanation": "Eozinofilet kanë bërthamë bilobuar, jo të rrumbullakët."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-070",
+    "question": "Cili funksion nuk i përket neuroglisë?",
+    "answers": [
+      "Mbështetës",
+      "Ushqyes",
+      "Përcjellës",
+      "Kufizues"
+    ],
+    "correct": 2,
+    "explanation": "Funksioni përcjellës i impulsit i përket neuroneve, jo neuroglisë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-071",
+    "question": "Cilat qeliza nuk përbëjnë mukozën e kavitetit nazal?",
+    "answers": [
+      "Olfaktore",
+      "Parietale",
+      "Mbështetëse",
+      "Kaliciforme"
+    ],
+    "correct": 1,
+    "explanation": "Qelizat parietale janë të stomakut, jo të mukozës nazale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-072",
+    "question": "Në lëkurën e hollë mungon shtresa:",
+    "answers": [
+      "bazale",
+      "e shndritshme",
+      "kokrrizore",
+      "e brirëzuar"
+    ],
+    "correct": 1,
+    "explanation": "Shtresa e shndritshme (stratum lucidum) mungon në lëkurën e hollë, gjendet vetëm në atë të trashë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-073",
+    "question": "Gjeni pohimin e gabuar mbi uterusin:",
+    "answers": [
+      "Përbëhet nga tre shtresa",
+      "Eshtë vendi i implantimit të vezës së fekonduar",
+      "Epiteli i tij përbëhet nga dy shtresa",
+      "Shtresa muskulore është më e holla"
+    ],
+    "correct": 3,
+    "explanation": "Shtresa muskulore (miometri) është shtresa më e trashë e uterusit, jo më e holla."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-074",
+    "question": "Fibrocitet kanë tipar karakteristike:",
+    "answers": [
+      "Praninë e zgjatimeve të shumta citoplazmatike",
+      "Organelet citoplazmatike të zhvilluara",
+      "Formën boshtore të bërthamës",
+      "Bërthamën eukromatinike"
+    ],
+    "correct": 0,
+    "explanation": "Fibrocitet kanë zgjatime citoplazmatike të shumta, ndërsa bërthama e tyre është e vogël dhe e zgjatur."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-075",
+    "question": "Eritrocitet kanë tipar karakteristike:",
+    "answers": [
+      "gjatësinë 60-80 milimetër",
+      "ngjyrën blu të bërthamës",
+      "diametrin 7-8 mikrometër",
+      "formën bikonvekse"
+    ],
+    "correct": 2,
+    "explanation": "Eritrocitet kanë diametër tipik 7-8 mikrometër."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-076",
+    "question": "Bazofilia:",
+    "answers": [
+      "Është mungesa e qelizave bazale",
+      "Nuk ekziston sepse bazofilet përbëjnë më pak se 1% të leukociteve",
+      "Është ulja e sasise së bazofileve",
+      "Është rritje e numrit të bazofileve"
+    ],
+    "correct": 3,
+    "explanation": "Bazofilia është rritja e numrit të bazofileve në gjak."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-077",
+    "question": "Palca e kockave nuk ka funksion:",
+    "answers": [
+      "Hematoklazik",
+      "Lokomotor",
+      "Retikulo-endotelial",
+      "Hemopoetik"
+    ],
+    "correct": 1,
+    "explanation": "Palca e kockave nuk ka funksion lokomotor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-078",
+    "question": "Fijet muskulare të skeletit në prerje tërthore janë:",
+    "answers": [
+      "me formë poligonale",
+      "me pamje të vijëzuar",
+      "pa bërthamë",
+      "me bërthamë në qendër të qelizës"
+    ],
+    "correct": 0,
+    "explanation": "Fijet muskulare skeletike në prerje tërthore shfaqen me formë poligonale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-079",
+    "question": "Qelizat e mikroglisë në sistemin nervor qendror janë:",
+    "answers": [
+      "me funksion përcjellës",
+      "me origjinë nga indi muskulor",
+      "me funksion fagocitar",
+      "përbërëse të mielinës"
+    ],
+    "correct": 2,
+    "explanation": "Mikroglia ka funksion fagocitar (mbrojtje imune) në SNQ."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-080",
+    "question": "Mukoza olfaktore në kavitetin nazal mbulon:",
+    "answers": [
+      "gjithë sipërfaqen",
+      "pjesën superiore",
+      "pjesën më të madhe",
+      "pjesën inferiore"
+    ],
+    "correct": 1,
+    "explanation": "Mukoza olfaktore mbulon pjesën superiore të kavitetit nazal."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-081",
+    "question": "Gjendrat sublinguale:",
+    "answers": [
+      "prodhojnë sekrecion të përzier",
+      "prodhojnë sekrecion vetëm seroz",
+      "nuk kanë gjysmehënëza të xhianucit",
+      "kanë qeliza centroacinare"
+    ],
+    "correct": 0,
+    "explanation": "Gjëndrat sublinguale prodhojnë sekrecion të përzier (mukoz dhe seroz)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-082",
+    "question": "Në përbërje të acinusit pankreatik marrin pjesë edhe:",
+    "answers": [
+      "ishujt e Langerhansit",
+      "qelizat Sertoli",
+      "qelizat Centroacinare",
+      "qelizat Beta"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat centroacinare bëjnë pjesë në acinusin pankreatik ekzokrin."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-083",
+    "question": "Në glomerula:",
+    "answers": [
+      "Përqëndrohet urina",
+      "Ka qeliza mezangiale",
+      "Nuk ka podocite",
+      "Sintetizohet eritropoetina dhe renina"
+    ],
+    "correct": 1,
+    "explanation": "Në glomerula gjenden qelizat mezangiale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-084",
+    "question": "Në terrenet qelizore nuk nevojiten:",
+    "answers": [
+      "Kushtet aseptike",
+      "Antinflamatorët",
+      "Bujonet organike",
+      "Antibiotikët"
+    ],
+    "correct": 1,
+    "explanation": "Antiinflamatorët nuk janë komponentë të nevojshëm të terreneve (mediave) të kulturës qelizore."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-085",
+    "question": "Eutanazia pasive:",
+    "answers": [
+      "Eshte e pranueshme në stadin terminal të një sëmundje të pashërueshme",
+      "Kërkon dhënien e një sërë medikamentesh që përshpejtojnë vdekjen",
+      "Zgjat vuajtjen e pacientit",
+      "Zbatimi i saj është në kundërshtim me konceptin e së drejtës për të vdekur"
+    ],
+    "correct": 0,
+    "explanation": "Eutanazia pasive (mospërdorimi/ndërprerja e mjekimeve që zgjasin jetën) konsiderohet e pranueshme në stad terminal."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-086",
+    "question": "Ekzaminimi objektiv nga pikëpamja etike:",
+    "answers": [
+      "merr për bazë edhe faktorët psikologjikë, shumë të rëndësishëm për pacientin",
+      "është më i rëndësishëm se egzaminimi subjektiv",
+      "mund të jetë i barasvlefshëm me egzaminimin subjektiv",
+      "duhet të jetë gjithmonë i barasvlefshëm me ekzaminimin subjektiv"
+    ],
+    "correct": 2,
+    "explanation": "Ekzaminimi objektiv mund të jetë i barasvlefshëm (jo domosdoshmërisht epërsor) me atë subjektiv."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-087",
+    "question": "Në gjendjen vegjetative ndërprerja e ushqyerjes nazogastrike është e pranueshme sipas:",
+    "answers": [
+      "parimit të totalitetit",
+      "konceptit të cilësisë së jetës",
+      "konceptit të shenjtërimit të jetës",
+      "parimit të konfidencialitetit"
+    ],
+    "correct": 1,
+    "explanation": "Konceptit të cilësisë së jetës mbështet ndërprerjen e mjeteve artificiale kur jeta biologjike vazhdon pa cilësi."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-088",
+    "question": "Kujdesi mjekësor paliativ:",
+    "answers": [
+      "konsiston në zgjatjen e jetës së pacientit",
+      "vepron mbi shkakun e një sëmundjeje",
+      "përdoret në stadin terminal të një sëmundjeje të pashërueshme",
+      "përfshin vetëm terapinë psikologjike të pacientit"
+    ],
+    "correct": 2,
+    "explanation": "Kujdesi paliativ përdoret te sëmundjet terminale të pashërueshme."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-089",
+    "question": "Eutanazia pasive:",
+    "answers": [
+      "zgjat jetën e pacientit",
+      "kërkon përdorimin e terapisë intensive",
+      "zbatohet në sëmundje të pashërueshme, pavarësisht stadit të sëmundjes",
+      "refuzon teprimin terapeutik"
+    ],
+    "correct": 3,
+    "explanation": "Eutanazia pasive refuzon teprimin terapeutik (mjekim të tepërt që vetëm zgjat vuajtjen)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-090",
+    "question": "Konsenti është shprehje e parimit:",
+    "answers": [
+      "utilitarist",
+      "të pavarësisë dhe paprekshmërisë së personit",
+      "të totalitetit",
+      "konfidencialitetit"
+    ],
+    "correct": 1,
+    "explanation": "Konsenti i informuar është shprehje e parimit të autonomisë/pavarësisë së personit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-091",
+    "question": "Cila nga simptomat e mëposhtme është shenja kryesore e jatrogjenive?",
+    "answers": [
+      "Pagjumësia",
+      "Djersitja e shtuar",
+      "Dobësi e përgjithshme",
+      "Frika ( fobia) nga vdekja ose nga ndonjë sëmundje e pashërueshme"
+    ],
+    "correct": 3,
+    "explanation": "Frika/fobia nga vdekja apo sëmundja e pashërueshme është shenjë klasike e efektit jatrogjen."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-092",
+    "question": "Cila nga shprehjet e mëposhtme mbi Moralin është e gabuar?",
+    "answers": [
+      "Ka të bëjë drejtpërdrejt me veprimet që pasqyrojnë sjelljet e njerëzve",
+      "Normat janë të dhëna",
+      "Ka një domethenie më të gjerë dhe me të thellë sesa Etika",
+      "Në themel të cdo veprimi moral qëndron fjala \"duhet\""
+    ],
+    "correct": 1,
+    "explanation": "Normat morale nuk janë thjesht 'të dhëna' fikse; ato zhvillohen shoqërisht — pohimi është i gabuar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-093",
+    "question": "Mjekimi paliativ:",
+    "answers": [
+      "përdoret te një sëmundje e pakurueshme pavarësisht stadit të sëmundjes",
+      "përfshin vetëm mjekimin me barna të pacientit",
+      "ruan dinjitetin dhe pavarësinë e pacientit",
+      "përdoret tek pacientët që vuajnë nga sëmundje kronike"
+    ],
+    "correct": 0,
+    "explanation": "Mjekimi paliativ përdoret te sëmundja e pakurueshme, pavarësisht stadit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-094",
+    "question": "Koncepti i cilesisë së jetës, në rrethanat kur jeta e pacientit mbahet në kushte artificiale:",
+    "answers": [
+      "ve theksin tek ekzistenca biologjike e jetës , pavarësisht cilësisë së saj",
+      "mbështet konceptin e karakterit të shenjtë të jetës",
+      "thekson se jeta e njeriut nuk duhet të zgjatet",
+      "mbështet zgjatjen e jetës së pacientit"
+    ],
+    "correct": 2,
+    "explanation": "Koncepti i cilësisë së jetës kundërshton zgjatjen artificiale të jetës kur cilësia e saj mungon."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-095",
+    "question": "Plotësimi i detyrës së parandalimit të sëmundjeve ka çuar në konflikt me parimin e:",
+    "answers": [
+      "universalitetit",
+      "mirëbërësisë",
+      "konfidencialitetit",
+      "barazisë"
+    ],
+    "correct": 2,
+    "explanation": "Detyra e parandalimit (p.sh. raportimi i sëmundjeve) shpesh bie ndesh me ruajtjen e konfidencialitetit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-096",
+    "question": "Parimi i pavarësisë së pacientit për të refuzuar mjekimin hyn në konflikt me parimin:",
+    "answers": [
+      "utilitarist",
+      "barazisë",
+      "drejtësisë dhe paanshmërisë",
+      "mirëbërësisë"
+    ],
+    "correct": 3,
+    "explanation": "Refuzimi i mjekimit nga pacienti mund të vijë në kundërshtim me parimin e mirëbërjes (beneficencës)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-097",
+    "question": "Simptoma e hospitalitetit është karakteristike për ata pacientë, te cilët:",
+    "answers": [
+      "nuk e durojne dot varësinë nga të tjerët",
+      "e kanë të vështirë të zbatojnë regjimin e këshilluar",
+      "fillojnë të preokupohen për vetveten që të rifillojnë punën sa më parë",
+      "e pelqejnë shumë regresionin dhe duan që ta zgjasin atë pambarim"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma e hospitalizmit karakterizohet nga një dëshirë për të vazhduar në gjendjen e varësisë/regresionit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-098",
+    "question": "Në cilin rast nuk duhet të respektohet sekreti mjekësor:",
+    "answers": [
+      "Sëmundje të trashëguara",
+      "Somnambulizmi",
+      "Disa sëmundje të rënda infektive",
+      "Enuresis nokturna"
+    ],
+    "correct": 2,
+    "explanation": "Sëmundjet e rënda infektive raportueshme përbëjnë përjashtim ligjor nga sekreti mjekësor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-099",
+    "question": "Cili nga pohimet mbi Fatkeqësinë mjekësore është i gabuar?",
+    "answers": [
+      "Eshte e lidhur me sëmundje të rënda të pacientit",
+      "Vjen si pasojë e veçorive individuale të organizmit",
+      "Vjen si pasojë e një gabimi apo pakujdesie të njeriut të shëndetësisë",
+      "Eshtë pasojë e ndërlikimeve gjatë proçedurave të ndryshme mjekësore"
+    ],
+    "correct": 1,
+    "explanation": "Fatkeqësia mjekësore nuk vjen nga veçoritë individuale të organizmit të pacientit, por nga gabime/ndërlikime të procesit mjekësor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-100",
+    "question": "Jatrogjenitë mund të njihen ndryshe dhe si:",
+    "answers": [
+      "gabime diagnostike",
+      "fatkeqësi mjekësore",
+      "sëmundje sugjestionuese në mjekësi",
+      "gabime terapeutike"
+    ],
+    "correct": 2,
+    "explanation": "Jatrogjenitë njihen ndryshe si 'sëmundje sugjestionuese në mjekësi'."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-101",
+    "question": "Lëvizja \"Hospike\" iu ofron ndihmë:",
+    "answers": [
+      "të sëmurëve kronikë",
+      "pacientëve me nivel të ulët ekonomik",
+      "të sëmurëve të pashpresë për jetën",
+      "të sëmurëve handikapatë"
+    ],
+    "correct": 2,
+    "explanation": "Lëvizja Hospis ofron kujdes për të sëmurët terminalë (të pashpresë)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-102",
+    "question": "Tek pacientet e moshuar ka:",
+    "answers": [
+      "shtim të perceptimit të dhimbjes",
+      "ulje të pragut të dhimbjes",
+      "dhimbje atipike",
+      "rigjenerim të neuroneve në palcën shpinore"
+    ],
+    "correct": 2,
+    "explanation": "Pacientët e moshuar shpesh paraqesin dhimbje atipike (manifestim jo tipik)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-103",
+    "question": "Testamenti i jetës:",
+    "answers": [
+      "i paraprin përdorimit të eutanazinë aktive",
+      "shkruhet nga pacienti në momentet e fundit të jetës së tij",
+      "hyn në fuqi pas vdekjes së pacientit",
+      "mbështetet në zbatimin e konsentit"
+    ],
+    "correct": 3,
+    "explanation": "Testamenti i jetës mbështetet mbi parimin e konsentit/vullnetit të shprehur të pacientit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-104",
+    "question": "Pranimi zyrtar i Eutanazisë aktive do të rritë mundësitë për:",
+    "answers": [
+      "kërkime në fushën e mjekësisë paliative",
+      "zbulimin e ndonjë medikamenti të ri për shpëtimin e pacientit",
+      "abuzime të ndryshme me pacientët",
+      "përjashtimin e ndonjë diagnoze të gabuar në lidhje me pacientin"
+    ],
+    "correct": 2,
+    "explanation": "Kundërshtarët e legalizimit argumentojnë se kjo rrit rrezikun për abuzim me pacientët e cenueshëm."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-105",
+    "question": "Gabimet mjekësore të shkaktuara nga vetë njerëzit e shëndetësisë quhen:",
+    "answers": [
+      "gabime diagnostike",
+      "jatrogjeni",
+      "gabime tekniko- kuruese",
+      "gabime taktiko- kuruese"
+    ],
+    "correct": 1,
+    "explanation": "Gabimet e shkaktuara nga vetë personeli shëndetësor njihen si jatrogjeni."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-106",
+    "question": "Cila nga shprehjet e mëposhtme në lidhje me dashjen kriminale është e gabuar?",
+    "answers": [
+      "Bën pjesë ne Shkeljet e Kodit Penal",
+      "Quhet krim mjekësor",
+      "Bën pjesë ne shkeljet e Kodit Deontologjik",
+      "Kryhet me qëllim nga njeriu i shëndetësisë"
+    ],
+    "correct": 2,
+    "explanation": "Dashja kriminale bën pjesë në shkeljet e Kodit Penal, jo thjesht të Kodit Deontologjik."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-107",
+    "question": "Në dhimbjen akute pacienti:",
+    "answers": [
+      "flet për dhimbjen vetëm po të pyetet",
+      "është i përqendruar në dhimbje",
+      "interesohet më tepër për probleme të tjera sesa për dhimbjen",
+      "ka shprehje normale të fytyrës"
+    ],
+    "correct": 1,
+    "explanation": "Në dhimbjen akute, pacienti është i përqendruar/i fokusuar te vetë dhimbja."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-108",
+    "question": "Në dhimbjen kronike pacienti:",
+    "answers": [
+      "shfaq grimasa në fytyrë",
+      "flet shumicën e kohës për dhimbjen",
+      "qan dhe rënkon gjithë kohën nga dhimbja",
+      "ka shenja depresioni"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbja kronike shoqërohet shpesh me shenja depresioni."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-109",
+    "question": "Komisionet disiplinore:",
+    "answers": [
+      "jane organe keshillimi prane drejtorive,",
+      "merren me shqyrtimin e e shkeljeve te etikes nga ana e infermierit,",
+      "marrin vendime per anetaresimin e infermiereve ne Urdhrin e Infermierit,",
+      "asnjera nga alternativat e mesiperme."
+    ],
+    "correct": 1,
+    "explanation": "Komisionet disiplinore shqyrtojnë shkeljet e etikës nga infermierët."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-110",
+    "question": "Ligji i nje shteti vepron:",
+    "answers": [
+      "ne te gjithe territorin e atij shteti,",
+      "ne ate shtet dhe ne shtete afer tij,",
+      "vetem ne siperfaqen tokesore te shtetit,",
+      "vetem ne hapesiren ajrore."
+    ],
+    "correct": 0,
+    "explanation": "Ligji i një shteti vepron në gjithë territorin e tij (tokësor, ajror, ujor)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-111",
+    "question": "Sigurimet shoqerore jane:",
+    "answers": [
+      "pagese personale",
+      "detyrim administrativ",
+      "i paguajne vetem pensionistet",
+      "asnje nga alternativat me siper"
+    ],
+    "correct": 0,
+    "explanation": "Sigurimet shoqërore janë pagesë personale e detyrueshme."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-112",
+    "question": "Tabletat janë:",
+    "answers": [
+      "ekstrakte alkolike",
+      "pluhura te komprimuara ne makineri te posaçme",
+      "forma farmaceutike të buta që përdoren për lyerjen e lëkurës",
+      "tretësira ujore që përdoren me anë të aparateve të posaçme"
+    ],
+    "correct": 1,
+    "explanation": "Tabletat janë pluhura të komprimuara në makineri të posaçme."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-113",
+    "question": "Rrugë natyrale e marrjes se barit është:",
+    "answers": [
+      "Subkutane",
+      "Intramuskulare",
+      "Intravenoze",
+      "Inhalatore"
+    ],
+    "correct": 3,
+    "explanation": "Ndër rrugët e listuara, rruga inhalatore konsiderohet më 'natyrale' krahasuar me rrugët invazive parenterale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-114",
+    "question": "Gjate administrimit te barit me rrugë intravenoze:",
+    "answers": [
+      "efekti i barit është i ngadaltë",
+      "efekti i barit është i kontrollueshem",
+      "nuk mund te japim sasi te madhe bari",
+      "reaksionet anafilaktike jane me te lehta"
+    ],
+    "correct": 1,
+    "explanation": "Administrimi intravenoz jep efekt shpejt dhe të kontrollueshëm (mund të rregullohet doza/shpejtësia)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-115",
+    "question": "Gjate administrimit te barit me rrugë intramuskulare vendi me I shpeshte I aplikimit të injeksionit ne femijet e vegjel eshte muskuli:",
+    "answers": [
+      "deltoid",
+      "ventrogluteal",
+      "dorsogluteal",
+      "vastus lateralis"
+    ],
+    "correct": 3,
+    "explanation": "Muskuli vastus lateralis është vendi më i shpeshtë i injeksionit IM tek fëmijët e vegjël."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-116",
+    "question": "Takifilaksia është:",
+    "answers": [
+      "intolerance e lindur e organizmit ndaj nje bari te caktuar",
+      "fenomeni I mbarimit te shpejte te efektit te nje bari ndonese administrimi I tij vazhdon",
+      "forme e veçante e ambientimit",
+      "ndjeshmeria e rritur e fituar e organizmit nga marrja e perseritur e barnave"
+    ],
+    "correct": 1,
+    "explanation": "Takifilaksia është humbja e shpejtë e efektit të një bari edhe pse administrimi vazhdon."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-117",
+    "question": "Adrenomimetiket shkaktojne:",
+    "answers": [
+      "Mioze",
+      "Ngushtim te bronkeve",
+      "Rritje te levizshmerine se zorreve",
+      "Nxitje te sistemit nervor qendror"
+    ],
+    "correct": 3,
+    "explanation": "Adrenomimetikët nxisin sistemin nervor qendror (shkaktojnë midriazë, bronkodilatacion, jo efektet e kundërta)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-118",
+    "question": "Adrenomimetiket nuk duhen dhene ne te semuret:",
+    "answers": [
+      "Astmatike",
+      "Bradikardike",
+      "Me arrest kardiak",
+      "Hipertonike"
+    ],
+    "correct": 3,
+    "explanation": "Adrenomimetikët janë të kundërindikuar te pacientët hipertonikë (rrisin presionin arterial)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-119",
+    "question": "Adrenalina nuk duhet kombinuar me:",
+    "answers": [
+      "Betablokuesit",
+      "Analgjeziket opioide",
+      "Benzodiazepinat",
+      "Barbiturate"
+    ],
+    "correct": 0,
+    "explanation": "Kombinimi i adrenalinës me beta-bllokues mund të shkaktojë hipertension të rrezikshëm (efekt alfa i papenguar)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-120",
+    "question": "Alfa-adrenobllokuesit perdoren per mjekimin e:",
+    "answers": [
+      "Hipotensionit",
+      "Takikardise",
+      "Isuficiences kardiake",
+      "Depresionit"
+    ],
+    "correct": 2,
+    "explanation": "Alfa-bllokuesit janë përdorur historikisht si pjesë e trajtimit të insuficiencës kardiake (reduktim i pasngarkesës)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-121",
+    "question": "Efekti anesor kryesor i alfa-adrenobllokuesve eshte:",
+    "answers": [
+      "Hypotensioni I theksuar postural",
+      "Retensioni urinar",
+      "Diareja",
+      "Dhimbje artikulare"
+    ],
+    "correct": 0,
+    "explanation": "Alfa-bllokuesit shkaktojnë hipotension postural të theksuar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-122",
+    "question": "Beta-bllokuesit perdoren per mjekimin e:",
+    "answers": [
+      "Podagres",
+      "Diabetit",
+      "Takiaritmive",
+      "Bronkitit kronik"
+    ],
+    "correct": 2,
+    "explanation": "Beta-bllokuesit përdoren për trajtimin e takiaritmive."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-123",
+    "question": "Beta-bllokuesit kunderindikohen ne:",
+    "answers": [
+      "Insuficiencen kardiake",
+      "Hypertension",
+      "Takikardi",
+      "Ne semundjen migrenoze"
+    ],
+    "correct": 0,
+    "explanation": "Beta-bllokuesit kundërindikohen (me kujdes të veçantë) në insuficiencën kardiake akute të dekompensuar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-124",
+    "question": "Kolinomimetiket shkaktojnë:",
+    "answers": [
+      "Midriaze",
+      "Ulin djersitjen",
+      "Bradikardi",
+      "Bronkodilatacion"
+    ],
+    "correct": 2,
+    "explanation": "Kolinomimetikët shkaktojnë bradikardi (stimulim parasimpatik)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-125",
+    "question": "Kolinomimetiket perdoren per mjekimin e:",
+    "answers": [
+      "Glaukomes",
+      "Astmes bronkiale",
+      "Bradikardive",
+      "Diareve acute"
+    ],
+    "correct": 0,
+    "explanation": "Kolinomimetikët përdoren në trajtimin e glaukomës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-126",
+    "question": "Kolinomimetiket kunderindikohen ne:",
+    "answers": [
+      "Bradikardi",
+      "Retensionin urinar",
+      "Hipertireoze",
+      "Artritin rheumatoid"
+    ],
+    "correct": 2,
+    "explanation": "Kolinomimetikët kundërindikohen në hipertireozë (rrezik aritmish), si edhe në astmë dhe ulçerë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-127",
+    "question": "M-kolinobllokuesit shkaktojne:",
+    "answers": [
+      "Mioze",
+      "Shtim te sekrecioneve bronkiale",
+      "Bronkodilatacion",
+      "Bradikardi"
+    ],
+    "correct": 2,
+    "explanation": "M-kolinobllokuesit (antikolinergjikët) shkaktojnë bronkodilatacion."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-128",
+    "question": "M-kolinobllokuesit perdoren per mjekimin e:",
+    "answers": [
+      "Kolikes renale",
+      "Glaukomes",
+      "Hipertrofise se prostates",
+      "Hipertermise"
+    ],
+    "correct": 0,
+    "explanation": "M-kolinobllokuesit (antispazmatikë) përdoren në kolikën renale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-129",
+    "question": "M-kolinobllokuesit kunderindikohen ne:",
+    "answers": [
+      "Ulceren peptike",
+      "Parkinson",
+      "Bradikardi",
+      "Atonite intenstinale"
+    ],
+    "correct": 3,
+    "explanation": "M-kolinobllokuesit kundërindikohen në atoni intestinale, pasi do ta përkeqësonin më tej lëvizshmërinë e zorrëve."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-130",
+    "question": "Efekti anesor kryesor qe vihet re gjate perdorimit te miorelaksanteve është:",
+    "answers": [
+      "Apnea",
+      "Hipertensioni",
+      "Hipernatremia",
+      "Hipotermia"
+    ],
+    "correct": 0,
+    "explanation": "Efekti anësor kryesor i rrezikshëm i miorelaksantëve është apnea (paralizë respiratore)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-131",
+    "question": "Morfina shkakton:",
+    "answers": [
+      "Midriaze",
+      "Frenim te qendres se frymemarrjes",
+      "Shton oreksin",
+      "Diare"
+    ],
+    "correct": 1,
+    "explanation": "Morfina shkakton frenim (depresion) të qendrës respiratore."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-132",
+    "question": "Aspirina perdoret per mjekimin e:",
+    "answers": [
+      "Ethes reumatizmale",
+      "Per uljen e temperatures ne moshat pediatrike",
+      "Insuficiences renale",
+      "Parkinsonit"
+    ],
+    "correct": 0,
+    "explanation": "Aspirina përdoret klasikisht në trajtimin e ethes reumatizmale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-133",
+    "question": "Aspirina kunderindikohet ne:",
+    "answers": [
+      "Hipertension",
+      "Uljen e temperatures",
+      "Dhimbjet e kokes",
+      "Ulceren gastro-duodenale"
+    ],
+    "correct": 3,
+    "explanation": "Aspirina kundërindikohet në ulçerën gastro-duodenale (rrit riskun e hemoragjisë)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-134",
+    "question": "Bari i zgjedhur per mjekimin e atakut gutoz është:",
+    "answers": [
+      "Allopurinoli",
+      "Probenicidi",
+      "Sulfipirazoni",
+      "Kolkicina"
+    ],
+    "correct": 3,
+    "explanation": "Kolkicina është bari klasik i zgjedhur për atakun akut gutoz."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-135",
+    "question": "Cili nga keto barna anestezik jep rritje te tensionit arterial?",
+    "answers": [
+      "Tiopentali",
+      "Midazolami",
+      "Ketamina",
+      "Fentanyli"
+    ],
+    "correct": 2,
+    "explanation": "Ketamina rrit tensionin arterial dhe frekuencën kardiake (efekt simpatikomimetik)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-136",
+    "question": "Benzodiazepinat shfaqin efekt:",
+    "answers": [
+      "Eksitues",
+      "Hipertensiv",
+      "Myorelaksant",
+      "Anksioz"
+    ],
+    "correct": 3,
+    "explanation": "Benzodiazepinat kanë efekt anksiolitik (qetësojnë ankthin), si edhe hipnotik, miorelaksant dhe antikonvulsiv."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-137",
+    "question": "Barbiturate kunderindikohen ne:",
+    "answers": [
+      "Epilepsi",
+      "Porfiri",
+      "Hypertension",
+      "Takikardi"
+    ],
+    "correct": 1,
+    "explanation": "Barbituratet kundërindikohen në porfiri (mund të precipitojnë kriza)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-138",
+    "question": "Bari i zgjedhur per mjekimin e statusit epileptic është:",
+    "answers": [
+      "Acidi Valproik",
+      "Karbamazepina",
+      "Diazepami",
+      "Trimetadioni"
+    ],
+    "correct": 2,
+    "explanation": "Diazepami është bari i zgjedhur për statusin epileptik akut."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-139",
+    "question": "Antipsikotiket kunderindikohen ne:",
+    "answers": [
+      "Parkinson",
+      "Alzheimer",
+      "Skizofreni",
+      "Ne pacientet me te vjella"
+    ],
+    "correct": 0,
+    "explanation": "Antipsikotikët kundërindikohen në sëmundjen Parkinson (përkeqësojnë simptomat ekstrapiramidale)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-140",
+    "question": "Kriperat e litiumit perdoren per mjekimin e:",
+    "answers": [
+      "Epilepsise",
+      "Parkinsonit",
+      "Gjendjes maniakale",
+      "Miastenise grave"
+    ],
+    "correct": 2,
+    "explanation": "Kripërat e litiumit përdoren për trajtimin e gjendjes maniakale (çrregullimi bipolar)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-141",
+    "question": "Kofeina perdoret per mjekimin e:",
+    "answers": [
+      "Insuficiences acute cirkulatore",
+      "Hipertensionit",
+      "Takikardise",
+      "Hipertireoze"
+    ],
+    "correct": 0,
+    "explanation": "Kofeina përdoret si stimulues në insuficiencën akute cirkulatore."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-142",
+    "question": "Glukozidet kardiake perdoren per mjekimin e:",
+    "answers": [
+      "Hipertensionit",
+      "Insuficiences kardiake",
+      "Fibrilacionit ventricular",
+      "Perikarditit adeziv"
+    ],
+    "correct": 1,
+    "explanation": "Glukozidet kardiake (digoksina) përdoren në insuficiencën kardiake."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-143",
+    "question": "Glukozidet kardiake kunderindikohen ne:",
+    "answers": [
+      "Flaterin atrial",
+      "Fibrilacionin atrial",
+      "Infarktin e miokardit",
+      "Takikardine paroksizmale supraventrikulare"
+    ],
+    "correct": 3,
+    "explanation": "Glukozidet kardiake (digoksina) kundërindikohen në takikardinë paroksizmale supraventrikulare."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-144",
+    "question": "Bari qe preferohet ne aritmite e shkaktuara nga helmimi me digitalike është:",
+    "answers": [
+      "Verapamili",
+      "Amidaroni",
+      "Difedani",
+      "Lidokaina"
+    ],
+    "correct": 3,
+    "explanation": "Në aritmitë nga helmimi me digitalike përdoret lidokaina, që nuk e rëndon përçueshmërinë atrioventrikulare."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-145",
+    "question": "Cili nga barnat kalcibllokues mund te perdoret edhe si antiaritmik?",
+    "answers": [
+      "Nifedipina",
+      "Verapamili",
+      "Amlodipina",
+      "Nikardipina"
+    ],
+    "correct": 1,
+    "explanation": "Verapamili, ndryshe nga kalcibllokuesit e tjerë, ka edhe veti antiaritmike."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-146",
+    "question": "Diuretiket tiazidike kunderindikohen ne:",
+    "answers": [
+      "Hipertoni",
+      "Insuficiencen renale",
+      "Edemen kardiake",
+      "Edemen hepatike"
+    ],
+    "correct": 1,
+    "explanation": "Diuretikët tiazidikë humbin efektshmëri/kundërindikohen në insuficiencën renale të avancuar."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-147",
+    "question": "Kufizimi i proteinave rekomandohet ne:",
+    "answers": [
+      "shtatzeni",
+      "semundjet e veshkave",
+      "diabet mellitus",
+      "semundjet e tiroides"
+    ],
+    "correct": 1,
+    "explanation": "Kufizimi proteinik rekomandohet në sëmundjet renale (për të reduktuar ngarkesën azotike)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-148",
+    "question": "Kufizimi i yndyrnave rekomandohet ne:",
+    "answers": [
+      "steatozen hepatike",
+      "diabetin mellitus",
+      "cirrozen hepatike",
+      "nenpeshe"
+    ],
+    "correct": 0,
+    "explanation": "Kufizimi i yndyrnave rekomandohet në steatozën (mëlçinë dhjamore)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-149",
+    "question": "Proteinat duhet te zene ne kalorazhin ditor:",
+    "answers": [
+      "30%",
+      "50%",
+      "20%",
+      "40%"
+    ],
+    "correct": 1,
+    "explanation": "Karbohidratet rekomandohen të zënë rreth 50% të kalorazhit ditor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-150",
+    "question": "Konstitucioni android karakterizohet nga:",
+    "answers": [
+      "A.perimetri abdominal = perimetri gluteal",
+      "perimetri abdominal > perimeti gluteal",
+      "perimetri torakal>perimetri gluteal",
+      "perimetri gluteal>perimetri abdominal"
+    ],
+    "correct": 1,
+    "explanation": "Në konstitucionin android (në formë molle), perimetri abdominal është më i madh se ai gluteal."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-151",
+    "question": "Obeziteti eshte pjese e:",
+    "answers": [
+      "Sindromit metabolik",
+      "Sindromit nefrotik",
+      "Sindromit koronar akut",
+      "Sindromit radikular"
+    ],
+    "correct": 0,
+    "explanation": "Obeziteti është një komponent kryesor i sindromit metabolik."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-152",
+    "question": "Veza permban me teper:",
+    "answers": [
+      "Yndyrna",
+      "Fibra",
+      "Proteina",
+      "Karbohidrate"
+    ],
+    "correct": 2,
+    "explanation": "Veza është burim kryesor proteinash me vlerë biologjike të lartë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-153",
+    "question": "Kalorazhi ditor per nje peshe ideale tek meshkujt varion:",
+    "answers": [
+      "2000-2500 kal/dite",
+      "1500-2000 kal/dite",
+      "2500-3000 kal/dite",
+      "2000-3000 kal/dite"
+    ],
+    "correct": 2,
+    "explanation": "Kalorazhi ditor për meshkujt me peshë ideale varion rreth 2500-3000 kalori."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-154",
+    "question": "Lipidet duhet te zene ne kalorazhin ditor:",
+    "answers": [
+      "70%",
+      "20%",
+      "30%",
+      "10%"
+    ],
+    "correct": 2,
+    "explanation": "Lipidet rekomandohen të zënë rreth 30% të kalorazhit ditor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-155",
+    "question": "Magneziumi gjendet me shumice tek:",
+    "answers": [
+      "peshku",
+      "bulmeti",
+      "dritherat",
+      "perimet"
+    ],
+    "correct": 2,
+    "explanation": "Drithërat (integrale) janë burim i pasur me magnez."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-156",
+    "question": "BMI = 23 shpreh:",
+    "answers": [
+      "mbipeshe",
+      "obezitet",
+      "peshe ideale",
+      "nenpeshe"
+    ],
+    "correct": 2,
+    "explanation": "BMI 23 bie brenda intervalit normal (peshë ideale)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-157",
+    "question": "Jodi gjendet me pak tek:",
+    "answers": [
+      "portokalli",
+      "veza",
+      "geshtenja",
+      "lakra"
+    ],
+    "correct": 2,
+    "explanation": "Gështenja përmban më pak jod krahasuar me ushqimet e tjera të listuara."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-158",
+    "question": "Obeziteti morbid i korrespondon:",
+    "answers": [
+      "BMI = 30",
+      "BMI = 25",
+      "BMI > 40",
+      "BMI > 35"
+    ],
+    "correct": 2,
+    "explanation": "Obeziteti morbid përkufizohet zakonisht si BMI mbi 40."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-159",
+    "question": "Konstipacioni tregon deficit ne:",
+    "answers": [
+      "proteina",
+      "yndyrna",
+      "vitamina",
+      "fibra"
+    ],
+    "correct": 3,
+    "explanation": "Kapsllëku lidhet me deficit të fibrave në dietë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-160",
+    "question": "Obeziteti eshte i shpeshte ne:",
+    "answers": [
+      "diabetin mellitus tip 2",
+      "bulimi",
+      "HTA",
+      "depression"
+    ],
+    "correct": 0,
+    "explanation": "Obeziteti është shumë i lidhur me diabetin mellitus tip 2."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-161",
+    "question": "Pacientet me kalkuloze renale duhet te kufizojne me teper:",
+    "answers": [
+      "lengjet",
+      "proteinat",
+      "bulmetin",
+      "frutat"
+    ],
+    "correct": 1,
+    "explanation": "Pacientët me kalkulozë renale këshillohen të kufizojnë proteinat (dhe oksalatet/натриумin), jo lëngjet (të cilat inkurajohen)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-162",
+    "question": "Grate shtatzana nenpeshe duhet te respektojne kalorazhin ditor:",
+    "answers": [
+      "te njejte me shtatzanat me peshe normale",
+      "dyfishin e kalorazhit normal",
+      "ne varesi te BMI",
+      "ne varesi te gjatesise trupore"
+    ],
+    "correct": 2,
+    "explanation": "Kalorazhi ditor për gratë shtatzëna nënpeshë përcaktohet në varësi të BMI-së."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-163",
+    "question": "Acidi folik eshte i domosdoshem ne:",
+    "answers": [
+      "menopauze",
+      "pubertet",
+      "shtatzani",
+      "periudhen pas lindjes"
+    ],
+    "correct": 2,
+    "explanation": "Acidi folik është kritik gjatë shtatzanisë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-164",
+    "question": "Karbohidratet duhet te zene ne kalorazhin ditor:",
+    "answers": [
+      "50%",
+      "30%",
+      "20%",
+      "10%"
+    ],
+    "correct": 0,
+    "explanation": "Karbohidratet rekomandohen të zënë rreth 50% të kalorazhit ditor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-165",
+    "question": "Vegjetarianet preken me shpesh nga:",
+    "answers": [
+      "semundjet kardio-vaskulare",
+      "anemia",
+      "obeziteti",
+      "diabeti mellitus"
+    ],
+    "correct": 1,
+    "explanation": "Vegjetarianët kanë risk më të lartë për anemi (mungesë hekuri/B12)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-166",
+    "question": "Kalorazhi ditor per nje peshe ideale tek femrat varion:",
+    "answers": [
+      "2000-2500 kal/dite",
+      "1500-2000 kal/dite",
+      "2500-3000 kal/dite",
+      "2000-3000 kal/dite"
+    ],
+    "correct": 0,
+    "explanation": "Kalorazhi ditor për femrat me peshë ideale varion rreth 2000-2500 kalori."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-167",
+    "question": "Cili frut u rekomandohet me teper personave me mbipeshe:",
+    "answers": [
+      "molla jeshile",
+      "manaferrat",
+      "banane",
+      "kivi"
+    ],
+    "correct": 0,
+    "explanation": "Molla jeshile rekomandohet për personat me mbipeshë (fibra e larta, sheqer i ulët)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-168",
+    "question": "Konstitucioni genoid karakterizohet nga:",
+    "answers": [
+      "perimetri abdominal<perimetri gluteal",
+      "perimetri abdominal=perimeti gluteal",
+      "perimetri torakal>perimetri gluteal",
+      "perimetri gluteal<perimetri abdominal"
+    ],
+    "correct": 0,
+    "explanation": "Në konstitucionin genoid (në formë dardhe), perimetri gluteal është më i madh se ai abdominal."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-169",
+    "question": "Nje person me BMI 35 duhet t`i nenshtrohet nje diete:",
+    "answers": [
+      "hypokalorike me 2400 kalori",
+      "hypokalorike me 1400 kalori",
+      "hypokalorike me 1000 kalori",
+      "hypokalorike me 3000 kalori"
+    ],
+    "correct": 1,
+    "explanation": "Për BMI 35, rekomandohet dietë hipokalorike e moderuar (rreth 1400 kalori)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-170",
+    "question": "Personat me hypertension arterial duhet te kufizojne:",
+    "answers": [
+      "proteinat",
+      "perimet",
+      "mishin",
+      "kripen ne ushqim"
+    ],
+    "correct": 3,
+    "explanation": "HTA kërkon kufizim të marrjes së kripës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-171",
+    "question": "Ngrenia e tepert e karbohidrateve mund te shkaktoje:",
+    "answers": [
+      "diabet te sheqerit",
+      "mbipeshe",
+      "te vjella",
+      "diarre"
+    ],
+    "correct": 0,
+    "explanation": "Marrja e tepërt e karbohidrateve ngarkon pankreasin dhe mund të çojë në diabet të sheqerit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-172",
+    "question": "Kalorazh me te madh per njesi grami kane:",
+    "answers": [
+      "yndyrnat",
+      "kriperat minerale",
+      "karbohidratet",
+      "proteinat"
+    ],
+    "correct": 0,
+    "explanation": "Yndyrnat kanë kalorazhin më të lartë për gram (9 kcal/g)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-173",
+    "question": "Yndyrnat bimore jane te pasura me:",
+    "answers": [
+      "acide yndyrore te pangopura",
+      "kolesterol",
+      "trigliceride",
+      "acide yndyrore te ngopura"
+    ],
+    "correct": 0,
+    "explanation": "Yndyrnat bimore janë të pasura me acide yndyrore të pangopura."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-174",
+    "question": "BMI = 17 shpreh:",
+    "answers": [
+      "mbipeshe",
+      "obezitet",
+      "peshe ideale",
+      "nenpeshe"
+    ],
+    "correct": 2,
+    "explanation": "BMI 23 bie brenda intervalit normal (peshë ideale)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-175",
+    "question": "Cili frut u rekomandohet me teper diabetikeve?",
+    "answers": [
+      "rrushi",
+      "molla",
+      "fiku",
+      "portokalli"
+    ],
+    "correct": 1,
+    "explanation": "Molla ka indeks glicemik më të ulët dhe rekomandohet më shpesh diabetikëve."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-176",
+    "question": "Kalorazhi ditor i grave shtatzana eshte:",
+    "answers": [
+      "i njejte me grate normale",
+      "me i vogel se grate normale",
+      "me i madh se grate normale",
+      "varet nga BMI e gruas ne fillim te shtatzanise"
+    ],
+    "correct": 3,
+    "explanation": "Kaloritë ditore të shtatzanës varen nga BMI e saj në fillim të shtatzanisë, jo nga një shtesë e njëjtë për të gjitha."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-177",
+    "question": "Rritja e yndyrnave ne gjak shkaktohet nga konsumimi me teper i:",
+    "answers": [
+      "mishit te vicit",
+      "mishit te pules",
+      "mishit te qingjit",
+      "peshkut te liqenit"
+    ],
+    "correct": 2,
+    "explanation": "Mishi i qingjit ka përmbajtje të lartë yndyrnash të ngopura."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-178",
+    "question": "Konsumimi i tepert i bulmetit mund te shkaktoje:",
+    "answers": [
+      "osteoporoze",
+      "rakitizem",
+      "gure ne rruget urinare",
+      "obezitet"
+    ],
+    "correct": 2,
+    "explanation": "Konsumimi i tepërt i bulmetit (kalciumi) mund të favorizojë formimin e gurëve urinarë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-179",
+    "question": "Marrja e proteinave zakonisht rekomandohet ne:",
+    "answers": [
+      "semundjet e gjakut",
+      "pubertet",
+      "semundjet e kockave",
+      "semundjet e mushkerive"
+    ],
+    "correct": 1,
+    "explanation": "Nevojat proteinike rriten gjatë pubertetit për shkak të rritjes së shpejtë."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-180",
+    "question": "Konsumimi i peshkut kufizohet gjate:",
+    "answers": [
+      "shtatzanise",
+      "pubertetit",
+      "menopauzes",
+      "laktacionit"
+    ],
+    "correct": 0,
+    "explanation": "Konsumimi i disa llojeve peshku kufizohet gjatë shtatzanisë (rrezik merkuri)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-181",
+    "question": "Vitamina E rekomandohet ne:",
+    "answers": [
+      "dhimbjet e kokes",
+      "renien e flokeve",
+      "anemi",
+      "osteoporoze"
+    ],
+    "correct": 1,
+    "explanation": "Vitamina E rekomandohet për rënien e flokëve (efekt antioksidant)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-182",
+    "question": "Regjimi ushqimor per nje peshe ideale duhet te permbaje:",
+    "answers": [
+      "3 vakte/dite",
+      "4 vakte/dite",
+      "5-6 vakte te vogla/dite",
+      "3 vakte te medha dhe 3 vakte te vogla/dite"
+    ],
+    "correct": 2,
+    "explanation": "Rekomandohen 5-6 vakte të vogla në ditë për mbajtjen e peshës ideale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-183",
+    "question": "Karbohidratet e keqia permbahen me me shumice tek:",
+    "answers": [
+      "buka",
+      "perimet",
+      "dritherat",
+      "frutat"
+    ],
+    "correct": 0,
+    "explanation": "Buka (e bardhë, e rafinuar) është burim tipik i karbohidrateve 'të këqija'."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-184",
+    "question": "Studimi deskriptive:",
+    "answers": [
+      "Ben vetem pershkrimin e gjerave,",
+      "Nuk perdoret per studimin e ekspozimeve,",
+      "Nuk perdoret per studimin e efekteve,",
+      "Perdoret vetem per ekspozimet,"
+    ],
+    "correct": 0,
+    "explanation": "Studimet deskriptive bëjnë vetëm përshkrimin e gjendjes, pa testuar hipoteza shkakësore."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-185",
+    "question": "Studimet ekologjike:",
+    "answers": [
+      "Njesia e anelizes eshte individi,",
+      "Jane te dobishme per gjenerimin e hipotezave,",
+      "Vleresohen te plota per percaktimin e shkakesise,",
+      "Jane te kushtueshme,"
+    ],
+    "correct": 1,
+    "explanation": "Studimet ekologjike janë të dobishme për gjenerimin e hipotezave (jo për të provuar shkakësi)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-186",
+    "question": "Kontrolli i ekspozimit ndaj Faktoreve Demtues ne nivel personi:",
+    "answers": [
+      "Duhet menduar si zgjidhja kryesore,",
+      "Lidhet me numrin e personave te ekspozuar,",
+      "Nuk ka te beje me rregullimin e kohes se ekspozimit,",
+      "Nuk ka te beje me nderrimin e detyrave,"
+    ],
+    "correct": 1,
+    "explanation": "Kontrolli në nivel personi lidhet me numrin e personave të ekspozuar ndaj rrezikut."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-187",
+    "question": "Indikatoret per monitorimin e riskut:",
+    "answers": [
+      "Nuk ka vlere besueshmeria,",
+      "Nuk eshte e rendesishme lehtesia e matjes,",
+      "Nuk duhet te jene te lidhur ngushte me risqet,",
+      "Duhet te shfaqen shpejt pas ekspozimit"
+    ],
+    "correct": 3,
+    "explanation": "Indikatorët e mirë të monitorimit të riskut duhet të shfaqen shpejt pas ekspozimit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-188",
+    "question": "Kalimi i lendeve toksike ne gjak:",
+    "answers": [
+      "Nuk lidhet me perqendrimin,",
+      "Varet nga kohezgjatja e ekspozimit,",
+      "Nuk lidhet me tretshmerine e l. toksike ne inde,",
+      "Nuk varet nga sasia e ajerit te thither,"
+    ],
+    "correct": 1,
+    "explanation": "Kalimi i lëndëve toksike në gjak varet nga kohëzgjatja e ekspozimit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-189",
+    "question": "SO2 si lende ndotese ne ajer:",
+    "answers": [
+      "Efekti kryesor-demtimi i trurit,",
+      "Nuk ka lidhje me rreshjet acid,",
+      "Ndotesi kryesor me permbajtje squfuri,",
+      "Eshte bere problem vetem dekadat e fundit,"
+    ],
+    "correct": 2,
+    "explanation": "Dioksidi i squfurit (SO2) është ndotësi kryesor atmosferik me përmbajtje squfuri."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-190",
+    "question": "Fluoruret:",
+    "answers": [
+      "Futen ne organizem kryesisht me ane te ushqimeve,",
+      "Merren ma ane te ujit te pishem,",
+      "Mungesa e tyre ne uje ul incidencene kariesit,",
+      "Flurore me pakice-shfaqeje e flurozes,"
+    ],
+    "correct": 1,
+    "explanation": "Fluoruret merren kryesisht nëpërmjet ujit të pijshëm."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-191",
+    "question": "Pamjaftueshmeria e hekurit:",
+    "answers": [
+      "Risku i anemise nuk eshte madh per grate,",
+      "Nuk ndikohet nga parazitozat,",
+      "Ndikohet nga dieta,",
+      "Haset me shume ne vendet e zhvilluara"
+    ],
+    "correct": 2,
+    "explanation": "Mungesa e hekurit ndikohet drejtpërdrejt nga përbërja e dietës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-192",
+    "question": "Efektet shendetesore te pesticideve:",
+    "answers": [
+      "Nuk prekin sistemin imun te organizmit,",
+      "Nuk prekin organet e riprodhimit,",
+      "Nuk demtojne lekuren,",
+      "Kane efekte teratogjenike,"
+    ],
+    "correct": 3,
+    "explanation": "Pesticidet kanë efekte teratogjenike të njohura."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-193",
+    "question": "Strehimi dhe shendeti:",
+    "answers": [
+      "Strehimi nuk ndikon mbi incidencat semundjeve ngjitese,",
+      "Risku per Ca pulm nuk lidhet me strehimin,",
+      "Shendeti psikosocial ndikohet nga dendesia e banimit,",
+      "Strehimi nuk ka te beje me aksidentet,"
+    ],
+    "correct": 2,
+    "explanation": "Dendësia e banimit ndikon mbi shëndetin psikosocial të banorëve."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-194",
+    "question": "Efektet ekstraauditive te zhurmave:",
+    "answers": [
+      "Nuk lidhen me presionin arterial,",
+      "Nuk ka crregullime te gjumit,",
+      "Ndikon mbi sistemin imun,",
+      "Rritja e irritabilitetit SNQ,"
+    ],
+    "correct": 3,
+    "explanation": "Zhurmat rrisin irritabilitetin e sistemit nervor qendror."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-195",
+    "question": "Programi i nje qyteti te shendetshem:",
+    "answers": [
+      "Zgjedhjet jane multisektoriale,",
+      "Rritje e pjesemarrjes ne vendimmarrje,",
+      "Roli i publikut i paperfillshem,",
+      "Nje akt dhe jo process ne vazhdimesi,"
+    ],
+    "correct": 0,
+    "explanation": "Programet e qyteteve të shëndetshme bazohen në zgjedhje multisektoriale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-196",
+    "question": "Lendet djegese te biomases:",
+    "answers": [
+      "Nuk permbajne pjeseza te respirueshme,",
+      "Permbajne (SO)x,",
+      "Problem ne vendet e varfera,",
+      "Nuk permbajne HPA,"
+    ],
+    "correct": 2,
+    "explanation": "Djegia e biomasës mbetet problem kryesisht në vendet e varfra (gatimi me dru/qymyr brenda shtëpisë)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-197",
+    "question": "Shendeti mjedisor:",
+    "answers": [
+      "Nuk lidhet me kualitetin e jetes,",
+      "Nuk ndikohet nga faktoret sociale,",
+      "Ka lidhje me agjentet biologjike,",
+      "Jo lidhje me shendetin e gjeneratave pasardhese,"
+    ],
+    "correct": 2,
+    "explanation": "Shëndeti mjedisor lidhet me agjentët biologjikë të mjedisit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-198",
+    "question": "Ekspozimi:",
+    "answers": [
+      "Nuk merr ne konsiderate llojin e ndotesit,",
+      "Ndikohet nga elementi kohe,",
+      "Nuk ka lidhje me sasine e ndotesit,",
+      "Nuk merr parasysh futjen e ndotesit,"
+    ],
+    "correct": 1,
+    "explanation": "Ekspozimi ndikohet nga elementi kohë (kohëzgjatja e kontaktit me ndotësin)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-199",
+    "question": "Tranzicioni demografik:",
+    "answers": [
+      "Lidhet me numrin e vdekjeve,",
+      "Nuk ndikohet nga numri i lindjeve,",
+      "Ndikon mbi numrin e popullates,",
+      "Nuk ka lidhje me shendetin,"
+    ],
+    "correct": 2,
+    "explanation": "Tranzicioni demografik ndikon mbi numrin dhe strukturën e popullatës."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-200",
+    "question": "Problemet e shendetit mjedisor:",
+    "answers": [
+      "Lidhen me migrimin, lindjet, etj,",
+      "Nuk ndikohen nga varferia,",
+      "Nuk lidhen me konsumin,",
+      "Nuk ndikohen nga politikat makroekonomike,"
+    ],
+    "correct": 0,
+    "explanation": "Problemet e shëndetit mjedisor lidhen me faktorë demografikë si migrimi dhe lindjet."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-201",
+    "question": "Vleresimi i ekspozimit human:",
+    "answers": [
+      "Doza matet me lehtesi,",
+      "Me mire matja e perqendrimit,",
+      "Doza e marre nuk varet nga vecorite e individit,",
+      "Doza eshte ne funksion te kohes se ekspozimit,"
+    ],
+    "correct": 3,
+    "explanation": "Doza e ekspozimit varet nga koha (kohëzgjatja) e ekspozimit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-202",
+    "question": "Varferia:",
+    "answers": [
+      "Nuk ka lidhje me jetegjatesine",
+      "Nuk lidhet me vdekshmerine foshnjore",
+      "Nuk ndikon mbi incidencen e semundjeve ngjitese",
+      "Ndikon mbi incidencen e paaftesise"
+    ],
+    "correct": 3,
+    "explanation": "Varfëria ndikon mbi incidencën e paaftësisë (dhe faktorë të tjerë shëndetësorë)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-203",
+    "question": "Fusha elektromanjetike:",
+    "answers": [
+      "Eshte nje rezatim i llojit jonizues",
+      "Nuk haste rreth linjave elektrike",
+      "Shkakton kataraktin e syrit",
+      "Mund te shkaktoje kancerin"
+    ],
+    "correct": 3,
+    "explanation": "Ekspozimi ndaj fushave elektromagnetike lidhet me rrezik të mundshëm kanceri."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-204",
+    "question": "Zhiva (Merkuri):",
+    "answers": [
+      "Nxirret ne mjedis nga automjetet",
+      "Perdoret si antiseptic/antifungal",
+      "Nuk haset ne prodhimin e pasqyrave",
+      "Nuk haset ne punimet e veshjes me ar"
+    ],
+    "correct": 1,
+    "explanation": "Merkuri përdoret si antiseptik/antifungal në disa aplikime."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-205",
+    "question": "Indikatoret e shendetit mjedisor:",
+    "answers": [
+      "ESH e perdourr duhet te shfaqet pas nje kohe te gjate",
+      "Te jene te lidhur me risqet & ekspozimin",
+      "Nuk ka rendesi lehtesia e matjes",
+      "Nuk ka vlere besueshmeria"
+    ],
+    "correct": 1,
+    "explanation": "Indikatorët e shëndetit mjedisor duhet të jenë të lidhur ngushtë me risqet dhe ekspozimin."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-206",
+    "question": "Perfitim i drejtperdrejte nga manaxhimi i nje ESHM:",
+    "answers": [
+      "Nuk lidhen me jetet e fituara",
+      "Nuk kane te bejne me vitet e fituara te jetes",
+      "Nuk lidhen me vdekshmerine",
+      "Lidhen me kursimet ne sistemin shendetesor"
+    ],
+    "correct": 3,
+    "explanation": "Menaxhimi efektiv i rreziqeve mjedisore sjell kursime në sistemin shëndetësor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-207",
+    "question": "Akumulimi i lendeve ndotese ne ajer:",
+    "answers": [
+      "Nuk lidhet me relievin e tokes",
+      "Nuk lidhet me levizjet e ajrit",
+      "Lidhet me rezatimin diellor",
+      "Nuk lidhet me inversionet temperaturore"
+    ],
+    "correct": 2,
+    "explanation": "Akumulimi i ndotësve në ajër lidhet edhe me rrezatimin diellor."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-208",
+    "question": "Semundjet qe perhapen me ane te ajrit:",
+    "answers": [
+      "Malarja",
+      "Ethet Dengue",
+      "Schistosomiaza",
+      "Tifoja"
+    ],
+    "correct": 3,
+    "explanation": "Ndër opsionet, tifoja dallohet si e vetmja jo-vektoriale, e transmetuar tipikisht fekal-oral/përmes kontaminimit."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-209",
+    "question": "Efektet toksike te pesticideve:",
+    "answers": [
+      "Nuk lidhet me substancat mbajtese",
+      "Lidhen me rrugen e ekspozimit",
+      "Nuk lidhen perberes qe permiresojne absorbimin",
+      "Nuk lidhet me dozen"
+    ],
+    "correct": 1,
+    "explanation": "Efektet toksike të pesticideve lidhen me rrugën e ekspozimit (orale, inhalatore, dermale)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-210",
+    "question": "Vendbanimet humane si ekosisteme:",
+    "answers": [
+      "Nuk lidhen me furnizimin me uje",
+      "Nuk ndikohen nga ujerat e hapura",
+      "Nuk lidhen me kushtet per jeten e eger",
+      "Lidhen me qeverisjen lokale"
+    ],
+    "correct": 3,
+    "explanation": "Vendbanimet njerëzore si ekosisteme lidhen ngushtë me qeverisjen lokale."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-211",
+    "question": "Tranzicioni demografik:",
+    "answers": [
+      "Nr. i vdekjeve eshte i ulet",
+      "Nr. i lindjeve eshte i ulet",
+      "Perben nje periudhe",
+      "Perben nje moment"
+    ],
+    "correct": 2,
+    "explanation": "Tranzicioni demografik përbën një periudhë, jo një moment të vetëm."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-212",
+    "question": "Rreziqet fizike jane ato:",
+    "answers": [
+      "nga mjetet motorrike",
+      "nga sportet",
+      "nga rrezatimet",
+      "demtimet ne vendin e punes"
+    ],
+    "correct": 2,
+    "explanation": "Rrezatimet konsiderohen rreziqe fizike klasike mjedisore."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-213",
+    "question": "Studimet e toksicitetit akut:",
+    "answers": [
+      "Perdoren per matjen toksicikt te lendeve",
+      "Jane mjaftueshem per karakterizuara nga toksicitet, kimikat",
+      "Perdoren per kancerogenet",
+      "Nuk perfshijne DL50 dhe PL 50"
+    ],
+    "correct": 0,
+    "explanation": "Studimet e toksicitetit akut përdoren për matjen e toksicitetit të substancave (p.sh. me DL50)."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-214",
+    "question": "Treguesi i viteve potenciale te humbura te jetes:",
+    "answers": [
+      "Tenton te gjykoje humbjen e jetes humane",
+      "Nuk lidhet me nr e viteve produktive te jetes qe humbasin",
+      "Perdoret per te pershkruar humbjen e kontributeve",
+      "Demtimet shpjegojne nje vogel te VPHJ"
+    ],
+    "correct": 3,
+    "explanation": "VPHJ llogarit vitet e jetës së humbur nga vdekja e parakohshme; dëmtimet shpjegojnë vetëm një pjesë të vogël të tij."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-215",
+    "question": "Indikatoret ne shendetin mjedisor:",
+    "answers": [
+      "Jane te domosdoshem ne monitorimin e riskut",
+      "Nuk lidhen me jetegjatesine e pritshme",
+      "Nuk perfshijne peshen ne lindje",
+      "Nuk perfshijne vdekjet e parakohshme"
+    ],
+    "correct": 0,
+    "explanation": "Indikatorët e shëndetit mjedisor janë të domosdoshëm në monitorimin e riskut."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-216",
+    "question": "Zgjedhja e ushqimeve:",
+    "answers": [
+      "Nuk lidhet me ndikimet kulturore",
+      "Nuk varet nga mundesia e sigurimit te ushqimeve",
+      "Nuk varet nga shija,era, paraqitja",
+      "Varet nga kostoja dhe pershtatshmeria"
+    ],
+    "correct": 3,
+    "explanation": "Zgjedhja e ushqimeve varet nga kostoja dhe përshtatshmëria për konsumatorin."
+  },
+  {
+    "id": "mami-pergjithshme-paraklinike-217",
+    "question": "Encefalopatia spongiforme:",
+    "answers": [
+      "Shkaktohet nga nje bakter",
+      "Shkaktohet nga nje ameba",
+      "Ka si vektor kepushat",
+      "Perhapet me ushqimin e gjedhit"
+    ],
+    "correct": 3,
+    "explanation": "Encefalopatia spongiforme (sëmundja e lopës së çmendur) përhapet nëpërmjet ushqimit të gjedhit të infektuar."
+  }
+]
